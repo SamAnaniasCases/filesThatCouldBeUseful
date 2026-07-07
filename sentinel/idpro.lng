@@ -1,0 +1,248 @@
+Opera&si
+Proyek
+Jadwal
+Nama proyek:
+Baru
+Hapus
+Tipe proyek:
+Aplikasi eksternal / berkas tumpak
+Baris perintah:
+Mulai diam-diam, tanpa menayangkan jendela
+Luncurkan hari:
+Buat Proyek Baru
+Proyek
+Nama proyek tak sahih. Nama tak boleh kosong dan harus belum ada sebelumnya. 
+Simpan
+Simpan Ulang Proyek-Proyek Standar
+Mulai
+Pukul
+Bisa nanti
+Tanyakan dulu
+Waktu pasti 
+Pascamuat
+Hapus
+Tambahkan proyek baru ke senarai
+Gagal menyimpan proyek.
+Apakah Anda ingin menjalankan proyek ini?
+Mulai Proyek
+Gagal Memulai Proyek.
+Komentar:
+Ramban
+Eksekusi|*.exe;*.bat;*.com|Semua berkas|*.*
+Berfungsi
+Apakah Anda ingin menyimpan konfigurasi yang termodifikasi?
+Apakah Anda yakin ingin menghapus proyek ini?\nProyek juga akan dihapus dari jadwal.\nJumlah opsi jadwal untuk proyek ini: 
+Apakah Anda yakin ingin menghapus proyek?
+Pelipat dan berkas transfer
+Sumber
+Tujuan
+Konfigurasikan
+Tambah
+Pengecualian
+Silakan tetapkan berkas yang akan dikecualikan oleh aplikasi:
+Berkas-berkas yang ditetapkan di sini akan diabaikan oleh Hard Disk Sentinel. Berkas-berkas ini tak akan disalin dan tak akan terpengaruh oleh opsi apa pun.
+Penataan Global
+Operasi Proyek
+Opsi Proyek
+Isi pelipat-pelipat akan disimpan ke pelipat tujuan yang ditetapkan.
+Pelipat sumber
+Pelipat Tujuan
+Masker berkas
+Penataan lipat
+Pelipat tujuan akan dibuat secara otomatis (jika diperlukan). Anda dapat menggunakan peubah-peubah berikut ini untuk menentukan sebuah pelipat:\n\n%USER% - nama pengguna\n\n%COMPUTER% - nama komputer\n\n%IP% - alamat PI komputer\n\n%LAST=folder% - nama pelipat yang dibuat\dimodifikasi terakhir (terbaru) dalam pelipat yang ditetapkan\n\nAnda juga dapat menetapkan satu pelipat tujuan atau lebih, pisahkan dengan tanda ; (titik koma).
+Silakan pilih atau tetapkan setidaknya satu pelipat sumber.
+Silakan tetapkan sebuah pelipat tujuan yang sahih.
+Edit
+Hitung jumlah data yang akan disalin
+Verifikasikan data yang disalin
+Salin berkas-berkas baru dan termodifikasi saja
+Bersihkan bit arsip dalam berkas-berkas yang disalin
+Hapus berkas-berkas sumber setelah berhasil menyalin
+Gunakan tanggal hari ini sebagai nama pelipat dan simpan yang terakhir
+arsip lengkap
+(Arsip terdahulu akan dihapus secara otomatis sebelum memulai operasi penyimpanan data yang sebenarnya)
+Status:
+Berkas:
+Jumlah data:
+Menyimpan Data
+Menghitung jumlah data
+Menyalin berkas-berkas
+Memutakhirkan berkas-berkas
+Menghapus arsip terdahulu
+Memastikan arsip
+ MB/sekon
+menit lagi
+sekon lagi
+Pelipat:
+Tujuan:
+Simpan subpelipat
+Setelah rampung/
+Kirimkan/tayangkan laporan hanya jika terjadi masalah
+Kirimkan/tayangkan laporan dalam semua kasus
+Jangan mengirimkan atau menayangkan laporan
+Apakah Anda ingin menghapus berkas-berkas sumber setelah mengarsipkan?\n(Demi maksimalnya keamanan data, dianjurkan untuk menggunakan opsi ini hanya jika Anda mengarsipkan berkas-berkas dalam dua salinan atau lebih atau hanya jika opsi "verifikasikan data yang disalin" berfungsi.)
+Menghapus berkas-berkas sumber
+Rampung
+Proyek berhasil dirampungkan
+Status proyek
+Terbentuk galat selama menjalankan proyek
+Jumlah berkas disimpan:
+Total waktu berlangsung:
+Senarai galat
+Total jumlah data disimpan:
+Jangan tampilkan jendela perkembangan penyimpanan
+Tugas berhasil dirampungkan
+Dibatalkan
+Tidak ada data untuk disimpan
+Tak dapat membuka senarai berkas guna memastikan dari pelipat ini: 
+Tak dapat menghapus: 
+Konfigurasi surel tak lengkap
+Kegagalan pengiriman surel
+Tak dapat membuka berkas: 
+Tak dapat membuat berkas: 
+Tak dapat membaca berkas: 
+Tak dapat menulis berkas (disket penuh atau terproteksi-penulisan): 
+Tak dapat memastikan berkas: 
+Nilai verifikasi CRC hilang: 
+Nilai verifikasi CRC tak tepat: 
+Mulai Sekarang
+Prioritas operasi
+Menganggur
+Normal
+Maksimum
+Tak berhasil membuka pelipat tujuan
+Pascamuat 1/hari
+Berulang
+Setelah: 
+Otomatis
+Tangguhkan untuk hari berikutnya
+Disket keras apa saja
+Proyek berikut ini tak akan dilaksanakan karena satu proyek tertunda yang lain dilumpuhkan.
+Apakah Anda ingin memodifikasi penataan?
+Memproses laporan
+Operasi penyimpan berkas dimulai. Jika Anda mendapatkan pesan ini, maka operasi penyimpanan digugurkan.
+Versi Hard Disk Sentinel PRO ini tak terdaftar.\nPada versi terdaftar, dimungkinkan untuk menghapus dialog pertanyaan guna mengizinkan peluncuran proyek-proyek rekam cadang secara otomatis.\n\nSilakan kunjungi halaman web kami di \n\nhttp://www.hdsentinel.com\n\nuntuk instruksi mengenai pendaftaran aplikasi.\n\nApakah Anda ingin membuka halaman web sekarang?
+Gelar bunyi saat terjadi masalah
+Jangan mulai jika jumlah data kurang dari
+kbita
+Terbitkan peringatan jika tak cukup data
+Simpan nama pelipat sumber berikut isinya
+Bakar CD/DVD dengan NERO
+Kompresikan berkas dengan WinRAR
+Kompresikan berkas dengan 7-Zip
+Pilih Aplikasi
+Tilik Baris Perintah
+Penggerak target:
+Media:
+Kecepatan:
+Kebal bakar
+Parameter:
+Berkas target:
+Volume berganda, ukuran volume: 
+Lokasi Nerocmd.exe tak ditetapkan.
+Lokasi RAR.exe tak ditetapkan.
+Lokasi 7Z.exe tak ditetapkan.
+Apakah Anda ingin mengkonfigurasinya sekarang?
+Konfigurasi Sebagian
+(Tekan CTRL+C untuk menyalin isi jendela ke papan klip).
+Sadarkan sewaktu terbentuk galat
+Peringatan akan dibangkitkan (berdasarkan penataan pesan yang dikonfigurasi) jika aplikasi rampung dengan kode keluar selain 0.
+Verifikasikan penulisan
+Galat Aplikasi Eksternal
+Baris perintah berikut ini rampung bersama galat: 
+Kode galat aplikasi: 
+Opsi Wake-on-LAN harus difungsikan pada komputer target.
+Tunggu hingga komputer siap (menjawab PING)
+Berhenti mencoba jika tak ada tanggapan setelah 
+Komputer target:
+Aksi:
+Mulai ulang
+Siaga
+Hibernasi
+Berkas Sumber:
+Pelipat Sumber:
+Surat berganda, satu berkas per surat
+Peladen FTP:
+Mode pasif
+Ekspor butir registri
+Hidupkan komputer
+Padamkan komputer
+Kirimkan berkas via surel
+Transfer berkas via FTP
+Unggah berkas-berkas ke Peladen HDS
+Noda akar:
+Kunci:
+Silakan tetapkan sebuah kunci registri untuk diekspor.
+Tidak Ada Kunci Ditetapkan
+Pelipat Jarak Jauh:
+Pilih komputer atau masukkan \\computername
+Mengekspor butir-butir registri ...
+Memulai komputer
+Sisa sekon sebelum dibatalkan:
+&Batalkan Sekarang
+Menunggu
+Tanggapan
+Menutup padam ...
+Tutup padam diawali dari
+Pisahkan komputer-komputer target dengan menggunakan tanda ,\nTetapkan . untuk komputer lokal\nCatatan: siaga dan hibernasi tak tersedia untuk komputer jarak jauh
+Coba lagi transfer:
+Masa tunda antarcoba lagi (sekon):
+Transfer gagal.
+Kumpulkan berkas-berkas sampai total ukuran mencapai 
+Uji disket keras
+Jalankan pengujian terhadap seluruh disket keras yang tersedia
+Penggerak untuk diuji:
+Tak dapat menguji disket keras
+Uji disket keras gagal
+Hasil uji disket keras:
+Uji sendiri yang didukung:
+Rincian uji disket keras
+ditemukan sektor teralokasi ulang baru
+ditemukan galat coba lagi putar baru
+ditemukan peristiwa alokasi ulang baru
+ditemukan sektor tertunda baru
+sektor tertunda diperbaiki
+ditemukan sektor tak dapat diperbaiki terputus baru
+Salin berkas-berkas dari sumber ke target
+Memutakhirkan data di target dan menyimpan berkas-berkas pada target yang dihapus dari sumber
+Penyelarasan satu arah
+Memutakhirkan data di target dan menghapus berkas-berkas pada target yang dihapus dari sumber
+Penyelarasan dua arah
+Memutakhirkan data baik di sumber maupun target dengan menyimpan berkas-berkas paling baru 
+Kendali Rekam Cadang
+Opsi Penyelarasan
+Total berkas yang dihapus dari target:
+Total data yang dimutakhirkan di target:
+Total data yang disalin ke sumber:
+Proses Berkas Saja
+Tapis-tapis yang ditetapkan cocok
+Konfigurasikan Tapis Berkas
+Antara tanggal
+dan
+Tak lebih tua dari
+Berukuran
+Beratribut
+Arsip
+Baca saja
+Tersembunyi
+Sistem
+Buat dan pakai berkas-berkas CRC untuk menyimpan nilai CRC berkas 
+Kecocokan Berkas-Berkas Tersertakan
+Kecocokan Berkas-Berkas Terkecualikan
+Masker berkas:
+mingguan
+bulanan
+tahunan
+\1  berisi senarai lengkap galat.
+Total jumlah galat yang ditemukan:
+Konfigurasikan Pelipat untuk Rekam Cadang
+Pakai kotak centang untuk memilih pelipat SUMBER atau ketik pelipat yang dipisahkan dengan tanda ; di bawah senarai pelipat
+Pilih pelipat TARGET atau ketik jalurnya di bawah senarai
+Semua berkas sumber dari semua pelipat sumber akan diarsipkan ke target yang sama bila opsi ini DILUMPUHKAN.\nHal ini dapat menyebabkan masalah hilangnya informasi jalur.
+Menggunakan penyelarasan satu atau dua bersama opsi ini dapat menyebabkan masalah tak lengkapnya arsip.
+Apakah Anda yakin hendak melanjutkan?
+Jeda
+Lanjutkan
+Dijeda - Tekan tombol Lanjutkan
+Abaikan berkas-berkas yang sedang digunakan (tak terbagi)
+Lumpuhkan pesan pemberitahuan peringatan

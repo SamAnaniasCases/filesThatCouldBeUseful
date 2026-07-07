@@ -1,0 +1,248 @@
+Opérations
+Projets
+Planificateur
+Nom du projet :
+Nouveau
+Supprimer
+Type de projet :
+Application externe ou fichier séquentiel
+Ligne de commande :
+Démarrer invisble
+Démarrer le :
+Créer un nouveau projet
+Projet
+Nom incorrect. Veuillez entrer un nom unique à chaque nouveau projet.\nNe doit pas être une chaine vide ou composée de caractères non valides.
+Sauvegarder
+Restauration des projets par défaut
+Démarrer
+Heure
+Exécution différée
+Confirmer l'exécution 
+Heure fixe
+Apr. char. HDS
+Supprimer
+Ajoutez le nouveau projet à la liste
+Erreur de sauvegarde du projet.
+Voulez-vous exécuter ce projet ?
+Démarrer le projet
+Erreur de démarrage du projet.
+Commentaire :
+Parcourir
+Exécutables|*.exe;*.bat;*.com|Tous les fichiers|*.*
+Activer
+Voulez-vous sauvegarder la modification de configuration ?
+Confirmez la suppression de ce projet !\nLe projet sera retiré du planificateur.\nNombre d'options de planification pour ce projet : 
+Confirmez la suppression de ce projet !
+Transfert des dossiers/fichiers
+Source
+Destination
+Configurer
+Ajouter
+Exclusions
+Veuillez spécifier les fichiers que l'application doit exclure :
+Les fichiers de cette liste seront ignorés par Hard Disk Sentinel. Ils ne seront pas copiés et aucune option ne sera prise en compte.
+Paramètres généraux
+Opérations du projet
+Options du projet
+Le contenu de ces dossiers sera sauvegardé vers le(s) dossier(s) spécifié(s).
+Dossier source
+Dossier de destination 
+Masque de fichiers
+Paramètres des dossiers
+Le dossier de destination sera automatiquement créé (Si besoin). Il est possible d'employer les variables suivantes pour indiquer un fichier :\n\n%USER% - nom de l'utilisateur\n\n%COMPUTER% - nom de l'ordinateur\n\n%IP% - adresse IP de l'ordinateur\n\n%LAST=folder% - nom du dernier dossier créé/modifié (le plus récent) dans le répertoire spécifié\n\nIl est possible d'indiquer deux dossiers de destination ou plus, séparez-les par ; (point-virgule).
+Veuillez indiquer le dossier source.
+Veuillez indiquer le dossier de destination.
+Éditer
+Calculer la quantité de données à copier
+Vérifier les données copiées
+Ne copier que les nouveaux fichiers et ceux mis à jour
+Effacer l'indicateur d'archivage pour les fichiers copiés 
+Supprimer les fichiers sources après copie réussie
+Utiliser la date courante comme nom de fichier et ne conserver que les dernières
+archive complètes
+(les archives précédentes seront automatiquement supprimées avant de démarrer l'opération)
+Condition :
+Fichier :
+Taille des fichiers :
+Sauvegarde de données
+Calcul de la quantité de données
+Copie des fichiers
+Mise à jour des fichiers
+Supprimer les archives précédentes
+Vérification des archives
+ Mo/sec
+Minutes restantes
+Secondes restantes
+Dossier :
+Destination :
+Sauvegarder les sous dossiers
+Après l'opération
+Envoyer et afficher le rapport seulement si un problème s'est produit
+Toujours envoyer et afficher le rapport
+Ne pas envoyer ni afficher le rapport
+Êtes-vous sûr de vouloir supprimer les fichiers sources après archivage ?\nPour une meilleure sécurité des données il est recommandé d'employer cette option seulement si vous archivez les fichiers en deux copies ou plus ou si l'option «vérifiez les données copiées» est activée.
+Suppression des fichiers sources
+Terminé
+Projet terminé avec succès 
+État du projet
+Une erreur s'est produite pendant l'exécution du projet
+Nombre de fichiers sauvegardés :
+Temps total écoulé :
+Liste des erreurs
+Quntité totale de données sauvegardées :
+Ne pas afficher la fenêtre d'état de la sauvegarde
+Taches accomplies avec succès 
+Annulé
+Aucune donnée à sauvegarder
+Impossible d'ouvrir la liste des fichiers à vérifier à partir de ce dossier :
+Impossible de supprimer : 
+La configuration des e-mails est incomplète
+Échec lors de l'envoi par e-mail
+Impossible d'ouvrir le fichier :
+Impossible de créer le fichier :
+Impossible de lire le fichier :
+Impossible d'écrire le fichier :
+Impossible de vérifier le fichier :
+Valeur manquante de la somme de contrôle CRC :
+Valeur incorrecte de la somme de contrôle CRC :
+Démarrer
+Priorité de l'opération
+Faible
+Normale
+Haute
+Erreur lors de l'ouverture du dossier de destination
+Apr char 1/ jours
+Répétitif
+Ensuite : 
+Automatiquement
+Suspendre le projet lors du prochain jour choisi
+Tous les disques durs
+Le projet suivant ne sera pas exécuté parce qu'un autre projet en attente est désactivé.
+Confirmez la modification des paramètres ?
+Traitement du rapport 
+Sauvegarde du fichier commencée. Si vous voyez ce message, l'opération a été avortée.
+Cette version de Hard Disk Sentinel PRO n'est pas enregistrée.\nDans la version enregistrée il est possible d'enlever la boite de dialogue pour permettre à des projets de sauvegarde d'être exécutés automatiquement.\n\nVeuillez visiter notre page Web à \n\nhttp://www.hdsentinel.com\n\npour des instructions concernant l'enregistrement de l'application.\n\nDésirez-vous visiter notre site Web maintenant ?
+Alerte sonore lors d'un problème
+Ne pas démarrer si la quantité de données est moindre que
+kilo-octets
+Alerter si trop peu de données
+Sauvegarder le nom du dossier source et son contenu
+Gravure sur CD/DVD avec NERO
+Archiver avec RAR
+Archiver avec 7-Zip
+Choisir l'application
+Visualiser la ligne de commande
+Périphérique cible :
+Type de disque :
+Vitesse :
+Protection anti défaillances
+Paramètres :
+Fichier cible :
+Volumes multiples, Taille du volume :
+L'emplacement de Nerocmd.exe n'est pas spécifié.
+L'emplacement de RAR.exe n'est pas spécifié.
+L'emplacement de 7z.exe n'est pas spécifié.
+Voulez-vous le configurer maintenant ?
+Configuration partielle
+Appuyez sur CTRL+C pour copier le contenu de la fenêtre vers le presse-papiers.
+Alerter si une erreur survient
+L'alerte sera générée (selon les paramètres de messagerie) si l'application externe se termine avec un code d'erreur autre que zéro (0).
+Vérification de l'écriture
+Erreur de l'application externe
+Il y a une erreur lors de l'exécution de la ligne de commandes suivante : 
+Code d'erreur de l'application :
+L'option Wake-on-LAN devrait être activée sur l'ordinateur cible.
+Attendre que l'ordinateur soit prêt (réponses au PING)
+Répéter les tentatives pendant
+Ordinateur cible :
+Action :
+Redémarrage
+En attente
+En veille
+Fichier(s) source :
+Dossier(s) source :
+E-mails multiples, un fichier par e-mail
+Serveur FTP :
+Mode passif
+Exporter une branche du registre
+Mettre en route l'ordinateur
+Éteindre l'ordinateur
+Envoyer les fichiers par e-mail
+Transfert des fichiers par FTP
+Transfert des fichiers par peer-to-peer (P2P)
+Racine :
+Clé :
+Vous devez spécifier une clé du registre à exporter.
+Aucune clé spécifiée
+Dossier distant :
+Choisir l'ordinateur ou entrer à \\computername
+Exportation des branches du registre...
+Mise en route de(s) ordinateur(s)
+Secondes restantes avant annulation :
+&Annuler maintenant
+Attente
+Réponse
+Arrêt ...
+Arrêt initié par
+Spécifier les ordinateurs cibles séparés par une virgule «,»\nSpécifier un point « pour l'ordinateur local\nNote: les fonctions «attente et veille» ne sont pas disponibles sur les ordinateurs distants.
+Tentatives de transfert :
+Délais entre les tentatives (sec) :
+Erreur de transfert.
+Collecter des fichiers jusqu'à ce que la taille atteigne
+Tester le(s) disque(s)
+Exécuter le test sur tout les disques
+Disque(s) à tester :
+Impossible de tester le disque
+Le test du disque a échoué
+Résultat du test :
+Autotests supportés :
+Détails des tests
+Nouveaux secteurs réaloués trouvés
+Nouvelles erreurs de mise en route trouvées
+Nouvelle ré-allocations trouvées
+Nouveaux secteurs en suspend trouvés
+Secteurs en suspend corrigés
+Nouveaux secteurs non corrigibles trouvés
+Copier les fichiers de la source à l'objectif 
+Mise à jour des données sur les cibles et conservation des fichiers sur la cible des données supprimées sur la source 
+Synchronisation uni-directionelle 
+Mise à jour des données sur les cibles et suppression des fichiers sur la cible des données supprimées sur la source
+Synchronisation bi-directionelle 
+Mise à jour des données sur les sources et cibles en gardant la version la plus récente des fichiers sur les deux emplacements 
+Options de sauvegarde 
+Options de synchronisation 
+Total des fichiers supprimés sur la cible : 
+Total des données mises à jour sur la cible : 
+Total des données copiées vers la source : 
+Traite uniquement les fichiers
+Filtrage de fichiers 
+Configurer
+Entre deux dates
+et
+Pas plus ancien que
+Par la taille
+Par les attributs
+Archive
+Lecture seule
+Caché
+Système
+Créer et utiliser des fichiers CRC pour stocker les valeurs CRC des fichiers
+Fichiers à inclure.
+Fichiers à exclure.
+Masque de fichier :
+semaines
+mois
+années
+\1  contient la liste complète des erreurs.
+Nombre total d'erreurs trouvées :
+Configurer les dossiers à sauvegarder
+Utiliser des cases à cocher pour sélectionner les dossiers source ou entrer les saisir séparés par ; ci-dessous la liste des dossiers
+Sélectionnez le dossier cible ou entrez son chemin d'accès sous la liste
+Si cette option est DESACTIVE, tous les fichiers source de tous les dossiers source seront archivées dans la même cible.\nCeci peut provoquer des problèmes en raison de la perte des informations de chemin d'accès.
+Utiliser lasynchronisation uni ou bi-directionnelle avec cette option peut provoquer une archive incomplète.
+Êtes-vous sûr de que vous voulez continuer ?
+Pause
+Continuer
+pause - presse le bouton Continuer
+Ignorer les fichiers ouverts (pas partageable)
+Désactiver le message d'avertissement

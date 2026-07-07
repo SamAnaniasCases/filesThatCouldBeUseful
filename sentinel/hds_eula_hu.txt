@@ -1,0 +1,75 @@
+Hard Disk Sentinel (Valamennyi változat)
+
+VÉGFELHASZNÁLÓI LICENCSZERZÕDÉS
+
+FONTOS - FIGYELMESEN OLVASSA EL!
+
+A jelen Végfelhasználói licencszerzõdés ("EULA") jogilag kötelezõ megállapodás Ön (mint természetes vagy jogi személy) és a fent megnevezett szoftvertermék(ek) ("SZOFTVER") gyártója ("Gyártó") között. 
+
+A SZOFTVER tartalmazza a számítógépes szoftvert, valamint tartalmazhat kapcsolódó adathordozókat, nyomtatott anyagokat, "online" vagy elektronikus dokumentációt és Internet-alapú szolgáltatásokat is. 
+Vegye figyelembe azonban, hogy minden olyan szoftver, dokumentáció vagy webszolgáltatás, ami a SZOFTVER részét képezi, vagy a SZOFTVER által válik elérhetõvé, és azt a saját licencszerzõdése vagy használati feltételei kísérik, nem a jelen EULA, hanem a vonatkozó licencszerzõdés hatálya alatt áll. A SZOFTVERT esetleg kísérõ, papírra nyomtatott EULA elõírásai hatálytalanítják a képernyõn megjeleníthetõ bármilyen EULA elõírásait. 
+
+Jelen EULA CSAK akkor érvényes, és csak akkor biztosít végfelhasználói licencjogokat, ha a SZOFTVER eredeti, és ezt a megfelelõ módon (megrendelési adatokat tartalmazó számla, megrendelõ levél) igazolni is tudja. Az Ön szoftvere eredetiségének megállapításához további tájékoztatást a Gyártó jelen EULA szerzõdésben feltüntetett elérhetõségein kaphat.
+
+A SZOFTVER telepítésével, másolásával, letöltésével, elérésével, illetve bármilyen egyéb módon történõ használatával Ön kötelezõ érvénnyel elfogadja a jelen EULA feltételeit. Amennyiben nem fogadja el õket, nem használhatja, és nem másolhatja le a SZOFTVERT, és haladéktalanul kapcsolatba kell lépnie a Gyártóval, hogy a Gyártó visszavételi rendjével összhangban utasításokat adhasson a használatlan termék(ek) visszajuttatása céljából.
+
+
+A SZOFTVERTERMÉK LICENCE
+
+A "SZÁMÍTÓGÉP" kifejezés ebben a szerzõdésben a HARDVERT jelenti, ha a HARDVER egyetlen számítógéprendszer, vagy pedig azt a számítógépes rendszert jelenti, amellyel együtt a HARDVER mûködik, ha a HARDVER egy számítógépes rendszer eleme.
+
+1. A LICENC TERJEDELME. Amennyiben betartja a jelen EULA valamennyi feltételét és elõírását, a Gyártó az alábbi jogokat biztosítja Önnek:
+
+* Telepítés és használat. Feltéve, hogy a jelen EULA kifejezetten másképp nem rendelkezik, Ön a SZOFTVERNEK csak egy (1) példányát jogosult a SZÁMÍTÓGÉPRE telepíteni, azon használni, szolgáltatásait lekérni, megjeleníteni és futtatni.
+
+* Átruházás. A JELEN LICENC NEM HASZNÁLHATÓ KÖZÖSEN, NEM ADHATÓ BÉRBE ÉS NEM HASZNÁLHATÓ EGYIDEJÛLEG KÜLÖNBÖZÕ SZÁMÍTÓGÉPEKEN.
+
+* Biztonsági másolat. ÖN EGY PÉLDÁNYBAN BIZTONSÁGI MÁSOLATOT KÉSZÍTHET A SZOFTVERRÕL. 
+A biztonsági másolatot Ön csak archiválási célra használhatja, illetve arra, hogy a SZOFTVERT ismételten telepíthesse a SZÁMÍTÓGÉPRE. A jelen EULA és a helyi jogszabályok által kifejezetten engedélyezett eseteken kívül nem készíthet másolatot a SZOFTVERRÕL, ide értve a SZOFTVERHEZ tartozó nyomtatott anyagokat is. A Szoftver telepítõje és a biztonsági másolat más felhasználónak nem adható bérbe, kölcsönbe, vagy lízingbe, illetve nem ruházható át semmilyen egyéb módon.
+
+* HOME LICENC (otthoni): bizonyos forgalmazóknál elérhetõ a kizárólag otthoni (magáncélú felhasználásra szánt) számítógépekre telepíthetõ "HOME LICENC", melynek végfelhasználói ára a standard licencnél kedvezõbb. Ennek feltételeirõl a kérdéses forgalmazók adnak tájékoztatást.
+
+2. EGYÉB JOGOK ÉS KORLÁTOZÁSOK.
+
+* Hozzájárulás adatok használatához. Ön elfogadja, hogy a SZOFTVER gyártója összegyûjtheti és felhasználhatja azokat a mûszaki ismereteket, amelyekhez a Szoftverrel nyújtott terméktámogatás részeként bármilyen módon hozzájutottak. A gyártó ezt az információt kizárólag a termékek fejlesztésére és az Ön számára személyre szabott szolgáltatások vagy technológiák nyújtására használja. A gyártó jogosult az ilyen ismereteket másokkal közölni, de csak az Ön személyének beazonosítására nem alkalmas formában.
+
+A KORLÁTOZOTT GARANCIA (HA VAN), AMIT A JELEN EULA TARTALMAZ VAGY KÍSÉR, VONATKOZIK A TOVÁBBI ALKOTÓRÉSZEKRE (HA VAN), FELTÉVE, HOGY A TOVÁBBI ALKOTÓRÉSZEKET A KORLÁTOZOTT GARANCIA EREDETI ÉRVÉNYESSÉGI IDEJÉN BELÜL VETTE LICENCBE. UGYANAKKOR A TOVÁBBI ALKOTÓRÉSZEK BIZTOSÍTÁSA NEM HOSSZABBÍTJA MEG A KORLÁTOZOTT GARANCIA ÉRVÉNYESSÉGI IDEJÉT. AZ ILYEN TOVÁBBI ALKOTÓRÉSZEK VONATKOZÁSÁBAN A KÁRTALANÍTÁSRA, A FELELÕSSÉGVÁLLALÁSRA ÉS JOGORVOSLATRA AZOK A KORLÁTOZÁSOK, ELZÁRKÓZÁSOK ÉS KIZÁRÁSOK ÉRVÉNYESEK, AMELYEKET A JELEN EULA MEGÁLLAPÍT.
+
+* A visszafordításra, a visszafejtésre és a belsõ felépítés elemzésére vonatkozó korlátozások. A SZOFTVERT tilos visszafordítani, visszafejteni, belsõ felépítését elemezni, kivéve, ha az alkalmazandó jogszabályok kifejezetten kizárják, illetve korlátozzák a fenti tiltás alkalmazását.
+
+* Az alkotóelemek elkülönítése. A SZOFTVER használata egységes termékként engedélyezett. Alkotórészei nem különíthetõek el egynél több számítógépen történõ alkalmazás céljából.
+
+* Egyetlen EULA. A SZOFTVER csomagja a jelen EULA több verzióját is tartalmazhatja, így például különbözõ nyelvû fordításokat és/vagy különbözõ adathordozókhoz tartozó változatokat (például a felhasználói dokumentációban és a szoftverben). Ebben az esetben is csak a SZOFTVER egy (1) példányának használatára jogosult.
+
+* Megszûnés. Egyéb jogokra vonatkozó jogfenntartás mellett a Gyártó a jelen EULÁ-t visszavonhatja, amennyiben Ön nem tartja be a benne foglalt feltételeket és rendelkezéseket. Ebben az esetben a SZOFTVER minden példányát és alkotóelemét meg kell semmisítenie vagy saját költségén vissza kell juttatnia a gyártóhoz
+
+* Védjegyek. Jelen EULA semmiféle jogot sem biztosít Önnek a Gyártó védjegyeivel, vagy szolgáltatásainak megjelöléseivel kapcsolatban.
+
+3. A SZELLEMI TULAJDONJOG. A SZOFTVERHEZ (beleértve többek között a SZOFTVERBE beépített képeket, fényképeket, animációt, videó- és hangfelvételeket, zenét, szöveget és kisalkalmazásokat), az összes írásos dokumentációhoz és a SZOFTVER összes másolatához minden jogcím és szellemi tulajdonjog a Gyártót illeti. Ön a SZOFTVER hasznosítási jogát szerezte meg, a tulajdonjogát nem. A SZOFTVERBE foglalt, illetve az abba nem foglalt, de a SZOFTVER használata során elérhetõ anyagok tartalmára vonatkozó összes jogcím és szellemi tulajdonjog e tartalom megfelelõ tulajdonosának a tulajdona, amelyet a megfelelõ szerzõi jog vagy a szellemi termékekre vonatkozó egyéb törvények és nemzetközi egyezmények védenek. A SZOFTVER által elérhetõ online szolgáltatások használatára az ezen szolgáltatások igénybevételére vonatkozó megfelelõ rendelkezések vonatkoznak. Ha a SZOFTVERHEZ csak elektronikus formátumú dokumentáció tartozik, egy példányban kinyomtathatja az ilyen elektronikus dokumentációt. 
+
+4. TERMÉKTÁMOGATÁS. Amennyiben a jelen EULA szerzõdéssel kapcsolatban bármilyen kérdése lenne, vagy ha bármilyen más okból kapcsolatba kíván lépni a Gyártóval, használja a gyártó jelen EULA szerzõdésben feltüntetett elérhetõségeit.
+
+5. TOVÁBBI RENDELKEZÉSEK. A KORLÁTOZOTT GARANCIA, A FELELÕSSÉG KORLÁTOZÁSA ÉS MÁS KÜLÖNLEGES RENDELKEZÉSEK VONATKOZÁSÁBAN OLVASSA EL AZ ALÁBB ISMERTETETT ÉS/VAGY A SZOFTVERHEZ MELLÉKELT TOVÁBBI RENDELKEZÉSEKET. A KORLÁTOZOTT GARANCIA, A FELELÕSSÉG KORLÁTOZÁSA ÉS AZ EMLÍTETT KÜLÖNLEGES RENDELKEZÉSEK A JELEN EULA SZERVES RÉSZÉT KÉPEZIK.
+
+FÜGGELÉK
+
+A MAGYARORSZÁGRA VONATKOZÓ GARANCIA ÉS KÜLÖNLEGES RENDELKEZÉSEK
+
+KORLÁTOZOTT GARANCIA. A Gyártó garanciát vállal arra, hogy (a) a SZOFTVER az átvételt követõ kilencven (90) napon át alapvetõen a mellékelt írásos anyagokban foglaltaknak megfelelõen fog mûködni. Bizonyos államok és országok nem adnak lehetõséget a garancia idõtartamának korlátozására, ezért lehetséges, hogy Önre nem vonatkozik ez a megkötés.
+
+VÁSÁRLÓI JOGOK. A Gyártó teljes felelõssége és az Önt megilletõ jogok az alábbiakra terjednek ki: (a) a kifizetett vételár visszatérítése, vagy (b) a jelen Korlátozott Garancia alapján, az Önnek adott számla másolatával együtt, a Gyártónak visszajuttatott SZOFTVER kicserélése vagy kijavítása.  Jelen Korlátozott Garancia érvényét veszti, amennyiben a SZOFTVER vagy a hardver hibája balesetbõl vagy nem rendeltetésszerû, illetve nem az elõírásoknak megfelelõ használatból ered. A kicserélés során adott SZOFTVERRE garancia az eredeti garanciából fennmaradó idõtartam, illetve harminc (30) nap közül a hosszabbik határideig áll fenn.
+
+EGYÉB GARANCIÁK KIZÁRÁSA. A Gyártó az érvényes jogszabályok által megengedett maximális mértékben ezennel elhárít minden egyéb kifejezett vagy vélelmezett garanciát, ideértve többek között a forgalmazhatóságra és meghatározott célra való alkalmasságra vonatkozó garanciákat a SZOFTVER, a mellékelt írásos anyagok és a mellékelt hardver tekintetében. Ez a korlátozott garancia Önnek meghatározott jogokat biztosít.
+
+AZ OKOZOTT KÁROKÉRT VALÓ FELELÕSSÉG KIZÁRÁSA. A Gyártó az érvényes jogszabályok által megengedett maximális mértékben elhárít minden felelõsséget bármilyen kárért (ide értve, de ezzel egyebeket nem kizárva, a személyi sérülés közvetett vagy közvetlen okozásáért, az üzleti haszon elmaradásáért, az üzleti tevékenység félbeszakadásáért, az üzleti információk elveszítéséért, vagy egyéb anyagi veszteségekbõl adódó károkért), amely ezen termék használatából vagy használhatatlanságából ered, még abban az esetben is, ha a Gyártót tájékoztatták az ilyen károk bekövetkeztének lehetõségérõl. A Gyártó jelen szerzõdés bármely pontja alapján fennálló felelõssége minden esetben legfeljebb az Ön által a SZOFTVERÉRT fizetett összegre terjed ki. 
+
+KÜLÖNLEGES RENDELKEZÉSEK
+
+Visszafejtés: Amennyiben Ön a SZOFTVERT az Európai Közösség bármely országában vásárolta, tilos a SZOFTVERT visszafordítani, visszafejteni, vagy belsõ felépítését elemezni. Kizárólag csak a hatályos jogszabályban kifejezetten megengedett céllal és mértékben teheti ezt.
+
+A jelen Szoftver Licencszerzõdésre a Magyar Köztársaság jogszabályai és az ide vonatkozó nemzetközi szerzõdések az irányadók.
+
+ELÉRHETÕSÉG
+
+A szoftverrel és kapcsolódó szolgáltatásokkal kapcsolatban kérjük írjon az info@hdsentinel.com címre vagy levélben a 8142 Úrhida, Dózsa Gy. u. 34. címre.
+

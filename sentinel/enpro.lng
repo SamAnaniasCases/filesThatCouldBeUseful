@@ -1,0 +1,248 @@
+Operati&ons
+Projects
+Schedule
+Project name:
+New
+Remove
+Project type:
+Run external application or batch file
+Command line:
+Start invisible, without displaying window
+Launch on:
+Create New Project
+Project
+Invalid project name. Must not be blanks and must be a yet non-existing name. 
+Save
+Restore Default Projects
+Start
+Time
+Can run later
+Ask before run
+Fix time
+After load
+Delete
+Add new project to the list
+Project save error.
+Do you want to run this project?
+Project Start
+Project start error.
+Comment:
+Browse
+Executables|*.exe;*.bat;*.com|All files|*.*
+Enabled
+Do you want to save the modified configuration?
+Are you sure you want to delete this project?\nThe project will be removed also from the schedule.\nNumber of schedule options for this project: 
+Are you sure you want to delete the project?
+Transfer files and folders
+Source
+Destination
+Configure
+Add
+Exceptions
+Please specify the files to be excluded by the application:
+The files specified here will be ignored by Hard Disk Sentinel. They will not be copied and they will be not affected by any options.
+Global Settings
+Project Operations
+Project Options
+The contents of these folders will be saved to the specified destination folder(s).
+Source folder
+Destination folder
+File mask
+Folder Settings
+The destination folder will be automatically created (if necessary). It is possible to use the following variables to specify a folder:\n\n%USER% - name of the user\n\n%COMPUTER% - name of the computer\n\n%IP% - IP address of computer\n\n%LAST=folder% - name of the lastly created/modified (newest) folder in the specified folder\n\nIt is possible to specify two or more destination folders, please separate them by ; (semicolon).
+Please select or specify at least one source folder.
+Please specify a valid destination folder.
+Edit
+Calculate the amount of data to be copied
+Verify copied data
+Copy only new and updated files
+Clear archive bit on copied files
+Delete source files after successful copy
+Use the current date as folder name and keep the last
+complete archives
+(The previous archives will be automatically deleted before starting the actual save operation)
+Status:
+File:
+Amount of data:
+Saving Data
+Calculating amount of data
+Copying files
+Updating files
+Deleting previous archive
+Verifying archive
+ MB/sec
+minutes remaining
+seconds remaining
+Folder:
+Destination:
+Save subfolders
+After completion
+Send/display report only if a problem occurred
+Send/display report in all cases
+Do not send or display report
+Are you sure you want to delete the source files after archiving?\n(To maximize data security it is recommended to use this option only if you archive the files in two or more copies or if the "verify copied data" option is enabled.)
+Deleting source files
+Completed
+Project successfully completed
+Project status
+Error occurred during execution of the project
+Number of files saved:
+Total time elapsed:
+List of errors
+Total amount of data saved:
+Do not show the save progress window
+Tasks successfully completed
+Cancelled
+No data to save
+Unable to open file list to verify from this folder: 
+Unable to delete: 
+E-mail configuration is incomplete
+E-mail sending failure
+Unable to open file: 
+Unable to create file: 
+Unable to read file: 
+Unable to write file (disk full or not writable): 
+Unable to verify file: 
+Missing CRC checksum value: 
+Incorrect CRC checksum value: 
+Start Now
+Operation priority
+Idle
+Normal
+Maximum
+Destination folder open error
+After load 1/day
+Repetitive
+After: 
+Automatic
+Suspend on next such day
+Any hard disk
+The following project will not be executed because an other pending project is disabled.
+Do you want to modify the settings?
+Processing report
+File save operation started. If you see this message, the save operation was aborted.
+This version of Hard Disk Sentinel PRO is unregistered.\nIn the registered version it is possible to remove the question dialog to allow backup projects to be launched automatically.\n\nPlease visit our webpage at \n\nhttp://www.hdsentinel.com\n\nfor the instructions about registering the application.\n\nDo you want to open our website now?
+Sound alert on problem
+Do not start if the amount of data is less than
+kbytes
+Issue alert if not enough data
+Save source folder name with its contents also
+Burn CD/DVD by using NERO
+Compress files by using RAR
+Compress files by using 7-Zip
+Select Application
+View Command Line
+Target drive:
+Media:
+Speed:
+Burn-proof
+Parameters:
+Target file:
+Multiple volumes, volume size: 
+The location of Nerocmd.exe is not specified.
+The location of RAR.exe is not specified.
+The location of 7Z.exe is not specified.
+Do you want to configure it now?
+Partial Configuration
+(Press CTRL+C to copy the contents of the window to the clipboard).
+Alert on error
+Alert will be generated (based on the configured message settings) if the external application completed with an exit code other than 0.
+Verify write
+External Application Error
+The following command line completed with an error: 
+Error code of the application: 
+Wake-on-LAN option should be enabled on target computer.
+Wait until the computer is ready (answers to PING)
+Stop trying if no response for 
+Target computer:
+Action:
+Restart
+Standby
+Hibernate
+Source file(s):
+Source folder(s):
+Multiple mails, one file per mail
+FTP server:
+Passive mode
+Export registry items
+Power ON computer
+Power OFF computer
+Send files in e-mail
+FTP transfer files
+Upload files to HDS Server
+Root node:
+Key:
+Please specify a registry key to export.
+No Key Specified
+Remote folder:
+Select computer or enter as \\computername
+Exporting registry items ...
+Starting computer(s)
+Remaining seconds before cancel:
+&Cancel Now
+Waiting
+Response
+Shutting down ...
+Shutdown initiated from
+Specify target computers separated by ,\nSpecify . for local computer\nNote: standby and hibernate is not available on remote computers
+Transfer retries:
+Delay between retries (sec):
+Transfer error.
+Collect files until the total size reaches 
+Test hard disk(s)
+Run test on all available hard disks
+Drive(s) to test:
+Unable to test hard disk
+Hard disk test failed
+Hard disk test results:
+Supported self tests:
+Hard disk test details
+new reallocated sectors found
+new spin retry errors found
+new reallocation events found
+new pending sectors found
+pending sectors fixed
+new off-line uncorrectable sectors found
+Copy files from source to target
+Update data on target and keep files on target which removed from source
+One way synchronization
+Update data on target and remove files from target which removed from source
+Two way synchronization
+Update data on both source and target by keeping the most recent files on both locations
+Backup Control
+Synchronization Options
+Total files removed from target:
+Total data updated on target:
+Total data copied to source:
+Process Files Only
+Matching specified filters
+Configure File Filters
+Between dates
+and
+Not older than
+With size
+With attributes
+Archive
+Read only
+Hidden
+System
+Create and use CRC files to store file CRC values
+Including Files Matching
+Excluding Files Matching
+File mask:
+weeks
+months
+years
+\1  contains the complete list of errors.
+Total number of errors found:
+Configure Folders To Backup
+Use checkboxes to select SOURCE folders or enter folders separated by ; below the list of folders
+Select TARGET folder or enter its path below the list
+All source files from all source folders will be archived to the same target if this option is DISABLED.\nThis may cause problems because of losing path information.
+Using one or two way synchronization with this option may cause incomplete archive.
+Are you sure you want to continue?
+Pause
+Continue
+Paused - Press Continue button
+Ignore files in use (not shareable)
+Disable warning notification message

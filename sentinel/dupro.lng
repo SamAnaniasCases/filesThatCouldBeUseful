@@ -1,0 +1,248 @@
+Bewerkingen
+Projecten
+Taken
+Projectnaam:
+Nieuw
+Verwijderen
+Projecttype:
+Applicatie of batchbestand starten
+Opdrachtregel:
+Verborgen starten, zonder tonen van venster
+Starten op:
+Nieuw project maken
+Project
+Ongeldige projectnaam. Gebruik een niet-lege en niet-bestaande naam.
+Opslaan
+Standaardprojecten terugzetten
+Starten
+Tijd
+Kan later starten
+Vragen om te starten
+Hersteltijd
+Na het laden
+Wissen
+Een nieuw project aan de lijst toevoegen
+Fout bij het project opslaan.
+Wil u dit project starten?
+Het project starten
+Fout bij het starten van het project.
+Commentaar:
+Bladeren
+Uitvoerbare bestanden|*.exe;*.bat;*.com|Alle bestanden|*.*
+In geschakeld
+Wil u de gewijzigde instellingen opslaan?
+Wilt u echt dit project verwijderen?\nHet project wordt ook verwijderd uit de takenplanner.\nAantal geplande taken voor dit project: 
+Wilt u echt het project verwijderen?
+Bestanden en mappen verplaatsen
+Bron
+Doel
+Instellen
+Toevoegen
+Uitzonderingen
+Geef de bestanden op die door de applicatie uitgesloten moeten worden:
+De hier aangegeven bestanden worden door 'Hard Disk Sentinel' genegeerd worden. Ze worden niet gekopieerd en ze worden door geen enkele optie beïnvloed.
+Globale instellingen
+Projectacties
+Projectopties
+De inhoud van deze mappen wordt opgeslagen in de opgegeven doelmap(pen).
+Bronmap
+Doelmap
+Bestandsmasker
+Mapinstellingen
+De doelmap wordt automatisch aangemaakt (indien nodig). Het is mogelijk de volgende variabelen te gebruiken om een map aan te geven:\n\n%USER% - naam van de gebruiker\n\n%COMPUTER% - naam van de computer\n\n%IP% - IP-adres van de computer\n\n%LAST=folder% - naam van de laatst aangemaakte/gewijzigde (nieuwste) map in de aangegeven map.\n\nHet is mogelijk twee of meer doelmappen op te geven: scheid deze door ; (puntkomma).
+Selecteer minstens één bronmap.
+Geef een geldige doelmap op.
+Bewerken
+De hoeveelheid data die gekopieerd moet worden berekenen
+De gekopieerde data verifiëren
+Alleen de geupdate bestanden kopiëren
+Het archiefbit van gekopieerde bestanden wissen
+Bronbestanden na geslaagd kopiëren verwijderen
+Gebruik de huidige datum als mapnaam en bewaar de laatste
+De archieven aanvullen
+(De vorige archieven worden automatisch verwijderd vóór het opslaan)
+Status:
+Bestand:
+Hoeveelheid data:
+Data opslaan
+De hoeveelheid data berekenen
+Bestanden kopiëren
+Updaten van bestanden
+Vorige archieven verwijderen
+Archief verifiëren
+ MB/sec
+minuten resterend
+seconden resterend
+Map:
+Doel:
+Submappen opslaan
+Als het klaar is
+Rapport versturen/tonen alleen als zich een probleem voordoet
+Rapport in alle gevallen versturen/tonen
+Geen rapport versturen of tonen
+Wilt u de bronbestanden na archivering verwijderen?\n(Voor de grootst mogelijke data-veiligheid is het aanbevolen deze optie alleen te gebruiken als u de bestanden in twee of meer kopieën archiveert of als de optie "gekopieerde data verifiëren" is ingeschakeld.)
+Bronbestanden verwijderen
+Klaar
+Project met succes uitgevoerd
+Projectstatus
+Er is een fout opgetreden tijdens het uitvoeren van het project
+Aantal bestanden opgeslagen:
+Totale verstreken tijd:
+Lijst van fouten
+Totale hoeveelheid opgeslagen data:
+Het venster van de voortgang van het opslaan niet tonen
+Taken met succes uitgevoerd
+Geannuleerd
+Geen data om op te slaan
+Kan de bestandenlijst niet openen om te verifiëren vanuit deze map: 
+Kan niet verwijderen: 
+De E-mail-instelling is onvolledig
+E-mail-verzendfout
+Kan bestand niet openen: 
+Kan bestand niet aanmaken: 
+Kan bestand niet lezen: 
+Kan bestand niet schrijven (schijf vol of schrijfbeveiligd): 
+Kan bestand niet verifiëren: 
+CRC-checksum-waarde ontbreekt: 
+Onjuiste CRC-checksum-waarde: 
+Nu starten
+Prioriteit van de bewerking
+In rust
+Normaal
+Maximum
+Fout bij openen van doelmap
+Na laden 1/dag
+Herhaald
+Na: 
+Automatisch
+Uitstellen tot de volgende genoemde dag
+Willekeurige vaste schijf
+Het volgende project word niet uitgevoerd, omdat een ander wachtend project is uitgeschakeld
+Wil u de instellingen veranderen?
+Rapport opstellen
+Opslaan van bestanden gestart. Als u dit bericht ziet is het opslaan afgebroken.
+Deze versie van 'Hard Disk Sentinel'-PRO is niet geregistreerd.\nIn de geregistreerde versie is het mogelijk de vragendialoog te verwijderen om back-up-projecten automatisch te kunnen laten starten.)\n\nBezoek onze website op \n\nhttp://www.hdsentinel.com\n\nvoor instructies voor het registreren van de applicatie.\n\nWil u onze website nu openen?
+Geluidssignaal bij een probleem
+Niet starten als de hoeveelheid data minder is dan
+kbytes
+Waarschuwing geven als er niet genoeg data is
+Ook de bronmapnaam en de mapinhoud opslaan
+Brand een CD/DVD met NERO
+Bestanden comprimeren met RAR
+Bestanden comprimeren met 7-Zip
+Applicatie kiezen
+Opdrachtregel bekijken
+Doelschijf:
+Media:
+Snelheid:
+Burn-proof
+Parameters:
+Doelbestand:
+Meerdere volumes, volumegrootte: 
+De locatie van Nerocmd.exe is niet opgegeven.
+De locatie van RAR.exe is niet opgegeven.
+De locatie van 7Z.exe is niet opgegeven.
+Wil u dit nu instellen?
+Partiële configuratie
+(Druk op CTRL+C om de inhoud van het venster naar het klemboard te kopiëren).
+Waarschuwen bij een fout
+Als de externe applicatie afsluit met een andere afsluitcode dan 0.
+Schrijven verifiëren
+Externe applicatiefout
+De volgende opdrachtregel is geëindigd met een fout: 
+Foutcode van de applicatie: 
+De Wake-on-LAN-optie moet op de doelcomputer ingeschakeld zijn.
+Wacht tot dee computer klaar is (antwoordt op PING)
+Stoppen met proberen als er geen antwoord komt voor 
+Doelcomputer:
+Actie:
+Opnieuw starten
+Standby
+Slaapstand
+Bronbestand(en):
+Bronmap(en):
+Meervoudige mails, één bestand per mail
+FTP-server:
+Passieve modus
+Register-items exporteren
+Stroom AAN van computer
+Stroom UIT van computer
+Bestanden per E-mail versturen
+FTP-transfer-bestanden
+Bestanden uploaden naar de HDS-server
+Basisknooppunt:
+Sleutel:
+Geef een registersleutel op om te exporteren.
+Geen sleutel opgegeven
+Netwerkmap:
+Computer selecteren of invoeren in het formaat \\computernaam
+Register-items uitvoeren...
+Computer(s) opstarten
+Aantal seconden voordat wordt afgebroken:
+Nu annuleren
+Wachten
+Antwoorden
+Afsluiten ...
+Afsluiten gestart vanaf
+Doelcomputers opgeven, gescheiden door een komma.\nGeef de locale computer aan met een punt\nOpm: standby en de slaapstand zijn niet beschikbaar op netwerkcomputers
+Transfer-pogingen:
+Vertraging tussen pogingen (sec):
+Transfer-fout.
+Bestanden verzamelen tot de totale grootte is 
+Vaste schijf/schijven testen
+Test op alle beschikbare vaste schijven uitvoeren
+Te testen schijf/schijven:
+Kan vaste schijf niet testen
+Vaste schijf-test is mislukt
+Resultaten van vaste schijf-test:
+Ondersteunde zelftesten:
+Details van baste schijf-test
+nieuwe verplaatste sectoren gevonden
+nieuwe spin-poging-fouten gevonden
+nieuwe verplaatsingsgebeyrtenissen gevonden
+nieuwe wachtende sectoren gevonden
+wachtende sectoren gerepareerd
+nieuwe off-line oncorrigeerbare sectoren gevonden
+Bestanden van bron naar doel kopiëren
+Data op doel updaten en de bestanden op doel, die van de bron verplaatst zijn, bewaren
+Synchronisatie in één richting
+Data op doel updaten en de bestanden op doel, die van de bron verplaatst zijn, verwijderen
+Synchronisatie in twee richtingen
+Data op zowel bron als doel updaten door de meest recente bestanden op beide locaties te bewaren
+Back-up-beheer
+Synchronisatie-opties
+Totaal aantal bestanden verwijderd van doel:
+Totaal data op doel geupdated:
+Totaal data gekopieerd naar bron:
+Alleen bestanden verwerken
+Overeenkomende opgegeven filters
+Bestandenfilters instellen
+Tussen de datums
+en
+Niet ouder dan
+Met grootte
+Met kenmerken
+Archief
+Alleen-lezen
+Verborgen
+Systeem
+CRC-bestanden aanmaken en gebruiken om CRC-waarden in op te slaan
+Inclusief overeenkomende bestanden
+Exclusief overeenkomende bestanden
+Bestandenmasker:
+weken
+maanden
+jaren
+\1  bevat de volledige lijst van fouten.
+Totaal aantal gevonden fouten:
+Mappen voor het back-uppen instellen
+Selecteer de BRONmappen door aanvinken of vul de mappen in, gescheiden door ; onder de lijst van mappen
+Selecteer de DOELmap of geef het pad op onder de lijst
+Alle bronbestanden van alle bronmappen worden gearchiveerd naar hetzelfde doel als deze optie UITGESCHAKELD is.\nHierdoor kan padinformatie verloren gaan.
+Gebruiken van één- of tweerichtingssynchronisatie met deze optie kan een onvolledig archief tot gevolg hebben.
+Wilt u echt verdergaan?
+Pauzeren
+Verdergaan
+Gepauzeerd - Klik op VERDER
+In gebruik zijnde bestanden negeren (niet-shareable)
+Waarschuwingsbericht uitschakelen

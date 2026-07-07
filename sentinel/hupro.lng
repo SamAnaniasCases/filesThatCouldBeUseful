@@ -1,0 +1,248 @@
+Mûveletek
+Projektek
+Idõpontok
+Projekt név:
+Új
+Eltávolítás
+Projekt típusa:
+Külsõ program vagy kötegfájl índítása
+Parancssor:
+Ne legyen látható az ablak indítás esetén
+Indítás napja:
+Új projekt létrehozása
+Projekt
+Hibás projekt név. Kérem adjon meg egy nem üres és még nem létezõ nevet.
+Mentés
+Alapértelmezett projektek visszaállítása
+Indítás
+Idõpont
+Késõbb indulhat
+Kérdésre indul
+Fix idõben
+Betöltés után
+Törlés
+Projekt hozzáadása
+Projekt mentési hiba.
+Kívánja az alábbi projekt végrehajtását?
+Projekt Indítás
+Projekt indítási hiba.
+Megjegyzés:
+Tallózás
+Futtatható állományok|*.exe;*.bat;*.com|Minden fájl|*.*
+Engedé- lyezve
+Kívánja menteni a módosított mûveletek beállításait?
+Biztosan törölni szeretné ezt a projektet?\nIgen esetén a projekt az egyes idõpontoknál is törlésre kerül.\nA projekt jelenlegi felhasználásainak száma:
+Biztosan szeretné a projekt törlését?
+Állományok átvitele
+Forrás
+Cél
+Beállítás
+Hozzáadás
+Kivételek
+Kérem adja meg, mely fájlokat hagyja a program figyelmen kívül:
+Az itt megadott fájlokat a program figyelmen kívül hagyja. Nem kerülnek másolásra és a megadott opciók sem befolyásolják azokat.
+Globális Beállítások
+Projekt Mûveletek
+Projekt Opciók
+Az itt megadott mappák tartalma kerül mentésre a megadott célmappá(k)ba.
+Forrásmappa
+Célmappa
+Fájlmaszk
+Mappa Beállítások
+A célmappa automatikusan létrehozásra kerül ha még nem létezik. A mappa megadásánál az alábbi változók használhatók:\n\n%USER% - felhasználó neve\n\n%COMPUTER% - számítógép neve\n\n%IP% - számítógép IP címe\n\n%LAST=mappa% - a legutoljára létrehozott/frissített mappa neve a megadott mappából\n\nTöbb célmappa is megadható ;-vel (pontosvesszõ) elválasztva.
+Kérem adjon meg minimum egy forrásmappát.
+Kérem adjon meg egy érvényes célmappát.
+Szerkesztés
+A másolandó adatmennyiség kiszámítása másolás elõtt
+A másolt adat ellenõrzése
+Csak az újabb és módosított fájlok másolása
+Arhív bit törlése az átmásolt fájlokon
+Forrás fájlok törlése mentés után
+Az aktuális dátum használata mappanévként és az utolsó 
+mentés megtartása
+(A korábbi mentések automatikusan törlésre kerülnek az éppen aktuális mentés indítása elõtt)
+Állapot:
+Fájl:
+Adatmennyiség:
+Adatok Mentése
+Adatmennyiség kiszámítása
+Állományok másolása
+Állományok frissítése
+Korábbi mentés törlése
+Mentés ellenõrzése
+ MB/mp
+perc van hátra
+másodperc van hátra
+Mappa:
+Cél:
+Almappák mentése
+A mûvelet befejezésekor
+Jelentés küldése/kijelzése csak ha probléma történt
+Jelentés küldése/kijelzése minden esetben
+Ne legyen Jelentés
+Biztos benne, hogy a forrásállományok törlésre kerüljenek a mentés után?\n(A nagyobb adatbiztonság érdekében ajánlatos ezt az opciót csak abban az esetben használni, ha a fájlok több példányban is mentésre kerülnek illetve ha a mentés ellenõrzése is engedélyezve van.)
+Forrásállományok törlése
+Kész
+Projekt sikeresen végrehajtva
+Projekt státusz
+Projekt végrehajtása során hiba történt
+Mentett állományok száma:
+Mentéshez szükséges idõ:
+Hibalista
+Összes mentett adatmennyiség:
+Ne mutassa a mentési folyamatot jelzõ ablakot
+Sikeresen végrehajtott feladatok
+Megszakítva
+Nincs vagy túl kevés másolnivaló
+Fájl ellenõrzési lista nem nyitható meg ebben a mappában:
+Nem törölhetõ: 
+Az e-mail beállítások hiányosak
+E-mail küldés sikertelen
+Nem nyitható meg az állomány: 
+Nem hozható létre az állomány: 
+Nem olvasható állomány: 
+Nem írható állomány (lemez megtelt vagy nem írható): 
+Nem ellenõrizhetõ állomány: 
+Hiányzó ellenõrzõ összeg:
+Hibás ellenõrzõ összeg:
+Indítás Most
+A mûvelet prioritása
+Üresjárati
+Normál
+Maximális
+Célmappa megnyitási hiba
+B.után naponta 1X
+Ismétlõdõen
+Ha lefutott: 
+Automatikusan
+Felfüggesztve a következõ ilyen napon
+Bármely merevlemez
+Az alábbi projekt nem kerül végrehajtásra, mivel a projekt, melytõl az indítás függ, nincs engedélyezve.
+Kívánja módosítani a beállításokat?
+Riport készítés
+A fájlok mentése elkezdõdött. Amennyiben ezt az üzenetet látja, a mentési mûvelet megszakadt.
+Ez a változat nincs regisztrálva.\nA regisztrált változatban ez a kérdés már nem jelenik meg, továbbá a projekt indítás megerõsítése is tiltható, így a projektek valóban automatikusan futhatnak.\nEmellett a belsõ másoló modul több mentési lehetõséget is ajánl az adatok biztosítása érdekében.\n\nKérem látogasson el a program weblapjára: \n\nhttp://www.hdsentinel.com\n\nahol megtalálja a regisztráláshoz szükséges információkat.\n\nKívánja most megnyitni a program weblapját?
+Probléma esetén hangjelzés
+Ne induljon a mentés ha az adatmennyiség kevesebb, mint
+kbájt
+Figyelmeztetés ha túl kevés az adat
+Forrásmappa nevének mentése a célmappába a fájlokkal együtt
+CD/DVD készítése NERO segítségével
+Fájlok csomagolása RAR segítségével
+Fájlok csomagolása 7-Zip segítségével
+Alkalmazás Kiválasztása
+Parancssor Megtekintése
+Célmeghajtó:
+Típus:
+Sebesség:
+Puffer kiürülés védelem
+Paraméterek:
+Célfájl:
+Több kötetes archívum, kötet méret: 
+Nerocmd.exe alkalmazás helye nincs beállítva.
+RAR.exe alkalmazás helye nincs beállítva.
+7Z.exe alkalmazás helye nincs beállítva.
+Kívánja most megadni?
+Hiányos Beállítások
+(A CTRL+C billentyûkombinációval az ablak tartalma vágólapra másolható).
+Hiba esetén figyelmeztetés
+Az üzenet beállításoknak megfelelõen figyelmeztetés készül ha az alkalmazás futása nem 0-ás kóddal fejezõdik be.
+Írás ellenõrzése
+Külsõ Alkalmazás Hiba
+Az alábbi parancssor futása problémával fejezõdött be:
+Az alkalmazás hibakódja: 
+"Wake-on-LAN" opció engedélyezve kell, hogy legyen a célszámítógépen.
+Várakozás amíg a számítógép nem kész (válaszol PING-re)
+Leállás ennyi idõ után:
+Célszámítógép:
+Akció:
+Újraindítás
+Készenlét
+Hibernálás
+Forrás fájl(ok):
+Forrás mappa(ák):
+Több levélben, levelenként egy fájl küldése
+FTP szerver:
+Passzív mód
+Registry kulcsok exportálása
+Számítógép BEkapcsolása
+Számítógép KIkapcsolása
+Fájlok küldése e-mailen keresztül
+Fájlok átvitele FTP-n keresztül
+Fájlok feltöltése HDS szerverre
+Gyökér:
+Kulcs:
+Kérem adjon meg egy kulcsot, melyet exportálni szeretne.
+Nincs kulcs megadva
+Távoli mappa:
+Válasszon számítógépet vagy adja meg \\gépnév alakban
+Registry kulcsok exportálása ...
+Számítógép(ek) indítása
+Megszakításig hátralévõ másodpercek:
+&Megszakítás Most
+Várakozás
+Válasz
+Lekapcsolás ...
+Lekapcsolás parancsot küldött  
+Adjon meg célszámítógépeket , (vesszõ)-vel elválasztva. A . (pont) az aktuális számítógépet jelenti.\nKészenléti mód és hibernálás nem használható távoli számítógépeken.
+Újrapróbálkozások:
+Várakozás hiba esetén (mp):
+Átviteli hiba.
+Fájlok gyûjtése amíg azok összmérete kisebb mint 
+Merevlemez(ek) tesztelése
+Teszt indítása valamennyi lehetséges merevlemezen
+Tesztelendõ lemez(ek):
+A merevlemez nem tesztelhetõ
+A merevlemez teszt sikertelen
+A merevlemez teszt eredménye
+Támogatott tesztek:
+Tételes teszt eredmények
+új áthelyezett szektor
+új felpörgési újrapróbálkozás
+új szektor-áthelyezési kísérlet
+új gyenge szektor
+gyenge szektor állapot stabilizálva
+új javíthatatlan szektor
+Állományok mentése a forrás helyrõl a cél helyre
+A cél helyen az állományok aktualizálása, a forrásról idõközben törölt fájlok megtartásával
+Egyirányú szinkronizáció
+A cél helyen az állományok aktualizálása és a forrásról idõközben törölt fájlok törlése
+Kétirányú szinkronizáció
+A forrás és a cél hely aktualizálása, mindkét helyen a legfrissebb állományok megtartásával
+Mentés Vezérlés
+Szinkronizálási Opciók
+Összes fájl eltávolítva a cél helyrõl:
+Összes adat frissítve a cél helyen:
+Összes adat mentve a forrás helyre:
+Állomány-Szûrõk
+Fájl-maszk
+Fájl-maszkok Beállítása
+Dátumok közötti
+és
+Nem régibb mint
+Fájlméret
+Attribútumok
+Arhíválandó
+Csak olvasható
+Rejtett
+Rendszer
+Az állományok ellenõrzõ összegének nyilvántartása CRC fájlban
+Csak Az Alábbi Fájlok
+Az Alábbi Fájlok Mellõzése
+Fájl-maszk:
+hét
+hónap
+év
+\1  tartalmazza valamennyi talált hibát.
+Összes hibák száma:
+Mentendõ Mappák Beállítása
+Használja a jelölõnégyzeteket a FORRÁS mappák kiválasztásához vagy adjon meg mappákat ;-vel elválasztva
+Válasszon CÉL mappát vagy adja meg annak teljes útvonalát a lista alatt
+Valamennyi forrás fájl az összes forrás mappából egy azonos mappába kerül archiválásra ha ez az opció TILTVA van.\nEz problémákat okozhat az útvonal információ elvesztése miatt.
+Az egy- vagy kétirányú szinkronizáció használata ezzel az opcióval befejezetlen vagy részleges mentést eredményezhet.
+Biztosan folytatja a megadott opciók használatával?
+Szünet
+Folytatás
+Szüneteltetve - Kattintson a Folytatás gombra
+Nem megosztható fájlok kihagyása
+Figyelmeztetõ üzenet megjelenésének tiltása

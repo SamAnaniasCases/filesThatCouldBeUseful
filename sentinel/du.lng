@@ -1,0 +1,1354 @@
+'Hard Disk Sentinel' is al gestart.
+Fout
+Schijftemperatuur
+Te verwachten fout
+OK
+Ondersteund
+Niet-ondersteund
+Ja
+Schijven
+Selecteer de schijf/schijven die u in het statusvenster wilt zien. Dubbelklik op het systeembalkpictogram. Rechterklik voor weergave van het menu.
+Nee
+Naam (Grootte)
+Temperatuur
+Balkpictogram
+Voorkeuren 
+Statusvenster tonen bij starten 
+Met windows mee opstarten
+Transparantie:
+Taal:
+Sluiten
+'Hard Disk Sentinel'
+Selecteer deze schijf om de temperatuur weer te geven in de systeembalk
+Statusvenster tonen 
+Statusvenster verbergen
+Instellingen
+Afsluiten
+Er moet minstens één schijf geselecteerd zijn.
+Statusvenster  
+Achtergrondkleur
+Achtergrondbeeld
+Selecteren
+Fout bij het openen van afbeeldingbestand.
+Ondersteunde afbeeldingsbestanden |*.jpg;*.bmp|Alle bestanden|*.*
+Informatie
+S.M.A.R.T.
+Schijfprestaties
+Partities
+Schijfinformatie
+Transferrate-informatie
+Totaal gelezen data
+Totaal geschreven data
+Huidige transferrate
+kB/s
+Huidige leesrate
+Huidige schrijfrate
+Huidig schijfgebruik
+Schijfgebruik %
+Transferrate (MB/s)
+Schijfsamenvatting
+Schijfnummer
+Schijfmodel-ID
+Schijfrevisie
+Schijfserienummer
+Schijfgrootte
+ATA-informatie
+Schijfcilinders
+Schijfkoppen
+Schijfsectoren
+Totaal sectoren
+ATA-revisie
+Bytes per sector
+Bytes per logische track
+Buffergrootte
+Meervoudige sectoren
+Foutcorrectie-bytes
+Ongeformatteerde capaciteit
+Maximum PIO-mode
+Actieve PIO-mode
+Maximum UDMA-mode
+Actieve UDMA-mode
+EIDE-functies
+Ondersteund
+Niet-ondersteund
+Kenmerken
+Drempel
+Waarde
+Slechtst
+Data
+Status
+Partitie-informatie
+Logische schijf
+Totale ruimte
+Vrije ruimte
+Partitietype
+bytes
+Gebruikte ruimte
+Schijf:
+Maximale transferrate
+Geschatte max. transferrate
+DVD-schrijfsnelheid
+Groter schijfgebruik voor het meten.
+OK (altijd doorgaan)
+Fail (altijd stoppen)
+Waarschuwing: gebruikslimiet overschreden
+Foutaankondiging: te verwachten data-verlies
+Hele pagina naar het klembord kopiëren
+Schijftemperatuurgeschiedenis
+sinds installatie
+Over
+Registratie
+Registratienaam:
+Registratiesleutel:
+Ongeldige registratiesleutel, registratie is mislukt.
+Registratie geslaagd. Bedankt voor uw steun.
+Hoofdscherm bij de start tonen
+Alleeen beschikbaar na registreren en activeren.
+Ongeregistreerde versie. U dient te registreren.
+Geregistreerd voor:
+Overzicht
+Huidige temperatuur:
+Maximum temperatuur (vandaag):
+De temperatuurstatus is goed.
+De huidige temperatuur is te hoog. Het is aan te bevelen de schijf te koelen (bijvoorbeeld met een ventilator of passieve warmtegeleider).
+De huidige temperatuur is goed, maar was eerder te hoog. Het is aan te bevelen de schijf te koelen (bijvoorbeeld met een ventilator of passieve warmtegeleider).
+Prestaties:
+Conditie:
+Uitstekend
+Goed
+Redelijk
+Acceptabel
+Slecht
+Geen acties nodig.
+Het is aan te bevelen regelmatig een backup te maken om gegevensverlies te voorkomen!
+Eigenschappen
+Schijvenoverzicht
+Vorige schijf
+Volgende schijf
+Waarschuwingen
+Een e-mailwaarschuwing sturen bij te verwachten schijffalen
+Een e-mailwaarschuwing sturen bij schijftemperatuur boven
+E-mailinstelling
+Mailaccount:
+Naam afzender:
+E-mailafzender:
+E-mailgeadresseerde:
+SMTP-server:
+Verificatie-opties (Deze velden leeg laten als verificatie niet nodig is)
+Gebruikersnaam:
+Wachtwoord:
+Standaard
+Het volgende veld moet ingevuld worden om de e-mail te versturen:
+Wilt u deze informatie nu invoeren?
+Fout bij het versturen van een waarschuwings-e-mail.
+Waarschuwings-e-mail verzonden.
+Oververhit
+Temperatuurdrempelinstelling:
+Temperatuureenheid:
+Rapport versturen
+Lettertype:
+Opslaan
+Alleen de hoogste temperatuur op de balk tonen
+Verzonden gegevensblok:
+Instellingen geluidsbeheer
+Uitgeschakeld
+Ingeschakeld
+Huidig geluidsniveau
+Aanbevolen geluidsniveau
+Onbekend
+Max prestatie en volume
+Min prestatie en volume
+Gemiddelde prestatie en volume
+Geluidsbeheer
+Standaard
+Gemiddeld aantal leesacties per dag
+Gemiddeld aantal schrijfacties per dag
+In scherm passen
+Waarschuwing
+Melding geven
+Uit schakelen
+Wanneer falen te verwachten is
+Als de temperatuur te hoog is
+Bij nieuwe loginvoer
+Dagelijks status-e-mails versturen
+Om
+Kritieke waardevermindering
+Huidige status
+Versturen van status-e-mail is mislukt.
+Versturen van status-e-mail is geslaagd.
+Updaten
+Wekelijks naar nieuwe versie en update zoeken
+Nu controleren op een nieuwe versie
+Laatst gecontroleerd op:
+Geen controles uitgevoerd
+Annuleren
+Geïnstalleerde versie:
+Meest recente versie:
+Bestanden updaten
+Huidig bestand:
+Gehele proces:
+Er is momenteel geen nieuwere versie beschikbaar.
+Fout bij het downloaden. Controleer de verbinding en probeer opnieuw.
+Updaten is geslaagd.
+Status: controleren op beschikbare versie
+Status: downloaden
+Sluiten
+Schijf niet gevonden.
+S.M.A.R.T.-functionaliteit ontbreekt. U dient het bestand Smartvsd.vxd te kopiëren van de map Windows\System naar Windows\System\IoSubsys en uw computer te herstarten. Bekijk Help -> Installatie voor details.
+Administratorrechten nodig om toegang te krijgen tot schijfinformatie.
+Log
+Aantal problemen opgeslagen in logbestand:
+Opm: De geregistreerde versie kan waarschuwings-e-mails versturen en de computer uitschakelen wanneer een nieuw schijfprobleem gevonden is.
+Geen problemen in het logbestand opgenomen.
+De status van de schijf is stabiel.
+Waarschuwing: de schijfstatus is tijdens de laatste dagen slechter geworden.
+Datum
+Vorige waarde
+Nieuwe waarde
+Waarschuwing: tijdens de laatste dagen zijn er meerdere problemen gevonden.
+Een eerder werkende schijf reageert niet. Het is mogelijk dat het OS het apparaat heeft uitgeschakeld om (verdere) problemen te voorkomen.
+Programmastatus:
+Fout bij het lezen van activeringsinformatie.
+Registreren en activeren is geslaagd.
+Geregistreerd, maar niet geactiveerd.
+Niet geregistreerd en niet geactiveerd.
+Online registratie en activering
+Registratie en activering per e-mail
+Activeringsbestand is opgeslagen als
+Stuur dit bestand met uw registratienaam en registratiesleutel naar info@hdsentinel.com  U krijgt dan uw registratiebestand dat gekopiëerd dient te worden naar de map van deze applicatie, waardoor de software wordt geregistreerd en geactiveerd.
+Online activeren gaat sneller en is gemakkelijker.
+Het maximaal aantal activeringen voor deze registratiesleutel is bereikt.
+Activeringsfout
+Het verbinden met de activeringsserver is mislukt.
+Neem contact op met de auteur over uw licentie.
+De applicatie is met deze registratiesleutel al op 5 verschillende configuraties geactiveerd.
+Data lezen van de activeringsserver is mislukt.
+Activering is niet mogelijk.
+De activering is uitgevoerd. Bedankt voor uw steun.
+Activeren is geslaagd
+Activeren per e-mail
+Onder Windows 98 is het mogelijk dat een USB-apparaat dit probleem veroorzaakt, omdat het USB-apparaat problemen kan krijgen S.M.A.R.T. op het secondaire IDE-kanaal.
+De schijf reageert niet.
+De schijf reageert al geruime tijd niet. Deze kan afgekoppeld zijn.
+De applicatie op de taakbalk en de systeembalk tonen
+Het systeem analyseren. Even geduld.
+Help
+Voer uw registratienaam en registratiesleutel, die u gekregen hebt, in. Als uw computer een actieve internetverbinding heeft, kies dan online activering: de registratie en activering verlopen dan automatisch. Kies anders e-mailactivering en stuur het getoonde bestand naar de auteur. U krijgt dan een geactiveerd sleutelbestand, dat dan in de map van de applicatie geplaatst moet worden
+Gebeurtenis
+Interface vertaald door:
+Jan Verheijen
+_translator email_
+E-mail
+TXT-bestanden
+Alle bestanden
+Pictogram dient rood te zijn bij oververhitting
+Geavanceerde opties
+Detectie-frequentie:
+1 seconde
+5 seconden
+10 seconden
+30 seconden
+1 minuut
+2 minuten
+5 minuten (standaard)
+10 minuten
+30 minuten
+1 uur
+Waarschuwing geven wanneer de schijf niet reageert
+Gemiddelde temperatuur:
+Huidig
+Daggemiddelde
+Dagmaximum
+Alarmgeluid
+Geluidsbestand kiezen
+Geluidsbestanden
+Dubbelklik of rechtermuisklik voor meer informatie.
+Aanpassen
+OK
+Annuleren
+Bij het uitvoeren van deze opdracht is een fout opgetreden.
+Deze functie vereist Windows 2000, XP of hoger.
+Bij kleine vrije schijfruimte
+Vrije schijfruimtedrempel instellen
+Voor alle geïnstalleerde schijven dezelfde instelling gebruiken
+Globale instelling
+Waarschuwing geven wanneer de vrije ruimte minder is dan
+Kleine schijfruimte
+Klein
+Automatisch scandisk uitvoeren bij de start van Windows uitschakelen
+De computer moet herstart worden om de nieuwe instellingen te activeren.
+De computerklok synchroniseren met een atoomklok
+Wanneer de applicatie is gestart
+Wilt u de status van de schijf/schijven in een klein statusvenster zien?\n(Later kunt u deze instelling wijzigen door een rechterklik\nop het systeembalkpictogram en vervolgens uit het menu "Configuratie" te kiezen.)
+Temperatuurweergave wordt voor deze schijf niet ondersteund.
+Kan op deze schijf niet bepaald worden.
+Help
+Help is niet beschikbaar. Download het volledige installatiepakket van de website van deze applicatie.
+Deze functie is op de geselecteerde schijf niet beschikbaar.
+De standaard schijfpictogrammen in Windows Verkenner wijzigen
+SCSI-informatie
+Leverancierinformatie
+Versie
+Apparaattype
+Schijf
+Verwijderbaar
+Te verwachten fout
+Vaste schijf
+Netwerkschijf
+Optische opslag
+De gemarkeerde logische schijven behoren tot de huidige fysieke schijf.
+Weergavemodus wijzigen
+Volumelabel
+Serienummer
+Monitorruimte op netwerkschijven
+Sneltoetsen
+Taak
+Systeemsneltoetsen inschakelen (kan vanuit elke applicatie gebruikt worden)
+Schijfbeheer
+Het standaard systeempictogram voor netwerkschijven wijzigen
+Monitorruimte op verwijderbare schijven
+Het standaard systeempictogram voor verwijderbare schijven wijzigen
+Geen onderzoek doen naar ruimte-informatie van de volgende schijven: (bijv: CDE)
+Het standaard systeempictogram niet wijzigen van de volgende schijven: (bijv: KL)
+Dubbelklikken om een schijf te openen. F5 om te Vernieuwen.
+Geen schijf in station
+Mailtest
+Als dit bericht aankomt, is de e-mailinstelling correct.
+Testmail versturen is geslaagd.
+Versturen van een testmail is mislukt. Controleer de e-mailinstelling.
+Totaaltijd in bedrijf:
+dagen
+uren
+minuten
+Geschatte levensduur:
+meer dan
+seconden
+Poort:
+Vertraging voor het starten van scandisk (seconden):
+Conditiewaarde:
+Als de schijfconditie slecht is
+Noodbackup
+Conditiedrempel:
+Bericht op scherm tonen
+Bericht naar netwerkcomputer (NET SEND):
+Deze functie is alleen beschikbaar als de PROFESSIONAL-versie is geïnstalleerd.\nDoor deze functie te gebruiken is het mogelijk om vooringestelde backup-bewerkingen uit te voeren, wanneer er zich een probleem voordoet.\n\nBezoek de homepage (www.hdsentinel.com) om meer te lezen over deze functie.
+Slechte conditie
+Globaal rapport opstellen
+Versturen van het rapport is mislukt.\nSla het rapport op en stuur het naar reports@hdsentinel.hu
+Berichtinstellingen
+E-mail versturen
+Kies voor het versturen de standaard internetverbinding
+De verbinding na het versturen verbreken
+Ook aangepaste melding van het tekstbestand tonen
+Even geduld, bezig met meten...
+Ongeldige registratiedetails - deze functie is uitgeschakeld.
+Conditie-informatie
+Fout bij het opslaan. De disk is vol of 'alleen-lezen'.
+Drempels / Taakbalkpictogram
+De schijftemperatuur op de werkbalk tonen
+onder
+tussen \1 and \2
+Temp.:
+boven
+Klassieke (digitale) taakbalkpictogramgetallen gebruiken
+Achtergrond
+Voorgrond
+Voorbeeld
+Schijfconditieteken in taakbalkpictogram tonen
+Applicatie-informatie
+Huidige datum en tijd
+Systeeminformatie
+Windowsversie
+CPU-type en -snelheid
+BIOS-fabrikant
+Fysieke geheugengrootte
+Video-adapter
+Weergaveresolutie
+Printer
+Netwerkcontroller
+PCI-apparaatinformatie
+Computerinformatie
+Computernaam
+Gebruikersnaam
+IP-adres
+MAC-adres
+Fysieke schijfinformatie
+Vlaggen
+Kritiek
+Statistisch
+Prestaties
+Foutrate
+Gebeurtenissenteller
+Zelfbeschermend
+Desktop
+Server
+Mobiel
+Computertype
+Algemene informatie
+HTML-bestanden|*.html|Alle bestanden|*.*
+Rapport opslaan
+Rapport per e-mail versturen
+Rapporttype:
+Gedetailleerd HTML-rapport
+Kort tekstrapport
+Testrapport versturen
+Schijfinformatie naar beeldscherm
+Schijfmodel
+Logische schijven
+Conditie
+Status / Probleem
+Fysieke schijven
+De status van de schijf is niet bekend.
+De status van de schijf is perfect.
+De status van de schijf is niet perfect.
+Er worden op deze schijf fouten verwacht.
+Er zijn \1 slechte sectoren gevonden op het schijfoppervlak. De inhoud van deze sectoren is verplaatst naar het reservegebied.
+Op basis van het aantal verplaatsingen is de conditie van de schijf stap voor stap verminderd.
+Op basis van het aantal verplaatsingen kunnen de slechte sectoren aaneengesloten gebieden vormen.
+Op de schijf zijn tijdens de zelftest \1 slechte sectoren gevonden.
+Er zijn problemen opgetreden tijdens de spin-up van de schijf. Dit kan veroorzaakt zijn door de schijf zelf of door een te zware belasting van de voeding (zwakke voeding.
+Er zijn \1 slechte sectoren gevonden op het schijfoppervlak. Ze kunnen bij later gebruik van de schijf verplaatst worden.
+Er zijn problemen opgetreden in de communicatie tussen de schijf en de computer. Bij een plotselinge crash of reboot verdient het aanbeveling een andere, korte data-kabel te proberen (vermijd ronde kabels, gebruik in plaats daarvan 80-aderige standaard kabels).
+Het verdient aanbeveling het logbestand van de schijf regelmatig te onderzoeken. Alle opgetreden problemen worden hierin vastgelegd.
+De status van de schijf is PERFECT. Geen problematische of slechte sectoren gevonden, ook geen spin-up- en data-transfer-fouten.
+Toepassen
+Offset
+Offset:
+Het verdient aanbeveling de temperatuur te kalibreren en de temperatuur-offset op de S.M.A.R.T.-pagina in te stellen. Hierdoor zal later de juiste temperatuurwaarde worden weeergegeven.
+Conditieberekeningsmethode:
+Gegevensveld analyseren (standaard)
+Leverancierspecifieke waarden analyseren (NIET AANBEVOLEN)
+De drempel wordt overschreden bij:
+Kenmerkgrafiek
+Gegevensveld tonen
+Leverancierspecifieke waarden tonen
+Niet verwacht
+Opgetreden
+Gedetailleerd tekstrapport
+Bestand
+Beeld
+Rapport
+Opslaan als TXT-rapport
+Opslaan als HTML-rapport
+Versturen als TXT-rapport
+Versturen als HTML-rapport
+Het verdient aanbeveling voortdurend de status van de schijf te bewaken.
+Gegevensveld ananlyseren (aanbevolen voor servers)
+Kenmerk-offset wijzigen 
+Het gebruik van deze optie is slechts aanbevolen voor ervaren gebruikers. Bij gebruik van deze optie kan de getoonde status afwijken van de actuele status. Wilt u echt deze optie gebruiken?
+Niet meer tonen
+Het gebruik van deze optie is slechts aanbevolen voor ervaren gebruikers. Bij het gebruik van deze optie kan mogelijk een onjuiste status worden weergegeven en kunnen mogelijk ook waarschuwingen voor aanstaande statusverslechering achterwege blijven. Wilt u echt deze optie gebruiken?
+Geluidswaarschuwingen uitschakelen
+Geluidswaarschuwingen inschakelen
+Er is een fout opgetreden bij het instellen van het akoestisch niveau.\nDe controller of het stuurprogramma van de schijf ondersteunt deze functie niet.
+Real-time bewaking van de prestaties wordt voor deze schijf niet ondersteund.
+Opm: de ongeregistreerde versie slaat wijzigingen van deze opties niet op. De instellingen zullen na de herstart van de applicatie teruggezet worden naar standaard waarden.
+Kenmerk inschakelen
+Geluidswaarschuwing herhalen
+PC-luidspreker gebruiken
+Test versturen
+Versturen van het bericht naar de doelcomputer is geslaagd.
+Er is een fout opgetreden tijdens de bewerking. Controleer op beide computers de netwerkverbinding en de bedrijfsstatus van de berichtenservice.
+Problemen veroorzaken een geluidswaarschuwing
+Waarschuwingen weer inschakelen
+ATA-control-byte
+Geldig
+Ongeldig
+ATA-checksum-waarde
+de weergegeven informatie kan onjuist zijn.
+Geluidswaarschuwing testen
+Voor dit project een snelkoppeling op het bureaublad plaatsen
+Maken van een snelkoppeling
+Het maken van een snelkoppeling voor dit project op het bureaublad is geslaagd.
+Het maken van een snelkoppeling voor dit project op het bureaublad is mislukt.
+De registratie-informatie is verlopen. Neem contact op met de auteur om de licentie te verlengen.
+Muisklikken naar venster onder statusvenster sturen
+Informatie op bureaublad tonen
+Geldigheid licentie:
+Onbeperkt
+Verlopen
+Niet
+Volledig transparante achtergrond
+Integratie
+Service
+Wachtwoord voor het hoofd-informatievenster
+Wachtwoord voor het instellingenvenster of om 'HD Sentinel' af te sluiten
+Uitloggen na
+minuten
+Wachtwoord:
+Nu uitloggen
+Als service gebruiken
+Als applicatie gebruiken
+Afstandsbediening
+Netwerkverbinding met 'Hard Disk Sentinel'-server inschakelen
+Servernaam of IP-adres:
+TCP-poort (standaard = 61210):
+Bescherming
+Fout bij het installeren van 'Hard Disk Sentinel'-service.
+Fout bij het starten van 'Hard Disk Sentinel'-service.
+Fout bij het stoppen van 'Hard Disk Sentinel'- service.
+'Hard Disk Sentinel' slaat nu de huidige instelling op en gaat afsluiten. Het zal als service herstart worden.
+'Hard Disk Sentinel'-service slaat nu de huidige instelling op en gaat stoppen. Het zal als applicatie herstart worden.
+Toegangsrechten nodig
+Ongeldig wachtwoord ingevoerd. Gebruiken van deze functie is niet mogelijk.
+Om 'Hard Disk Sentinel'-service af te sluiten: gebruik de "Stop-service"-snelkoppeling of schakel terug naar de applicatiemodus in het integratiepaneel van het instellingenvenster en sluit de applicatie af.
+Nee
+Hoog
+Maximum
+Updaten is niet mogelijk wanneer 'Hard Disk Sentinel' als service wordt uitgevoerd. Schakel terug naar de applicatiemodus in het integratiepaneel voor u de applicatie update naar een nieuwe versie.
+Service-modus
+Veilige modus (hardwaredetectie uitschakelen)
+'Hard Disk Sentinel'-service is niet geïnstalleerd. Open het instellingenvenster, kies het integratiepaneel en installeer de 'Hard Disk Sentinel'-service.
+'Hard Disk Sentinel'-service is al gestart.
+'Hard Disk Sentinel'-service is niet gestart.
+Gemiddelde transferrate
+Gemiddeld schijfgebruik
+Test herhalen
+Informatie nu niet beschikbaar
+'Hard Disk Sentinel'-service is gestopt.\nWilt u de service uitschakelen en de software in applicatiemodus gebruiken?
+Met Microsoft Vista kunnen services niet communiceren met het bureaublad.\n\n'Hard Disk Sentinel' zal onzichtbaar uitgevoerd worden: de vensters en pictogrammen worden niet\nweergegeven en de configuratie is niet toegankelijk.\n\nOm de service te stoppen en de software in de applicatiemodus te gebruiken,\ndient u de "Stop-service"-snelkoppeling van de 'Hard Disk Sentinel'-groep te gebruiken.\n\nWilt u echt verdergaan?
+Uitzoeken hoe deze waarde is berekend
+Laat deze applicatie uitvoeren met de juiste rechten.
+Schijfpictograminstelling:
+XP
+Vista
+Klik om te starten
+Schijftest
+Testactie:
+Status:
+Geschatte resterende tijd:
+Het starten van de test is mislukt. De foutcode is:
+Bezig. Geen problemen gevonden
+Antwoord:
+Verstreken tijd:
+Deze registratiesleutel kan alleen gebruikt worden om de STANDAARD-versie te registreren.\nDownload en installeer de STANDAARD-versie van www.hdsentinel.com\nom deze registratiesleutel te gebruiken.
+Deze registratiesleutel kan alleen gebruikt worden om de PROFESSIONELE versie te registreren.\nDownload en installeer de PROFESSIONELE versie van www.hdsentinel.com\nom deze registratiesleutel te gebruiken.
+Megabytes-eenheden gebruiken voor de drempel
+Bevestigen:
+De twee wachtwoorden zijn niet identiek.\nVoer hetzelfde wachtwoord twee keer in om het te bevestigen.
+De webstatus inschakelen
+Wachtwoord vragen voor verbinding maken
+HTTP-verbindingspoort
+Poortadres (>1023)
+Kenmerkopmerkingen
+Decimale gegevensvelden
+De schijf probeerde \1 keer gegevenssectoren te onderzoeken en te verplaatsen. De onderzochte gegevens zijn perfect.
+Vervang de schijf onmiddellijk.
+Gedetailleerd onderdelenrapport:
+Instellingen back-uppen / terugzetten
+Instellingen back-uppen
+Instellingen terugzetten
+Optische schijf
+XML-bestand aanmaken en updaten
+De schijftemperatuursensor is defect. De gemeten waarde is:
+Netwerkverbindingen van de server toestaan
+Poort van netwerkverbinding
+Geen waarschuwing op systeembalk
+Detectie van USB- en SCSI-schijven uitschakelen
+Versturen
+Opmerkingen:
+Naar de ontwikkelaar versturen
+Contact maken met de server - www.hdsentinel.com
+Rapport versturen
+Versturen van rapport is geslaagd. \nBedankt voor uw steun.
+Testrapport versturen naar de ontwikkelaar 
+Rapport opstellen
+Ik wil een antwoord ontvangen na het evalueren van het rapport
+Dit is een bugrapport
+Hoofdvenster van 'Hard Disk Sentinel' openen
+Zichtbaar
+Schijfgrootte-eenheid:
+Partitiegrootte-eenheid:
+CC (carbon copy):
+BCC (blind carbon copy):
+Globaal rapport updaten
+(geschat)
+Tijd berekenen, even geduld ... De huidige geschatte waarde kan onjuist zijn.
+Netwerkpad
+Geel temperatuurniveau bereikt.
+Rood temperatuurniveau bereikt.
+Geel conditieniveau bereikt.
+Rood conditieniveau bereikt.
+Limiet:
+Temperatuur:
+Kenmerk is gewijzigd
+Logbestand wissen
+Achtergrond
+DynDNS-service inschakelen
+No-IP-service inschakelen
+Aangepaste Dynamische DNS-service inschakelen
+Instellen
+Gebruikersnaam
+Wachtwoord
+Hostnaam (volledig)
+Volledige URL om te updaten (%ip% gewijzigd naar huidig IP)
+Laatste antwoord van de server:
+Vista Sidebar
+Sidebar Gadget inschakelen
+Kop tonen
+Schijfgebruik tonen
+Wilt u de instelling nu testen door het IP-adres te updaten?
+Het aantal gevonden fouten is hoog bij het volgende kenmerk:
+Lezen:
+Schrijven:
+Alle schijven
+Activiteitspictogram
+De totale schijfactiviteir op één taakbalkpictogram tonen
+(HIGH word)
+(MID word)
+(LOW word)
+Powerstatus:
+Actief
+Slapend
+(sinds \1)
+Systeem in bedrijf
+Systeem in bedrijf sinds
+Schijfcontroller
+Schijflocatie
+Bezoek onze website
+Contact
+Nu kopen
+Registratiesleutel invoeren
+De lijst bevat \1 items. Registreer de software om alle items te bekijken.
+CPU-gebruik
+CPU
+Virtueel geheugen
+Gebruikt:
+De schijf werkt in PIO-modus met laag prestatieniveau. Het is aan te bevelen de data-kabel te controleren en te vervangen of de instelling te wijzigen.
+De schijf werkt in UDMA-modus 2 (33 Mbytes/sec) met laag prestatieniveau. Het is aan te bevelen een 80-aderige IDE-kabel te gebruiken, als de controller hogere datatransferrate(s) ondersteunt.
+Silicon Image (SiI) controllers kunnen mogelijk onvolledige informatie geven over de aangesloten schijven. 
+Het huidige schijfcontrollerstuurprogramma geeft geen volledige toegang tot de schijf om alle details uit te lezen. Controleer of een update van het stuurprogramma beschikbaar is.
+Dit USB-opslagapparaat geeft niet meer informatie over zichzelf. Het kan overigens op problemen getest worden via de functie Schijf -> Oppervlaktest.
+Deze RAID-array geeft geen toegang tot schijfdetails in de array. Het kan overigens op problemen getest worden via de functie Schijf -> Oppervlaktest.
+Gebruik uit het menu "Rapport" de optie "Testrapport versturen naar de ontwikkelaar" om ons te helpen bepalen of het mogelijk is meer informatie te detecteren en weer te geven.
+Bezoek voor details de "Hardware"- en "Support -> FAQ"-secties op www.hdsentinel.com.
+Inschakelen
+Maximum-temperatuur (ooit gemeten):
+Minimum-temperatuur (ooit gemeten):
+2 uur
+4 uur
+6 uur
+8 uur
+12 uur
+Gereserveerd 1
+Gereserveerd 2
+De gele temperatuurlimiet is bereikt. Als de schijftemperatuur nog steeds toeneemt, verdient het aanbeveling -indien mogelijk- een schijfkoeler te gebruiken (bijvoorbeeld een ventilator of passieve koeler).
+Kies de pagina "Drempels/Taakbalkpictogram" om de conditie- en temperatuurdrempels voor gele en rode niveaus in te stellen.
+Kritiek
+Het verdient aanbeveling onmiddellijk te back-uppen om gegevensverlies te voorkomen.
+Kleine knoppen
+Normale knoppen
+Grote knoppen
+Perf.:
+Interface:
+Bericht
+Random seek-test
+Test schijf-seek-prestatie, lawaai en temperatuur
+Seek-tijd
+Minimum
+Maximum
+Gemiddeld
+Test
+Verstreken
+Resterend
+Bewerkingen
+Fouten
+Test starten
+Test afbreken
+Quick-test
+Normale test
+Grondige test
+Lange intensieve test
+Aangepaste tijdsduur
+Tijd tot einde test (UU:MM:SS): 
+LEES-test
+SCHRIJF-test
+Deze functie kan in de ongeregistreerde versie slechts één keer gebruikt worden.
+Wilt u de website van de software nu openen voor de details van registratie?
+Wilt u echt deze bewerking stoppen?
+Deze functie is op de geselecteerde schijf niet beschikbaar, venwege de instelling van de controller en de schijven.
+'Hard Disk Sentinel'-gratis versie
+Bedankt voor het installeren van 'Hard Disk Sentinel'. Dit is dag \1 van uw proefperiode.\n\nAls u de software langer, zonder beperkingen en mededelingen, wilt blijven gebruiken,\noverweeg dan overschakeling naar een geregistreerde versie door een licentie te kopen. \n\nVoordelen van registratie:\n\n- snelle, veilige en gemakkelijke betaalmogelijkheden\n- onmiddellijke toegang tot alle functies\n- gratis technische ondersteuning en hulp\n- levenslange licentie, geen abonnement of bijkomende kosten\n- toegang tot gegevens voor geregistreerden\n\nHet kopen is niet verplicht, maar het maakt verdere ontwikkeling van de software mogelijk.\n\nWilt u de registratiepagina openen waar u nu een licentie kunt kopen?
+De S.M.A.R.T.-offset is ingesteld op een kenmerk voor het berekenen van deze waarde
+Taakbalkpictogramlettertype kiezen
+Spin-down van schijven niet toestaan (bijv: 1,2 of * voor alles)
+Online verifiëren
+De S.M.A.R.T.-waarden van dit apparaat met andere (van hetzelfde model) vergelijken om uit te zoeken of kenmerken beter of slechter zijn dan gemiddeld
+Oppervlaktest
+Schijfoppervlak met verschillende methoden en testen analyseren
+Plattegrond schijfoppervlak
+Temperatuur en transfersnelheid
+Blok
+Beschadigd
+Voortgang
+Doorgang
+Tijd
+Geschat.
+sectoren
+Test afgebroken
+Het is onmogelijk de schijf voor exclusief gebruik te sluiten.\nWilt u dit toch testen (NIET aanbevolen)?
+Test is klaar
+Positie
+Sequentiële test
+Blokken testen van begin tot einde
+Random-test
+Blokken random testen
+Butterfly-test
+Wisselend: het ene blok vanaf het begin testen, het andere vanaf het einde
+Sequentiële achterwaartse test
+Blokken testen vanaf het einde tot het begin
+Sector
+Verificatiefout
+Schijfinformatie opslaan
+Schijfinformatie laden
+Initialiseren ...
+Schijfinhoudonderzoeker
+Vorige
+Volgende
+Ga naar ...
+Kies de te testen schijf (benaderbaar door het Operating Systeem) en de testmethode.\nLees zorgvuldig de gedetailleerde informatie voor het starten van de test.\nKlik op Beeld voor oppervlakdetails. Gebruik de \1 of kijk terug naar vorige testresultaten.
+Lees-test
+Leest het schijfoppervlak om te verifiëren of alle sectoren benaderbaar en leesbaar zijn.\n\nDe test is veilig. Het heeft geen invloed op opgeslagen gegevens.\n\nSchijfproblemen kunnen verborgen blijven en geconstateerde schijfproblemen worden NIET gerepareerd (zoals met ScanDisk).
+Schrijf-test
+Overschrijft het schijfoppervlak met een instelbaar patroon. Forceert het analyseren van slechte sectoren en verifiëert verborgen problemen en repareert deze door verplaatsen van slechte sectoren (dit heet schijfregeneratie).\n\nVerbetert het schijfgebruik doordat na de test de reserveruimte gebruikt wordt in plaats van de slechte sectoren.
+Schrijf- en lees-test
+Overschrijft het schijfoppervlak met een instelbaar patroon en leest dan de sectorinhoud terug om te verifiëren of ze benaderbaar en consistent zijn. Forceert het analyseren van zwakke sectoren en verifiëert verborgen problemen en repareert deze door verplaatsen van slechte sectoren (dit heet schijfregeneratie).\n\nVerbetert het schijfgebruik doordat na de test de reserveruimte gebruikt wordt in plaats van de slechte sectoren.
+Lees-, schrijf- en lees-test (gegevensgebieden vernieuwen)
+Leest opgeslagen gegevens van alle blokken, schrijft de inhoud weer terug en leest tenslotte de informatie en vergelijkt deze met de originele inhoud. Bij de uitgebreide test wordt een extra schrijfcyclus gebruikt voor het terugschrijven van de inhoud om de efficiency van de foutcorrectie te verhogen (schijfregeneratie).\n\nDe bewerking is normaal gesproken veilig voor de opgeslagen informatie maar er kan gegevensverlies optreden als het systeem niet stabiel is en/of bij spanningverlies, overklokken, geheugen/voeding/kabel-problemen en andere factoren.\n\nDe test kan gebruikt worden om het gegevensgebied van het opslagapparaat te vernieuwen, zonder de noodzaak van compleet wissen. Het is nog steeds aanbevolen voor het uitvoeren van de test belangrijke gegevens te back-uppen.
+Schijfoppervlak herinitialiseren
+Overschrijft het schijfoppervlak met een speciaal initialisatiepatroon om de sectoren terug te zetten naar de standaard (leeg) status en leest de sectorinhoud terug om te verifiëren of deze benaderbaar en consistent is. Forceert het analyseren van slechte sectoren en verifiërt verborgen problemen en repareert deze door verplaatsen van slechte sectoren (dit heet schijfregeneratie).\n\nVerbetert het schijfgebruik doordat na de test de reserveruimte gebruikt wordt in plaats van de slechte sectoren.\nEen zeer intensieve en langdurende test, speciaal als het niveau (het aantal overschrijfcycli) op een hogere waarde wordt ingesteld.\n\nDe eenvoudige versie van deze test wordt gewoonlijk (foutief) door andere tools met 'low-level-format' aangeduid.
+Sectorvolgorde
+Niet-destructief - veilig voor gegevens
+Schijf tijdens de test op slot zetten (unmount volumes)
+Test herhalen
+keer
+Testen beperken tot specifieke gegevensblokken
+Eerste blok:
+Laatste blok:
+DESTRUCTIEF - alle gegevens worden verwijderd
+Gegevens wissen (nullen)
+Random-gegevens
+Sectornummer
+Extensieve lees-schrijf-lees-test met extra schrijfbewerkingen
+Oppervlakherinitialisatieniveau
+In de meeste gevallen niet destructief (zie opmerkingen en Help) 
+Deze test vernietigt definitief ALLE GEGEVENS op de geselecteerde schijf.\nDeze bewerking kan niet ongedaan gemaakt worden.\n\nWilt u echt deze test uitvoeren en ALLE GEGEVENS op deze schijf verliezen?
+Deze test voert een SCHRIJF-bewerking uit op de geselecteerde schijf.\nDe test is in principe niet destructief, maar er kan gegevensverlies optreden.\n\nWilt u echt deze test uitvoeren?
+Testbevestiging
+Klik op de oppervlakplattegrond om de sectorinhoud te onderzoeken.\n\nMet rechtsklik kunt u het contextmenu openen.
+De test meet de transfertijd van alle blokken om vast te stellen welke gebieden van het oppervlak trager zijn. Als het blok trager is, is de bijbehorende kleur donkerder.
+De ontwikkelaar is niet verantwoordelijk voor de op de schijven opgeslagen gegevens.
+Huidige doorgang
+Alle doorgangen
+Kan geen schrijftest uitvoeren op de systeemschijf die de volgende map(pen) bevat
+De gelezen informatie behoort bij een andere schijf.\nDoor een muisklik op de oppervlakplattegrond worden echter sectoren van de huidige schijf weergegeven.
+Op dit moment is vervanging van de schijf onder garantie nog niet mogelijk. Pas als de conditie verder vermindert.
+Wilt u alle slapende schijven actief maken?\nAnders zal alleen de informatie van actieve schijven geupdated worden.
+Schijfinformatie updaten
+Testtype:
+Gegevensbotsing:
+Schrijfpatroon
+Maximum en minimum temperatuurwaarden resetten
+Maximum temperatuur (tijdens gehele levensduur):
+Waarden tonen
+SSL gebruiken
+SSD-controller
+De status van de solid-state schijf is PERFECT. Problematische of slechte sectoren zijn niet gevonden. 
+De conditie wordt bepaald door SSD-specifieke S.M.A.R.T.-kenmerken: 
+Schijffuncties beheren
+Er is een fout opgetreden bij het versturen van de opdracht naar de schijf.\nDe schijfcontroller of het stuurprogramma ondersteunen deze functie niet.\n\nDe opdracht kan na een stuurprogramma-update alsnog uitgevoerd worden of\ndoor gebruik van een ander OS, andere schijfcontroller\nof een ondersteund USB-systeem.
+Inschakelen en aanpassen
+Uitschakelen
+Pre-start-vertraging (sec):
+Aangepaste temperatuurdrempels
+Gele temperatuurlimiet:
+Rode temperatuurlimiet:
+Aangepaste drempels voor de geselecteerde schijf uitschakelen
+Aangepaste temperatuurdrempels instellen
+Aangepaste temperatuurdrempels wijzigen
+Aangepast
+Globaal
+In deze gratis versie van 'Hard Disk Sentinel' kan slechts één schijf een aangepaste temperatuurdrempel krijgen.
+Het S.M.A.R.T.-stuurprogramma ontbreekt in het huidige Win9x/ME-systeem.\nWilt u de configuratie automatisch updaten en de computer nu herstarten?
+Geactiveerd sleutelbestand laden
+NTFS-koppelpunt(en)
+Koppelpunt
+Let op: uw gegevens zijn mogelijk niet volledig beschermd.
+Tijdelijke aanbieding: Upgrade vandaag en bespaar \1 op de licentie!
+(voer de couponcode \1 in tijdens de beveiligde online-registratie of klik op onderstaande link)
+Wacht \1 seconde(n) met verdergaan ...
+Volume-informatie
+Partitiestijl
+Actief
+Uitlijning
+Startmarge
+Lengte
+Clustergrootte
+Totaal clusters
+Vrije clusters
+Gebruikte clusters
+Volume-type
+Dynamisch
+Basic
+Status van offline-schijven tonen
+Schijven selecteren met de selectievakjes om hun status te zien (zoals met verbonden/online schijven).
+Offline
+Schijven selecteren met de selectievakjes om opgenomen te worden in het authentieke schijvenrapport.
+Authentiek schijvenrapport opslaan (HTML)
+Authentiek schijvenrapport verifiëren
+Het geselecteerde bestand is geen authentiek schijvenrapport.
+Het authentieke schijvenrapport is met succes geverifiëerd en in orde bevonden.
+Het authentieke schijvenrapport is ongeldig of beschadigd.
+Authentiek schijvenrapport
+Windows Volume/RAID-informatie
+\1 fouten opgetreden tijdens gegevensoverdracht. Dit kan duiden op een probleem met het apparaat of met gegevens/stroom-kabels. Het verdient aanbeveling de kabels te onderzoeken en indien mogelijk te vervangen. 
+\1 fouten gemeld tijdens het schrijven naar het apparaat.
+Het begrenzen van de RAID-controller kan ophalen van verdere schijfinformatie verhinderen. Dit is geen beperking van de Hard Disk Sentinel software.
+Abonneren op de nieuwsbrief om informatie te krijgen van updates en speciale aanbiedingen
+Rapportmenu selecteren -> Testrapport naar de ontwikkelaar sturen en abonneren op de nieuwsbrief om informatie te krijgen van updates en speciale aanbiedingen.
+Dagelijks minimum
+Standaardbreedte
+De TRIM-functie van de SSD wordt ondersteund en is ingeschakeld voor optimale prestaties.
+De TRIM-functie van de SSD wordt ondersteund maar is uitgeschakeld. Het verdient aanbeveling het OS, de schijfcontroller of het schijfstuurprogramma te upgraden om de prestaties te verbeteren.
+Totaal aantal schrijfacties:
+Totaal aantal start/stop-acties:
+De configuratie geeft geen verdere schijfstatusinformatie. De "Schijf"-menu-functie en de "Oppervlaktetest"-functie kunnen echter de schijffunctionaliteit onderzoeken en mogelijke problemen opsporen en verhelpen.
+De huidige versie is verlopen. Voer een registratiesleutel in om de software te kunnen blijven gebruiken.
+Het logverslag is leeg.
+Overdrachtsnelheidswaarden exporteren
+Instelling bij herstarten automatisch aanpassen
+Meer informatie:
+Klik om commentaar toe te voegen...
+Commentaar
+Map wisselen om statistische gegevens en instellingen op te slaan
+Licentie-waarschuwing dupliceren
+Dezelfde registratiecode is gebruikt voor de geïnstalleerde en de portable versie van Hard Disk Sentinel.\nOm de volledige functionaliteit van beide versies te kunnen gebruiken zijn voor deze versies aparte licenties nodig.
+Laatst bijgewerkt op:  
+Online Garantiecontrole
+De geselecteerde waarde naar het klembord kopiëren
+Openen van sommige gebieden van het oppervlak tijdens het testen kan\nlangzamer verlopen, vanwege het actief zijn van het operating systeem en\napplicaties. Dit kan donkergroene blokken veroorzaken.
+Tellers werkbelasting resetten
+Wilt u voor de geselecteerde schijfstations afzonderlijke rapporten opslaan?
+De gedetecteerde totale capaciteit (\1) van de schijf \2 is niet correct. De capaciteit moet zijn: \3.
+De huidige schijf-controller/driver/adapter is niet volledig compatibel met \1
+Het gebruik van de schijf kan verminking van het bestandssysteem en/of gegevensverlies tot gevolg hebben.
+Het is aanbevolen de configuratie te controleren en te wijzigen of het operating systeem, de harddiskcontroller en/of stuurprogramma's te upgraden voor een veilig gebruik van dit apparaat.
+Apparaatspecifieke informatie
+De harddiskcontroller geeft slechts een algemene zelf-controlerende (S.M.A.R.T.)-status, zonder extra details.
+De S.M.A.R.T.-status is:
+Altijd op de voorgrond
+Om deze verandering te effectueren moet u het programma volledig afsluiten (via Bestand -> Afsluiten) en herstarten.
+Systeem niet actief
+Gedetecteerde fout(en):
+Statusinformatie en mogelijke fout(en) van de harddiskcontoller (RAID). Dit kan afwijken van de status van de fysieke schijf.
+Status automatisch uploaden naar server
+Systermbeheerinformatie
+De partitie(s) op deze vaste schijf gemaakt met \1 fysieke sectorgrootte.
+maar de huidige fysieke sectorgrootte is \1.
+De vaste schijf anders aansluiten (met andere harddiskcontroller, USB-, eSATA-verbinding) kan tot gevolg hebben dat alle mappen en bestanden onleesbaar zijn.
+Het is aanbevolen de vaste schijf volgens de vorige aansluiting aan te sluiten (waarschijnlijk met andere USB-adapter, behuizing, dockingstation of dergelijke) om de partitie met alle gegevens te lezen - anders kan er gegevensverlies optreden.
+Bestandsinformatie voor de sector ophalen
+Het is onmogelijk de indeling van het schijfstation te op te halen.
+Het is onmogelijk partitie-/logische schijfinformatie op te halen.
+Op deze sector is geen partitie gedefinieerd (ongebruikte sector).
+Onbekend bestand
+Ongebruikte sector op logisch station \1
+Kenmerken:
+Aantal bestandsfragmenten:
+Bestandsinformatie voor sectoren met fouten ophalen
+Bestandsinformatie ophalen
+Schijfinformatie ophalen
+Meest recent opgehaalde informatie
+Bestanden met fouten
+jaren
+maanden
+Aangepaste conditiedrempels
+Gele conditiedrempel:
+Rode conditiedrempel:
+Aangepaste drempel instellen
+Aangepaste drempel wijzigend
+Dubbelklik om de aangepaste conditiedrempels aan te passen
+Schijfaansluit/-verwijder-gebeurtenislogbestand
+Het logbestand bevat alle schijfverbindingen en -verwijderingen tijdens actieve perioden van Hard Disk Sentinel en bevat veranderingen in de schijfconfiguratie wanneer de software niet actief was (bepaald bij de volgende herstart).
+Aantal invoerregels:
+Datum en tijd
+Schijfstation
+Wanneer niet-actief
+Verbonden
+Verplaatst
+Bij een plotselinge systeemcrash, plotseling herstarten, BSOD-scherm of onleesbaar bestand(en)/map(pen) is het aanbevolen om de verbindingen en gegevens- en voedingskabels te controleren en indien mogelijk andere kabels te gebruiken om verdere problemen te voorkomen.
+Hoogst mogelijke transferrate
+Beloofde transferrate
+
+DMA=DMA
+Ultra DMA=Ultra-DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Veiligheids-modus
+Power Management=Energiebeheer
+Write Cache=Schrijf-cache
+Host Protected Area=Host-beschermd gebied
+Advanced Power Management=Geavanceerd energiebeheer
+Advanced Power Management Level=Geavanceerd energiebeheer-niveau
+Current APM Level=Huidig APM-niveau
+Extended Power Management=Uitgebreid energiebeheer
+APM01=Minimum stroomverbruik met standby
+APM02=Medium stroomverbruik zonder standby
+APM80=Minimum stroomverbruik zonder standby
+APM81=Medium stroomverbruik zonder standby
+APMFE=Maximum prestatie en stroomverbruik
+FreeFall01=Laagste gevoeligheid voor 'freefall'-gebeurtenissen
+FreeFall02=Gebalanceerde gevoeligheid voor 'freefall'-gebeurtenissen
+FreeFallFF=Hoogste gevoeligheid voor 'freefall'-gebeurtenissen
+Current Sensitivity=Huidige gevoeligheid
+Power Up In Standby=Opstarten in standby
+48-bit LBA Addressing=48-bit LBA-adressering
+Device Configuration Overlay=Apparaat-instellingen-overlay
+Read/Write DMA Queue=Lezen/schrijven DMA-rij
+Native Command Queuing='Native Command Queuing' (NCQ)
+Read Ahead Buffer=Vooruit-lees-buffer
+Maximum Multiword DMA Mode=Maximum Multiword DMA-modus
+Active Multiword DMA Mode=Actieve Multiword DMA-modus
+IORDY Support=IORDY-ondersteuning
+Maximum sectors transferred on R/W multiple=Maximum sectoren getransfereerd op R/W Multiple
+Minimum multiword DMA transfer time=Minimum multiword DMA-transfertijd
+Recommended multiword DMA transfer time=Aanbevolen multiword DMA-transfertijd
+Minimum PIO transfer time without IORDY=Minimum PIO-transfertijd zonder IORDY
+Minimum PIO transfer time with IORDY=Minimum PIO-transfertijd met IORDY
+Security Erase=Wissen voor veiligheid
+Security Erase Time=Wissen-tijd voor veiligheid
+Security Enhanced Erase Feature=Verbeterd wissen-functie voor veiligheid
+Security Enhanced Erase Time=Verbeterd wissen-tijd voor veiligheid
+Security Enabled=Veiligheid ingeschakeld
+Security Locked=Veiligheid geblokkeerd
+Security Frozen=Veiligheid bevroren
+Security Counter Expired=Veiligheidteller verlopen
+Security Level=Veiligheids-niveau
+Serial ATA Features=Seriële ATA-functies
+Interface=Interface
+S-ATA Compliance=S-ATA-conformiteit
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I seinsnelheid (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=S-ATA II seinsnelheid (3 Gps)
+Receipt Of Power Management Requests From Host=Ontvangst van energiebeheer-verzoeken van de host
+PHY Event Counters=PHY-gebeurtenis-tellers
+Non-Zero Buffer Offsets In DMA Setup FIS=Non-Zero buffer-offsets in DMA-setup FIS
+DMA Setup Auto-Activate Optimization=DMA-setup auto-activerings-optimalisatie
+Device Initiating Interface Power Management=Apparaat initialiseert interface energiebeheer
+In-Order Data Delivery=Versturen van data in orde
+Asynchronous Notification=Asynchrone mededeling
+Software Settings Preservation=Bewaren van de software-instellingen
+Queue Length=Rijlengte
+Disk Family=Schijffamilie
+Form Factor=Vormfactor
+Capacity=Capaciteit
+Number Of Disks=Aantal schijven
+Number Of Heads=Aantal koppen
+Rotational Speed=Rotatiesnelheid
+RPM=RPM
+Rotation Time=Rotatietijd
+Average Rotational Latency=Gemiddelde rotatie-latency
+Disk Interface=Schijfinterface
+Buffer-Host Max. Rate=Buffer-Host Max. rate
+Drive Ready Time (typical)=Schijf-klaar-tijd (typisch)
+Average Seek Time=Gemiddelde seek-tijd
+Track To Track Seek Time=Track-naar-track seek-tijd
+Full Stroke Seek Time='Full-stroke' seek-tijd
+Width=Breedte
+Depth=Diepte
+Height=Hoogte
+Weight=Gewicht
+grams=gram
+pounds=pond
+Acoustic=Akoestisch
+Idle=Niet-actief
+Required power for spinup=Stroomverbruik bij spinup
+Power required (seek)=Stroomverbruik (seek)
+Power required (idle)=Stroomverbruik (rust)
+Power required (standby)=Stroomverbruik (standby)
+Manufacturer=Fabrikant
+Manufacturer Website=Website van fabrikant
+
+; list of SMART features
+S.M.A.R.T. Details=S.M.A.R.T.-details
+Off-line data collection=Off-line data-verzamel-status
+OFF00=Nooit gestart
+OFF02=Met succes afgerond
+OFF03=Bezig
+OFF04=Uitgesteld door onderbreekopdracht van de host
+OFF05=Afgebroken door afbreekopdracht van de host
+OFF06=Vanwege fatale fout door apparaat afgebroken
+Self test execution status=Status van uitvoering zelftest
+SET00a=Met succes afgerond
+SET00b=Nooit gestart
+SET01=Door de host afgebroken
+SET02=Afgebroken door de host met Hardware/Software-reset
+SET03=Fatale/Onbekende fout opgetreden tijdens de test
+SET04=Test mislukt door onbekend element
+SET05=Test mislukt door electrisch element
+SET06=Test mislukt door servo/seek element
+SET07=Test mislukt door lees-element
+SET08=Test mislukt en schadeafhandeling is onbetrouwbaar
+SET15=Test is bezig
+SETCO=klaar
+Total time to complete off-line data collection=Totale tijd voor volledig off-line data-verzamelen
+Execute off-line immediate=Onmiddellijk off-line uitvoeren
+Abort/restart off-line by host=Afbreken/herstarten off-line door de host
+Off-line read scanning=Off-line lezen-scanning
+Short Self-test=Korte zelftest
+Extended Self-test=Uitgebreide zelftest
+Selective Self-test=Selectieve zelftest
+Conveyance self-test=Overdracht-zelftest
+Save data before/after power saving mode=Data opslaan voor/na energiebesparings-modus
+Enable/Disable attribute autosave=Kenmerk auto-opslaan inschakelen/uitschakelen
+Error logging capability=Mogelijkheid tot foutregistratie
+Short Self-test Estimated Time=Geschatte tijd voor de korte zelftest
+Extended Self-test Estimated Time=Geschatte tijd voor de uitgebreide zelftest
+Conveyance self-test estimated time=Overdracht-zelftest geschatte tijd
+Last Short Self-test Result=Resultaat van de laatste korte zelftest
+Last Short Self-test Date=Datum van de laatste korte zelftest
+Last Short Self-test Duration=Duur van de laatste korte zelftest
+Last Extended Self-test Result=Resultaat van de laatste uitgebreide zelftest
+Last Extended Self-test Date=Datum van de laatste uitgebreide zelftest
+Last Extended Self-test Duration=Duur van de laatste uitgebreide zelftest
+Last Conveyance Self-test Result=Resultaat van de laatste overdracht-zelftest
+Last Conveyance Self-test Date=Datum van de laatste overdracht-zelftest
+Last Conveyance Self-test Duration=Duur van de laatste overdracht-zelftest
+NOP Command=NOP-opdracht
+Trusted Computing='Trusted Computing'
+64-bit World Wide ID=64-bit Wereldwijd-ID
+Streaming=Streaming
+Media Card Pass Through=Media-kaart-doorvoer
+General Purpose Logging=Universele registratie
+Error Logging=Fout-registratie
+CFA Feature Set=CFA-functie instellen
+Long Physical Sectors=Lange fysieke sectoren
+Long Logical Sectors=Lange logische sectoren
+Write-Read-Verify=Schrijven-Lezen-Verifiëren
+NV Cache Feature=NV-cachefunctie
+NV Cache Power Mode=NV-cache energiemodus
+
+# added 4 Nov 2008 
+Transport Version=Transportversie
+NV Cache Size=NV-cachegrootte
+Free-fall Control='Freefall'-beheer
+Free-fall Control Sensitivity='Freefall'-beheergevoeligheid
+Non-rotating Media (SSD)=Niet-roterende media (SSD)
+Nominal Media Rotation Rate=Nominale mediarotatierate
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA Gen3 seinsnelheid (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=CFast-apparaat
+SSD Features=SSD-functies
+Data Set Management=Instellingenbeheer
+TRIM Command=TRIM-opdracht
+Deterministic Read After TRIM=Determinerend lezen na TRIM
+Operating System TRIM Function=Operating System TRIM-functie
+
+# added 3 Oct 2011
+Self-Test Results=Resultaten van de zeftest
+SST05=Het eerste segment van de zelftest is mislukt
+SST06=Het tweede segment van de zelftest is mislukt
+SST07=De zelftest is mislukt bij testsegment
+SSTN=Zelftestsegment
+SSTN0=Geen segment-ID beschikbaar
+SSTH=PowerOn-uren
+SSTL=Fout-adres (LBA)
+SSHL=De vaste schijf rapporteert de volgende problemen:
+
+SA1=Fouten opgetreden tijdens het lezen van 'raw data' van een schijf\Duidt op een probleem met het schijfoppervlak of de lees/schrijf-koppen.
+SA2=Algemene doorvoerprestatie van de vaste schijf\Duidt op een probleem met de motor, servo of verbindingen.
+SA3=Tijd nodig voor spin-up tot volledige RPM\Duidt op een probleem met de motor of verbindingen.
+SA4=Aantal start/stop-cycli van de as\Deze waarde heeft niet direct invloed op de conditie van de schijf.
+SA5=Aantal sectoren verplaatst naar het reservegebied\Duidt op een probleem met het schijfoppervlak of de lees-schrijf-koppen.
+SA6=Marge van een kanaal tijdens het lezen van data\De precieze functie van dit kenmerk is niet aangegeven.
+SA7=Rate van positioneringsfouten van de lees/schrijf-koppen\Duidt op een probleem met de servo of kop. Hoge temperatuur kan dit probleem ook veroorzaken.
+SA8=Gemiddelde tijd voor seek-acties van de koppen\Duidt op een probleem met de servo.
+SA9=Totale tijd dat de schijf van stroom is voorzien\De meet-eenheid is fabrikantafhankelijk.
+SA10=Aantal draaistart-pogingen\Duidt op een probleem met de motor, verbindingen of voeding.
+SA11=Aantal pogingen om een schijf te kalibreren\Duidt op een probleem met de motor, verbindingen of voeding.
+SA12=Aantal volledige stroom aan/uit cycli\Deze waarde heeft niet direct invloed op de conditie van de schijf.
+SA13=Aantal software-leesfouten\Het aantal niet-corrigeerbare leesfouten.
+SA184=Aantal pariteitsfouten tijdens transfer tussen de cache-RAM en de host.
+SA187=Fouten die niet konden worden hersteld met hardwarefoutcorrectiemethodes.
+SA187MTRON=Virtueel blok wis-teller\Duidt op slijtage van het opslagapparaat.
+SA188=Aantal afgebroken bewerkingen door HDD-timeout. Waarden groter dan nul kunnen duiden op problemen met voeding of data-verbindingskabels.
+SA189=Aantal onveilige schrijfbewerkingen buiten het normale kopzweefbereik.
+SA190=Luchtstroom-temperatuur\De temperatuur van de lucht in behuizing van de vaste schijf.
+SA191=Aantal mechanische fouten\Aantal fouten door schokken of trillen.
+SA192=Aantal stroom-uit-cycli\Deze waarde heeft niet direct invloed op de conditie van de schijf.
+SA193=Aantal load/unload-cycli\Aantal keer dat de kop naar de landingszonepositie is gegaan.
+SA194=Schijftemperatuur\De temperatuur in de behuizing van de vaste schijf.
+SA195=Aantal corrigeerbare fouten\Aantal fouten gecorrigeerd door het interne foutcorrectiemechanisme.
+SA196=Aantal sector-verplaatsingsbewerkingen\Aantal van alle (geslaagde en mislukte) verplaatsingsbewerkingen.
+SA197=Aantal onbetrouwbare sectoren\Deze sectoren kunnen naar het reservegebied verplaatst worden.
+SA198=Aantal oncorrigeerbare fouten tijdens het lezen/schrijven\Duidt op een probleem met het schijfoppervlak of de lees/schrijf-koppen.
+SA199=Aantal fouten tijdens gegevensoverdracht tussen schijf en host\Duidt op een probleem met de voeding of data-kabel.
+SA200=Fouten opgetreden tijdens het schrijven van 'raw data' naar een schijf\Duidt op een probleem met de voeding of de lees/schrijf-koppen.
+SA201=Aantal software leesfouten\Het aantal oncorrigeerbare leesfouten.
+SA202=Aantal data-adresaanduidingsfouten\Aantal onjuiste of ongeldige adresaanduidingen.
+SA203=Aantal data-correctie-fouten\Ongeldige foutcorrectie-checksum gevonden tijdens foutcorrectie.
+SA204=Aantal gecorrigeerde data-fouten\Aantal fouten gecorrigeerd door het interne foutcorrectiemechanisme.
+SA205=Aantal thermische problemen\Aantal problemen veroorzaakt door hoge temperatuur.
+SA206=Kop-zweefhoogte\De hoogte van de schijfkoppen boven het schijfoppervlak.
+SA207=Stroomwaarde tijdens spin-up\De stroom die nodig is om de schijf op gang te brengen.
+SA208=Aantal cycli nodig voor spin-up\Het aantal pogingen om op gang te komen vanwege te lage beschikbare stroom.
+SA209=Schijfprestatie tijdens offline-bewerkingen\De seek-prestatie van de schijf tijdens interne zelftesten.
+SA211=Trillen gevoeld tijdens schrijfbewerkingen.
+SA212=Schokken gevoeld tijdesn schrijfbewerkingen.
+SA220=Afstand van de schijf is ten opzichte van de as verschoven\Onjuist draaien van de schijf kan veroorzaakt worden door mechanisch schokken of hoge temperatuur.
+SA221=Aantal mechanische fouten\Aantal fouten door schokken of trillen.
+SA222=Aantal uren stroom-aan\Deze waarde neemt steeds toe (één keer per uur).
+SA223=Aantal load/unload-bewerkingen\Het aanta keer dat de schijfkop naar/van de data-zone gaat/komt.
+SA224=Mechanische wrijvingsrate\De mate van wrijving tussen mechanische delen. Duidt op een probleem met het mechanische subsysteem van de schijf.
+SA226=Totale tijd dat de koppen actief zijn\De tijd dat de lees/schrijf-koppen zich in de data-zone bevinden.
+SA227=Rate van de draaiingtoename\Draaiingtoename tijdens het opgang komen van de vaste schijf.
+SA228=Aantal stroom-uit-cycli\Het aantal keer dat de kop door stroomverlies wordt teruggehaald.
+SA230=Kop-positionerings-verplaatsing\Kop-bewegingsafstand tussen bewerkingen.
+SA231=Schijftemperatuur\De temperatuur in de behuizing van de vaste schijf.
+SA240=Aantal uren kop-positioneren\De tijdsduur van het zich verplaatsen van de schijfkoppen.
+SA250=Aantal pogingen van leesbewerkingen\Aantal fouten gevonden tijdens het lezen van een sector van het schijfoppervlak.
+SA254=Aantal 'freefall'-gebeurtenissen gedetecteerd door de versnellingsmetersensor.
+SA255=Fabrikant-specifiek\De functie en waarde van dit kenmerk zijn bepaald door de fabrikant.
+
+SC01=Buffer over/under-run tellers
+SC02_0000=Schrijffouten gecorrigeerd zonder noemenswaardige vertraging
+SC02_0001=Schrijffouten gecorrigeerd met mogelijke vertraging
+SC02_0002=Totaal aantal schrijffouten
+SC02_0003=Totaal aantal schrijffouten gecorrigeerd
+SC02_0004=Totaal aantal schrijffouten gecorrigeerd door algoritme
+SC02_0005=Totaal aantal bytes geschreven
+SC02_0006=Totaal aantal ongecorrigeerde schrijffouten
+SC03_0000=Leesfouten gecorrigeerd door ECC-hardware-methode
+SC03_0001=Leesfouten gecorrigeerd met mogelijke vertraging
+SC03_0002=Totaal aantal leesfouten
+SC03_0003=Totaal aantal leesfouten gecorrigeerd
+SC03_0004=Totaal aantal leesfouten gecorrigeerd door algoritme
+SC03_0005=Totaal aantal bytes gelezen
+SC03_0006=Totaal aantal ongecorrigeerde leesfouten
+SC04_0000=Achterwaartse leesfouten gecorrigeerd door ECC-hardware-methode
+SC04_0001=Achterwaartse leesfouten gecorrigeerd met mogelijke vertraging
+SC04_0002=Totaal aantal achterwaartse leesfouten
+SC04_0003=Totaal aantal achterwaartse lessfouten gecorrigeerd
+SC04_0004=Totaal aantal achterwaartse leesfouten gecoorigeerd door algoritme
+SC04_0005=Totaal aantal bytes achterwaarts gelezen 
+SC04_0006=Totaal aantal ongecorrigeerde achterwaartse leesfouten
+SC05_0000=Verifiëerfouten gecorrigeerd zonder noemenswaardige vertraging
+SC05_0001=Verifiëerfouten gecorrigeerd met mogelijke vertraging
+SC05_0002=Totaal aantal verifiëerfouten
+SC05_0003=Totaal aantal verifiëerfouten gecorrigeerd
+SC05_0004=Totaal aantal verifiëerfouten gecorrigeerd door algoritme
+SC05_0005=Totaal aantal bytes geverifiëerd
+SC05_0006=Totaal aantal ongecorrigeerde verifiëerfouten
+SC06_0000=Fouten (niet medium)
+SC07=Laatste fout-gebeurtenis
+SC0B=Laatste uitgestelde fout of asynchrone gebeurtenis
+SC0D_0000=Temperatuur
+SC0D_0001=Referentietemperatuur
+SC0E_0001=Fabricagedatum (jaar/week)
+SC0E_0002=Boekdatum
+SC0E_0003=Aangegeven cycle-teller is over de levensduur van het apparaat
+SC0E_0004=Totaal aantal start-stop cycles
+SC0E_0005=Aangegeven aantal laad-verwijder cycles over de levensduur van het apparaat
+SC0E_0006=Totaal aantal laad-verwijder cycles
+SC0F=Applicatie-client parameter-data
+SC10=Registratie resultaten zelftest
+SC11_0001=Percentage slijtage-indicator
+SC18=Protocol-specifieke poort-registratie
+SC1A_0001=Totaal aantal overgangen naar aan
+SC1A_0002=Totaal aantal overgangen naar uit_a
+SC1A_0003=Totaal aantal overgangen naar uit_b
+SC1A_0004=Totaal aantal overgangen naar uit_c
+SC1A_0008=Totaal aantal overgangen naar standby_z
+SC1A_0009=Totaal aantal overgangen naar standby_y
+SC37_0000=Blokken verstuurd naar de initiator
+SC37_0001=Blokken ontvangen van de initiator
+SC37_0002=Blokken gelezen uit de cache en verstuurd naar de initiator
+SC37_0003=I/O commands met een grootte kleiner dan de segmentgrootte
+SC37_0004=I/O commands met een grootte groter dan de segmentgrootte
+SC3E_0000=Inschakeltijd
+SC3E_8000=Inschakeltijd
+SC3E_0008=Aantal minuten resterend tot de volgende interne test
+
+## added 13 May 2015 ##
+Motherboard=Moederbord
+Product=Product
+Asset Tag=Asset-tag
+Memory Module=Geheugenmodule
+Chassis=Chassis
+
+## added 22 Feb 2017 ##
+Disk repair=Schijfherstel
+Repair=Herstellen
+Repair successful=Herstellen is geslaagd
+Repair failed=Herstellen is mislukt
+\1 sector(s) successfully repaired.=\1 sector(en) met succes hersteld.
+read test with sector repair=leestest met sectorherstel
+RepairDesc=Leest het schijfoppervlak  om te verifiëren of alle sectoren leesbaar zijn. Repareert mogelijke problematische (zwakke) sectoren. Herstelt de status naar goed of verplaatst indien nodig sectoren.\n\nDe test is veilig voor opgeslagen gegevens. Beschadigde bestanden worden weer leesbaar. Delen van bestanden op beschadigde sectoren kunnen natuurlijk verminkt zijn. Bestanden op de gerepareerde sectoren worden na de test in een lijst opgenomen.\n\nMet de test kunnen schijven met zwakke sectoren worden gerepareerd zonder een volledige back-up te hoeven maken. Het werkt op zowel systeemschijven als andere schijven.
+Multiple disk drives=Meer schijfstations
+\1 drive(s) selected=\1 station(s) geselecteerd
+Select disk drive(s) to be tested=Te testen schijf/schijven selecteren
+Are you sure you want to perform disk testing on multiple disk drives?=Weet u zeker dat u meer schijven wilt testen?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=Wilt u de systeemschijf UITSLUITEN en alleen andere schijven testen?
+Byte / byte sequence=Byte / bytevolgorde
+Maximum try count=Maximaal aantal pogingen
+Add to Windows event log=Windows toevoegen aan gebeurtenislogboek
+Provide status information by WMI=Statusinformatie door WMI geven
+Automatic detection based on disk utilization=Automatische detectie gebaseerd op schijfgebruik
+Automatically save disk test results to folder=Schijftestresultaten automatisch in map opslaan
+Selected disk only=Alleen geselecteerde schijf
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Verifieer uw firewall-instellingen en zorg dat de software toegang heeft tot de activeringsserver en probeer het opnieuw.\n\nEventueel kunt u de knop 'registratie en activering per e-mail' gebruiken om per e-mail te activeren.
+Control device-specific detection=Apparaatspecifiek detectiebeheer
+Select device type to detect status and health information by the appropriate detection method.=Apparaattype selecteren om status- en gezondheidsinformatie door de geschikte detectiemethode te bepalen.
+DeviceSpecificDesc=Hard Disk Sentinel slaat op het apparaat een vlagbestand op (nul bytes, zonder schijfgebruik) om het geselecteerde apparaattype vast te leggen. Het wordt gebruikt bij volgende detecties tot het apparaat volledig wordt gewist/geformatteerd, wanneer het nodig is om het apparaattype weer te bepalen.
+Note=Opmerking
+Complete erase / re-format does not reset the health and statistics.=Volledig wissen/herformatteren heeft geen effect op de gezondheid en statistische informatie.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Selecteren van een verkeerd apparaattype kan bij een flash-apparaat onnodige slijtage veroorzaken en kan gegevensverlies tot gevolg hebben.
+Auto Detect=Autodetect
+Part number(s)=Onderdeelnummer(s)
+Device type detection successfully completed.=Bepalen van het apparaattype is geslaagd.
+The device does not respond to detection, further status information cannot be detected.=Het apparaat reageert niet: er kan geen statusinformatie worden bepaald.
+Running=In uitvoering
+Inactive=Inactief
+without monitoring=zonder monitoring
+
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Windows-gebeurtenislogboek monitoren voor problemen met schijven en opslag
+Configure NAS Disk Monitoring=Monitoren van NAS-schijf configureren
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Geef de statusbron(nen) op om schijfstations van Network Attached Storage (NAS) te monitoren.
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Statusbronbestanden bevatten de volledige status van vaste schijfstations, SSD's en opslagapparaten. Hard Disk Sentinel leest deze om de geschikte schijfstations te tonen alsof ze al verbonden zijn.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=Statusbronbestanden opgeslagen en geüpdated op het NAS-apparaat, gemaakt door (bijvoorbeeld) een Hard Disk Sentinel Linux-versie.
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=De functie Autodetect detecteert automatisch mogelijke statusbronbestanden (HDSReport.html) op beschikbare netwerkstations.
+Status Source=Statusbron
+Auto Detect=Autodetect
+&Browse=Bladeren
+Add &URL=URL toevoegen
+&Edit=Bewerken
+&Delete=Verwijderen
+&Test=Testen
+Status source files=Statusbronbestanden
+HPA Security Extensions=HPA-beveiligingsextensies
+Service Interrupt=Service-interrupt
+IDLE IMMEDIATE command with UNLOAD feature=IDLE IMMEDIATE command met UNLOAD-functie
+Nominal Form Factor=Nominal-Form-Factor
+Additional Product Identifier=Extra Product-Identifier
+Read Zeroes After TRIM=Nullen lezen na TRIM
+Device Encrypts All User Data=Apparaat versleutelt alle gebruikersgegevens
+Sanitize=Saneren
+Overwrite=Overschrijven
+Crypto Scramble=Crypto-Scramble
+Block Erase=Blok wissen
+Sanitize Antifreeze Lock=Antifreeze-Lock saneren
+ACS-3 Commands Allowed By Sanitize=ACS-3 opdrachten toegestaan door saneren
+NCQ Streaming=NCQ-streaming
+NCQ Autosense=NCQ-automatische detectie
+Automatic Partial to Slumber Translations=Automatic-Partial-to-Slumber-vertalingen
+Rebuild Assist=Rebuild-Assist
+Hybrid Information=Hybride-informatie
+Device Sleep (DevSleep)=Device-Sleep (DevSleep)
+DevSleep to ReducedPwrState=DevSleep naar ReducedPwrState
+Recently the following entries added to System Event Log:=Onlangs zijn de volgende ingangen aan het systeemgebeurtenislogboek toegvoegd:
+errors=fouten
+most recent=meest recent
+warnings=waarschuwingen
+The following function can be used to improve the situation:=De volgende functie kan worden gebruikt voor het verbeteren van de situatie:
+Certain detection functions to access disk status disabled.=Sommige functies om de schijfstatus te bepalen zijn uitgeschakeld.
+Please change the following option:=Wijzig a.u.b. de volgende optie:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Wilt u nu updaten?
+Update not selected.=Update niet geselecteerd.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=De functie 'Gecontroleerde mappentoegang' van Windows Defender voorkomt toegang tot de informatie van de schijfstatus.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Mag Hard Disk Sentinel toegevoegd worden aan de lijst van toegestane software om de schijfstatus te bepalen en te diagnostiseren (aanbevolen)?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Opm: deze toestemming kan onstabiele werking en beperkte functionaliteit tot gevolg hebben.
+Disk Access Blocked=Schijftoegang geblokkeerd
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=NVMe-naamruimte-informatie
+Total Sectors=Totaal aantal sectoren
+Active LBA Format Index=Actieve LBA-formaat-index
+LBA Formats Supported=Ondersteunde LBA-formaten
+LBA Format List=Lijst van LBA-formaten
+Best=Uitstekend
+Better=Beter
+Good=Goed
+Degraded=Afgekeurd
+Zoned Capabilities=Zone-indeling-mogelijkheden
+SCT Command Transport=SCT-opdrachttransport
+SCT Error Recovery Control=SCT-foutherstelbeheer
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=Ook probleemoverzicht bij waarschuwingen
+Alert about problematic drive(s) only=Alleen waarschuwen bij problematisch station(s)
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Wijziging(en) sinds \1
+Timestamp=Tijdstempel
+No entries found=Geen invoerregels gevonden
+Error log=Foutenlogboek
+No error information recorded=Geen foutinformatie vastgelegd
+The list automatically cleared by the controller on power cycle and reset=De lijst wordt automatisch door de controller gewist bij in- en uitschakelen
+Depending on the configuration, the test duration may be different than estimated.=Afhankelijk van de configuratie kan de testduur afwijken van de schatting.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=Het NVMe-controller-besturingsprogramma voorkomt het te vaak gebruiken van testopdrachten. Probeer het later opnieuw a.u.b.
+
+No device self-test operation in progress=Er is geen apparaat-zeftest-bewerking bezig
+Aborted by command=Afgebroken door opdracht
+Aborted by controller reset=Afgebroken door controller-reset
+Aborted due to removal of namespace=Afgebroken door verwijderen van naamruimte
+Aborted due to Format NVM command=Afgebroken door Format-NVM-opdracht
+Fatal error or unknown test error=Ernstige fout of onbekende testfout
+Failed in an unknown test segment=Mislukt in een onbekend testsegment
+Failed in one or more test segment(s)=Mislukt in één of meer testsegment(en)
+Aborted for unknown reason=Afgebroken om onbekende reden
+No self-test information recorded=Geen zelftest-informatie vastgelegd
+
+Repaired=Gerepareerd
+Failed=Mislukt
+Quick Fix=Snelle oplossing
+QuickFixDesc=Controleer welk gebied(en) van de schijf onlangs problemen heeft gemeld; voer dan een diagnose en reparatie uit speciaal op deze (en naastgelegen) sectoren en kritieke systeemgebieden. De test laat de schijf alle probleemsectoren (ontoegankelijk, zwak) repareren: zet de status op goed of wijst opnieuw toe (vervangen uit reservegebied) indien nodig om verder gebruik van de originele sector te verhinderen.\n\nIn tegenstelling tot een volledige scan kan deze test niet alle mogelijke problemen vinden en corrigeren, is dus het beste te gebruiken op schijven met relatief weinig problemen en grote gemelde gezondheidstoestand om zwakke sectoren te repareren zonder de noodzaak van een volledige back-up (en gebruik van de herinitialiseer-schijfoppervlaktetest).\n\nDe test kan op zowel systeem- als secondaire schijven gebruikt worden en is veilig voor opgeslagen gegevens. Mogelijk beschadigde bestanden worden weer leesbaar, echter bestandsfragmenten op beschadigde sectoren kunnen corrupt zijn. Bestanden op de getroffen herstelde sectoren worden opgesomd wanneer de test klaar is.
+
+targeted repair of problematic sectors=doelgerichte reparatie van probleemsectoren
+Last error (hour)=Laatste fout (uur)
+Error free hours=Foutvrije uren
+Never=Nooit
+Open Disk Management=Schijfbeheer openen
+Open Device Manager=Apparaatbeheer openen
+Windows Drive Index=Windows-Schijf-Index
+
+
+## added 30 Nov 2022 ##
+
+USB Device Name=Naam USB-apparaat
+safely remove required=moet veilig verwijderd worden
+surprise remove possible=onverwachte verwijdering mogelijk
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=De huidige USB-verbinding beperkt de snelheid van de het schijfstation. Verbind met een andere USB 3.0-poort voor een betere prestatie.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=De schijf kan tekortschieten of falen bij gebruik met de huidige USB-poort, die mogelijk niet voldoende stroom levert voor een correcte werking.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=De schijf heeft het einde van de ontworpen levensduur bereikt. De kans op plotseling, onverwacht falen is hoger.
+In a critical system, it is recommended to consider replacement.=Bij een kritiek systeem wordt aanbevolen om vervanging te overwegen.
+One or more disk drive(s) may be disconnected or removed.=Een of meer schijfstations kunnen losgekoppeld of verwijderd zijn.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Waarschijnlijk is het schijfstation geen echt opslagapparaat: het toont een zeer hoge beschikbare capaciteit, maar gegevens die erop zijn opgeslagen, kunnen beschadigd raken of verloren gaan.
+
+## added 8 Nov 2023 ##
+
+When custom threshold reached=Wanneer de aangepaste drempel is bereikt
+When disk added/connected=Wanneer een schijf is toegevoegd/aangesloten
+When disk removed/disconnected=Wanneer een schijf is verwijderd/losgekoppeld
+Drive Added=Schijf toegevoegd
+Drive Removed=Schijf verwijderd
+Custom Alert=Aangepaste waarschuwing
+Configure custom alert threshold=Configureer de aangepaste waarschuwingsdrempel.
+Disable custom alert for the selected attribute=Schakel de aangepaste waarschuwing uit voor de geselecteerde eigenschap
+Alert When Disk Drive(s) Added/Connected=Waarschuwing bij toevoegen/koppelen van schijfstation(s)
+Alert When Disk Drive(s) Removed/Disconnected=Waarschuwing bij verwijderen/loskoppelen van schijfstation(s)
+Select disk(s) from the list by using the checkboxes=Selecteer de schijf/schijven uit de lijst door de selectievakjes te gebruiken
+Trigger alert on next startup if the list of disk drives changed while Hard Disk Sentinel was not running=Activeer een waarschuwing bij de volgende opstart als de lijst met schijfstations is gewijzigd terwijl Hard Disk Sentinel niet actief was
+Automatically show the disk drive as offline after removed (with last known status)=Toon het schijfstation automatisch als offline nadat het is verwijderd (met de laatst bekende status)
+Specify disk(s) to trigger alert when the list of detected disk drives changes.=Specificeer de schijf/schijven om een waarschuwing te activeren wanneer de lijst met gedetecteerde schijfstations verandert.
+Specify disk(s) to DO NOT trigger alert when the list of disk drives changes (ignore).=Specificeer de schijf/schijven om GEEN waarschuwing te activeren wanneer de lijst met schijfstations verandert (negeren).
+Use the Select button or enter by disk drive model {firmware} / serial number.=Gebruik de "Selecteer"-knop of voer in op basis van schijfmodel {firmware} / serienummer.
+It is possible to use wildcards (* for any number of any characters, ? for any single character) to manually specify multiple disk drives.=Het is mogelijk om wildcards te gebruiken (* voor een willekeurig aantal tekens, ? voor een enkel teken) om handmatig meerdere schijfstations te specificeren.
+Example: WDC* will match all disks starting with WDC letters.=Voorbeeld: WDC* zal overeenkomen met alle schijven die beginnen met de letters WDC.

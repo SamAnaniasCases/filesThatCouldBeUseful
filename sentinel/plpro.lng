@@ -1,0 +1,248 @@
+Dzia³&ania
+Projekty
+Harmonogram
+Nazwa projek.:
+Nowy
+Usuñ
+Typ projektu:
+Uruchom aplikacjê zewnêtrzn¹ lub plik wsadowy
+Wiersz poleceñ:
+Rozpocznij niewidocznie, bez wyœwietlania okna
+Uruchom w:
+Utwórz nowy projekt
+Projekt
+Nieprawid³owa nazwa projektu. Nie mo¿e byæ pusta i musi mieæ nie istniej¹c¹ jeszcze nazwê. 
+Zapisz
+Przywróæ projekty domyœlne
+Rozpocznij
+Czas
+Uruchom póŸniej
+Zapytaj
+Ustal czas
+Po wczytaniu
+Usuñ
+Dodaj nowy projekt do listy
+B³¹d zapisu projektu.
+Czy chcesz uruchomiæ ten ten projekt?
+Uruchom projekt
+B³¹d uruchomienia projektu.
+Komentarz:
+Przegl¹daj
+Wykonywalne|*.exe;*.bat;*.com|Wszystkie pliki|*.*
+W³¹czone
+Czy chcesz zapisaæ zmodyfikowan¹ konfiguracjê?
+Czy na pewno chcesz usun¹æ ten projekt?\nProjekt bêdzie równie¿ usuniêty z harmonogramu.\nIloœæ opcji harmonogramu dla tego projektu: 
+Czy na pewno chcesz usun¹æ ten projekt?
+Przeœlij pliki i foldery
+ród³o
+Docelowy
+Konfiguracja
+Dodaj
+Wy¹tki
+Okreœl pliki, które maj¹ byæ wy³¹czone przez aplikacjê:
+Okreœlone tutaj pliki bêd¹ zignorowane przez Hard Disk Sentinel. Nie bêd¹ kopiowane i nie bêd¹ u¿ywane przez ¿adne opcje.
+Ustawienia globalne
+Dzaia³ania projektu
+Opcje projektu
+Zawartoœci tych folderów bêdzie zapisana do okreœlonego miejsca docelowego foldera(ów).
+Folder Ÿród³owy
+Folder docelowy
+Maska pliku
+Ustawienia foldera
+Folder docelowy bêdzie utworzony automatycznie, (je¿eli jest to konieczne). Istnieje mo¿liwoœæ u¿ywania nastêpuj¹cych zmiennych aby okreœliæ folder:\n\n%USER% - nazwa u¿ytkownika\n\n%COMPUTER% - nazwa komputera\n\n%IP% - IP adres komputera\n\n%LAST=folder% - wreszcie nazwa utworzonego/zmodyfikowanego foldera (najnowsza) w okreœlonym folderze\n\nMo¿na okreœliæ dwa lub wiêcej folderów przeznaczenia, nale¿y oddzieliæ je ; (œrednikiem).
+Wybierz lub okreœliæ co najmniej jeden folder Ÿród³owy.
+Proszê okreœliæ prawid³ow¹ lokalizacjê docelow¹ folderu.
+Edycja
+Oblicz iloœæ danych, które bêd¹ skopiowane
+SprawdŸ skopiowane dane
+Kopiuj tylko nowe i zaktualizowane pliki
+Wyczyœæ bit "archiwalny" w skopiowanych plikach
+Usuñ pliki Ÿród³owe po pomyœlnym skopiowaniu
+U¿yj bie¿¹cej daty jako nazwy foldera i zachowaj ostatnie
+Pe³ne archiwa
+(Poprzednie archiwa bêd¹ automatycznie usuniête, przed rozpoczêciem bie¿¹cej operacji zapisu)
+Stan:
+Plik:
+Iloœæ danych:
+Zapisywanie danych
+Obliczanie iloœci danych
+Kopiowanie plików
+Aktualizowanie plików
+Usuwanie poprzednich archiwów
+Weryfikowanie archiwum
+ MB/sek
+Pozosta³o minut
+Pozosta³o seknd
+Folder:
+Docelowy:
+Zapisz podfoldery
+Po zakoñczeniu
+Wyœlij/wyœwietl raport tylko, je¿eli wyst¹pi³ problem
+Wyœlij/wyœwietl raport w ka¿dym przypadku
+Nie wysy³aj i nie wyœwietlaj raportu
+Czy jesteœ pewny, ¿e chcesz usun¹æ pliki Ÿród³owe po zarchiwizowaniu?\n((Aby zmaksymalizowaæ bezpieczeñstwo danych jest zalecane u¿ycie tej opcji tylko wtedy, gdy mo¿na zarchiwizowaæ pliki w dwóch lub wiêcej kopiach lub je¿eli jest w³¹czona opcja "SprawdŸ kopiowane dane".)
+Usuwanie plików Ÿród³owych
+Zakoñczone
+Projekt zakoñczono pomyœlnie
+Stan projektu
+Wyst¹pi³ b³¹d podczas realizacji projektu
+Iloœæ zapisanych plików:
+Ca³kowity czas, który up³yn¹³:
+Lista b³êdów
+Ca³kowita iloœæ zapisanych danych:
+Nie pokazuj okna postêpu zapisu
+Zadania zakoñczono pomyœlnie
+Anulowano
+Brak danych do zapisania
+Nie mo¿na otworzyæ listy plików do weryfikacji z tego foldera: 
+Nie zdo³ano usun¹æ: 
+Zakoñczono konfiguracjê e-mail
+Nie zdo³ano wysy³aæ e-mail
+Nie zdo³ano otworzyæ pliku: 
+Nie zdo³ano utworzyæ pliku: 
+Nie zdo³ano odczytaæ pliku: 
+Nie zdo³ano zapisaæ pliku (dysk zape³niony lub nie do zapisu): 
+Nie mo¿na sprawdziæ poprawnoœci pliku: 
+Brak wartoœci sumy kontrolnej CRC: 
+Niew³aœciwa wartoœæ sumy kontrolnej CRC: 
+Uruchom teraz
+Priorytet dzia³ania
+Bezczynny
+Normalna
+Maksymalna
+B³¹d otwarcia foldera docelowego
+Po wczytaniu 1/dnia
+Powtarza siê
+Po: 
+Automatycznie
+Zawieœ w nastêpnym takim dniu
+Dowolny dysk twardy
+Nastêpuj¹cy projekt nie bêdzie wykonany, poniewa¿ inny oczekuj¹cy projekt jest wy³¹czony.
+Czy chcesz zmieniæ ustawienia?
+Przetwarzanie raportu
+Rozpoczêto operacjê zapisu pliku. Je¿eli zostanie wyœwietlony ten komunikat, Operacja zapisu zosta³a przerwana.
+Ta wersja Hard Disk Sentinel PRO nie jest zarejestrowana.\nIn the registered version it is possible to remove the question dialog to allow backup projects to be launched automatically.\n\nPlease visit our webpage at \n\nhttp://www.hdsentinel.com\n\nfor the instructions about registering the application.\n\nDo you want to open our website now?
+Alarm dŸwiêkowy podczas problemu
+Nie rozpoczynaj, je¿eli iloœæ danych jest mniejsza ni¿
+kilobajtów
+Alarmuj, je¿eli nie wystarcza danych
+Zapisz nazwê foldera Ÿród³owego równie¿ z jego zawartoœci¹
+Wypal CD/DVD przy u¿yciu NERO
+Skompresuj pliki przy u¿yciu RAR
+Skompresuj pliki przy u¿yciu 7-Zip
+Wybierz Apliacjê
+Zobacz wiersz poleceñ
+Napêd docelowy:
+Media:
+Szybkoœæ:
+Burn-proof
+Parametry:
+Plik docelowy:
+Wiele wolumenów, rozmiar wolumenu: 
+Nie okreœlono lokalizacji Nerocmd.exe.
+Nie okreœlono lokalizacji RAR.exe.
+Nie okreœlono lokalizacji 7Z.exe.
+Czy chcesz teraz skonfigurowaæ?
+Czêœciowa konfiguracja
+(Naciœnij CTRL+C, aby skopiowaæ zawartoœæ okna do schowka).
+Alarmuj przy b³êdzie
+Alarm bêdzie generowany  (w oparciu o skonfigurowane ustawienia wiadomoœci) je¿eli zewnêtrzna aplikacja zakoñczy³a z kodem wyjœcia innym ni¿ 0.
+Sprawdzanie zapisu
+B³¹d zewnêtrzny aplikacji
+Nastêpuj¹cy wiersz polecenia, zakoñczono z powodu b³êdu: 
+Kod b³êdu aplikacji: 
+Opcja Wake-on-LAN powinna byæ w³¹czona na komputerze docelowym.
+Poczekaj, a¿ komputer bêdzie gotowy (odpowiedŸ na polecenie PING)
+Zatrzymaj próby, je¿eli brak odpowiedzi na 
+Komputer docelowy:
+Dzia³anie:
+Zrestartuj
+Tryb gotowoœci
+Hibernacja
+Plik(i) Ÿród³owe:
+Folder(y) Ÿród³owe:
+Wiele e-maili, jeden plik na e-mail
+Serwer FTP:
+Tryb pasywny
+Eksportuj elementy rejestru
+W³¹cz zasilanie komputera
+Wy³¹cz zasilaniekomputera
+Wyœli pliki e-mailem
+Przeœlij pliki przez FTP
+Przeœlij pliki do serwera HDS
+Wêze³ g³ówny:
+Klucz:
+Okreœl klucz rejestru do eksportu.
+Nie okreœlono klucza
+Zdalny folder:
+Wybierz komputer lub wprowadŸ jako \\nazwa komputera
+Eksportuj elementy rejestru ...
+Uruchom kmputer(y)
+Pozosta³o sekund przed Anuluj:
+&Anuluj teraz
+Czekanie
+OdpowiedŸ
+Wy³¹czanie ...
+Wy³¹czanie inicjowane z
+Okreœl komputery docelowe rozdzielaj¹c je ,\nOkreœl . dla komputera lokalnego\nUwaga: tryb gotowoœci i hibernacja nie jest dostêpna na komputerach zdalnych
+Prób przesy³ania
+OpóŸnienie miêdzy ponowieniami (sek):
+B³¹d przesy³ania.
+Zbierz pliki, dopóki ca³kowity rozmiar nie osi¹gnie
+Przetestuj dysk(i) twarde
+Uruchom test na wszystkich dostêpnych dyskach twardych
+Napêd(y) do testowania:
+Nie mo¿na przetestowaæ dysku twardego
+Test dysku twardego nie powióod³ siê
+Wyniki testu dysku twardego:
+Obs³ugiwane auto-testy:
+Szczegó³y testu dysku twardego
+Znaleziono nowych przydzielonych sektorów
+Znaleziono nowych b³êdów prób ponowieñ wirowania
+Nowe zdarzenie realokacji
+Znaleziono nowych oczekuj¹cych sektorów
+Ustalone sektory oczekuj¹ce
+Znaleziono off-line nowych nienaprawialnych sektorów
+Kopiuj pliki ze Ÿród³a do miejsca docelowego
+Aktualizacja danych w miejscu docelowym i zachowanie plików w  miejscu docelowym, które usuniêto ze Ÿród³a
+Jeden sposóbw synchronizacji
+Aktualizacja danych w miejscu docelowym i usuwanie plików z miejsca docelowego, które usuniêto ze Ÿród³a
+Synchronizacja dwukierunkowa
+Aktualizuj dane zarówno Ÿród³owe jak i docelowe, zachowuj¹c najnowsze pliki w obu miejscach
+Kontrola Kopii Zapasowej
+Opcje synchronizacji
+Wszystkie usuniête pliki z miejsca  docelowego:
+Wszystkie aktualizowane dane do miejsca docelowego:
+Wszystkie dane kopiowane do Ÿród³a:
+Tylko pliki przetworzone
+Pasuj¹ce okreœlone filtry
+Konfiguracja filtrów plików
+Pomiêdzy datami
+oraz
+Nie starsze ni¿
+O rozmiarze
+Z atrybutami
+Archiwalny
+Tylko do odczytu
+Ukryty
+Systemowy
+Tworzenie i u¿ywanie plików CRC do przechowywania wartoœci CRC plików
+Do³¹czaj¹æ pasuj¹ce pliki
+Wykluczaj¹c pasuj¹ce pliki
+Masa pliku:
+tygodnie
+miesi¹ce
+lata
+\1  zawiera pe³n¹ listê b³êdów.
+Ca³kowita iloœæ znalezionych b³êdów:
+Konfiguruj foldery do utworzenia kopii zapasowej
+U¿yj pola wyboru do wybrania folderów RÓD£OWYCH lub wprowadŸ foldery z poni¿szej listy folderów oddzielone ;
+Wybierz folder DOCELOWY lub wprowadŸ jego œcie¿kê z poni¿szej listy
+Wszystkie pliki Ÿród³owe ze wszystkich folderów Ÿród³owych bêd¹ archiwizowane w tym samym miejscu docelowym, je¿eli ta opcja jest WY£¥CZONA.\nMo¿e to powodowaæ problemy z powodu utraty informacji o œcie¿ce.
+U¿ywanie jednej lub dwóch dróg synchronizacji z t¹ opcj¹ mo¿e spowodowaæ niekompletne archiwum.
+Czy na pewno chcesz kontynuowaæ?
+Wstrzymaj
+Kontynuuj
+Wstrzymano - naciœnij przycisk Kontynuuj
+Ignoruj pliki w u¿yciu (nie mo¿na udostêpniaæ)
+Wy³¹cz wiadomoœci ostrzegawcze

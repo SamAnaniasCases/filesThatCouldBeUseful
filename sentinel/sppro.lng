@@ -1,0 +1,248 @@
+Operaciones
+Proyectos
+Programar
+Nombre:
+Nuevo
+Eliminar
+Tipo:
+Ejecutar aplicación externa o archivo por lotes
+Línea de comandos:
+Iniciar invisible, sin mostrar ventana.
+Iniciar en:
+Crear nuevo proyecto
+Proyecto
+Nombre de proyecto inválido. No debe estar en blanco y debe ser un nombre que aún no exista. 
+Guardar
+Restaurar proyectos predeterminados
+Comienzo
+Hora
+Se puede aplazar
+Preguntar antes
+Tiempo fijo
+Después de cargar
+Eliminar
+Añadir nuevo proyecto a la lista
+Error al guardar el proyecto
+¿Quiere ejecutar este proyecto?
+Inicio del proyecto
+Error de inicio del proyecto.
+Comentario:
+Examinar
+Ejecutables|*.exe;*.bat;*.com|Todos los archivos|*.*
+Habilitado
+¿Quiere guardar la configuración modificada?
+¿Está seguro de que desea eliminar este proyecto?\nEl proyecto también se eliminará de la programación.\nNúmero de opciones de programación para este proyecto: 
+¿Seguro que quiere eliminar el proyecto?
+Transferir archivos y carpetas
+Fuente
+Destino
+Configurar
+Añadir
+Excepciones
+Por favor, especifique los archivos a ser excluidos por la aplicación:
+Los archivos especificados aquí serán ignorados por Hard Disk Sentinel. No se copiarán y no se verán afectados por ninguna opción.
+Ajustes globales
+Operaciones del proyecto
+Opciones de proyecto
+El contenido de estas carpetas se guardará en las carpetas de destino especificadas.
+Carpeta de origen
+Carpeta de destino
+Máscara de archivo
+Ajustes de carpeta
+La carpeta de destino se creará automáticamente (si es necesario). Es posible usar las siguientes variables para especificar una carpeta:\n\n%USER% - nombre del usuario\n\n%COMPUTER% - nombre del equipo\n\n%IP% - dirección IP del equipo\n\n%LAST=carpeta% - nombre de la última carpeta creada/modificada (la más reciente) en la carpeta especificada\n\nEs posible especificar dos o más carpetas de destino, sepárelas ; (punto y coma).
+Por favor, seleccione o especifique al menos una carpeta de origen.
+Por favor, especifique una carpeta de destino válida.
+Editar
+Calcular la cantidad de datos a copiar.
+Verificar datos copiados
+Copiar solo archivos nuevos y actualizados
+Limpiar bits de archivo en archivos copiados
+Eliminar archivos de origen después de una copia exitosa
+Use la fecha actual como nombre de carpeta y guarde la última
+archivos completos
+(Los archivos anteriores se eliminarán automáticamente antes de iniciar la operación real de guardado)
+Estado:
+Archivo:
+Cantidad de datos:
+Guardando datos
+Calculando la cantidad de datos
+Copiando documentos
+Actualizando archivos
+Eliminando el archivo anterior
+Verificando archivo
+ MB/seg
+minutos restantes
+segundos restantes
+Carpeta:
+Destino:
+Guardar subcarpetas
+Después de la finalización
+Enviar/mostrar informe solo si ocurrió un problema
+Enviar/mostrar informe en cualquier caso
+No enviar ni mostrar informe
+¿Está seguro de que desea eliminar los archivos de origen después de guardarlos?\n(Para maximizar la seguridad de los datos, se recomienda usar esta opción solo si se guardan los archivos en dos o más copias o si la opción "Verificar datos copiados" está habilitada.)
+Eliminando archivos fuente
+Completado
+Proyecto completado con éxito
+Estado del proyecto
+Error ocurrido durante la ejecución del proyecto.
+Número de archivos guardados:
+Tiempo total transcurrido:
+Lista de errores
+Cantidad total de datos guardados:
+No mostrar la ventana de progreso de guardado
+Tareas completadas con éxito
+Cancelado
+No hay datos para guardar
+No se puede abrir la lista de archivos para verificar desde esta carpeta: 
+No se puede eliminar: 
+La configuración del correo-e está incompleta
+Error de envío de correo-e
+No es posible abrir el archivo: 
+No se puede crear el archivo: 
+Imposible leer el archivo: 
+No se puede escribir el archivo (disco lleno o no se puede escribir): 
+No se puede verificar el archivo: 
+Falta el valor de suma de comprobación CRC: 
+Valor de suma de comprobación CRC incorrecto: 
+Empezar ahora
+Prioridad de la operación
+Inactiva
+Normal
+Máxima
+Fallo al abrir la carpeta de destino
+Después de cargar 1/día
+Repetitivo
+Después: 
+Automáticamente
+Suspender el dia siguiente
+Cualquier disco duro
+El siguiente proyecto no se ejecutará porque el proyecto del cual depende el inicio no está habilitado.
+¿Quiere modificar la configuración?
+Informe de procesamiento
+Se inició la operación de guardado de archivos. Si ve este mensaje, la operación de guardar fue abortada.
+Esta versión de Hard Disk Sentinel PRO no está registrada.\nEn la versión registrada es posible eliminar el diálogo de preguntas para permitir que los proyectos de respaldo se inicien automáticamente.\n\nVisite nuestra página web en \n\nhttp://www.hdsentinel.com\n\npara las instrucciones sobre el registro de la aplicación.\n\n¿Desea abrir nuestro sitio web ahora?
+Alerta sonora en caso de problema
+No iniciar si la cantidad de datos es menor de
+kbytes
+Emitir alerta si no hay suficientes datos
+Guardar el nombre de la carpeta fuente también con su contenido
+Grabar CD/DVD utilizando NERO
+Comprimir archivos utilizando RAR
+Comprimir archivos utilizando 7-Zip
+Seleccionar aplicación
+Ver línea de comandos
+Unidad de destino:
+Media:
+Velocidad:
+Quemar-prueba
+Parámetros:
+Archivo de destino:
+Múltiples volúmenes, tamaño del volumen: 
+La ubicación de Nerocmd.exe no está especificada.
+La ubicación de RAR.exe no está especificada.
+La ubicación de 7Z.exe no está especificada.
+¿Quiere configurarlo ahora?
+Configuración parcial
+(Presione CTRL + C para copiar el contenido de la ventana al portapapeles).
+Alerta de error
+La alerta se generará (según los ajustes de mensaje configurados) si la aplicación externa se completó con un código de salida distinto de 0.
+Verificar escribir
+Error de aplicación externa
+La siguiente línea de comandos se completó con un error: 
+Código de error de la aplicación: 
+La opción Wake-on-LAN debe estar habilitada en el equipo de destino.
+Espere hasta que el equipo esté listo (respuestas a PING)
+Dejar de intentarlo si no hay respuesta en
+Equipo de destino:
+Acción:
+Reiniciar
+Modo de espera
+Hibernar
+Archivo(s) de origen:
+Carpeta(s) de origen:
+Múltiples correos, un archivo por correo.
+Servidor FTP:
+Modo pasivo
+Exportar elementos de registro.
+Encender el ordenador
+Apagar el ordenador
+Enviar archivos por correo electrónico
+Archivos de transferencia FTP
+Subir archivos al servidor HDS
+Nodo raíz:
+Clave:
+Por favor, especifique una clave de registro para exportar.
+Sin clave especificada
+Carpeta remota:
+Seleccione el equipo o ingrese como \\nombre del equipo
+Exportando elementos de registro ...
+Inicio del(de los) equipo(s)
+Segundos restantes antes de cancelar:
+Cancelar ahora
+Esperando
+Respuesta
+Apagando ...
+Cierre iniciado desde
+Especifique los equipos de destino separados por ,\nEspecifique . para el equipo local\nNota: el modo de espera y la hibernación no están disponibles en los equipos remotos
+Reintentos de transferencia:
+Retraso entre reintentos (seg):
+Error de transferencia.
+Reunir archivos hasta que alcance el tamaño total
+Prueba de disco(s) duro(s)
+Ejecutar prueba en todos los discos duros disponibles
+Unidad(s) para probar:
+No se puede probar el disco duro
+Falló la prueba del disco duro
+Resultados de la prueba del disco duro:
+Auto-pruebas soportadas:
+Detalles de la prueba del disco duro
+nuevos sectores reasignados encontrados.
+se encontraron nuevos errores de reintento de giro.
+nuevos eventos de reasignación encontrados
+nuevos sectores pendientes encontrados.
+sectores pendientes fijos
+nuevos sectores incorregibles fuera de línea encontrados.
+Copiar archivos desde el origen al destino
+Actualice los datos en destino y mantenga los archivos en destino que se eliminaron del origen
+Sincronización unidireccional
+Actualice los datos en el destino y elimine los archivos del destino que se eliminaron del origen
+Sincronización bidireccional
+Actualice los datos tanto en el origen como en el destino manteniendo los archivos más recientes en ambas ubicaciones
+Control de copia de seguridad
+Opciones de sincronización
+Total de archivos eliminados de destino:
+Total de datos actualizados en destino:
+Total de datos copiados a la fuente:
+Procesar archivos solamente
+Coincidencia de filtros especificados
+Configurar filtros de archivos
+Entre las fechas
+y
+No mayor de
+Con tamaño
+Con atributos
+Archivo
+Solo lectura
+Oculto
+Sistema
+Cree y use archivos CRC para almacenar valores CRC de archivos
+Incluyendo archivos coincidentes
+Excluyendo archivos coincidentes
+Máscara de archivo:
+semanas
+meses
+años
+\1 contiene la lista completa de errores.
+Número total de errores encontrados:
+Configurar carpetas para copia de seguridad
+Use las casillas de verificación para seleccionar las carpetas FUENTE o ingrese las carpetas separadas por ; debajo de la lista de carpetas
+Seleccione la carpeta DESTINO o ingrese su ruta debajo de la lista
+Todos los archivos de origen de todas las carpetas de origen se archivarán en el mismo destino si esta opción está DESACTIVADA.\nEsto puede causar problemas debido a la pérdida de información de la ruta.
+El uso de la sincronización de una o dos vías con esta opción puede causar un archivo incompleto.
+Está seguro de que quiere continuar?
+Pausa
+Continuar
+En pausa - pulse el botón Continuar
+Ignorar archivos en uso (no se pueden compartir)
+Deshabilitar el mensaje de notificación de advertencia

@@ -1,0 +1,1329 @@
+Hard Disk Sentinel 已執行。
+錯誤
+硬碟溫度
+失敗預測
+良好
+支援
+不支援
+是
+硬碟
+選擇您想在狀態視窗中檢視詳情的硬碟。雙擊選取系統列圖示。按右鍵顯示跳顯功能表。
+編號
+名稱 (容量)
+溫度
+系統列圖示
+喜好設定
+啟動時顯示狀態視窗
+隨 Windows 啟動
+透明度:
+語系:
+關閉
+Hard Disk Sentinel
+選擇此磁碟以在系統列顯示其溫度
+顯示狀態視窗
+隱藏狀態視窗
+設定
+退出
+至少要選取一個硬碟。
+狀態視窗
+背景顏色
+背景圖案
+選擇
+開啟圖片檔案時錯誤。
+支援的圖片檔|*.jpg;*.bmp|所有檔案|*.*
+資訊
+自動偵錯
+磁碟效能
+分割區
+磁碟資訊
+傳輸速率資訊
+總讀取資料
+總寫入資料
+目前傳輸速率
+ KB／秒
+目前讀取速率
+目前寫入速率
+目前磁碟活動
+磁碟活動 %
+傳輸速率 (MB／秒)
+硬碟概要
+硬碟編號
+硬碟型號
+軔體版本
+硬碟序號
+容量
+ATA 資訊
+硬碟磁柱
+硬碟磁頭
+硬碟磁區
+總磁區
+ATA 版本
+位元組／磁區
+位元組／邏輯磁軌
+緩衝區大小
+多重磁區
+錯誤校正位元組
+未格式化時容量
+最大 PIO 模式
+使用中 PIO 模式
+最大 UDMA 模式
+使用中 UDMA 模式
+ATA 特性
+支援
+不支援
+屬性
+臨界點
+值
+最差
+資料
+狀態
+分割區資訊
+磁碟代碼
+容量
+可用空間
+分割區類型
+位元組
+已使用空間
+磁碟:
+最大傳輸速率
+預估最大傳輸速率
+DVD 寫入速度
+較大磁碟的使用需要測量。
+良好 (總是良好)
+故障 (總是故障)
+報告:超過使用限制
+故障預警︰資料遺失已預知
+複製整個頁面到剪貼簿
+硬碟溫度歷史
+自安裝後
+關於
+註冊
+註冊姓名:
+註冊碼:
+無效的註冊碼，註冊失敗。
+註冊成功。感謝您的支持。
+啟動時顯示主視窗
+只有在註冊及啟動後才能使用。
+未註冊版本‧請註冊。
+註冊給:
+概要
+目前溫度:
+本日最高溫度:
+溫度狀態正常。
+目前溫度過高。建議使用硬碟冷卻裝置 (例如風扇或散熱片)。
+目前溫度正常，但曾經溫度過高。建議使用硬碟冷卻裝置 (例如風扇或散熱片)。
+效能:
+健康:
+優
+好
+一般
+尚可
+差
+無須執行任何操作。
+建議經常進行備份，以避免重要資料遺失。
+內容
+硬碟總覽
+上一個硬碟
+下一個硬碟
+警示
+若預測到硬碟故障則寄送郵件警示
+若硬碟溫度過高則寄送郵件警示
+電子郵件設定
+郵件帳號:
+寄送者姓名:
+寄送者電子郵件:
+收件者電子郵件:
+SMTP 伺服器:
+驗證選項 (若不須驗證則將此欄位留白)
+使用者名稱:
+密碼:
+預設
+必須填寫下列欄位以寄送電子郵件:
+您是否要立即輸入相關資訊？
+寄送警示郵件時發生錯誤。
+警示郵件已寄送。
+過熱
+溫度臨界點設定:
+溫度單位:
+報告寄送中
+字型:
+儲存
+在系統列僅顯示最高溫度
+已傳輸資料單位:
+聲音管理設定
+已停用
+已啟用
+目前聲音等級
+建議聲音等級
+未知
+最高效能及噪音
+最低效能及噪音
+在效能和噪音間取得平衡
+聲音管理
+預設
+每日平均讀取
+每日平均寫入
+附著至螢幕邊緣
+警告
+傳送／顯示訊息
+關機
+當錯誤發生時
+當溫度過高
+當加入新的日誌事件時
+寄送每日狀態報告
+於
+關鍵值下降
+目前狀態
+狀態信件寄送時發生錯誤。
+狀態信件寄送成功。
+更新
+每周檢查新版本並更新
+立刻檢查新版本
+上次檢查日期:
+尚未檢查
+取消
+安裝的版本:
+最新版本:
+檔案更新中
+目前的檔案:
+整體進度:
+目前無可用的更新。
+下載時發生錯誤。請檢查網路並重試。
+已成功完成更新。
+狀態: 可用版本檢查中
+狀態: 下載中
+關閉
+找不到硬碟。
+自我偵測功能遺失。您需要將 Windows\System 資料夾內的 Smartvsd.vxd 檔案複製到 Windows\System\IoSubsys 資料夾中，並重新啟動電腦。請至『說明＞安裝』查看詳情。
+需要系統管理員權限以存取硬碟資訊。
+日誌
+已記錄的問題數量:
+注意︰註冊版可寄送警示信件，並在發現和記錄硬碟新的問題時關閉電腦。
+無已記錄的問題。
+硬碟狀態穩定。
+警告︰數天前硬碟狀態已經變差。
+日期
+先前的值
+新的值
+警告︰數天前發現了多個問題。
+原本使用中的硬碟無回應。可能是作業系統停止了此裝置以避免產生更多問題。
+程式狀態:
+讀取啟動資訊時錯誤。
+已成功註冊及啟動。
+已註冊但尚未啟動。
+尚未註冊及啟動。
+線上註冊及啟動
+以電子郵件註冊及啟動
+啟動檔案已另存為
+請將此檔案及您的註冊姓名和註冊碼寄送至 info@hdsentinel.com。原作者將把註冊檔回寄給您，該檔案可由『載入啟動檔案』按鈕載入 (或將其手動複製到軟體安裝的資料夾)。
+建議以線上方式啟動，因為較為快速簡便。
+此註冊碼的啟動次數已達上限。
+啟動時發生錯誤
+連接啟動伺服器時發生錯誤。
+請連絡原作者以解決授權問題。
+應用程式已使用此註冊碼啟動了五種不同的設定。
+從伺服器讀取資料時發生錯誤。
+無法啟動。
+啟動完成，感謝您的支持。
+啟動成功
+以電子郵件啟動
+在 Windows 98 下，USB 裝置可能導致此錯誤的發生，因為 USB 裝置可能導致第二個 IDE 通道的自動偵錯發生問題。
+磁碟無回應。
+磁碟長時間無回應。可能已被中斷。
+在工作列和系統列同時顯示程式
+正在分析系統。請稍等。
+說明
+請輸入您的註冊姓名 (真名或暱稱) 及您收到的註冊碼。若您的電腦有連上網路，請選擇線上啟動：此方式會自動註冊並啟動，無需其化操作。否則，請選擇以電子郵件方式啟動，並寄送相關檔案給原作者。您將收到您的啟動檔案，請將其放置到應用程式所在的資料夾即可。
+事件
+介面翻譯者:
+Mike Hsiao
+hsiaomike007@yahoo.com.tw
+電子郵件
+純文字檔案
+所有檔案
+溫度過高時圖示應以紅色顯示
+進階選項
+偵測頻率:
+一秒
+五秒
+十秒
+三十秒
+一分鐘
+兩分鐘
+五分鐘 (預設)
+十分鐘
+三十分鐘
+一小時
+硬碟無回應時啟用警告
+本日平均溫度:
+目前
+每日平均
+每日最高
+聲音警示
+選擇聲音檔
+聲音檔
+雙擊滑鼠或按右鍵以顯示更多資訊。
+調整
+確定
+取消
+執行此指令時發生錯誤。
+此功能需要 Windows 2000, XP 或更高版本的作業系統。
+當磁碟可用空間過低時
+設定磁碟空間臨界值
+對所有已安裝的硬碟使用相同設定值
+通用設定
+可用空間低於此數值時警示
+磁碟空間過低
+低
+啟動 Windows 時停用自動磁碟掃描
+需要重新開機以使新的設定生效。
+依據原子鐘同步電腦的時間
+當程式啟動時
+您是否要於小視窗中檢視硬碟狀態？\n(以後可在系統列圖示按右鍵，\n並選擇功能表中的『設定』即可變更此設定。)
+此硬碟不支援溫度監控。
+在此硬碟上無法測定。
+說明
+說明無法使用。請從網站下載完整的應用程式安裝包。
+選取的硬碟無法使用此功能。
+修改 Windows 檔案總管中預設的硬碟圖示
+SCSI 資訊
+廠商資訊
+版本
+裝置類型
+磁碟
+可移除磁碟
+故障預警
+固定式磁碟
+遠端磁碟
+光碟儲存裝置
+標示的邏輯磁碟屬於目前的實體硬碟。
+變更顯示模式
+標籤名稱
+序號
+監看網路硬碟空間
+快捷鍵
+指令
+啟用系統快捷鍵 (可在任一應用程式中使用)
+磁碟控制
+變更網路硬碟的預設系統圖示
+監看可移除磁碟的空間
+變更可移除磁碟的預設系統圖示
+不檢查下列磁碟的空間資訊: (例如: CDE)
+不變更下列磁碟的預設系統圖示: (例如: KL)
+雙擊可開啟磁碟機，F5 重新整理。
+磁碟機中無碟片
+郵件測試
+若此訊息已寄送，代表電子郵件的設定正確。
+測試郵件已成功寄送。
+測試郵件寄送時發生錯誤。請檢查電子郵件的設定。
+通電使用時間:
+天
+小時
+分鐘
+預估剩餘壽命:
+大於
+秒
+連結埠:
+開始掃描前延時 (秒):
+健康值:
+當磁碟健康狀況下降
+緊急備份
+健康臨界值:
+於螢幕顯示訊息
+寄送訊息至遠端電腦 (網路傳送):
+此功能僅限專業版使用。\n透過使用此功能，程式可在偵測到硬碟發生問題時啟動預設的備份操作。\n\n請至官網 (www.hdsentinel.com) 閱讀此功能的詳情。
+健康狀況不佳
+建立測試報告
+寄送報告時發生錯誤。\n請開啟設定視窗，選擇寄送測試報告，將報告儲存並寄送至 reports@hdsentinel.hu
+訊息設定
+寄送電子郵件
+寄送前使用預設的網路連線撥號
+寄送完成時中斷連線
+同時顯示純文字檔的自訂訊息
+請稍等，測量中...
+註冊訊息無效 - 此功能已停用。
+健康資訊
+儲存時發生錯誤。可能是磁碟已滿或唯讀。
+臨界點／系統列圖示
+在系統列圖示顯示硬碟溫度
+低於
+介於 \1 及 \2
+溫度:
+高於
+使用典型 (數位) 系統列圖示數字
+背景
+前景
+範例
+在系統列顯示硬碟健康符號
+應用程式資訊
+目前日期及時間
+系統資訊
+Windows 版本
+CPU 類型及速度
+BIOS 製造商
+實體記憶體大小
+顯示卡
+顯示解析度
+印表機
+網路控制卡
+PCI 裝置資訊
+電腦資訊
+電腦名稱
+使用者姓名
+IP 位址
+MAC 位址
+實體磁碟資訊
+旗標
+重要
+統計
+效能
+錯誤率
+事件計數
+自我保護
+個人電腦
+伺服器
+筆記型電腦
+電腦類型
+一般資訊
+HTML 檔案|*.html|所有檔案|*.*
+儲存報告
+以電子郵件寄送報告
+報告類型:
+詳細的 HTML 報告
+簡要的純文字報告
+寄送測試報告
+要顯示的硬碟資訊
+硬碟型號
+邏輯磁碟
+健康
+狀態／問題
+實體磁碟
+硬碟狀態未知。
+硬碟狀態良好。
+硬碟狀態不佳。
+此硬碟預期將出現錯誤。
+磁碟表面有 \1 個損壞的磁區。該磁區的內容將被搬移至備用區域。
+根據重新映像的次數，磁碟的健康狀況將有不同程度的下降。
+根據重新映像的次數，損壞的磁區可能形成連續區域。
+磁碟機自我測試時發現 \1 個損壞的磁區。
+磁碟轉動時發生 \1 次加速問題。這可能是由磁碟本身或電源超載 (電源供應器輸出不足) 所造成的。
+磁碟表面發現 \1 個弱磁區。它們有可能在下次使用磁碟時被重新映射。
+磁碟與主機間通訊發生 \1 次錯誤。若情況為異常當機或重開機，建議您換用較短的排線 (使用 80 針的標準排線，避免使用圓形纜線)。
+建議定期檢查磁碟日誌。日誌將記錄所有新增的問題。
+硬碟的狀態優良。未發現有問題的磁區，且沒有旋轉或資料傳輸的錯誤。
+套用
+偏移
+偏移:
+建議校正溫度，並在自動偵錯標籤頁設定溫度偏移量。完成後將會顯示正確的溫度值。
+健康計算方式:
+分析資料欄位 (預設)
+分析廠商指定數值 (不建議)
+超出臨界值於:
+屬性圖
+顯示資料欄位
+顯示廠商實際數值
+非預期
+已發生
+詳細的純文字報告
+檔案
+檢視
+報告
+儲存 TXT 報告
+儲存 HTML 報告
+寄送 TXT 報告
+寄送 HTML 報告
+建議持續監控硬碟狀態。
+分析資料欄位 (較嚴格，建議用於伺服器)
+修改屬性偏移
+此選項僅建議進階使用者使用。啟用此選項時，顯示的狀態可能與實際狀況並不相同。您是否確定要變更此選項？
+不再顯示此訊息
+此選項僅建議進階使用者使用。啟用此選項時，可能會顯示不正確的狀態，而且有可能錯過一些狀態變更的警示。您是否確定要變更此選項？
+停用聲音警示
+啟用聲音警示
+設定聲音等級時發生錯誤。\n硬碟控制卡或其驅動程式並不支援此功能。
+此磁碟不支援即時效能監控。
+注意: 未註冊版本將不會儲存這些變更的設定。應用程式重新執行，時這些設定會被回復為預設值。
+啟用屬性
+重複聲音警示
+使用電腦喇叭
+寄送測試
+訊息已成功寄送至目標電腦。
+操作時發生錯誤。請檢查兩台電腦的網路連線狀況，以及即時訊息服務的執行狀態。
+問題觸發聲音警示
+重新啟用警示
+ATA 控制位元組
+有效
+無效
+ATA 校驗和數值
+顯示的資訊可能不正確。
+測試聲音警示
+在桌面建立此計劃的捷徑
+建立捷徑
+此計劃的捷徑已成功建立至桌面。
+建立此計劃的捷徑時發生錯誤。
+註冊資訊已到期。請連絡原作者以延長授權。
+傳送狀態視窗的滑鼠點擊動作至視窗
+在桌面顯示資訊
+授權有效期限:
+永久
+過期
+無
+全透明背景
+整合
+服務
+開啟主資訊視窗時需要密碼
+開啟設定視窗或關閉 Hard Disk Sentinel 時需要密碼
+超過
+分鐘後登出
+密碼:
+立刻登出
+作為服務使用
+作為應用程式使用
+遠端控制
+啟用遠端連線至 Hard Disk Sentinel 伺服器
+伺服器名稱或 IP 位址:
+TCP 連結埠 (預設值 = 61210):
+保護
+安裝 Hard Disk Sentinel 服務時發生錯誤
+啟動 Hard Disk Sentinel 服務時發生錯誤
+停止 Hard Disk Sentinel 服務時發生錯誤
+Hard Disk Sentinel 已經儲存目前的設定而且將會關閉。它將以服務模式重新啟動。
+Hard Disk Sentinel 服務已經儲存目前的設定而且將會關閉。它將以應用程式模式重新啟動。
+需要取得存取權限
+輸入的密碼無效。無法使用此功能。
+要關閉 Hard Disk Sentinel 服務，請使用『停止服務』的捷徑，或於設定視窗的整合面板切換回應用程式模式並關閉程式。
+否
+高
+最大
+Hard Disk Sentinel 於服務模式執行時無法進行更新。請於更新前先從整合面板切換回應用程式模式。
+服務模式
+安全模式 (停用硬體偵測)
+Hard Disk Sentinel 服務尚未安裝。請開啟設定視窗，選擇整合面板並安裝 Hard Disk Sentinel 服務。
+Hard Disk Sentinel 服務已執行。
+Hard Disk Sentinel 服務未執行。
+平均傳輸速率
+平均磁碟活動
+重複測試
+尚未取得資訊
+Hard Disk Sentinel 服務已停止。\n您是否要停用服務並以應用程式模式啟動？
+Microsoft Vista 及之後版本的作業系統不允許服務與桌面交互作用。\n\nHard Disk Sentinel 將隱身執行: 其視窗及圖示將不顯示，且您不可對其進行設定。\n\n如需停止服務並切換到應用程式模式，\n請由 Hard Disk Sentinel 群組選擇『停止服務』捷徑。\n\n您是否確定要繼續？
+查明此數值是如何計算得到的
+請於合適的權限下執行此應用程式。
+磁碟圖示集:
+XP
+Vista
+點此處開始
+硬碟測試
+測試操作:
+狀態:
+預估剩餘時間:
+開始測試時發生錯誤。錯誤代碼為:
+執行中，未發現問題
+回應:
+經過時間:
+此註冊碼僅適用於註冊標準版本。\n請至 www.hdsentinel.com 下載並安裝標準版本以使用此註冊碼。
+此註冊碼僅適用於註冊專業版本。\n請至 www.hdsentinel.com 下載並安裝專業版本以使用此註冊碼。
+臨界值以 MB 為單位
+確認:
+兩次輸入的密碼不相同。\n請輸入相同的密碼以供確認。
+啟用網頁狀態
+詢問密碼以建立連線
+HTTP 連結埠
+連結埠位址 (>1023)
+屬性備註
+十進位資料欄位
+磁碟機已嘗試 \1 次對資料磁區進行檢查與重新分配。已檢查的資料區域無異常。
+立即更換硬碟。
+詳細的報告元件:
+備份／還原目前的設定值
+備份設定值
+還原設定值
+光碟機
+產生並更新 XML 檔案
+硬碟溫度感應器錯誤。測量值為:
+接受伺服器遠端連線
+遠端連線埠
+停用系統列圖示氣泡警示
+停用 USB 與 SCSI 磁碟機的偵測
+寄送
+備註:
+寄送給開發者
+正在連結伺服器 - www.hdsentinel.com
+報告寄送中
+報告已成功寄送。\n感謝您的支持。
+寄送測試報告給程式開發者
+報告建立中
+我希望收到報告評估後的回覆
+此為錯誤報告
+開啟 HD Sentinel 主視窗
+可見
+硬碟大小單位:
+分割區大小單位:
+CC (副本):
+BCC (密件副本):
+更新測試報告
+(預估)
+正在計算時間，請稍等。目前的估計值可能不精確。
+遠端路徑
+已到達黃色溫度預警等級。
+已到達紅色溫度預警等級。
+已到達黃色健康預警等級。
+已到達紅色健康預警等級。
+界限:
+溫度:
+屬性已變更
+清空日誌
+背景執行
+啟用動態 DNS 服務
+啟用 No-IP 服務
+啟用自訂動態 DNS 服務
+設定
+使用者名稱
+密碼
+主機名稱 (全名)
+要更新的完整 URL (%ip% 則隨目前的 IP 變更)
+前次回應的伺服器:
+小工具
+啟用小工具
+顯示標頭
+顯示磁碟活動
+您是否要立即更新 IP 位址以測試此設定？
+找到的問題數量標示為下列屬性:
+讀取:
+寫入:
+所有磁碟
+活動圖示
+以獨立的系統列圖示顯示所有磁碟活動
+(高字組)
+(中字組)
+(低字組)
+電源狀態:
+活動中
+休眠中
+(自 \1)
+系統運行時間
+系統開機於
+磁碟控制卡
+磁碟位置
+拜訪我們的網站
+與我們連絡
+立刻購買
+輸入註冊碼
+此清單包含 \1 個項目。請註冊軟體以檢視所有項目。
+CPU 使用率
+CPU
+虛擬記憶體
+已使用:
+硬碟正以效能較低的 PIO 模式運作。建議檢查並更換排線或修改設定。
+硬碟正以效能較低的 UDMA 模式二 (33 MB／秒) 運作。如果控制卡支援高速資料傳輸率，建議使用 80 針 的 IDE 排線。
+美商晶像 (SiI) 控制卡可能無法提供所有已連接磁碟的完整資訊。
+目前磁碟控制卡的驅動程式無法提供對磁碟本身的完全存取，以讀取所有詳細資訊。請檢查驅動程式是否有更新。
+此 USB 儲存裝置不提供自身的詳細資訊。但仍可藉由『磁碟 -> 表面測試』功能來測試是否存在問題。
+磁碟陣列不提供對陣列中磁碟詳情的存取。但仍可藉由『磁碟 -> 表面測試』功能來測試是否存在問題。
+請使用『報告』功能表中的『寄送測試報告給開發者』選項，以協助我們判定是否有可能偵測並顯示更多資訊。
+請至 www.hdsentinel.com 的『硬體』及『支援 -> 常見問題』頁面以取得詳情。
+啟用
+測量期間最高溫度:
+測量期間最低溫度:
+二小時
+四小時
+六小時
+八小時
+十二小時
+保留一
+保留二
+已達黃色溫度限制。如果磁碟機的溫度繼續升高，建議使用硬碟降溫裝置 (例如風扇或散熱片)。
+選擇『臨界點／系統列圖示』頁面可以設定健康值，以及黃色與紅色等級的溫度臨界值。
+危險的
+建議立即備份以避免資料遺失。
+小型按鈕
+標準按鈕
+大型按鈕
+偏好選項:
+介面:
+訊息
+隨機搜尋測試
+測試磁碟機的搜尋效能、噪音及溫度
+搜尋時間
+最低
+最高
+平均
+測試
+經過時間
+剩餘時間
+操作
+錯誤
+開始測試
+停止測試
+快速測試
+標準測試
+深入測試
+長時間密集測試
+自訂時間
+完成測試時間 (時:分:秒):
+讀取測試
+寫入測試
+此功能於未註冊版本只能使用一次。
+您是否要立刻開啟軟體網頁以取得註冊的詳情？
+您是否確定要停止此項操作？
+因為磁碟控制卡及磁碟機的設定，此功能無法用於選取的磁碟機。
+Hard Disk Sentinel 評估版本
+註冊版本的 Hard Disk Sentinel 藉由警示、磁碟診斷、自動備份 (僅專業版本)、遠端管理及更多測試功能，以提供最高等級的資料防護，並增加儲存裝置的穩定性及效能。\n\n此展示版本提供多達三十天的時間，讓使用者評估最重要的功能及檢驗與系統的相容性。試用期結束後，您應該購買授權以升級至註冊版本，否則應停止使用本軟體。\n\n購買授權版本的優點:\n\n- 最高等級的資料防護\n- 快速、安全且多樣化的付款方式\n- 立即解鎖並取得所有的功能\n- 免費的技術支援與協助\n- 終生授權，無訂閱或更新費用\n- 沒有任何限制及惱人的提示
+自動偵錯偏移量已設定為用於計算此數值的屬性
+選擇系統列字型
+不允許降低磁碟轉速 (以逗號隔開編號，例如 1,2 或使用 * 代表全部)
+線上檢測
+與其它同型號裝置比較此裝置的自動偵錯數值，以檢視目前屬性比平均值高或低
+磁碟表面測試
+使用不同的方式和測試來分析磁碟表面
+磁碟表面映像圖
+溫度及傳輸速度
+區塊
+損壞
+進度
+次數
+時間
+預估
+磁區
+測試停止
+無法鎖定磁碟以供獨佔使用。\n您是否確定仍要執行測試 (不建議)？
+測試完成
+位置
+連續測試
+從起始到結尾測試區塊
+隨機測試
+依隨機順序測試區塊
+蝴蝶測試
+交替: 從起始一個區塊，然後結尾一個區塊的交替測試
+連續反向測試
+從結尾到起始測試區塊
+磁區
+檢驗錯誤
+儲存磁碟資訊
+載入磁碟資訊
+正在初始化...
+磁碟內容檢視器
+上一頁
+下一頁
+前往...
+請選擇要測試的磁碟機 (作業系統可存取的) 及測試方式。\n請在開始測試前仔細閱讀詳情資訊。\n點擊查看以檢視磁碟表面的詳情，使用 \1 檢閱先前的測試結果。
+讀取測試
+讀取磁碟表面以檢驗是否所有的磁區都可被存取且可讀取。\n\n此測試是安全的，不會影響儲存的資料。\n\n磁碟的問題可能仍被隱藏，且發現的問題將不會被修復 (類似 ScanDisk)。
+寫入測試
+以可設定的資料樣本覆寫磁碟表面。強制分析所有的弱磁區、檢驗所有隱藏的問題，並嘗試透過重新分配損壞的磁區來修復它們 (磁碟重生)。\n\n測試後將使用備用的區域，而非有問題的磁區以提高磁碟效能。
+寫入 + 讀取測試
+以可設定的資料樣本覆寫磁碟表面並讀出寫入的內容，以檢驗該區塊可被存取且內容正確。強制分析所有的弱磁區、檢驗所有隱藏的問題，並嘗試透過重新分配損壞的磁區來修復它們 (磁碟重生)。\n\n測試後將使用備用的區域，而非有問題的磁區以提高磁碟效能。
+讀取 + 寫入 + 選取測試 (更新資料區域)
+讀取每個區塊儲存的資料，寫回該內容，最後再讀取該資訊並與原始內容比對。透過此深入測試，將在寫回內容之前使用額外的寫入循環以改善錯誤校正的效率 (磁碟重生)。\n\n此操作通常對於儲存的資料是安全的，但在系統不穩定和／或斷電、超頻、記憶體／電源／排線問題，及其它因素下可能會造成資料遺失。\n\n此測試可被用於重新整理儲存裝置的資料區域而無需完全抹除，但仍建議您在測試前備份重要資料。
+重新初始化磁碟表面
+以特定的初始化樣本覆寫磁碟表面，將磁區復原為預設 (空白) 狀態，然後讀出寫入的內容，以檢驗該區塊可被存取且內容正確。強制分析所有的弱磁區、檢驗所有隱藏的問題，並嘗試透過重新分配損壞的磁區來修復它們 (磁碟重生)。\n\n測試後將使用備用的區域，而非有問題的磁區以提高磁碟效能。\n是一種非常極端且耗時的測試，尤其是當等級 (覆寫次數) 設為高時。\n\n這種測試在其它工具中通常被稱為『低階格式化』。
+磁區順序
+非破壞性 - 資料是安全的
+測試期間鎖定磁碟 (卸載卷輯)
+重覆測試
+次
+指定資料區塊以限制測試
+第一個區塊:
+最後一個區塊:
+破壞性 - 所有資料會被移除
+空資料 (零)
+隨機資料
+磁區編號
+含額外寫入操作的大規模讀取-寫入-讀取測試
+表面重新初始化等級
+大部份性況下為非破壞性 (參考備註和說明) 
+此測試將永久破壞選取磁碟機上的所有資料。\n此功能無法復原。\n\n您是否確定要在遺失磁碟機中所有資料的情況下執行此測試？
+此測試將在選取的磁碟機上執行寫入操作。\n測試本身不具備破壞性但仍可能遺失資料。\n\n您是否確定要執行此測試？
+測試確認
+點擊磁碟表面映像圖可檢視磁區內容。\n\n按右鍵可開啟內文功能表。
+此測試測量所有區塊的傳輸時間，以找出哪個磁碟表面區域較慢。較慢的區塊將以深色標示。
+開發者並不提供關於儲存資料的任何保證。
+目前次數
+所有次數
+無法在包括下列任何資料夾的系統碟執行寫入測試
+載入的資訊屬於不同磁碟機。\n當滑鼠點擊磁碟表面映像圖時，將顯示目前磁碟機的磁區。
+在此情況下，更換磁碟將不再提供保證，僅在磁碟健康情況下降時才進行此動作。
+您是否要同時喚醒其它休眠的硬碟？\n否則只有活動中的硬碟資訊會被更新。
+更新磁碟資訊
+測試類型:
+資料衝突:
+寫入模式 
+重置最高及最低溫度值
+最高溫度 (整個壽命期間):
+顯示數值
+使用 SSL
+SSD 控制卡
+固態硬碟的狀態為優良。未發現問題或弱磁區。
+健康值由固態硬碟的指定屬性所指定: 
+管理磁碟特性
+傳送指令至磁碟時發生錯誤。\n硬碟控制卡或驅動程式不支援此功能。\n\n在更新驅動程式，或使用不同的作業系統，不同的硬碟控制卡，\n或支援的 USB 附件／擴充船塢後，該指令應可完成。
+啟用及調整
+停用
+啟動前延遲 (秒):
+自訂溫度臨界點
+黃色溫度界限:
+紅色溫度界限:
+停用所選磁碟機的自訂臨界點
+設定自訂溫度臨界點
+修改自訂溫度臨界點
+自訂
+共用
+此免費版本的 Hard Disk Sentinel 僅有一個磁碟可自行設定溫度臨界值。
+目前的 Windows 9x/ME 系統遺失自動偵錯驅動程式。\n您是否要自動更新設定並立刻重新啟動電腦？
+載入啟動檔案
+NTFS 掛載點
+掛載點
+注意: 您的資料可能無法被完整保護。
+限時特惠: 立刻升級可省下 \1 的授權費用！
+(於線上註冊時輸入折扣代碼 \1 或點選下面的連結)
+繼續下一步之前請等待 \1 秒...
+標籤資訊
+分割區類型
+使用中
+對齊
+啟用偏移量
+長度
+配置單位大小
+總配配置單位
+可用配置單位
+已使用配置單位
+標籤類型
+動態
+基本
+開啟離線磁碟狀態
+勾選磁碟以便用連線（線上）磁碟方式檢視其狀態。
+離線
+勾選磁碟以便加入至可靠磁碟報告中。
+儲存可靠磁碟報告 (HTML)
+驗證可靠磁碟報告
+選擇的檔案並非可靠磁碟報告。
+可靠磁碟報告已成功驗證且有效。
+可靠磁碟報告無效或損壞。
+可靠磁碟報告
+Windows 標籤／磁碟陣列資訊
+資料傳輸期間有 \1 筆錯誤發生。這代表裝置或資料／電源線可能有問題。建議檢查並更換該排線。
+寫入裝置期間有 \1 筆錯誤發生。
+由於磁碟陣列控制卡的限制，可能導致無法進一步偵測硬碟資訊。此限制並非來自 Hard Disk Sentinel 軟體本身。
+訂閱新聞郵件以得知軟體更新及特別活動的訊息
+選擇『報告』功能表－＞『寄送測試報告給程式開發者』，並選擇訂閱新聞郵件以收到關於特別活動及軟體更新的訊息。
+每日最低
+標準寬度
+支援固態硬碟的 TRIM 功能，且已啟用以提高最佳效能。
+支援固態硬碟的 TRIM 功能，但已停用。建議升級作業系統，硬碟控制卡或其驅動程式以增進效能。
+壽命期間寫入:
+總啟動／停止次數:
+喜好設定不提供進一步的硬碟狀態資訊。但『磁碟』功能表的『表面測試』功能可檢查磁碟功能，顯示並修復可能的問題。
+目前的版本已到期。請輸入註冊碼以繼續使用本軟體。
+記錄中無內容。
+匯出傳送速度數值
+重新啟動時自動調整設定
+更多資訊:
+點此新增註釋...
+註釋
+變更資料夾以儲存統計資料及設定值
+重覆授權警告
+相同註冊碼被同時使用於安裝版及可攜式版本的 Hard Disk Sentinel。要完整使用兩種版本的功能，需要針對不同版本使用各自的授權。
+前次更新狀態日期:
+查看磁碟保固
+複製選擇的數值至剪貼簿
+由於系統及應用程式的動作，在測試過程中存取某些磁碟區域可能會變慢，這會導致程式凍結。
+重設工作量計數器
+您是否要分別儲存所選擇磁碟機的報告？
+磁碟機 \2 所偵測到的總容量 (\1) 不正確，容量應為 \3。
+目前的磁碟控制器／磁碟機／轉接器可能無法完全相容於 \1
+使用該磁碟可能導致檔案系統損壞及／或資料遺失。
+建議檢查並修改硬碟配置，或升級作業系統、硬碟控制器及／或磁碟機，以安全使用本裝置。
+裝置詳細資訊
+磁碟控制器僅提供一般性的自我監控（自動偵錯）狀態，不包含額外的詳細內容。
+自動偵錯狀態為:
+永遠保持在最上層
+需要由『檔案 -> 退出』完全關閉並重新執行，以便讓此變更生效。
+系統閒置時間
+偵測到下列錯誤:
+狀態資訊及可能的錯誤是由硬碟 (RAID) 控制器所提供。因此可能會與實體磁碟的狀態不同。
+自動上傳狀態至伺服器
+系統管理資訊
+此硬碟的分割區被建立為 \1 的物理磁區大小。
+但目前的物理磁區大小是 \1。
+以與原本不同的連接方式（不同的硬碟控制器，USB，eSATA 介面）連接硬碟可能導致所有資料夾及檔案無法存取。
+建議使用先前的連接方式（換用不同的 USB 埠，線，擴充座等等）重新連接硬碟以存取分割區中所有已儲存的資料，否則資料有可能遺失。
+判斷檔案資訊
+無法判斷磁碟機的編排。
+無法偵測分割區／邏輯磁碟的資訊。
+此磁區無分割區的定義。
+未知檔案
+邏輯磁碟 \1 中未使用的磁區
+屬性:
+檔案碎片數量:
+偵測含有錯誤磁區的檔案資訊
+正在偵測檔案資訊
+正在偵測磁碟資訊
+最近偵測到的資訊
+出現錯誤的檔案
+年
+月
+自訂健康臨界值
+黃色健康臨界值:
+紅色健康臨界值:
+設定自訂臨界值
+修改自訂臨界值
+雙擊以調整自訂健康臨界值
+磁碟連接／移除事件日誌
+此日誌顯示於 Hard Disk Sentinel 執行期間所有連接及移除的磁碟，並顯示在程式未執行時磁碟配置的變更（於下次啟動時偵測）。
+條目數量:
+日期及時間
+磁碟機
+非使用中時
+已連接
+已移除
+如果發生突然的系統當機，重新開機，藍畫面死當，無法存取檔案／資料夾，建議檢查資料傳輸線或電源線的連接情況，情況許可的話，請嘗試更換不同的纜線以避免更嚴重的問題。
+理想傳輸率
+協調傳輸率
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=自動偵錯
+Security Mode=安全模式
+Power Management=電源管理
+Write Cache=寫入快取
+Host Protected Area=主保護區域
+Advanced Power Management=進階電源管理
+Advanced Power Management Level=進階電源管理等級
+Current APM Level=目前的進階電源管理等級
+Extended Power Management=延伸電源管理
+APM01=最小電源消耗，使用待命
+APM02=中級電源管理等級，使用待命
+APM80=最小電源消耗，不使用待命
+APM81=中級電源管理等級，不使用待命
+APMFE=最高效能及電源消耗
+FreeFall01=最低靈敏度的掉落事件
+FreeFall02=均衡靈敏度的掉落事件
+FreeFallFF=最高靈敏度的掉落事件
+Current Sensitivity=目前的靈敏度
+Power Up In Standby=待機喚醒
+48-bit LBA Addressing=48 位元 LBA 定址
+Device Configuration Overlay=裝置設定覆蓋
+Read/Write DMA Queue=讀／寫 DMA 序列
+Native Command Queuing=原生指令序列 (NCQ)
+Read Ahead Buffer=預讀緩衝區
+Maximum Multiword DMA Mode=最大多字組 DMA 模式
+Active Multiword DMA Mode=啟用多字組 DMA 模式
+IORDY Support=IORDY 支援
+Maximum sectors transferred on R/W multiple=於多重讀／寫已傳送最大磁區
+Minimum multiword DMA transfer time=最小多字組 DMA 傳輸時間
+Recommended multiword DMA transfer time=建議多字組 DMA 傳輸時間
+Minimum PIO transfer time without IORDY=最小 PIO 傳輸時間 (無 IORDY)
+Minimum PIO transfer time with IORDY=最小 PIO 傳輸時間 (有 IORDY)
+Security Erase=安全抹除
+Security Erase Time=安全抹除時間
+Security Enhanced Erase Feature=加強型安全抹除功能
+Security Enhanced Erase Time=加強型安全抹除時間
+Security Enabled=安全性已啟用
+Security Locked=安全性已鎖定
+Security Frozen=安全性已凍結
+Security Counter Expired=安全計數器已到期
+Security Level=安全等級
+Serial ATA Features=Serial ATA 特性
+Interface=介面
+S-ATA Compliance=S-ATA 相容
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I 發訊速度 (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=S-ATA II 發訊速度 (3 Gps)
+Receipt Of Power Management Requests From Host=主機電源管理接收請求
+PHY Event Counters=PHY 事件計數器
+Non-Zero Buffer Offsets In DMA Setup FIS=DMA 設定 FIS 中的非零緩衝偏移
+DMA Setup Auto-Activate Optimization=設定自動啟動優化
+Device Initiating Interface Power Management=裝置初始化介面電源管理
+In-Order Data Delivery=資料依序傳送
+Asynchronous Notification=不同步通知
+Software Settings Preservation=軟體設定保留
+Queue Length=序列長度
+Disk Family=磁碟家族
+Form Factor=磁碟尺寸
+Capacity=容量
+Number Of Disks=碟片數
+Number Of Heads=磁頭數
+Rotational Speed=轉速
+RPM=RPM
+Rotation Time=旋轉時間
+Average Rotational Latency=等待空轉平均延遲
+Disk Interface=磁碟介面
+Buffer-Host Max. Rate=緩衝區-主機間最高傳輸速率
+Drive Ready Time (typical)=磁碟就緒時間 (典型)
+Average Seek Time=平均搜尋時間
+Track To Track Seek Time=軌至軌搜尋時間
+Full Stroke Seek Time=全程搜尋時間
+Width=寬
+Depth=長
+Height=高
+Weight=重量
+grams=公克
+pounds=英磅
+Acoustic=聲音
+Idle=閒置
+Required power for spinup=旋轉所需電力
+Power required (seek)=電源需求 (搜尋)
+Power required (idle)=電源需求 (閒置)
+Power required (standby)=電源需求 (待命)
+Manufacturer=製造商
+Manufacturer Website=製造商網頁
+; list of SMART features
+S.M.A.R.T. Details=自動偵錯詳情
+Off-line data collection=離線資料修正狀態
+OFF00=從未開始
+OFF02=已成功完成
+OFF03=動作進行中
+OFF04=被主機的中斷指令暫停
+OFF05=被主機的中斷指令中止
+OFF06=被出現嚴重錯誤的裝置中止
+Self test execution status=自測執行狀態
+SET00a=已成功完成
+SET00b=從未開始
+SET01=被主機中斷
+SET02=被軟／硬體重置的主機中斷
+SET03=測試時發生嚴重／未知的錯誤
+SET04=未知的因素導致測試失敗
+SET05=電力因素導致測試失敗
+SET06=伺服機構／搜尋因素導致測試失敗
+SET07=讀取因素導致測試失敗
+SET08=可能出現測試失敗或操作損壞
+SET15=測試進行中
+SETCO=已完成
+Total time to complete off-line data collection=完成離線資料搜集時間總計
+Execute off-line immediate=立即執行離線
+Abort/restart off-line by host=由主機中止／重新啟動離線
+Off-line read scanning=離線讀取掃描
+Short Self-test=簡易自我測試
+Extended Self-test=完整自我測試
+Selective Self-test=選擇性自測
+Conveyance self-test=傳輸自測
+Save data before/after power saving mode=於省電模式前／後儲存資料
+Enable/Disable attribute autosave=啟用／停用屬性自動儲存
+Error logging capability=錯誤記錄能力
+Short Self-test Estimated Time=簡易自測預估時間
+Extended Self-test Estimated Time=完整自測預估時間
+Conveyance self-test estimated time=傳輸自測預估時間
+Last Short Self-test Result=前次簡易自測結果
+Last Short Self-test Date=前次簡易自測日期
+Last Short Self-test Duration=前次簡易自測花費時間
+Last Extended Self-test Result=前次完整自測結果
+Last Extended Self-test Date=前次完整自測日期
+Last Extended Self-test Duration=前次完整自測花費時間
+Last Conveyance Self-test Result=前次傳輸自測結果
+Last Conveyance Self-test Date=前次傳輸自測日期
+Last Conveyance Self-test Duration=前次傳輸自測花費時間
+NOP Command=NOP 指令
+Trusted Computing=可信賴運算
+64-bit World Wide ID=64 位元全球代碼
+Streaming=串流
+Media Card Pass Through=通過媒體卡
+General Purpose Logging=一般用途記錄
+Error Logging=錯誤記錄
+CFA Feature Set=CFA 特性集
+Long Physical Sectors=長實體磁區
+Long Logical Sectors=長邏輯磁區
+Write-Read-Verify=讀寫驗證
+NV Cache Feature=NV 快取功能
+NV Cache Power Mode=NV 快取電源模式
+
+# added 4 Nov 2008 
+Transport Version=傳輸版本
+NV Cache Size=NV 快取大小
+Free-fall Control=硬碟掉落控制
+Free-fall Control Sensitivity=硬碟掉落控制靈敏度
+Non-rotating Media (SSD)=固態硬碟 (SSD)
+Nominal Media Rotation Rate=理想的媒體旋轉率
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA Gen3 發訊速度 (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=CFast 裝置
+SSD Features=SSD 特性
+Data Set Management=資料集管理
+TRIM Command=TRIM 指令
+Deterministic Read After TRIM=TRIM 後確定讀取
+
+Operating System TRIM Function=作業系統 TRIM 功能
+
+# added 3 Oct 2011
+
+Self-Test Results=自我測試結果
+SST05=第一階段測試失敗
+SST06=第二階段測試失敗
+SST07=自我測試於測試階段失敗
+SSTN=自我測試階段
+SSTN0=無法取得階段識別
+SSTH=開機時數
+SSTL=錯誤位址（邏輯區塊位址）
+SSHL=硬碟有下列問題:
+
+
+SA1=讀取磁碟原鈶資料時發生錯誤\代表磁碟表面或讀／寫頭的問題。
+SA2=硬碟一般處理效能\代表馬達或軸承的問題。
+SA3=軸承完整旋轉一圈所需時間\代表馬達或軸承的問題。
+SA4=軸承起動／停止週期的計數\此數值不直接影響磁碟機的狀態。
+SA5=磁區搬移至備用區域的計數\代表磁碟表面或讀／寫頭的問題。
+SA6=讀取資料時的通道極限值\此屬性的真正功能未被指定。
+SA7=讀／寫頭的定位出錯率\代表伺服機構、磁頭的問題。溫度過高亦可能導致此問題。
+SA8=磁頭搜尋操作的平均時間\代表伺服機構的問題。
+SA9=磁碟機通電時間總計\量測單位由各廠商自行制定。
+SA10=嘗試開始旋轉重試計數\代表馬達、軸承或電源供應器的問題。
+SA11=嘗試校準磁碟機次數\代表馬達、軸承或電源供應器的問題。
+SA12=完整通／斷電週期的次數\此數值不直接影響磁碟機的狀態。
+SA13=軟體讀取錯誤次數\無法修正的讀取錯誤次數。
+SA184=快取記憶體與主機間傳輸時的對位錯誤次數。
+SA187=無法使用硬體錯誤修正方法復原的錯誤。
+SA187MTRON=虛擬區塊抹除計數\代表儲存裝置磨損。
+SA188=硬碟逾時中斷操作的次數。值大於零代表電源供應器或或次料排線有問題。
+SA189=磁頭定位範圍以外的不安全寫入操作次數。
+SA190=氣流溫度\硬碟機殼內的空氣溫度。
+SA191=機械錯誤次數\震動或搖動造成的錯誤次數。
+SA192=斷電週期的計數\此數值不直接影響磁碟機的狀態。
+SA193=載入／卸載週期的計數\磁頭移動至定位區位置的週期數。
+SA194=磁碟溫度\硬碟機殼內的溫度。
+SA195=可修正的錯誤計數\由內置錯誤修正機制修正的錯誤次數。
+SA196=磁區重新映像操作計數\所有 (完成和失敗的) 重新映像操作次數。
+SA197=不穩定的磁區計數\這些磁區可能被重新映像至備用區域。
+SA198=不可修正的讀／寫錯誤計數\代表磁碟表面或讀／寫頭的問題。
+SA199=磁碟與主機間資料傳輸的錯誤計數\代表電源供應器或資料排線的問題。
+SA200=寫入磁碟原始資料時發生錯誤\代表磁碟表面或讀／寫頭的問題。
+SA201=軟體讀取錯誤次數\無法修正的讀取錯誤次數。
+SA202=資料位址標示錯誤次數\不正確或無效的位址標示次數。
+SA203=資料修正錯誤次數\修正錯誤時發現無效的錯誤的修正效驗值。
+SA204=修正的資料錯誤次數\由內部錯誤修正機制修正的錯誤數。
+SA205=溫度問題次數\因為高溫造成的問題總數。
+SA206=磁頭浮動高度\磁頭高於磁碟表面的高度。
+SA207=目前的旋轉值\轉動磁碟機所需的電流。
+SA208=轉動所需的週期數\轉動時因為低電流的重試次數。
+SA209=離線操作時的磁碟機效能\磁碟機內部自測的搜尋效能。
+SA211=寫入操作時的震動次數。
+SA212=寫入操作時的衝擊次數。
+SA220=磁碟與軸承的相對位移距離\機械衝擊或高溫會導致不正確的磁碟旋轉。
+SA221=機械錯誤次數\衝擊或震動造成的錯誤數。
+SA222=通電小時數\此數值會持續增加 (每小時加一)。
+SA223=載入／卸載操作的次數\磁頭進入／離開資料區的次數。
+SA224=機械摩擦率\機械零件的摩擦率。代表磁碟機的機械次系統的問題。
+SA226=磁頭負載總時間\讀／寫磁頭位於資料區的時間。
+SA227=轉矩增加率\硬碟轉動時增加的轉矩。
+SA228=斷電週期數\磁頭因為斷電而縮回的次數。
+SA230=磁頭定位振幅\磁頭運作時移動的距離。
+SA231=磁碟溫度\硬碟機殼內的溫度。
+SA240=磁頭定位小時數\磁頭定位所花費的時間。
+SA250=讀取操作時的重試次數\讀取磁碟表面的磁區時發現的錯誤數。
+SA254=加速度感應器偵測到的自由落體事件數。
+SA255=廠商指定\此屬性的用途和數值由製造商定義。
+
+SC01=緩衝區高於／低於執行計數器
+SC02_0000=未使用真實延時修正寫入錯誤
+SC02_0001=使用可能的延時修正寫入錯誤
+SC02_0002=寫入錯誤總計
+SC02_0003=已修正的寫入錯誤總計
+SC02_0004=使用演算法修正的寫入錯誤總計
+SC02_0005=寫入的總位元組
+SC02_0006=未修正的寫入錯誤總計
+SC03_0000=使用 ECC 硬體方式修正讀取錯誤
+SC03_0001=使用可能的延時修正讀取錯誤
+SC03_0002=讀取錯誤總計
+SC03_0003=已修正的讀取錯誤總計
+SC03_0004=使用演算法修正的讀取錯誤總計
+SC03_0005=讀取的總位元組
+SC03_0006=未修正的讀取錯誤總計
+SC04_0000=使用 ECC 硬體方式修正讀取顛倒錯誤
+SC04_0001=使用可能的延時修正讀取顛倒錯誤
+SC04_0002=讀取顛倒錯誤總計
+SC04_0003=已修正的讀取顛倒錯誤總計
+SC04_0004=使用演算法修正的讀取顛倒錯誤總計
+SC04_0005=讀取顛倒的總位元組
+SC04_0006=未修正的讀取顛倒錯誤總計
+SC05_0000=未使用真實延時修正校驗錯誤
+SC05_0001=使用可能的延時修正校驗錯誤
+SC05_0002=校驗錯誤總計
+SC05_0003=已修正的校驗錯誤總計
+SC05_0004=使用演算法修正的校驗錯誤總計
+SC05_0005=已校驗的總位元組
+SC05_0006=未修正的校驗錯誤總計
+SC06_0000=非介質錯誤
+SC07=前次錯誤事件
+SC0B=前次延期錯誤或非同步事件
+SC0D_0000=溫度
+SC0D_0001=參考溫度
+SC0E_0001=製造日期 (年／周)
+SC0E_0002=結算日期
+SC0E_0003=裝置壽命期間特定週期計數
+SC0E_0004=累計起止週期
+SC0E_0005=裝置壽命期間特定裝卸載計數
+SC0E_0006=累計裝／卸載週期
+SC0F=應用程式用戶端參數資料
+SC10=自測結果日誌
+SC11_0001=續航指示器已使用百分比
+SC18=特定連接埠協定日誌
+SC1A_0001=到活動中的累計轉變期
+SC1A_0002=到閒置Ａ的累計轉變期
+SC1A_0003=到閒置Ｂ的累計轉變期
+SC1A_0004=到閒置Ｃ的累計轉變期
+SC1A_0008=到待命Ｚ的累計轉變期
+SC1A_0009=到待命Ｙ的累計轉變期
+SC37_0000=傳送至初始器的區塊
+SC37_0001=接收自初始器的區塊
+SC37_0002=讀取自快取並傳送至初始器的區塊
+SC37_0003=小於區段大小的輸入／輸出指令
+SC37_0004=大於區段大小的輸入／輸出指令
+SC3E_0000=通電時間
+SC3E_8000=通電時間
+SC3E_0008=距下次內部測試時的剩餘分鐘
+
+## added 13 May 2015 ##
+
+Motherboard=主機板
+Product=產品
+Asset Tag=Asset Tag
+Memory Module=記憶體模組
+Chassis=機殼
+
+
+## added 22 Feb 2017 ##
+
+Disk repair=磁碟修復
+Repair=修復
+Repair successful=修復成功
+Repair failed=修復失敗
+\1 sector(s) successfully repaired.=\1 個磁區已修復成功。
+read test with sector repair=讀取測試並修復磁區
+RepairDesc=讀取磁碟表面以確認磁區可正常讀取，並強迫磁碟機修復任有問題（潛在、不穩定）的磁區：必要時修復其狀態至可用或重新分配磁區（以備用區域取代），以避免該磁區被進一步使用。\n\n此測試可保護已儲存資料的安全，並讓損壞的檔案變成可讀取，但可能造成存放於故障磁區的碎裂檔案毀損。位於受影響的修復磁區檔案會於測試完成後列出。\n\n使用此測試的優點為可修復磁碟中的弱磁區而無需進行完整備份（以及使用重新初始化磁碟表面測試），且同時適用於系統及第二磁碟。
+Multiple disk drives=多個磁碟機
+\1 drive(s) selected=\1 個磁碟機已選擇
+Select disk drive(s) to be tested=選擇要測試的磁碟機
+Are you sure you want to perform disk testing on multiple disk drives?=您是否確定要執行多個磁碟機的測試？
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=您是否要排除系統磁碟，僅測試其它磁碟？
+Byte / byte sequence=位元組／位元組序列
+Maximum try count=最大重試次數
+Add to Windows event log=加入到 Windows 事件記錄日誌
+Provide status information by WMI=由 WMI 提供狀態資訊
+Automatic detection based on disk utilization=基於磁碟使用率自動偵測
+Automatically save disk test results to folder=自動儲存磁碟測試結果至資料夾
+Selected disk only=目前磁碟機
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=請檢查您的防火牆設定，確認軟體可存取使用中的伺服器，然後稍後再試一次。\n\n或者，您可利用『以電子郵件註冊及啟用』按鈕來啟用本軟體。
+Control device-specific detection=控制裝置特性偵測
+Select device type to detect status and health information by the appropriate detection method.=選擇裝置類型並藉由合適的偵測方式以偵測其狀態及健康資訊。
+DeviceSpecificDesc=Hard Disk Sentinel 會在裝置中存放一個旗標檔案（零位元組，不佔用磁碟空間）以記錄選擇的磁碟類型。其用於接下來的偵測直到裝置完全刪除／格式化。
+Note=備註
+Complete erase / re-format does not reset the health and statistics.=完整刪除／重新格式化不會重置健康及統計資料。
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=選擇不適合的裝置類型可能造成快閃存取裝置不必要的損耗，且可能導致資料毀損。
+Auto Detect=自動偵測
+Part number(s)=料號
+Device type detection successfully completed.=裝置類型偵測已成功完成。
+The device does not respond to detection, further status information cannot be detected.=裝置對偵測無回應，無法取得更進一步的狀態資訊。
+Running=執行中
+Inactive=未啟用
+without monitoring=不進行監控
+
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=監控與磁碟及儲存裝置問題有關的 Windows 事件日誌
+Configure NAS Disk Monitoring=設置 NAS 磁碟監控
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=指定狀態來源以監控網路連接儲存 (NAS) 磁碟。
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=狀態來源檔包含硬碟、固態硬碟、儲存裝置的完整狀態，Hard Disk Sentinel 會讀取它們並在該硬體連接時顯示符合的資訊。
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=狀態來源檔儲存及更新於 NAS 裝置，是由 Hard Disk Sentinel 的 Linux 版本所建立。
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=自動偵測功能會在可取得的網路磁碟中自動偵測可能的狀態來源檔 (HDSReport.html)。
+Status Source=狀態來源
+Auto Detect=自動偵測
+&Browse=瀏覽(&B)
+Add &URL=新增位址(&U)
+&Edit=編輯(&E)
+&Delete=刪除(&D)
+&Test=測試(&T)
+Status source files=狀態來源檔案
+HPA Security Extensions=主機保護區安全延伸
+Service Interrupt=服務中斷
+IDLE IMMEDIATE command with UNLOAD feature=IDLE IMMEDIATE 命令包含 UNLOAD 指令
+Nominal Form Factor=型式上的外觀規格
+Additional Product Identifier=附加產品識別碼
+Read Zeroes After TRIM=TRIM 後資料歸零
+Device Encrypts All User Data=裝置加密所有的使用者資料
+Sanitize=消毒
+Overwrite=覆寫
+Crypto Scramble=亂碼加密
+Block Erase=區塊清除
+Sanitize Antifreeze Lock=防凍結鎖定消毒
+ACS-3 Commands Allowed By Sanitize=ACS-3 命令由消毒指令允許
+NCQ Streaming=原生指令排序 (NCQ) 串流
+NCQ Autosense=原生指令排序 (NCQ) 自動檢測
+Automatic Partial to Slumber Translations=自動部份作用至睡眠模式轉換
+Rebuild Assist=重新建立幫助
+Hybrid Information=混合資訊
+Device Sleep (DevSleep)=裝置休眠 (DevSleep)
+DevSleep to ReducedPwrState=裝置休眠以減少電源消耗
+Recently the following entries added to System Event Log:=最近下列條目新增至系統事件日誌:
+errors=錯誤
+most recent=最近
+warnings=警告
+The following function can be used to improve the situation:=下列功能可用於改善狀態:
+Certain detection functions to access disk status disabled.=某些存取磁碟狀態的偵測功能被停用。
+Please change the following option:=請變更以下選項:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=您是否要立即更新？
+Update not selected.=未選擇更新。
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Windows Defender 的受控資料夾存取權功能會防止存取磁碟狀態資訊。
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=您是否允許將 Hard Disk Sentinel 加入到許可軟體清單以偵測並診斷磁碟狀態？（建議）
+Note: without this permission, unstable operation and limited functionality will likely occur.=注意：若無此許可，有可能發生不穩定的操作且功能受限制。
+Disk Access Blocked=已限制磁碟存取
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=NVMe 命名空間資訊
+Total Sectors=所有磁區
+Active LBA Format Index=使用中的邏輯區塊位址 (LBA) 格式索引
+LBA Formats Supported=可支援邏輯區塊位址 (LBA) 格式
+LBA Format List=邏輯區塊位址 (LBA) 格式清單
+Best=最優
+Better=較佳
+Good=好
+Degraded=已退化
+Zoned Capabilities=區域性能
+SCT Command Transport=自動偵錯命令傳輸
+SCT Error Recovery Control=自動偵錯命令傳輸錯誤復原控制
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=在警示中包含問題概要
+Alert about problematic drive(s) only=只警示有問題的磁碟機
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=變更啟始於 \1
+Timestamp=時間戳記
+No entries found=未找到條目
+Error log=錯誤日誌
+No error information recorded=無錯誤資訊記錄
+The list automatically cleared by the controller on power cycle and reset=清單被電源週期及重置控制器自動清除
+Depending on the configuration, the test duration may be different than estimated.=依據系統配置差異，測試時間可能與預估有所不同。
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=為避免 NVMe 控制器驅動程式太頻繁使用測試命令，請稍後再試。
+
+No device self-test operation in progress=裝置的自我測試操作未執行。
+Aborted by command=由命令中止
+Aborted by controller reset=由控制器重置命令中止
+Aborted due to removal of namespace=由於名稱空間被移除而中止
+Aborted due to Format NVM command=由於 NVM 的格式化命令而中止
+Fatal error or unknown test error=嚴重的錯誤或未知的測試錯誤
+Failed in an unknown test segment=於未知的測試段失敗
+Failed in one or more test segment(s)=於一或多個測試段失敗
+Aborted for unknown reason=因未知原因而中止
+No self-test information recorded=未記錄自我測試的資訊
+
+Repaired=已修復
+Failed=失敗
+Quick Fix=快速修復
+QuickFixDesc=檢驗磁碟哪些區域被報告有問題且最近寫入，然後診斷、修復那些（及附近的）磁區和關鍵系統區域。該測試強制修復磁碟任何有問題的（未知、弱）磁區：必要時將狀態恢復為良好或重新分配（從備用區域替換），以避免進一步使用原磁區。\n\n與完整掃描不同，此測試可能無法找到並修正所有可能的問題，因此最好用於問題數量較少且健康值較高的磁碟，以修復弱磁區而無需完整備份（並使用重新初始化磁碟表面測試）。\n\n該測試可用於系統及第二磁碟，且對於儲存的資料是安全的。可能損壞的檔案可讀取，但損壞磁區上的檔案片段可能已損壞。測試完成時會列出受影響的已修復磁區上的檔案。
+
+targeted repair of problematic sectors=指定修復有問題的磁區
+Last error (hour)=上次錯誤（小時）
+Error free hours=無錯誤小時
+Never=從未
+Open Disk Management=開啟磁碟管理
+Open Device Manager=開啟裝置管理員
+Windows Drive Index=Windows 磁碟索引

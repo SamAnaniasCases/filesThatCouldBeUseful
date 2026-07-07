@@ -1,0 +1,1362 @@
+Hard Disk Sentinel wird bereits ausgeführt
+Fehler
+Temperatur der HD
+Versagen möglich
+OK
+Unterstützt
+Nicht unterstützt
+Ja
+ &Festplatten
+Festplatten für Überwachungsanzeige im Statusfenster: Doppelklick für Anzeige im Tray, Rechtsklick zeigt Kontextmenü.
+Nr.
+Name (Größe)
+Temperatur
+Trayicon
+ &Einstellungen
+Statusfenster beim Start anzeigen
+Mit Windows starten
+Transparenz:
+Sprache:
+Schließen
+Hard Disk Sentinel
+Laufwerke für Temperaturanzeige im Tray wählen
+&Statusfenster anzeigen
+Statusfenster verstecken
+&Konfiguration
+Beenden
+Mindestens eine HD muss gewählt werden.
+ &Statusfenster
+Hintergrundfarbe
+Hintergrundbild
+Auswählen
+Fehler beim Öffnen der Bilddatei.
+Unterstützte Bildformate|*.jpg;*.bmp|Alle Dateien|*.*
+Informationen
+S.M.A.R.T.
+Laufwerk Leistungsfähigkeit
+Partitionen
+Laufwerk Informationen
+Informationen zur Transferrate
+Daten gelesen
+Daten geschrieben
+Aktuelle Transferrate
+ KB/s
+Aktuelle Leserate
+Aktuelle Schreibrate
+Aktuelle Laufwerkaktivität
+Laufwerkaktivität %
+Transferrate (MB/s)
+Festplattenübersicht
+Festplatte Nummer
+Festplatte Modell-ID
+Firmware-Revision
+Seriennummer
+Gesamtgröße
+ATA-Informationen
+Anzahl Zylinder
+Anzahl Köpfe
+Anzahl Sektoren
+Sektoren gesamt
+ATA-Revision
+Bytes pro Sektor
+Bytes pro logischer Spur
+Puffergröße
+Mehrfach-Sektoren
+Fehlerkorrektur-Bytes
+Unformatierte Kapazität
+Maximaler PIO-Modus
+Aktiver PIO-Modus
+Maximaler UDMA-Modus
+Aktiver UDMA-Modus
+ATA-Features
+Unterstützt
+Nicht unterstützt
+Attribut
+Schwellenwert
+Wert
+Schlechtester
+Daten
+Status
+Partitions-Informationen
+Logisches Laufwerk
+Speicherplatz
+Platz frei
+Partitionstyp
+Byte
+Speicherplatz genutzt
+Laufwerk:
+Maximale Transferrate
+Geschätzte max. Transferrate
+DVD-Schreibgeschwindigkeit
+Höhere Laufwerknutzung zum Messen nötig.
+OK (immer bestanden)
+Ausfall (immer fehlerhaft)
+Hinweis: Nutzungslimit überschritten
+Vorausfall: Datenverlust möglich
+Komplette Seite in Zwischenablage kopieren
+Festplatte &Temperaturverlauf
+seit Installation
+Über
+&Registrieren
+Reg.-Name:
+Reg.-Schlüssel:
+Ungültiger Registrierungsschlüssel, Registrierung fehlgeschlagen!
+Registrierung war erfolgreich. Danke für Ihre Unterstützung!
+Hauptfenster bei Programmstart anzeigen
+Nur nach Registrierung und Aktivierung verfügbar.
+Nicht-registrierte Version, bitte registrieren.
+Registriert für:
+Übersicht
+Aktuelle Temperatur:
+Maximale Temperatur (heute):
+Der Temperaturstatus ist gut.
+Aktuelle Temperatur ist zu hoch. Es wird empfohlen, wenn möglich einen Festplattenkühler zu verwenden (z.B. einen Lüfter oder einen passiven Kühler).
+Aktuelle Temperaturwert ist gut, war jedoch früher bereits zu hoch. Es wird empfohlen, wenn möglich einen Festplattenkühler zu verwenden (z.B. einen Lüfter oder einen passiven Kühler).
+Leistung:
+Zustand:
+Exzellent
+Gut
+Mittelmäßig
+Akzeptabel
+Schlecht
+Keine Aktionen erforderlich.
+Es wird empfohlen, öfter Sicherungen durchzuführen, um Datenverlust zu vermeiden.
+&Eigenschaften
+Festplatte &Übersicht
+&Vorherige HD
+&Nächste HD
+&Warnungen
+E-Mail-Warnung, bei zu erwartendem Festplattenfehler senden
+E-Mail-Warnung, bei Überschreiten der Festplattentemperatur senden
+&E-Mail-Konfiguration
+Mail-Konto:
+Absendername:
+Absender E-Mail:
+Empfänger (@):
+SMTP-Server:
+Authentifizierung (leer lassen, wenn keine Authentifizierung erforderlich)
+Benutzername:
+Passwort:
+Vorgabe
+Folgendes Feld muss spezifiziert werden, wenn Mails verschickt werden sollen:
+Wollen Sie diese Informationen jetzt eingeben?
+Fehler beim Senden der E-Mail-Warnung
+E-Mail-Warnung gesendet
+Überhitzung
+Schwellenwert Temperatur:
+Temperatureinheit:
+Sende Bericht
+Schrift:
+Speichern
+Nur die höchste Temperatur im Tray anzeigen
+Übertragene Dateneinheit:
+Akustikmanagement-Konfiguration
+Deaktiviert
+Aktiviert
+Aktueller Geräuschpegel
+Empfohlener Geräuschpegel
+Unbekannt
+Max. Leistung und Lautstärke
+Min. Leistung und Lautstärke
+Ausgeglichene Leistung und Lautstärke
+Akustikmanagement
+Vorgabe
+Mittel der Lesezugriffe pro Tag
+Mittel der Schreibzugriffe pro Tag
+An Bildschirmkanten andocken
+Warnung
+Nachricht senden/anzeigen
+Herunterfahren
+Bei zu erwartendem Fehler
+Bei zu hoher Temperatur
+Bei neu eingefügtem Protokoll-Eintrag
+Tägliche Statusmails senden
+Um
+Kritische Werteänderung
+Aktueller Status
+Statusmail Sendefehler.
+Statusmail erfolgreich gesendet.
+&Aktualisierung
+Wöchentlich auf neue Version und Update prüfen
+Jetzt auf neue Version prüfen
+Letzte Überprüfung:
+Keine Überprüfungen vorgenommen
+Abbrechen
+Installierte Version:
+Neueste Version:
+Aktualisiere Dateien
+Aktuelle Datei:
+Gesamtprozess:
+Die Software-Version ist im Moment aktuell.
+Fehler beim Download. Bitte Verbindung prüfen und nochmal versuchen.
+Update erfolgreich abgeschlossen.
+Status: Prüfe verfügbare Version
+Status: Lade herunter
+Schließen
+Festplatte nicht gefunden.
+S.M.A.R.T.-Funktionalität fehlt. Sie müssen  die Datei Smartvsd.vxd aus dem Ordner Windows\System in den Ordner Windows\System\IoSubsys kopieren und Ihren Rechner neu starten. Bitte wählen Sie Hilfe -> Installation für Details.
+System Administrator Rechte für Zugriff auf Laufwerksinformationen erforderlich.
+Protokoll
+Anzahl protokollierter Probleme:
+Beachten Sie: Die registrierte Version kann E-Mail-Warnungen versenden und den Rechner bei einem neu entdeckten und protokollierten Festplattenproblem herunterfahren.
+Keine Probleme protokolliert.
+Der Status der Festplatte ist stabil.
+Warnung: Festplattenstatus hat sich in den letzten Tagen verschlechtert.
+Datum
+Vorheriger Wert
+Neuer Wert
+Warnung: mehrere Probleme in den letzten Tagen gefunden.
+Eine zuvor intakte Festplatte reagiert nicht mehr. Es ist möglich, dass das Betriebssystem das Gerät angehalten hat, um (weitere) Probleme zu verhindern.
+Programmstatus:
+Fehler beim Lesen der Aktivierungsinformationen.
+Erfolgreich registriert und aktiviert.
+Registriert jedoch nicht aktiviert.
+Nicht registriert und nicht aktiviert.
+Online registrieren und aktivieren
+Registrierung und Aktivierung per E-Mail
+Aktivierungsdatei wird gespeichert als
+Bitte senden Sie diese Datei mit Ihrem Registrierungsnamen und Registrierungsschlüssel an info@hdsentinel.com  Der Autor wird Ihnen die Registrierungsdatei, die mit dem Button Aktivierte Schlüsseldatei laden geladen werden sollte (Sie können diese auch manuell in das Anwendungsverzeichnis kopieren), wieder zurückschicken.
+Es wird die Online-Aktivierungsmethode empfohlen, sie ist schneller und komfortabler.
+Maximale Anzahl an Aktivierungen für diesen Registrierungsschlüssel erreicht.
+Aktivierungsfehler
+Fehler bei der Kommunikation mit dem Aktivierungsserver.
+Bitte kontaktieren Sie den Entwickler wegen Ihrer Lizenz.
+Die Anwendung ist mit diesem Registrierungsschlüssel bereits in 5 Konfigurationen aktiviert.
+Fehler beim Lesen der Serverdaten.
+Aktivierung nicht möglich.
+Aktivierung fertiggestellt, danke für Ihre Unterstützung.
+Aktivierung erfolgreich
+Aktivierung per E-Mail
+Unter Windows 98 ist es möglich, dass ein USB-Gerät dieses Problem verursacht, weil es Probleme mit S.M.A.R.T. auf dem zweiten IDE-Kanal hat.
+Festplatte reagiert nicht.
+Festplatte hat seit langem nicht reagiert. Sie könnte abgesteckt worden sein.
+Die Anwendung in Taskleiste und Systemtray anzeigen
+Analysiere System. Bitte warten.
+Hilfe
+Bitte geben Sie Ihren Registrierungsnamen (Name oder Spitzname) und den Registrierungsschlüssel ein, den Sie erhalten haben. Wenn Ihr Rechner eine aktive Internetverbindung besitzt, wählen Sie bitte Online-Aktivierung: in diesem Fall geschieht die Registrierung und Aktivierung automatisch, somit sind keine weiteren Aktionen nötig. Andernfalls wählen Sie bitte die E-Mail-Aktivierungsmethode und senden Sie die angezeigte Datei an den Autor.  Sie werden eine aktivierte Schlüsseldatei erhalten, bitte kopieren Sie diese in das Verzeichnis dieser Anwendung.
+Ereignis
+Interface übersetzt von:
+Kurt Lettmaier
+k.lettmaier@onlinehome.de
+E-Mail
+TXT-Dateien
+Alle Dateien
+Das Icon sollte bei Überschreiten der Temperatur rot sein
+&Erweiterte Optionen
+Erkennungsfrequenz:
+1 Sekunde
+5 Sekunden (Vorgabe)
+10 Sekunden
+30 Sekunden
+1 Minute
+2 Minuten
+5 Minuten
+10 Minuten
+30 Minuten
+1 Stunde
+Warnung aktivieren, wenn Festplatte nicht reagiert.
+Temperatur-Mittel (heute):
+Aktuell
+Tägliches Mittel
+Tägliches Maximum
+Sound- Warnung
+Sounddatei wählen
+Sounddateien
+Doppelklick oder Rechtsklick zur Anzeige von mehr Informationen.
+Anpassen
+OK
+Abbrechen
+Fehler beim Ausführen dieses Befehls aufgetreten.
+Dieses Feature erfordert Windows 2000, XP oder neuere Betriebssysteme.
+Bei wenig Festplattenspeicher
+Freier Speicher: Schwellenwert setzen
+Gleiche Einstellungen für alle installierten Festplatten verwenden
+Globale Einstellung
+Warnung, wenn Plattenspeicher kleiner ist als
+Wenig Festplattenspeicher
+Wenig
+Automatisches Scandisk beim Start von Windows deaktivieren
+Um die Einstellungen zu übernehmen ist ein Neustart des Systems erforderlich.
+Rechneruhr mit Atomuhr synchronisieren
+Beim Start der Anwendung
+Wollen Sie den Status der Festplatten in einem kleinen Statusfenster sehen?\n(Diese Änderung können Sie später durch Rechtsklick auf\ndas Trayicon und die Auswahl von "Konfiguration" im Menü ändern.)
+Temperatur wird von dieser Festplatte nicht unterstützt.
+Kann auf dieser Festplatte nicht bestimmt werden.
+&Hilfe
+Hilfe steht nicht zur Verfügung. Bitte laden Sie das volle Installationspaket von der Webseite der Anwendung herunter.
+Diese Funktion steht die gewählte Festplatte nicht zur Verfügung.
+Standard-Festplattensymbole ändern
+SCSI-Informationen
+Hersteller-Informationen
+Version
+Gerätetyp
+Laufwerk
+Wechselmedium
+Ausfallvorhersage
+Festplatte
+Remote-Laufwerk
+Optisches Speichermedium
+Die markierten log. Laufwerke gehören zur aktuellen physikal. Festplatte.
+Anzeigemodus ändern
+Datenträger Label
+Seriennummer
+Speicherplatz auf Netzlaufwerken überwachen
+Hot&Keys
+Befehl
+System-Hotkeys aktivieren (können von jeder Anwendung aus genutzt werden)
+&Laufwerkssteuerung
+Standard-Systemsymbol für Netzlaufwerke ändern
+Speicher auf Wechseldatenträgern überwachen
+Standard-Systemsymbol für Wechseldatenträger ändern
+Keine Speicherinformationen folgender Laufwerke prüfen: (z.B.: CDE)
+Standard-Systemsymbol folgender Laufwerke nicht ändern: (z.B.: KL)
+Doppelklick öffnet Laufwerk. F5 für Aktualisieren.
+Kein Medium im Laufwerk
+Mail-Test
+Wurde Ihnen diese Meldung zugestellt, ist die E-Mail-Konfiguration korrekt.
+Test-E-Mail erfolgreich gesendet.
+Fehler beim Senden der Test-E-Mail. Bitte überprüfen Sie Ihre E-Mail-Konfiguration.
+Betriebszeit:
+Tag(e)
+Stunde(n)
+Minute(n)
+Geschätzte verbl. Lebensdauer:
+Mehr als
+Sekunden
+Port:
+Verzögerung vor Start von Scandisk (Sek.):
+Zustandswert:
+Bei schlechtem Zustand der Platte
+Panik-Backup
+Zustandsschwelle:
+Meldung auf Bildschirm anzeigen
+Meldung an Remote-Rechner (NET SEND) senden:
+Diese Funktion steht nur bei installierter PROFESSIONAL Version zur Verfügung.\nMit dieser Funktion ist es möglich, vorkonfigurierte Backup-Operationen zu starten, wenn ein Problem gefunden wurde.\n\nBitte besuchen Sie die Homepage (www.hdsentinel.com), um mehr über dieses Feature zu lesen.
+Schlechter Zustand
+Testbericht erstellen
+Fehler beim Senden des Berichts.\nBitte Konfigurationsfenster öffnen, wählen Sie Testbericht senden, dann den Bericht speichern und an reports@hdsentinel.hu senden.
+&Nachrichten-Einstellungen
+E-Mail senden
+Vor dem Senden mit der Standard-Internetverbindung online gehen
+Nach dem Senden Verbindung trennen
+Auch eigene Meldung aus einer Textdatei zeigen
+Bitte warten, es wird gemessen ...
+Ungültige Registrierungsdetails - diese Funktion ist deaktiviert.
+Zustandsinformationen
+Fehler beim Speichern. Das Laufwerk könnte voll oder schreibgeschützt sein.
+&Schwellenwerte/Trayicon
+Festplattentemperatur im Trayicon anzeigen
+Unterhalb
+Zwischen \1 und \2
+Temp.:
+Oberhalb
+Klassische (digitale) Trayicon-Zahlen verwenden
+Hintergrund
+Vordergrund
+Beispiel
+Zustandszeichen der Festplatte im Trayicon anzeigen
+Anwendungsinformation
+Aktuelles Datum und Uhrzeit
+Systeminformationen
+Windows-Version
+CPU-Typ & -Speed
+BIOS-Hersteller
+Größe physikalischer Speicher
+Adapter anzeigen
+Auflösung anzeigen
+Drucker
+Netzwerk-Controller
+PCI-Geräteinformationen
+Computer-Informationen
+Computername
+Benutzername
+IP-Adresse
+MAC-Adresse
+Physikalische Festplatte Information
+Flags
+Kritisch
+Statistisch
+Leistung
+Fehlerrate
+Ereignisse
+Selbsterhaltend
+Desktop
+Server
+Tragbar
+Computer-Typ
+Allgemeine Informationen
+HTML-Dateien|*.html|Alle Dateien|*.*
+Bericht speichern
+Bericht per E-Mail senden
+Berichttyp:
+Detaillierter HTML-Bericht
+Kurzer Text-Bericht
+&Testbericht senden
+Zu zeigende Festplatteninformationen
+Festplatte Modell
+Logische Laufwerke
+Zustand
+Status, Problem
+Physikalische Laufwerke
+Der Status der Festplatte ist unbekannt.
+Der Status der Festplatte ist perfekt.
+Der Status der Festplatte ist nicht perfekt.
+Fehler auf dieser Festplatte zu erwarten.
+Es gibt \1 schlechte (Bad) Sektoren auf der Plattenoberfläche. Der Inhalt dieser Sektoren wurde in einen Ersatzbereich verschoben.
+Basierend auf der Anzahl Remap-Operationen, wurde der Zustand der Platte in verschiedenen Schritten erhöht.
+Basierend auf der Anzahl Remap-Operationen, können die schlechten Sektoren durchgehende Bereiche bilden.
+Während des Selbsttests gefundene schlechte Sektoren: \1
+Während des Hochdrehens der Platte sind \1 mal Probleme aufgetreten. Dies kann durch die Platte selbst oder eine enorme Stromlast (schwaches Netzteil) verursacht worden sein.
+Es wurden \1 schlechte Sektoren auf der Plattenoberfläche gefunden. Diese können bei späterer Verwendung der Platte remappt werden.
+Bei der Kommunikation zwischen Platte und Host sind \1 mal Probleme aufgetreten. Im Falle eines Absturzes oder Neustarts wird empfohlen, es mit einem anderen, kurzen Datenkabel zu versuchen (bei einem IDE-Laufwerk runde Kabel vermeiden, statt dessen 80-polige Standardkabel verwenden).
+Es wird empfohlen, das Protokoll des Laufwerks regelmäßig zu untersuchen. Alle neu gefundenen Probleme werden darin protokolliert.
+Der Festplattenstatus ist PERFEKT. Problematische oder schwache Sektoren wurden nicht gefunden und es gibt keine Datentransfer-Fehler beim Hochfahren der Platte.
+Übernehmen
+Offset
+Offset:
+Es wird empfohlen, die Temperatur zu kalibrieren und das Temperatur-Offset auf der Seite S.M.A.R.T. zu setzen. Somit wird später der korrekte Temperatur-Wert angezeigt.
+Zustand Ermittlungsmethode:
+Datenfeld analysieren (Vorgabe)
+Händlerspezifische Werte analysieren (NICHT EMPFOHLEN)
+Schwellenwert überschritten auf:
+Attribut-Kurve
+Datenfeld anzeigen
+Händler-spezifische Werte anzeigen
+Voraussichtlich nicht
+Geschehen
+Detaillierter Text-Bericht
+Datei
+Ansicht
+Bericht
+TXT-Bericht speichern
+HTML-Bericht speichern
+TXT-Bericht senden
+HTML-Bericht senden
+Es wird empfohlen, den Festplattenstatus kontinuierlich zu beobachten.
+Datenfeld analysieren (genauer, für Server empfohlen)
+Attribut-Offset modifizieren
+Die Verwendung dieser Option wird nur erfahrenen Nutzern empfohlen. Durch Anwendung dieser Option, könnte der angezeigte Status nicht den aktuellen Zustand reflektieren. Sind Sie sicher, dass Sie diese Option ändern wollen?
+Diese Meldung nicht wieder anzeigen
+Die Verwendung dieser Option wird nur erfahrenen Nutzern empfohlen. Durch Anwendung dieser Option ist es möglich, einen inkorrekten Zustand anzuzeigen und ebenso, bei späteren Zustandsänderungen einige Warnmeldungen zu verpassen. Sind Sie sicher, dass Sie diese Option ändern wollen?
+Sound-Warnungen deaktivieren
+Sound-Warnungen aktivieren
+Fehler beim Setzen des Geräuschpegels aufgetreten.\nDer Festplatten-Controller oder dessen Treiber unterstützen diese Funktion nicht.
+Leistungsüberwachung in Echtzeit wird von dieser Festplatte nicht unterstützt.
+Beachten Sie: die unregistrierte Version speichert keine Änderungen dieser Optionen. Die Einstellungen werden beim Neustart der Anwendung auf die Vorgabewerte zurückgesetzt.
+Attribute aktivieren
+Sound-Warnung wiederholen
+PC-Speaker verwenden
+Test senden
+Die Meldung wurde erfolgreich zum Ziel-Rechner gesendet.
+Fehler während des Vorgangs. Bitte überprüfen Sie die Netzwerkverbindung und den Start-Status des Dienstes Nachrichtendienst auf beiden Rechnern.
+Probleme verursachten eine Sound-Warnung
+Warnungen wieder aktivieren
+ATA-Kontroll-Byte
+Gültig
+Ungültig
+ATA-Prüfsummenwert
+die angezeigten Informationen können auch falsch sein.
+Sound-Warnung testen
+Verknüpfung für Projekt auf Desktop erstellen
+Verknüpfung erzeugen
+Eine Verknüpfung für dieses Projekt wurde erfolgreich auf dem Desktop angelegt.
+Fehler beim Erzeugen einer Verknüpfung für dieses Projekt.
+Die Registrierungsinformation ist veraltet. Kontaktieren Sie bitte den Autor, um die Lizenz zu verlängern.
+Mausklicks an Fenster hinter Statusfenster senden
+Informationen auf dem Desktop zeigen
+Lizenz gültig bis:
+Immer
+Abgelaufen
+Keine
+Voll-transparenter Hintergrund
+&Integration
+Dienst
+Passwort zum Öffnen des Haupt-Infofensters erforderlich
+Passwort zum Öffnen der Konfiguration oder Schließen von HDS erforderlich
+Ausloggen nach
+Minuten
+Passwort:
+Jetzt &ausloggen
+Als &Dienst verwenden
+Als &Anwendung verwenden
+Fernsteuerung
+Remote-Verbindung zum Hard Disk Sentinel Server aktivieren
+Server-Name oder IP-Adresse:
+TCP-Port (Vorgabe = 61210):
+Schutz
+Fehler beim Installieren des "Hard Disk Sentinel"-Dienstes
+Fehler beim Start des "Hard Disk Sentinel"-Dienstes
+Fehler beim Anhalten des "Hard Disk Sentinel"-Dienstes
+Hard Disk Sentinel speichert jetzt die aktuelle Konfiguration und wird geschlossen. Er wird als Dienst neu gestartet.
+Der "Hard Disk Sentinel"-Dienst speichert jetzt die aktuelle Konfiguration und wird gestoppt. Er wird als Anwendung neu gestartet.
+Autorisierter Zugriff erforderlich
+Ungültiges Passwort. Diese Funktion kann nicht verwendet werden.
+Um den Dienst "Hard Disk Sentinel" zu schließen, verwenden Sie bitte die Verknüpfung "Dienst anhalten" oder wechseln Sie zurück in den Anwendungsmodus über das Panel Integration in der Konfiguration und schließen Sie die Anwendung.
+Nein
+Hoch
+Maximum
+Es steht kein Update zu Verfügung, wenn Hard Disk Sentinel als Dienst läuft. Bitte wechseln Sie vor der Aktualisierung auf eine neue Version über das Panel Integration zurück in den Anwendungsmodus zurück in den Anwendungsmodus.
+Dienstmodus
+Abgesicherter Modus (deaktiviert Hardware-Erkennung)
+Der Dienst "Hard Disk Sentinel" ist nicht installiert. Bitte öffnen Sie das Konfigurationsfenster, wählen Sie das Panel Integration und installieren Sie den "Hard Disk Sentinel"-Dienst.
+"Hard Disk Sentinel"-Dienst läuft bereits.
+"Hard Disk Sentinel"-Dienst läuft nicht.
+Mittlere Transferrate
+Mittlere Laufwerkaktivität
+Test wiederholen
+Noch keine Informationen verfügbar
+Der "Hard Disk Sentinel"-Dienst wurde angehalten.\nWollen Sie den Dienst deaktivieren und die Software im Anwendungsmodus nutzen?
+Microsoft Vista und neuere Betriebssysteme erlauben Diensten keine Interaktion mit dem Desktop.\n\nHard Disk Sentinel wird unsichtbar laufen: seine Fenster und Symbole\nwerden nicht angezeigt und es wird nicht möglich sein, an die\nKonfiguration zu gelangen.\n\nWählen Sie die Verknüpfung "Dienst anhalten" in der Programmgruppe\n\nHard Disk Sentinel, um den Dienst anzuhalten und die Software im\nAnwendungsmodus zu nutzen.\nSind Sie sicher, dass Sie fortfahren wollen?
+Finden Sie heraus, wie dieser Wert berechnet wird
+Bitte ermöglichen Sie dieser Anwendung, mit den geeigneten Rechten zu laufen.
+Laufwerk-Symbolsatz:
+XP
+Vista
+hier klicken um zu starten
+Festplattentest
+Test-Operation:
+Status:
+In etwa verbleibende Zeit:
+Fehler beim Start des Tests. Der Fehler-Code ist:
+Laufe, keine Probleme gefunden
+Antwort:
+Verstrichene Zeit:
+Der Registrierungsschlüssel kann nur zum Registrieren der STANDARD-Version genutzt werden.\nBitte die STANDARD-Version von www.hdsentinel.com herunterladen und installieren,\num diesen Registrierungsschlüssel zu nutzen.
+Dieser Registrierungsschlüssel kann nur zum Registrieren der PROFESSIONAL-Version genutzt werden.\nBitte die PROFESSIONAL-Version von www.hdsentinel.com herunterladen und installieren,\num diesen Registrierungsschlüssel zu nutzen.
+Verwende Einheit Megabyte für Schwellenwert
+Bestätigen:
+Die beiden Passwörter sind nicht gleich.\nBitte zweimal die selben Passwörter zur Bestätigung eingeben.
+Webstatus aktivieren
+Für Verbindungsaufbau Passwort abfragen
+HTTP-Verbindung Port
+Port-Adresse (>1023)
+Attribut-Kommentare ein-/ausblenden
+Dezimale Datenfelder ein-/ausblenden
+Das Laufwerk versuchte \1 mal Datensektoren zu prüfen und neu zuzuteilen. Der überprüfte Datenbereich ist perfekt.
+Festplatte sofort ersetzen.
+Detaillierte Berichtkomponenten:
+Sichern/Wiederherstellen dieser Konfiguration
+Konfiguration sichern
+Konfiguration wiederherstellen
+Optisches Laufwerk
+XML-Datei erzeugen und aktualisieren
+Der Temperatur-Sensor der Festplatte irrt sich. Der gemessene Wert ist:
+Remote-Verbindungen vom Server akzeptieren
+Remote-Verbindung Port
+Tray-Warnsprechblasen deaktivieren
+Erkennung von USB- und SCSI-Laufwerken deaktivieren
+Senden
+Kommentare:
+An Entwickler senden
+Kontaktiere Server - www.hdsentinel.com
+Sende Bericht
+Bericht erfolgreich gesendet. \nVielen Dank für Ihre Unterstützung.
+Testbericht an Entwickler senden
+Erstelle Bericht
+Ich will Rückmeldung nach Auswertung des Berichts
+Dies ist ein Bug-Report
+HD Sentinel &Hauptfenster öffnen
+Sichtbar
+Festplatte Größeneinheit:
+Partition Größeneinheit:
+CC (Carbon Copy):
+BCC (Blind Carbon Copy):
+Aktualisiere Testbericht
+(geschätzt)
+Ermittle Zeit, bitte warten ... Der aktuell geschätzte Wert ist womöglich nicht genau.
+Remote-Pfad
+Gelbes Temperatur-Level erreicht.
+Rotes Temperatur-Level erreicht.
+Gelbes Zustandslevel erreicht.
+Rotes Zustandslevel erreicht.
+Limit:
+Temperatur:
+Attribut geändert
+Log leeren
+Hintergrund
+DynDNS-Dienst aktivieren
+No-IP-Dienst aktivieren
+Eigenen DynDNS-Dienst aktivieren
+Konfigurieren
+Benutzername
+Passwort
+Hostname (voll)
+Volle zu aktualisierende URL (%ip% geändert mit aktueller IP)
+Letzte Server-Antwort:
+Gadget
+Gadget aktivieren
+Titel anzeigen
+Laufwerkaktivität anzeigen
+Wollen Sie jetzt die Konfiguration durch Aktualisierung des IP-Adresse testen?
+Die Anzahl gefundener Probleme ist hoch bei folgendem Attribut:
+Lesen:
+Schreiben:
+Alle Laufwerke
+Aktivitätssymbol
+Gesamte Laufwerkaktivität auf einem einzelnen Trayicon anzeigen 
+(HIGH-word)
+(MID-word)
+(LOW-word)
+Energiestatus:
+Aktiv
+Schläft
+(seit \1)
+System Betriebszeit
+System geladen seit
+Laufwerks-Controller
+Laufwerksposition
+&Webseite besuchen
+Kontakt
+Jetzt kaufen
+Registrierungsschlüssel eingeben
+Die Liste enthält \1 Einträge. Bitte registrieren Sie die Software, um alle Einträge anzuzeigen.
+CPU-Nutzung
+CPU
+Virtueller Speicher
+Genutzt:
+Die Festplatte arbeitet im PIO-Modus, was die Leistung reduziert. Es wird empfohlen, das Datenkabel zu überprüfen und zu ersetzen oder die Konfiguration zu ändern.
+Die Festplatte arbeitet im UDMA-Modus 2 (33 MByte/Sek) was die Leistung reduziert. Es wird empfohlen, ein 80-PIN IDE-Kabel zu verwenden, falls der Controller höhere Datentransferraten unterstützt.
+Silicon Image (SiI) Controller liefern möglicherweise keine vollständigen Informationen über alle angeschlossenen Festplatten.
+Der aktuelle Laufwerks-Controller-Treiber stellt keinen Vollzugriff auf die Platte selbst zum aller Details zur Verfügung. Überprüfen Sie bitte, ob ein aktualisierter Treiber verfügbar ist.
+Das USB-Massenspeichergerät stellt nicht mehr Informationen über sich selbst zu Verfügung. Es kann dennoch mit der Funktion Laufwerk -> Oberflächentest auf Probleme untersucht werden.
+Dieser RAID-Array stellt keinen Zugriff auf Details der Platten innerhalb des Arrays zur Verfügung. Es kann dennoch mit der Funktion Laufwerk -> Oberflächentest auf Probleme untersucht werden.
+Bitte nutzen Sie im Menü "Bericht" die Option "Testbericht an den Entwickler senden", um uns herausfinden zu helfen, ob es möglich ist, mehr Informationen zu erkennen und anzuzeigen.
+Bitte suchen Sie in den Abschnitten "Hardware" und "Support -> FAQ" auf www.hdsentinel.com nach Details.
+Aktivieren
+Maximale (je gemessene) Temperatur:
+Minimale (je gemessene) Temperatur:
+2 Stunden
+4 Stunden
+6 Stunden
+8 Stunden
+12 Stunden
+Reserviert 1
+Reserviert 2
+Gelbes Temperaturlimit erreicht. Falls die Temperatur des Laufwerks nach wie vor steigt, wird empfohlen, wenn möglich einen Festplattenkühler zu verwenden (zum Beispiel einen Lüfter oder passiven Kühlkörper).
+Wählen Sie die Seite "Schwellenwerte/Trayicon", um Schwellenwerte für Zustand und Temperatur für die gelben und roten Levels zu konfigurieren.
+Kritisch
+Es wird empfohlen, die Daten sofort zu sichern, um Datenverlust zu verhindern.
+Kompakte Buttons
+Normale Buttons
+Große Buttons
+Perf.:
+Schnittstelle:
+Meldung
+Test des wahlfreien Zugriffs (Random Seek)
+Teste Zugriffsleistung des Laufwerks, Geräusch und Temperatur
+Zugriffszeit
+Minimum
+Maximum
+Mittel
+Test
+Verstrichen
+Verbleibend
+Operationen
+Fehler
+&Test starten
+Test &anhalten
+Schnelltest
+Normaler Test
+Tiefentest
+Langer Intensiv-Test
+Bestimmte Dauer
+Testzeit (HH:MM:SS):
+LESE-Test
+SCHREIB-Test
+Diese Funktion kann in der unregistrierten Version nur einmal angewendet werden.
+Wollen Sie jetzt die Webseite der Software zur Anzeige der Registrierungsdetails öffnen?
+Sind Sie sicher, dass Sie diesen Vorgang anhalten wollen?
+Diese Funktion steht auf gewähltem Laufwerk wegen der Konfiguration dieses Controllers und des Laufwerks nicht zur Verfügung.
+Hard Disk Sentinel Testversion
+Die registrierte Version von Hard Disk Sentinel bietet das höchste Level an Datensicherheit durch Meldungen, Laufwerksdiagnose, automatisches Backup (nur PRO-Version), Remote-Verwaltung und weitere Testfunktionen, sowie durch das Erhöhen von Stabilität und Leistung der Speichermedien.\n\nDiese Demoversion sollte bis zu 30 Tage dazu verwendet werden, einige der wichtigsten Funktionen zu testen und die Kompatibilität mit dem System zu verifizieren. Nach dem Testzeitraum sollten Sie durch den Erwerb einer Lizenz zu einer registrierten Version wechseln oder aufhören, die Software zu nutzen.\n\nVorteile des Erwerbs einer lizenzierten Version:\n\n- höchstes Level an Datensicherheit\n- schnelle, sichere und flexible Zahlungsoptionen\n- sofortiger Zugriff auf alle Funktionen und Freischaltung aller Features\n- kostenloser technischer Support und Hilfe\n- lebenslange Lizenz, keine Bestell- oder Verlängerungskosten\n- keine Einschränkungen und nervigen Meldungen
+Das S.M.A.R.T.-Offset ist für ein Attribut zur Berechnung dieses Wertes konfiguriert.
+Trayicon-&Schrift wählen
+Herunterfahren der Laufwerke nicht erlauben (Nummern Komma-separiert, zum Beispiel 1,2 oder * für alle)
+Online verifizieren
+Vergleiche S.M.A.R.T.-Werte dieses Laufwerks mit anderen (des selben Models), um zu sehen, ob Attribute besser oder schlechter sind als das Mittel.
+Oberflächentest
+Analysiere Laufwerkoberflächen mittels verschiedener Methoden und Tests
+Laufwerkoberflächenkarte
+Temperatur und Übertragungsgeschwindigkeit
+Block
+Beschädigt
+Fortschritt
+Durchgang
+Dauer
+Ca.
+Sektoren
+Test angehalten
+Kann das Laufwerk nicht für exklusive Nutzung sperren.\nSind Sie sicher, dass Sie es dennoch testen wollen (NICHT empfohlen)?
+Test fertiggestellt
+Position
+Sequentieller Test
+Teste Blöcke vom Anfang bis zum Ende
+Random-Test
+Teste Blöcke in zufälliger Reihenfolge
+Butterfly-Test
+Abwechselnd: Teste einen Block vom Anfang und einen vom Ende
+Sequentieller Rückwärtstest
+Teste Blöcke vom Ende bis zum Anfang
+Sektor
+Verifiziere Fehler
+Laufwerksinformationen &speichern
+Laufwerksinformationen &laden
+Initialisiere...
+Laufwerksinhalts-Inspektor
+&Zurück
+&Weiter
+&Gehe zu...
+Bitte das zu testende Laufwerk (mit Zugriff für das Betriebssystem) und die Testmethode wählen. Lesen Sie die detaillierten Informationen sorgfältig durch, bevor Sie den Test starten. Klicken Sie auf Ansicht für Oberflächendetails, verwenden Sie \1 oder sehen Sie die vorherigen Testergebnisse nochmals durch.
+Lesetest
+Liest die Laufwerkoberfläche, um zu verifizieren, ob auf alle Sektoren zugegriffen und von allen gelesen werden kann.\n\nDer Test ist sicher, er hat keinen Einfluss auf gespeicherte Daten.\n\nLaufwerksprobleme können verborgen bleiben und erkannte Laufwerksprobleme werden NICHT behoben (wie mit ScanDisk).
+Schreibtest
+Überschreibt die Laufwerkoberfläche mit konfigurierbaren Mustern. Erzwingt die Analyse schwacher Sektoren und verifiziert verborgene Probleme und behebt sie durch Neuzuteilung schlechter Sektoren (dies ist eine Laufwerksverjüngung).\n\nMacht eine bessere Nutzung des Laufwerks möglich, da nach dem Test der Ersatzbereich anstatt problematischer Sektoren verwendet wird.
+Schreibtest + Lesetest
+Überschreibt die Laufwerkoberfläche mit konfigurierbaren Mustern und liest dann den Sektorinhalt erneut ein, um zu verifizieren, ob auf sie zugegriffen werden kann und ob sie konsistent sind. Erzwingt die Analyse schwacher Sektoren und verifiziert verborgene Probleme und behebt sie durch Neuzuteilung schlechter Sektoren (dies ist eine Laufwerksverjüngung).\n\nMacht eine bessere Nutzung des Laufwerks möglich, da nach dem Test der Ersatzbereich anstatt problematischer Sektoren verwendet wird.
+Lesetest + Schreibtest + Lesetest (Datenbereich auffrischen)
+Liest gespeicherte Daten aus jedem Block, schreibt den Inhalt zurück und liest zum Schluss die Informationen und vergleicht sie mit dem Originalinhalt. Durch den Tiefentest wird ein zusätzlicher Schreibzyklus verwendet bevor der Inhalt zurückgeschrieben wird, um die Effizienz der Fehlerkorrektur zu verbessern (Laufwerksverjüngung).\n\nDer Vorgang ist im Allgemeinen für die gespeicherten Informationen sicher, es kann jedoch zu Datenverlust kommen, falls das System nicht stabil läuft und/oder bei Stromausfall, durch Übertaktung, Problemen mit Speicher/Stromversorgung/Kabeln und anderen Faktoren.\n\nDer Test kann zur Verjüngung des Datenbereichs des Speicherlaufwerks verwendet werden, ohne komplettes Löschen. Jedoch wird nach wie vor empfohlen, vor dem Test wichtige Daten zu sichern.
+Laufwerkoberfläche neu initialisieren
+Überschreibt die Laufwerkoberfläche mit konfigurierbaren Mustern, um Sektoren auf ihren vorgegebenen (leeren) Status zurückzusetzen und liest den Sektorinhalt erneut ein, um zu verifizieren, ob auf sie zugegriffen werden kann und ob sie konsistent sind. Erzwingt die Analyse schwacher Sektoren und verifiziert verborgene Probleme und behebt sie durch Neuzuteilung schlechter Sektoren (dies ist eine Laufwerksverjüngung).\n\nMacht eine bessere Nutzung des Laufwerks möglich, da nach dem Test der Ersatzbereich anstatt problematischer Sektoren verwendet wird. Ein sehr intensiver und zeitaufwändiger Test, speziell dann, wenn das Level (die Anzahl Überschreibzyklen) auf einen höheren Wert gesetzt ist.\nDie einfache Version dieses Tests wird bei anderen Tools üblicherweise (fälschlich) als Low-Level-Formatierung bezeichnet.
+Sektorreihenfolge
+Nicht-destruktiv - für Daten sicher
+Laufwerk während Test sperren (Datenträger unmounten)
+Test wiederholen
+mal
+Das Testen auf bestimmte Datenblöcke beschränken
+Erster Block:
+Letzter Block:
+DESTRUKTIV - alle Daten werden entfernt
+Leerdaten (Nullen)
+Zufallsdaten
+Sektornummer
+Lese-Schreib-Lesetest mit zusätzlicher Schreiboperation
+Oberflächen-Reinitialisierungsgrad
+In den meisten Fällen nicht-destruktiv (siehe Anmerkungen und Hilfe)
+Dieser Test wird ALLE DATEN auf dem ausgewählten Laufwerk permanent vernichten.\nDie Funktion kann nicht rückgängig gemacht werden.\n\nSind Sie sicher, dass Sie diesen Test durchführen und ALLE DATEN auf dem Laufwerk verlieren wollen?
+Dieser Test führt einen SCHREIB-Operation auf dem ausgewählten Laufwerk durch.\nDer Test selbst ist nicht destruktiv, es kann jedoch zu Datenverlust kommen.\n\nSind Sie sicher, dass Sie diesen Test durchführen wollen?
+Testbestätigung
+Klicken Sie auf die Oberflächenkarte, um den Sektorinhalt zu inspizieren.\n\nRechtsklick, um das Kontextmenü zu öffnen.
+Der Test misst die Übertragungsdauer für alle Blöcke, um offenzulegen, welche Bereiche der Oberfläche langsamer sind. Ist ein Block langsamer, ist die assoziierte Farbe dunkler.
+Der Entwickler gibt keine Garantie für die auf den Laufwerken gespeicherten Daten.
+Aktueller Durchgang
+Alle Durchgänge
+Kann den Schreibtest auf einem Systemlaufwerk nicht durchführen, das irgend einen folgender Ordner enthält
+Die geladene Information bezieht sich auf ein anderes Laufwerk.\nMit einem Mausklick auf die Oberflächenkarte werden jedoch Sektoren des aktuellen Laufwerks angezeigt.
+Der Zustand der Festplatte reicht noch nicht für einen Garantietausch beim Hersteller aus. Erst bei weiterer Verschlechterung kann eine RMA beantragt werden.
+Wollen Sie auch alle schlafenden Festplatten aufwecken?\nAndernfalls werden nur Informationen der aktiven Laufwerke aktualisiert.
+Aktualisiere Laufwerksinformationen
+Testtyp:
+Dateneinfluss:
+Schreibmuster
+Setze maximale und minimale Temperaturwerte zurück
+Maximale Temperatur (während gesamter Lebensdauer):
+Werte anzeigen
+SSL verwenden
+SSD-Controller
+Der Status der Solid State Disk ist PERFEKT. Es wurden keinerlei problematische oder schwache Sektoren gefunden. 
+Der Zustand wird mittels SSD-spezifischer S.M.A.R.T.-Attribute ermittelt: 
+Laufwerk-Features verwalten
+Beim Senden des Befehls an das Laufwerk ist ein Fehler aufgetreten.\nDer Laufwerks-Controller oder sein Treiber unterstützt diese Funktion nicht.\n\nDer Befehl kann eventuell nach einem Treiber-Update fertiggestellt werden oder\ndurch das Nutzen eines anderen Betriebssystems, eines anderen Laufwerks-Controllers\noder eine unterstütztes USB-Gehäuse/Docking Station.
+Aktivieren und anpassen
+Deaktivieren
+Verzögerung vor Start (Sek.):
+Eigene Temperatur-Schwellenwerte
+Gelbes Temperatur-Limit:
+Rotes Temperatur-Limit:
+Deaktiviere eigene Schwellenwerte für das gewählte Laufwerk
+Eigene Schwellenwerte setzen
+Eigene Schwellenwerte ändern
+Benutzerdefiniert
+Allgemein
+In der kostenlosen Version von Hard Disk Sentinel kann nur bei einem Laufwerk ein eigener Temperatur-Schwellenwert konfiguriert werden.
+Der S.M.A.R.T.-Treiber fehlt auf dem aktuellen Win9x/ME-System.\nWollen Sie die Konfiguration automatisch aktualisieren und den Rechner jetzt neu starten?
+Aktivierte Schlüsseldatei laden
+NTFS-Mount-Punkt(e)
+Mount-Punkt
+Achtung: Ihre Daten sind vielleicht nicht vollständig geschützt.
+Befristetes Angebot: Heute ein Upgrade durchführen und \1 Lizenzgebühr sparen!
+(Geben Sie den Coupon-Code \1 während Ihrer sicheren Online-Registrierung ein oder klicken Sie auf unten stehenden Link)
+Bitte warten Sie \1 Sekunde(n) ehe Sie fortfahren ...
+Volume-Informationen
+Partitionsstil
+Aktiv
+Ausrichtung
+Start-Offset
+Länge
+Zuordnungseinheit Größe
+Zuordnungseinheiten gesamt
+Freie Zuordnungseinheiten
+Verwendete AUs
+Volume-Typ
+Dynamisch
+Einfach
+Status der Offline-Laufwerke &öffnen
+Wählen Sie die Laufwerke mittels der Checkboxen, um deren Status genau wie bei verbundenen (online) Laufwerken anzusehen.
+Offline
+Wählen Sie die Laufwerke mittels der Checkboxen, um sie in den authentischen Laufwerksreport einzubeziehen.
+Authentischen Laufwerksreport &speichern (HTML)
+Authentischen Laufwerksreport &verifizieren
+Gewählte Datei ist kein authentischer Laufwerksreport.
+Der authentische Laufwerksreport wurde erfolgreich verifiziert und ist gültig.
+Der authentische Laufwerksreport ist ungültig oder korrupt.
+Authentischer Laufwerksreport
+&Windows-Volume/RAID-Informationen
+\1 Fehler haben sich beim Datentransfer ereignet. Dies könnte auf ein Problem mit dem Gerät oder den Daten-/Stromkabeln hinweisen. Es wird empfohlen, die Kabel zu prüfen und wenn möglich zu ersetzen. 
+\1 Fehler wurden während des Beschreibens des Geräts gemeldet.
+Die Limitierung des RAID-Controllers könnte die Erkennung weiterer Laufwerksinformationen verhindern. Dies ist keine Limitierung der Hard Disk Sentinel Software.
+Newsletter abonnieren, um über Updates und spezielle Angebote informiert zu werden
+Wählen Sie im Menüpunkt Bericht -> Testbericht an den Entwickler senden und wählen Sie Newsletter abonnieren, um über Updates und spezielle Angebote informiert zu werden.
+Tägliches Minimum
+Standardbreite
+Das TRIM-Feature der SSD wird unterstützt und ist zur optimalen Leistung aktiviert.
+Das TRIM-Feature der SSD wird unterstützt, ist jedoch deaktiviert. Es wird ein Upgrade des Betriebssystems, des Festplatten-Controllers oder seines Treibers empfohlen, um die Leistung zu verbessern.
+Geschriebene Terabytes (TBW):
+Gesamtzahl Starts/Stopps:
+Die Konfiguration liefert keine weiteren Laufwerkstatus-Informationen. Die Funktion im Menüpunkt "Laufwerk" "Oberflächentest" kann die Laufwerksfunktionalität prüfen, offenlegen und mögliche Probleme beheben.
+Die aktuelle Version ist abgelaufen. Bitte geben Sie einen Registrierungsschlüssel ein, um mit der Nutzung der Software fortzufahren.
+Die Log-Datei enthält keine Einträge.
+Exportiere Werte der Übertragungsgeschwindigkeit
+Einstellung bei Neustart automatisch anpassen
+Weitere Informationen:
+Klicken, um Kommentar hinzuzufügen ...
+Kommentar
+Ablage&ordner für Statistiken und Einstellungen ändern
+Warnung zu Doppellizenz
+Der gleiche Registrierungs-Code wird für die installierte und die portable Version von Hard Disk Sentinel\nverwendet. Um die Features beider Versionen voll zu nutzen, werden separate Lizenzen für diese Versionen benötigt.
+Status zuletzt aktualisiert:
+Online-Garantieprüfung
+Markierten Wert in die Zwischenablage kopieren
+Der Zugriff auf manche Oberflächenbereiche während des\nTests kann wegen aktivem Betriebssystem und offenen\nAnwendungen langsamer sein, dies kann Blöcke mit dunklerem Grün verursachen.
+Belastungszähler zurücksetzen
+Wollen Sie separate Berichte für die gewählten Festplatten-Laufwerke speichern?
+Die erkannte Gesamtkapazität (\1) des Laufwerks \2 ist nicht korrekt, die Kapazität sollte \3 sein.
+Der aktuelle Laufwerks-Controller/Treiber/Adapter ist womöglich nicht voll kompatibel mit \1.
+Das Verwenden des Laufwerks kann das Dateisystem korrumpieren und/oder zu Datenverlust führen.
+Es wird empfohlen, die Konfiguration zu überprüfen und zu modifizieren oder das Betriebssystem, den Festplatten-Controller und/oder die Treiber zu aktualisieren, um dieses Gerät sicher nutzen zu können.
+Gerätespezifische Informationen
+Der Festplatten-Controller liefert nur einen allgemeinen Status der Selbstüberwachung (S.M.A.R.T.) ohne zusätzliche Details. 
+Der S.M.A.R.T.-Status ist: 
+Immer im Vordergrund
+Das vollständige Schließen der Anwendung über Datei -> Beenden und ein Neustart sind erforderlich, um die Änderungen wirksam werden zu lassen.
+System-Leerlaufzeit
+Die folgenden _Fehler wurden entdeckt:
+Die vom Festplatten-Controller (RAID) gelieferten Status-Informationen und mögliche Fehler. Diese können sich vom Satus des physikalischen Laufwerks unterscheiden.
+Auto-Upload des Status zum Server
+System-Management-Informationen
+Die mit der physikalischen Sektorgröße \1 auf dieser Festplatte erzeugte(n) Partition(en).
+die aktuelle physikalische Sektorgröße ist jedoch \1.
+Wird die Festplatte anders als derzeit angeschlossen (Verbindung mittels eines anderen Festplatten-Controllers, USB, eSATA), kann dies dazu führen, dass keinen der Ordner und Dateien mehr zugegriffen werden kann.
+Es wird empfohlen, die Festplatte so wie bereits zuvor anzuschließen (möglicherweise mit einem anderen USB-Adapter, externen Gehäuse, einer Docking-Station oder so), um auf die Partition mit allen darauf gespeicherten Daten zuzugreifen - andernfalls könnte es zum Verlust von Daten kommen.
+Erkenne Dateiinformationen für Sektor
+Kann das Festplatten-Layout nicht ermitteln.
+Kann keine Informationen über die Partition/das logische Laufwerk ermitteln.
+Keine Partition auf diesem Sektor (ungenutzten Sektor) definiert.
+Unbekannte Datei
+Ungenutzter Sektor auf logischem Laufwerk \1
+Attribute:
+Anzahl Dateifragmente:
+Erkenne Dateiinformationen für fehlerhafte Sektoren
+Erkenne Dateiinformationen
+Erkenne Laufwerksinformationen
+Kürzlich erkannte Informationen
+&Datei auf Fehlern
+Jahre
+Monate
+Angepasste Zustands-Mittelwerte
+Gelber Zustands-Mittelwert:
+Roter Zustands-Mittelwert:
+Setze eigenen Mittelwert
+Bearbeite eigenen Mittelwert
+Doppelklick um Zustands-Mittelwerte anzupassen
+Laufwerk Anschluss/Entfernen Ereignisprotokoll
+Das Protokoll zeigt alle Laufwerk, die während der aktiven Sitzungen von Hard Disk Sentinel angeschlossen und entfernt wurden sowie Änderungen an der Laufwerkskonfiguration während die Software inaktiv war (wird beim nächsten Programmstart erkannt).
+Anzahl Einträge:
+Datum und Uhrzeit
+Festplatte
+Wenn inaktiv
+Angeschlossen
+Entfernt
+Im Fall eines plötzlichen Systemabsturzes, Blue-Screen-Of-Death (BSOD), Dateien/Ordnern, auf die nicht zugegriffen werden kann, wird empfohlen, die Daten- und Stromkabel, Anschlüsse zu überprüfen - und es wenn möglich mit anderen Kabeln zu versuchen, um weitere Probleme zu vermeiden.
+Höchstmögliche Transferrate
+Ausgehandelte Transferrate
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Sicherheitsmodus
+Power Management=Power-Management
+Write Cache=Schreib-Cache
+Host Protected Area=Host-geschützter Bereich
+Advanced Power Management=Erweiterte Energieverwaltung (APM)
+Advanced Power Management Level=Erweitertes Energieverwaltungs-Level
+Current APM Level=Aktuelles Energieverwaltungs-Level
+Extended Power Management=Langzeit-Energieverwaltung
+APM01=Minimaler Stromverbrauch bei Standby
+APM02=Mittlere Power Management Levels bei Standby
+APM80=Minimaler Stromverbrauch ohne Standby
+APM81=Mittlere Power Management Levels ohne Standby
+APMFE=Maximale Leistung und Stromverbrauch
+FreeFall01=Niedrigste Empfindlichkeit auf Freifall-Ereignisse
+FreeFall02=Ausgewogene Empfindlichkeit auf Freifall-Ereignisse
+FreeFallFF=Höchste Empfindlichkeit auf Freifall-Ereignisse
+Current Sensitivity=Aktuelle Empfindlichkeit
+Power Up In Standby=In Standby einschalten
+48-bit LBA Addressing=48-Bit LBA-Adressierung
+Device Configuration Overlay=Gerätekonfiguration Overlay
+Read/Write DMA Queue=DMA-Lese/Schreib-Warteschlange
+Native Command Queuing=Native Command Queuing (NCQ)
+Read Ahead Buffer=Vorhaltlese-Puffer
+Maximum Multiword DMA Mode=Maximaler Multiword-DMA-Modus
+Active Multiword DMA Mode=Aktiver Multiword-DMA-Modus
+IORDY Support=IORDY-Unterstützung
+Maximum sectors transferred on R/W multiple=Maximum an Sektoren übertragen bei multiplem R/W
+Minimum multiword DMA transfer time=Minimale Multiword-DMA-Transferzeit
+Recommended multiword DMA transfer time=Empfohlene Multiword-DMA-Transferzeit
+Minimum PIO transfer time without IORDY=Minimale PIO-Transferzeit ohne IORDY
+Minimum PIO transfer time with IORDY=Minimale PIO-Transferzeit mit IORDY
+Security Erase=Sicheres Löschen
+Security Erase Time=Zeit für Sicheres Löschen
+Security Enhanced Erase Feature=Feature Erweitertes sicheres Löschen
+Security Enhanced Erase Time=Zeit für Erweitertes Löschen
+Security Enabled=Sicherheit aktiviert
+Security Locked=Sicherheit gesperrt
+Security Frozen=Sicherheit eingefroren
+Security Counter Expired=Sicherheitszähler abgelaufen
+Security Level=Sicherheits-Level
+Serial ATA Features="Serial ATA"-Features
+Interface=Schnittstelle
+S-ATA Compliance=S-ATA-Konformität
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I Signalgeschwindigkeit (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=S-ATA II Signalgeschwindigkeit (3 Gps)
+Receipt Of Power Management Requests From Host=Quittiere Energieverwaltungsabfragen von Host
+PHY Event Counters=PHY-Ereigniszähler
+Non-Zero Buffer Offsets In DMA Setup FIS=Nicht-Null Puffer-Offsets in DMA-Setup-FIS
+DMA Setup Auto-Activate Optimization=DMA-Setup Auto-Aktivier-Optimierung
+Device Initiating Interface Power Management=Geräte-initialisierende Schnittstellen-Energieverwaltung
+In-Order Data Delivery=Ablauf-bedingte Datenübergabe
+Asynchronous Notification=Asynchrone Benachrichtigung
+Software Settings Preservation=Erhaltung der Software-Einstellungen
+Queue Length=Warteschlangenlänge
+Disk Family=Festplatten-Familie
+Form Factor=Formfaktor
+Capacity=Kapazität
+Number Of Disks=Anzahl Magnetscheiben
+Number Of Heads=Anzahl Köpfe
+Rotational Speed=Drehzahl
+RPM=RPM
+Rotation Time=Rotationszeit
+Average Rotational Latency=Mittlere Drehverzögerung
+Disk Interface=Platten-Schnittstelle
+Buffer-Host Max. Rate=Puffer-Host max. Rate
+Drive Ready Time (typical)=Laufwerk Bereitstellzeit (typisch)
+Average Seek Time=Mittlere Zugriffszeit
+Track To Track Seek Time=Spurwechsel-Zugriffszeit
+Full Stroke Seek Time=Max. Zugriffszeit
+Width=Breite
+Depth=Tiefe
+Height=Höhe
+Weight=Gewicht
+grams=Gramm
+pounds=Pfund
+Acoustic=Akustik
+Idle=Leerlauf
+Required power for spinup=Leistungsaufnahme beim Hochfahren
+Power required (seek)=Leistungsaufnahme (Zugriff)
+Power required (idle)=Leistungsaufnahme (Leerlauf)
+Power required (standby)=Leistungsaufnahme (StandBy)
+Manufacturer=Hersteller
+Manufacturer Website=Hersteller-Webseite
+; Liste der SMART-Features
+S.M.A.R.T. Details=S.M.A.R.T.-Details
+Off-line data collection=Status Offline-Datenerfassung
+OFF00=Nie gestartet
+OFF02=Erfolgreich abgeschlossen
+OFF03=Aktivität im Gange
+OFF04=Unterbrochen durch Unterbrechungsbefehl von Host
+OFF05=Angehalten durch Unterbrechungsbefehl von Host
+OFF06=Abgebrochen durch Gerät mit fatalem Fehler
+Self test execution status=Selbsttest Ausführungsstatus
+SET00a=Erfolgreich abgeschlossen
+SET00b=Nie gestartet
+SET01=Abgebrochen durch Host
+SET02=Unterbrochen durch Host mittels Hard-/Software-Reset
+SET03=Fataler/Unbekannter Fehler während des Tests aufgetreten
+SET04=Test durch unbekanntes Element fehlgeschlagen
+SET05=Test durch elektrischem Element fehlgeschlagen
+SET06=Test durch Servo-/Positionierungs-Element fehlgeschlagen
+SET07=Test durch Lese-Element fehlgeschlagen
+SET08=Test fehlgeschlagen und Bedienungsschaden wird vermutet
+SET15=Test wird durchgeführt
+SETCO=abgeschlossen
+Total time to complete off-line data collection=Gesamtdauer der Offline-Datenerfassung
+Execute off-line immediate=Sofort offline ausführen
+Abort/restart off-line by host=Abbruch/Neustart offline durch Host
+Off-line read scanning=Offline Lese-Abtastung
+Short Self-test=Kurzer Selbsttest
+Extended Self-test=Erweiterter Selbsttest
+Selective Self-test=Selektiver Selbsttest
+Conveyance self-test=Transport-Selbsttest
+Save data before/after power saving mode=Daten vor/nach Energiesparmodus speichern
+Enable/Disable attribute autosave=Aktiviere/Deaktiviere Auto-Speichern der Attribute
+Error logging capability=Fehler-Protokollierungsfähigkeit
+Short Self-test Estimated Time=Geschätzte Zeit für kurzen Selbsttest
+Extended Self-test Estimated Time=Geschätzte Zeit für erweiterten Selbsttest
+Conveyance self-test estimated time=Geschätzte Zeit für Transport-Selbsttest
+Last Short Self-test Result=Letzter kurzer Selbsttest Ergebnis
+Last Short Self-test Date=Letzter kurzer Selbsttest Datum
+Last Short Self-test Duration=Letzter kurzer Selbsttest Dauer
+Last Extended Self-test Result=Letzter erweiterter Selbsttest Ergebnis
+Last Extended Self-test Date=Letzter erweiterter Selbsttest Datum
+Last Extended Self-test Duration=Letzter erweiterter Selbsttest Dauer
+Last Conveyance Self-test Result=Letzter Transport-Selbsttest Ergebnis
+Last Conveyance Self-test Date=Letzter Transport-Selbsttest Datum
+Last Conveyance Self-test Duration=Letzter Transport-Selbsttest Dauer
+NOP Command=NOP-Befehl
+Trusted Computing=Trusted Computing (trustedcomputinggroup.org)
+64-bit World Wide ID=64-bit World-Wide-ID
+Streaming=Streaming
+Media Card Pass Through=Media Card Pass Through
+General Purpose Logging=Mehrzweck-Logging
+Error Logging=Fehler-Logging
+CFA Feature Set=CFA Feature-Satz
+Long Physical Sectors=Lange Physikalische Sektoren
+Long Logical Sectors=Lange Logische Sektoren
+Write-Read-Verify=Schreib-Lese-Verifizierung
+NV Cache Feature=NV-Cache (nichtflüchtiger Cache)
+NV Cache Power Mode=NV-Cache-Energiemodus
+
+# added 4 Nov 2008
+Transport Version=Transport-Version
+NV Cache Size=NV-Cache Größe
+Free-fall Control=Freifall-Kontrolle
+Free-fall Control Sensitivity=Freifall-Kontrolle Empfindlichkeit
+Non-rotating Media (SSD)=Nicht-rotierende Medien (SSD)
+Nominal Media Rotation Rate=Nenn-Umdrehungsrate
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA Gen-3 Signalgeschwindigkeit (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=CFast-Karte
+SSD Features=SSD-Features
+Data Set Management=Datensatz-Management
+TRIM Command=TRIM-Befehl
+Deterministic Read After TRIM=Deterministisches Lesen nach TRIM
+
+Operating System TRIM Function=Betriebssystem TRIM-Funktion
+
+# added 3 Oct 2011
+
+Self-Test Results=Selbsttest-Ergebnisse
+SST05=Erstes Segment des Tests fehlgeschlagen
+SST06=Zweites Segment des Tests fehlgeschlagen
+SST07=Selbsttest fehlgeschlagen bei Test-Segment
+SSTN=Selbsttest-Segment
+SSTN0=Keine Segment-ID verfügbar
+SSTH=Einschaltstunden
+SSTL=Fehler-Adresse (LBA)
+SSHL=Die Festplatte meldet folgende Probleme:
+
+
+SA1=Beim Lesen der Rohdaten von der Platte sind Fehler aufgetreten\Weist auf ein Problem mit der Plattenoberfläche oder den Lese-/Schreibköpfen hin.
+SA2=Allgemeine Durchsatzleistung der Festplatte\Weist auf ein Problem mit Motor, Servo oder den Lagern hin.
+SA3=Zeit, die die Spindel braucht um auf volle Drehzahl (RPM) hochzudrehen\Weist auf ein Problem mit dem Motor oder den Lagern hin.
+SA4=Anzahl Start/Stopp-Zyklen der Spindel\Dieser Wert wirkt sich nicht direkt auf den Zustand des Laufwerks aus.
+SA5=Anzahl Sektoren, deren Daten in Ersatzbereiche verschobenen wurden\Weist auf ein Problem mit der Plattenoberfläche oder den Lese-/Schreibköpfen hin.
+SA6=Rand eines Kanals beim Lesen von Daten\Die exakte Funktion dieses Attributs ist nicht spezifiziert.
+SA7=Rate der Positionierfehler der Lese-/Schreibköpfe\Weist auf ein Problem mit dem Servo oder den Lagern hin. Hohe Temperatur kann dieses Problem auch verursachen.
+SA8=Mittlere Dauer des Positioniervorgangs der Köpfe\Weist auf ein Problem mit dem Servo hin.
+SA9=Gesamte Einschaltzeit des Laufwerks\Die Einheit der Messung hängt vom Hersteller ab.
+SA10=Anzahl Versuche, das Laufwerk hochzudrehen\Weist auf ein Problem mit dem Motor, den Lagern oder dem Netzteil hin.
+SA11=Anzahl Versuche, ein Laufwerk zu kalibrieren\Weist auf ein Problem mit dem Motor, den Lagern oder dem Netzteil hin.
+SA12=Anzahl kompletter Ein-/Ausschalt-Zyklen\Dieser Wert wirkt sich nicht direkt auf den Zustand des Laufwerks aus.
+SA13=Anzahl der Software-Lesefehler\Die Anzahl nicht-korrigierbarer Lesefehler.
+SA184=Anzahl Parity-Fehler während Übertragung zwischen Cache-RAM und Host.
+SA187=Fehler die nicht mittels Hardware-Fehlerkorrektur behoben werden konnten.
+SA187MTRON=Anzahl gelöschter virtueller Blöcke\Weist auf den Verschleiß des Speichermediums hin.
+SA188=Anzahl abgebrochener Operationen wegen HDD-Time-out. Ein Wert höher als Null kann auf Probleme mit Stromversorgung oder Datenkabelverbindung hindeuten.
+SA189=Anzahl unsicherer Schreiboperationen außerhalb des normalen Kopfaktionsbereichs.
+SA190=Luftstrom-Temperatur\Die Temperatur der Luft innerhalb des Festplattengehäuses.
+SA191=Anzahl mechanischer Fehler\Anzahl durch Erschütterung oder Vibration verursachter Fehler.
+SA192=Anzahl Ausschalt-Zyklen\Dieser Wert wirkt sich nicht direkt auf den Zustand des Laufwerks aus.
+SA193=Anzahl Parkvorgänge der Schreib-Leseeinheit\Anzahl Parkvorgänge, in der der Kopf in die Ruheposition bewegt wurde.
+SA194=Laufwerkstemperatur\Die Temperatur innerhalb des Festplattengehäuses.
+SA195=Anzahl korrigierbarer Fehler\Anzahl Fehler, die durch den internen Korrekturmechanismus korrigiert wurden.
+SA196=Anzahl Sektor Remap-Operationen\Anzahl aller (erfolgreicher und fehlgeschlagener) Remap-Operationen.
+SA197=Anzahl instabiler Sektoren\Diesen Sektoren steht bevor, in den Ersatzbereich remapt zu werden.
+SA198=Anzahl nicht-korrigierbarer Fehler beim Lesen/Schreiben\Weist auf ein Problem mit der Plattenoberfläche oder den Lese-/Schreibköpfen hin.
+SA199=Anzahl Fehler beim Datentransfer zwischen Laufwerk und Host\Weist auf ein Problem mit dem Netzteil oder dem Datenkabel hin.
+SA200=Die Fehler, die beim Schreiben von Rohdaten aus einem Laufwerk auftraten\Weist auf ein Problem mit der Plattenoberfläche oder den Lese-/Schreibköpfen hin.
+SA201=Anzahl der Software-Lesefehler\Die Anzahl nicht-korrigierbarer Lesefehler.
+SA202=Anzahl Daten-Adressmarkierungsfehler\Anzahl inkorrekter oder ungültiger Adressmarkierungen.
+SA203=Anzahl Datenkorrekturfehler\Ungültige Prüfsumme der Fehlerkorrektur, die bei Korrektur der Fehler gefunden wurde.
+SA204=Anzahl korrigierter Datenfehler\Fehler, die durch den internen Fehlerkorrektur-Mechanismus korrigiert wurden.
+SA205=Anzahl thermaler Probleme\Gesamtzahl an Problemen, die durch hohe Temperatur verursacht wurden.
+SA206=Kopf Flughöhe\Abstand der Laufwerkköpfe von der Laufwerkoberfläche.
+SA207=Stromwert beim Hochfahren\Der Stromwert, der zum Hochfahren des Laufwerks benötigt wird.
+SA208=Anzahl Zyklen, die zum Hochfahren benötigt werden\Die Anzahl der Wiederholungen während des Hochfahrens wegen wenig verfügbarem Strom.
+SA209=Laufwerksperformance bei Offline-Operationen\Die Leistung beim Positionieren des Lesekopfes des Laufwerks während interner Selbsttests.
+SA211=Vibration während der Schreiboperationen erfasst.
+SA212=Schlag während der Schreiboperationen erfasst.
+SA220=Distanz, die das Laufwerk relative zur Spindel verschoben wurde\Inkorrekte Laufwerksdrehung kann durch mechanische Erschütterung oder hohe Temperatur verursacht werden.
+SA221=Anzahl mechanischer Fehler\Anzahl Fehler, die aus Erschütterung oder Vibration resultieren.
+SA222=Anzahl Einschaltstunden\Dieser Wert erhöht sich konstant (einmal pro Stunde).
+SA223=Anzahl Lade-/Entladevorgänge\Die Anzahl, wie oft der Laufwerkskopf die Datenzone betritt/verlässt.
+SA224=Mechanische Reibungsrate\Die Rate der Reibung zwischen den mechanischen Bauteilen. Weist auf ein Problem mit dem mechanischen Teilsystem des Laufwerks hin.
+SA226=Gesamtdauer, die die Köpfe geladen sind\Die Zeit, die die Laufwerkköpfe in der Datenzone verweilen.
+SA227=Rate der Drehmomenterhöhung\Drehmomenterhöhung während des Hochfahrens der Festplatte.
+SA228=Anzahl Ausschalt-Zyklen\Die Anzahl, wie oft der Kopf wegen Stromausfalls zurückgezogen wurde.
+SA230=Kopfpositionier-Amplitude\Verschiebungsabstände der Laufwerkköpfe zwischen den Operationen.
+SA231=Laufwerkstemperatur\Die Temperatur innerhalb des Festplattengehäuses
+SA240=Anzahl Kopfpositionier-Stunden\Zeit, die zur Positionierung der Laufwerkköpfe aufgewendet wurde.
+SA250=Anzahl Wiederholungen bei Leseoperationen\Anzahl der beim Lesen eines Sektors von der Laufwerkoberfläche gefundenen Fehler.
+SA254=Anzahl Freifall-Ereignisse die vom Beschleunigungsmesssensor erkannt wurden.
+SA255=Hersteller-spezifisch\Funktion und Wert des Attributs hängt vom Hersteller ab.
+
+SC01=Zähler Speicherpuffer Über-/Unterläufe
+SC02_0000=Schreibfehler korrigiert ohne wesentliche Verzögerung
+SC02_0001=Schreibfehler korrigiert mit möglichen Verzögerungen
+SC02_0002=Schreibfehler gesamt
+SC02_0003=Korrigierte Schreibfehler gesamt
+SC02_0004=Durch Algorithmus korrigierte Schreibfehler gesamt
+SC02_0005=Bytes geschrieben gesamt
+SC02_0006=Nicht-korrigierte Schreibfehler gesamt
+SC03_0000=Durch ECC-Hardware-Methode korrigierte Lesefehler
+SC03_0001=Lesefehler korrigiert mit möglichen Verzögerungen
+SC03_0002=Lesefehler gesamt
+SC03_0003=Korrigierte Lesefehler gesamt
+SC03_0004=Durch Algorithmus korrigierte Lesefehler gesamt
+SC03_0005=Bytes gelesen gesamt
+SC03_0006=Nicht-korrigierte Lesefehler gesamt
+SC04_0000=Durch ECC-Hardware-Methode korrigierte Rückwärts-Lesefehler
+SC04_0001=Rückwärts-Lesefehler korrigiert mit möglichen Verzögerungen
+SC04_0002=Rückwärts-Lesefehler gesamt
+SC04_0003=Korrigierte Rückwärts-Lesefehler gesamt
+SC04_0004=Durch Algorithmus korrigierte Rückwärts-Lesefehler gesamt
+SC04_0005=Rückwärts gelesene Bytes gesamt
+SC04_0006=Nicht-korrigierte Rückwärts-Lesefehler gesamt
+SC05_0000=Prüffehler korrigiert ohne wesentliche Verzögerung
+SC05_0001=Prüffehler korrigiert mit möglichen Verzögerungen
+SC05_0002=Prüffehler gesamt
+SC05_0003=Prüffehler korrigiert gesamt
+SC05_0004=Durch Algorithmus korrigierte Prüffehler gesamt
+SC05_0005=Bytes verifiziert gesamt
+SC05_0006=Nicht-korrigierte Prüffehler gesamt
+SC06_0000=Nicht-mittlere Fehler gesamt
+SC07=Letztes Fehlerereignis
+SC0B=Letzter verzögerter Fehler oder asynchrones Ereignis
+SC0D_0000=Temperatur
+SC0D_0001=Referenztemperatur
+SC0E_0001=Herstellungsdatum (Jahr/Woche)
+SC0E_0002=Inbetriebnahme
+SC0E_0003=Festgelegte Zyklenzahl über Gerätelebensdauer
+SC0E_0004=Aufgelaufen Start/Stopp-Zyklen
+SC0E_0005=Festgelegte Lade/Entlade-Anzahl über die Geräte-Lebensdauer
+SC0E_0006=Angesammelte Lade/Entlade-Zyklen
+SC0F=Anwendung Client-Parameterdaten
+SC10=Selbsttest Ergebnisbericht
+SC11_0001=Prozentsatz zur Anzeige der Lebensdauer
+SC18=Protokolliere bestimmten Port-Bericht
+SC1A_0001=Angesammelte Wechsel nach active
+SC1A_0002=Angesammelte Wechsel nach idle_a
+SC1A_0003=Angesammelte Wechsel nach idle_b
+SC1A_0004=Angesammelte Wechsel nach idle_c
+SC1A_0008=Angesammelte Wechsel nach standby_z
+SC1A_0009=Angesammelte Wechsel nach standby_y
+SC37_0000=Zum Initiator gesendete Blöcke
+SC37_0001=Vom Initiator empfangene Blöcke
+SC37_0002=Aus dem Cache gelesene und zum Initiator gesendete Blöcke
+SC37_0003=I/O-Befehle kleiner als Segmentgröße
+SC37_0004=I/O-Befehle größer als Segmentgröße
+SC3E_0000=Betriebszeit
+SC3E_8000=Betriebszeit
+SC3E_0008=Bis zum nächsten internen Test verbleibende Minuten
+
+## added 13 May 2015 ##
+
+Motherboard=Motherboard
+Product=Produkt
+Asset Tag=Bestandskennung
+Memory Module=Speichermodul
+Chassis=Gehäuse
+
+
+## added 22 Feb 2017 ##
+
+Disk repair=Laufwerksreparatur
+Repair=Reparieren
+Repair successful=Reparatur erfolgreich
+Repair failed=Reparatur fehlgeschlagen
+\1 sector(s) successfully repaired.=\1 Sektor(en) erfolgreich wiederhergestellt.
+read test with sector repair=Lesetest mit Sektor-Wiederherstellung
+RepairDesc=Liest die Laufwerkoberfläche zur Verifizierung der Lesbarkeit aller Sektoren und zwingt das Laufwerk, jeden problematischen Sektor (pending, weak) zu reparieren: stelle den Status wieder auf gut oder realloziere (ersetze aus Ersatzbereich) falls erforderlich, um weiteren Gebrauch des Originalsektors zu verhindern.\n\nDer Test ist für gespeicherte Daten sicher und die beschädigten Dateien werden lesbar, auch wenn Dateifragmente auf beschädigten Sektoren korrupt sein können. Dateien auf betroffenen reparierten Sektoren werden aufgelistet, wenn der Test fertig ist.\n\nDer Test wird am besten zur Reparatur von Laufwerken mit schwachen Sektoren ohne Erfordernis eines kompletten Backups (und Verwenden des Tests zur Reinitialisierung der Laufwerkoberfläche) genutzt und funktioniert sowohl auf System- als auch Zweitlaufwerken.
+Multiple disk drives=Mehrere Laufwerke
+\1 drive(s) selected=\1 Laufwerk(e) gewählt
+Select disk drive(s) to be tested=Zu testende Laufwerke wählen
+Are you sure you want to perform disk testing on multiple disk drives?=Sind Sie sicher, dass Sie den Laufwerktest auf mehreren Laufwerken durchführen wollen?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=Wollen Sie das Systemlaufwerk AUSSCHLIESSEN und nur die anderen Laufwerke testen?
+Byte / byte sequence=Byte/Byte-Sequenz
+Maximum try count=Maximale Anzahl Versuche
+Add to Windows event log=Zur Windows-Ereignisanzeige hinzufügen
+Provide status information by WMI=Status mittels WMI bereitstellen
+Automatic detection based on disk utilization=Automatische Erkennung basierend auf Laufwerknutzung
+Automatically save disk test results to folder=Ergebnisse der Laufwerktests automatisch in Ordner speichern
+Selected disk only=nur gewählte Laufwerke
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Bitte verifizieren Sie Ihre Firewall-Einstellungen. Stellen Sie sicher, dass die Software auf den Aktivierungsserver zugreifen kann und versuchen Sie es später nochmal.\n\nAlternativ können Sue den Button Registrierung und Aktivierung per E-Mail nutzen.
+Control device-specific detection=Gerätespezifische Erkennung steuern
+Select device type to detect status and health information by the appropriate detection method.=Gerätetyp für die  Erkennung der Status- und Zustandsinformationen mittels passender Erkennungsmethode wählen.
+DeviceSpecificDesc=Hard Disk Sentinel speichert eine Flag-Datei (null Bytes, ohne Speicherverbrauch) auf dem Gerät, um den gewählten Gerätetyp einzutragen. Diese wird solange für spätere Geräte-Erkennungen genutzt, bis das Gerät komplett gelöscht/formatiert wurde.
+Note=Anmerkung
+Complete erase / re-format does not reset the health and statistics.=Das komplette Löschen/Neuformatieren setzt den Zustand und die Statistik nicht zurück.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Die Wahl eines falschen Gerätetyps kann unnötigen Verschleiß flash-basierter Geräte verursachen ubd zu Datenkorruption führen.
+Auto Detect=Auto-Erkennen
+Part number(s)=Teilenummer(n)
+Device type detection successfully completed.=Die Erkennung des Gerätetyps wurde erfolgreich fertiggestellt.
+The device does not respond to detection, further status information cannot be detected.=Das Gerät reagiert nicht auf die Erkennung, es können keine weiteren Statusinformationen ermittelt werden.
+Running=In Betrieb
+Inactive=Inaktiv
+without monitoring=ohne Überwachung
+
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Überwachung von Laufwerk- und Datenspeicher-Problemen im Windows Ereignisprotokoll
+Configure NAS Disk Monitoring=NAS-Laufwerksüberwachung konfigurieren
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Statusquelle(n) zur Beobachtung von NAS-Laufwerken (Network Attached Storage)angeben
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Die Statusquelldateien enthalten den kompletten Status von Festplatten, SSDs, Massenspeichergeräten und Hard Disk Sentinel liest diese aus, um die dazugehörigen Laufwerke so anzuzeigen, als wären sie direkt verbunden.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=Auf dem NAS-Gerät gespeicherte und aktualisierte Statusquelldateien, erzeugt (beispielsweise) von der Linux-Version von Hard Disk Sentinel.
+The Auto Detect function automatically detects possible Statusquelldateien Source files (HDSReport.html) on available network drives.=Die Funktion zur automatischen Erkennung erkennt mögliche Statusquelldateien (HDSReport.html) auf verfügbaren Netzlaufwerken.
+Status Source=Statusquelle
+Auto Detect=Auto-Erkennung
+&Browse=&Durchsuchen
+Add &URL=&URL hinzufügen
+&Edit=&Bearbeiten
+&Delete=&Löschen
+&Test=&Testen
+Status source files=Statusquelldateien
+HPA Security Extensions=HPA-Sicherheitserweiterungen
+Service Interrupt=Service-Interrupt
+IDLE IMMEDIATE command with UNLOAD feature=Befehl für SOFORT-LEERLAUF mit ENTLADE-Funktion
+Nominal Form Factor=Nominaler Formfaktor
+Additional Product Identifier=Zusätzliches Produktmerkmal
+Read Zeroes After TRIM=Nullen nach TRIM lesen
+Device Encrypts All User Data=Das Gerät verschlüsselt alle Nutzerdaten
+Sanitize=Sicheres Löschen
+Overwrite=Überschreiben (Sanitize)
+Crypto Scramble=Crypto Scramble
+Block Erase=Blockweises Löschen
+Sanitize Antifreeze Lock=Sanitize Antifreeze Lock
+ACS-3 Commands Allowed By Sanitize=Von Sanitize erlaubte ACS-3-Befehle
+NCQ Streaming=NCQ-Streaming
+NCQ Autosense=NCQ-Autosense
+Automatic Partial to Slumber Translations=Automatische Partial-to-Slumber-Übersetzungen
+Rebuild Assist=Rebuild Assist
+Hybrid Information=Hybrid-Informationen
+Device Sleep (DevSleep)=Geräteschlaf (DevSleep)
+DevSleep to ReducedPwrState=DevSleep nach ReducedPwrState
+Recently the following entries added to System Event Log:=Kürzlich wurden folgende Einträge dem System-Ereignisprotokoll hinzugefügt:
+errors=Fehler
+most recent=Neueste Einträge
+warnings=Warnungen
+The following function can be used to improve the situation:=Die folgende Funktion kann zur Verbesserung der Situation genutzt werden:
+Certain detection functions to access disk status disabled.=Bestimmte Erkennungsfunktionen für Zugriff auf Laufwerksstatus Deaktiviert.
+Please change the following option:=Bitte ändern Sie folgende Option:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Wollen Sie jetzt aktualisieren?
+Update not selected.=Aktualisieren ist nicht ausgewählt.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Die Funktion Kontrollierter Ordnerzugriff des Windows Defender verhindert den Zugriff auf Informationen zum Laufwerkstatus.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Erlauben Sie Hard Disk Sentinel, den Laufwerkstatus zu erkennen und zu diagnostizieren, indem Sie ihn der Liste der erlaubten Software hinzufügen (empfohlen)?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Anmerkung: ohne diese Erlaubnis sind instabile Arbeitsabläufe und eine eingeschränkte Funktionalität vorhersehbar.
+Disk Access Blocked=Laufwerkzugriff blockiert
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=NVMe Namespace-Informationen
+Total Sectors=Sektoren insgesamt
+Active LBA Format Index=Aktiver LBA-Format-Index
+LBA Formats Supported=LBA-Formate unterstützt
+LBA Format List=LBA-Format-Liste
+Best=Am besten
+Better=Besser
+Good=Gut
+Degraded=Geschwächt
+Zoned Capabilities=Zonenfunktionen
+SCT Command Transport=SCT-Befehlstransport
+SCT Error Recovery Control=SCT-Fehler Erholungskontrolle
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=Problemüberblick in Warnungen einbeziehen
+Alert about problematic drive(s) only=Nur bei problematischen Laufwerken warnen
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Änderungen seit \1
+Timestamp=Zeitstempel
+No entries found=Keine Einträge gefunden
+Error log=Fehlerprotokoll
+No error information recorded=Keine Fehlerinformationen aufgezeichnet
+The list automatically cleared by the controller on power cycle and reset=Die Liste wird vom Controller vom Arbeitstakt und beim Reset automatisch geleert.
+Depending on the configuration, the test duration may be different than estimated.=Abhängig von der Konfiguration dauert der Test anders als erwartet.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=Der NVMe-Controllertreiber verhindert den Gebrauch von zu häufigen Testbefehlen. Bitte später nochmal versuchen.
+
+No device self-test operation in progress=Kein Geräte-Selbsttest in Verarbeitung
+Aborted by command=Abgebrochen durch Befehl
+Aborted by controller reset=Abgebrochen durch Controller-Reset
+Aborted due to removal of namespace=Abgebrochen wegen Entfernen aus dem Namespace
+Aborted due to Format NVM command=Abgebrochen wegen Format NVM Befehl
+Fatal error or unknown test error=Fataler Fehler oder unbekannter Testfehler
+Failed in an unknown test segment=Fehlschlag in einem unbekannten Testsegment
+Failed in one or more test segment(s)=Fehlschlag in einem oder mehreren Testsegmenten
+Aborted for unknown reason=Abgebrochen aus unbekannten Gründen
+No self-test information recorded=Keine Selbsttest-Informationen aufgezeichnet
+
+Repaired=Repariert
+Failed=Fehlgeschlagen
+Quick Fix=Quick-Fix
+QuickFixDesc=Verifiziere, welche Bereiche des Laufwerks Probleme meldeten und daraufhin in letzter Zeit eine Diagnose schrieben. Repariere speziell solche (und benachbarte) Sektoren und kritische Systembereiche. Der Test zwingt das Laufwerk, alle problematischen (kurz vor Ersatz, schwach) Sektoren zu reparieren: Stellt den Status auf Gut oder ordnet neu zu (aus Ersatzbereich), falls erforderlich, um eine weitere Nutzung des Originalsektors zu verhindern.\n\nIm Unterschied zu einem vollständigen Scan könnte dieser Test nicht alle etwaigen Probleme finden und korrigieren. Somit nutzt man ihn am besten auf Laufwerken mit einer relativ wenigen Problemen und hohem Zustandswert, um schwache Sektoren zu reparieren ohne die Notwendigkeit eines kompletten Backups (und ohne den Test Laufwerkoberfläche neu initialisieren).\n\nDer Test kann sowohl für System- als auch für Sekundär-Laufwerke genutzt werden und ist sicher für gespeicherte Daten. Möglicherweise beschädigte Dateien werden lesbar, auch wenn Dateifragmente auf schadhaften Sektoren korrupt sein könnten. Dateien auf betroffenen, reparierten Sektoren nach dem Testende aufgelistet.
+
+targeted repair of problematic sectors=gezielte Reparatur problematischer Sektoren
+Last error (hour)=Letzter Fehler (Stunde)
+Error free hours=Fehlerfreie Stunden
+Never=Niemals
+Open Disk Management=Datenträgerverwaltung öffnen
+Open Device Manager=Geräte-Manager öffnen
+Windows Drive Index=Windows Laufwerkindex
+
+## added 30 Nov 2022 ##
+
+USB Device Name=USB-Gerätename
+safely remove required=Sicheres entfernen erforderlich
+surprise remove possible=Überraschendes Entfernen möglich
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=Die aktuelle USB-Verbindung limitiert die Festplattengeschwindigkeit. Schließen Sie sie an einen anderen USB-3.0-Port an, um eine bessere Leistung zu erzielen.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=Das Laufwerk kann geschwächt werden oder ausfallen, wenn es mit dem aktuellen USB-Port genutzt wird, der nicht ausreichend Energie für einen ordentlichen Einsatz liefert.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=Das Laufwerk hat das Ende der vorgesehenen Lebensdauer erreicht. Die Chance eines plötzlich auftretenden, unvorhergesehenen Ausfalls ist erhöht.
+In a critical system, it is recommended to consider replacement.=In einem kritischen Systemumfeld wird empfohlen, es wenn möglich durch ein anderes zu ersetzen.
+One or more disk drive(s) may be disconnected or removed.=Ein oder mehrere Laufwerke können getrennt oder entfernt werden.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Möglicherweise ist das Laufwerk kein echtes Speichermedium: es zeigt eine sehr hohe verfügbare Kapazität, darauf gespeichertem Daten können beschädigt werden und verloren gehen.
+
+## added 8 Nov 2023 ##
+
+When custom threshold reached=Wenn angepasster Mittelwert erreicht wurde
+When disk added/connected=Wenn Laufwerk hinzugefügt/angekoppelt wurde
+When disk removed/disconnected=Wenn Laufwerk entfernt/abgekoppelt wurde
+Drive Added=Laufwerk hinzugefügt
+Drive Removed=Laufwerk entfernt
+Custom Alert=Angepasster Alarm
+Configure custom alert threshold=Angepassten Mittelwert-Alarm konfigurieren
+Disable custom alert for the selected attribute=Angepassten Alarm für gewähltes Attribut deaktivieren
+Alert When Disk Drive(s) Added/Connected=Alarm beim Hinzufügen/Ankoppeln von Laufwerken
+Alert When Disk Drive(s) Removed/Disconnected=Alarm beim Entfernen/Abkoppeln von Laufwerken
+Select disk(s) from the list by using the checkboxes=Laufwerk(e) aus der Liste mittels der Checkboxen wählen
+Trigger alert on next startup if the list of disk drives changed while Hard Disk Sentinel was not running=Löse beim nächsten Programmstart Alarm aus, falls die Laufwerksliste geändert wurde, währen Hard Disk Sentinel nicht lief.
+Automatically show the disk drive as offline after removed (with last known status)=Nach dem Entfernen das Laufwerk automatisch als offline anzeigen (mit zuletzt bekanntem Status)
+Specify disk(s) to trigger alert when the list of detected disk drives changes.=Bestimme Laufwerke, bei denen Alarm ausgelöst wird, wenn sich die Liste erkannter Laufwerke ändert.
+Specify disk(s) to DO NOT trigger alert when the list of disk drives changes (ignore).=Bestimme Laufwerke OHNE ALARM, wenn sich die Liste erkannter Laufwerke ändert (ignorieren).
+Use the Select button or enter by disk drive model {firmware} / serial number.=Auswählen-Button verwenden oder Eingabe nach Laufwerksmodell {Firmware} / Seriennummer.
+It is possible to use wildcards (* for any number of any characters, ? for any single character) to manually specify multiple disk drives.=Es können Wildcards verwendet werden (* für irgendeine Anzahl Zeichen, ? für irgendein einzelnes Zeichen), um mehrere Laufwerke manuell zu bestimmen.
+Example: WDC* will match all disks starting with WDC letters.=Beispiel: WDC* trifft auf alle Laufwerke zu, die mit den Buchstagen WDC beginnen.

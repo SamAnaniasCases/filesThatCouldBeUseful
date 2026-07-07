@@ -1,0 +1,248 @@
+&Operácie
+Projekty
+Plánovaè
+Názov projektu:
+Novı
+Odstráni
+Typ projektu:
+Spusti externú aplikáciu alebo dávkovı súbor
+Príkazovı riadok:
+Spusti schované, bez zobrazenia okna
+Spusti o:
+Vytvori novı projekt
+Projekt
+Neplatnı názov projektu. Nesmie zosta prázdny alebo by u existujúce. 
+Uloi
+Obnovi prednastavené projekty
+Spusti
+Èas
+Môe by spustené neskôr
+Spıta sa pred spustením
+Èas opravy
+Po naèítaní
+Vymaza
+Prida novı projekt do zoznamu
+Chyba pri ukladaní projektu
+Chcete spusti tento projekt
+Štart projektu
+Chyby pri štarte projektu.
+Komentár:
+Preh¾adáva
+Spustite¾né|*.exe;*.bat;*.com|Všetky súbory|*.*
+Spustené
+Chcete uloi upravenú konfiguráciu?
+Ste si istı, e chce vymaza tento projekt?\nProjekt bude vymazanı aj z plánovaèa úloh.\nPoèet naplánovanıch úloh pre tento projekt: 
+Prajete si vymaza tento projekt?
+Presunú súbory a prieèinky
+Zdroj
+Cie¾
+Nastavi
+Prida
+Vınimky
+Vyberte, ktoré súbory nemajú by zahrnuté:
+Zvolené súbory budú ignorované Hard Disk Sentinel-om a nebudú skopírované ani dotknuté iadnym nastavením.
+Všeobecné nastavenia
+Operácie projektu
+Monosti projektu
+Obsah tıchto prieèinkov bude uloenıch do vybranıch cie¾ovıch prieèinkov.
+Zdrojovı prieèinok
+Cie¾ovı prieèinok
+Maska súborov
+Nastavenie prieèinka
+Cie¾ovı prieèinok bude automaticky vytvorenı. Môete vyui nasledovné premenné pri urèovaní prieèinka:\n\n%USER% - meno pouívate¾a\n\n%COMPUTER% - meno poèítaèa\n\n%IP% - IP adresa poèítaèa\n\n%LAST=folder% - názov naposledy vytvoreného/upraveného (najnovšieho) prieèinka v zvolenom prieèinku\n\nJe moné urèi dva alebo viac cie¾ovıch prieèinkov, odde¾ujte ich ; (bodkoèiarkou).
+Urèite aspoò jeden zdrojovı prieèinok.
+Urèite platnı cie¾ovı prieèinok.
+Upravi
+Vypoèíta ve¾kos dát, ktoré sa majú skopírova
+Verifikova skopírované dáta
+Skopírova iba nové a aktualizované súbory
+Odstráni archív po skopírovaní súborov
+Vymaza zdrojové súbory po úspešnom zálohovaní
+Poui aktuálny dátum ako názov zloky
+Kompletné zálohy
+(Predošlé zálohy budú automaticky vymazané pred spustením aktuálnej operácie)
+Stav:
+Súbor:
+Mnostvo dát:
+Prebieha ukladanie
+Prebieha vıpoèet mnostva dát
+Kopírovanie súborov
+Aktualizácia súborov
+Vymazávanie predošlej zálohy
+Overovanie archívu
+ MB/sec
+zostávajúcich minút
+zostávajúcich sekúnd
+Prieèinok:
+Cie¾:
+Uloi podprieèinky
+Po dokonèení
+Odosla/zobrazi report v prípade vıskytu chyby
+Odosla/zobrazi report vo všetkıch prípadoch
+Neposiela a nezobrazova report
+Ste si istı, e chcete odstráni zdrojové súbory po archivácii?\n(Pre maximalizáciu bezpeènosti dát, odporúèame vyuíva túto vo¾bu len vtedy, ak archivujete na 2 a viac zariadení alebo ak máte zapnutú monos "Verifikova skopírované dáta".)
+Odstraòovanie zdrojovıch súborov
+Hotovo
+Projekt bol úspešne dokonèenı
+Stav projektu
+Pri vykonávaní projektu sa vyskytla chyba
+Poèet uloenıch súborov
+Celkovı uplynutı èas:
+Zoznam chıb
+Celkové mnostvo uloenıch dát:
+Nezobrazova priebeh ukladania v okne
+Úlohy boli úspešne dokonèené
+Zrušené
+iadne dáta na uloenie
+Nie je moné otvori zoznam súborov na overenie z tohto prieèinka: 
+Nie je moné odstráni: 
+Nastavenie e-mailu nie je kompletné
+Chyba pri odosielaní e-mailu
+Nie je moné otvori súbor: 
+Nie je moné vytvori súbor: 
+Nie je moné preèíta súbor: 
+Nie je moné zapísa súbor (disk je plnı alebo chránenı proti zápisu): 
+Nie je moné verifikova súbor: 
+Chıba kontrolnı súèet CRC: 
+Kontrolnı súèet CRC je nesprávny: 
+Spusti teraz
+Priorita operácie:
+Nízka
+Normálna
+Maximálna
+Chyba pri otváraní cie¾ového súboru
+Po uplynutí 1/dní
+Opakovane
+Po: 
+Automaticky
+Odloi na ïalší takı deò
+Všetky pevné disky
+Zvolenı projekt nebude spustenı, pretoe iné nespustené projekty sú vypnuté.
+Chcete zmeni nastavenia?
+Spracúvam report
+Zálohovanie súboru bolo spustené. Ak sa zobrazí táto správa, zálohovanie sa nepodarilo.
+Táto verzia Hard Disk Sentinel PRO nie je registrovaná.\nV registrovanej verzii je moné odstráni tútú otázku a spusti zálohovanie automaticky.\n\nNavštívte našu webstránkun\nhttp://www.hdsentinel.com\n\npre inštrukcie oh¾adom registrácie programu.\n\neláte si otvori túto webovú stránku teraz??
+Zvukové upozornenie pri probléme
+Nespúša, ak je mnostvo dát menšie ako
+kbytov
+Zobrazi vıstrahu, ak nie je dostatoèné mnostvo dát
+Uloi názov zdrojového prieèinka aj s obsahom zloky
+Napáli CD/DVD prostredníctvom NERO
+Komprimova súbory prostredníctvom RAR
+Komprimova súbory prostredníctvom 7-Zip
+Zvoli aplikáciu
+Zobrazi príkazovı riadok
+Cie¾ovı disk:
+Médium:
+Rıchlos:
+Simulovanı zápis
+Parametre:
+Cie¾ovı súbor:
+Multiple volumes, volume size: 
+Umiestnenie Nerocmd.exe nie je špecifikované.
+Umiestnenie RAR.exe nie je špecifikované.
+Umiestnenie 7Z.exe nie je špecifikované.
+Chcete to nastavi teraz?
+Èiastoèná konfigurácia
+(Stlaète CTRL+C pre skopírovanie obsahu okna do schránky).
+Upozorni pri chybe
+Upozornenie bude vygenerované (na základne nastavení správ), ak externá aplikácia skonèí s koneènım kódom inım ako 0.
+Overi zápis
+Chyba externej aplikácie
+Nasledujúci príkaz skonèil chybou: 
+Chybovı kód aplikácie: 
+Prebudenie po sieti (Wake-on-LAN) by malo by zapnuté na cie¾ovom poèítaèi.
+Èaka, kım poèítaè nie je dostupnı (neodpovedá na PING)
+Presta skúša, ak nie je odozva ani po
+Cie¾ovı poèítaè:
+Akcia:
+Reštartova
+Spánok
+Hibernácia
+Zdrojovı súbor:
+Zdrojovı prieèinok:
+Viacnásobnı e-mail, jeden súbor na e-mail
+FTP server:
+Pasívny mód
+Exportova poloky registru
+Zapnú poèítaè
+Vypnú poèítaè
+Posla súbory e-mailom
+FTP prenos súborov
+Odosla súbory na HDS server
+Uzol:
+K¾úè:
+Zvo¾te k¾úè registra na export.
+Nie je špecifikovanı k¾uè
+Vzdialenı prieèinok:
+Zvo¾te poèítaè alebo zadajte ako \\nazov-pocitaca
+Prebieha export k¾úèov registra ...
+Spúšam poèítaè(e)
+Zostávajúcich sekúnd pre zrušením:
+Zruši &teraz
+Èakajte, prosím
+Odpoveï
+Vypínam ...
+Vypínanie inicioval...
+Špecifikujte cie¾ové poèítaèe, odde¾ujte èiarkou (,)\nPouite bodku (.) pre tento poèítaè\nPoznámka: spánok a hibernácia nie sú dostupné na vzdialenıch poèítaèoch
+Poèet pokusov:
+Prestávka medzi pokusmi:
+Chyba prenosu.
+Zbiera súbory, kım celková ve¾kos nedosiahne 
+Test pevnıch diskov
+Spusti test na všetkıch dostupnıch diskoch
+Pevné disky na otestovanie:
+Nie je moné testova tento disky
+Test pevného disku zlyhal
+Vısledky testovania disku:
+Podporované automatické testy
+Detaily testu pevného disku
+novonájdenıch realokovanıch sektorov
+novıch chıb roztáèania plotní
+novonájdenıch realokaènıch udalostí
+novıch nevybavenıch sektorov
+opravenıch nevybavenıch sektorov
+nájdenıch novıch off-line chybnıch sektorov
+Kopírova súbory z cie¾ového disku na zdroj
+Aktualizova súbory na cie¾ovom disku a ponecha súbory na cie¾ovom disku, ktoré boli odstránené zo zdroja
+Jednosmerná synchronizácia
+Aktualizova súbory na cie¾ovom disku a odstráni súbory z cie¾ového disku, ktoré boli odstránené zo zdroja
+Dvojsmerná synchronizácia
+Aktualizova súbory na cie¾ovom aj zdrojovom disku a ponecha najaktuálnejšiu verziu súborov na oboch umiestneniach
+Nastavenie zálohy
+Monosti synchronizácie
+Celkovı poèet súborov odstránenıch z cie¾a:
+Celkovı poèet súborov aktualizovanıch na cie¾ovom disku:
+Celkovı poèet súborov kopírovanıch zo zdroja:
+Spracova len súbory
+Zodpovedajúce filtrom
+Nastavi filtre súborov
+Medzi dátumami
+a
+Nie staršie ako
+Ve¾kos
+Atribúty
+Archivova
+Len na èítanie
+Skryté
+Systémové
+Vytvori a pouíva CRC súbory pre ukladanie CRC hodnôt
+Vrátane súborov zodpovedajúcich
+Bez súborov zodpovedajúcich
+Maska súborov:
+tıdne
+mesiace
+roky
+\1  obsahuje kompletnı zoznam chıb.
+Celkovı poèet nájdenıch chıb:
+Nastavenie prieèinkov pre zálohovanie
+Pouite zaškrtávacie políèka pre zvolenie ZDROJOVİCH prieèinkov alebo zadajte prieèinky oddelené ; dole v zozname prieèinkov
+Zvo¾te CIE¼OVİ prieèinok alebo zadajte jeho cestu dole v zozname
+Všetky zdrojové súbory zo všetkıch zdrojovıch prieèinkov budú archivované na ten istı cie¾, ak je táto monos VYPNUTÁ.\nToto môe spôsobi problémy kvôli strate informácii o ceste k súborom.
+Pouitie jednosmernej alebo dvojsmernej synchronizácie môe spôsobi nekompletnos zálohy.
+Ste si istı, e chcete pokraèova?
+Pozastavi
+Pokraèova
+Pozastavené - Stlaète tlaèítko Pokraèova
+Ignorova súbory, ktoré sú pouívané (nezdie¾ané)
+Vypnú varovnú oznamovaciu správu

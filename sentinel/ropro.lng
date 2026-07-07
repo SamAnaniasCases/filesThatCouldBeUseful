@@ -1,0 +1,248 @@
+Operatii
+Proiecte
+Orar
+Nume proiect:
+Nou
+Indeparteaza
+Tip proiect:
+Ruleaza aplicatie externa sau fisier serie
+Linie comanda:
+Porneste invizibil, fara a afisa fereastra
+Porneste la:
+Creaza Proiect Nou
+Proiect
+Nume proiect invalid. Introduceti un nume nevid si valid.
+Salveaza
+Restore Proiecte Standard
+Start
+Timp
+Poate rula mai tarziu
+Intreaba inainte de a rula
+Fixare timp
+Dupa incarcare
+Sterge
+Adauga proiect nou la lista
+Eroare salvare proiect.
+Doriti sa rulati acest proiect?
+Start Proiect
+Eroare start proiect.
+Comentariu:
+Navigheaza
+Executabile|*.exe;*.bat;*.com|Toate fisierele|*.*
+Activat
+Doriti sa salvati configuratia modificata?
+Sigur doriti sa stergeti acest proiect?\nProiectul va fi sters si din orar.\nNumar de optiuni orar pentru acest proiect: 
+Sigur doriti sa stergeti acest proiect?
+Transfer fisiere si directoare
+Sursa
+Destinatie
+Configureaza
+Adauga
+Exceptii
+Specificati fisierele ce urmeaza a fi excluse de catre aplicatie:
+Fisierele specificate aici vor fi ignorate de Hard Disk Sentinel. Ele nu vor fi copiate si nu vor fi afectate de nici o optiune.
+Setari Generale
+Operatii Proiect
+Optiuni Proiect
+Continutul acestor directoare va fi salvat in directorul(rele) destinatie specificat(e).
+Director Sursa
+Director destinatie
+Masca fisier
+Setari director
+Directorul destinatie va fi creat automat (daca este necesar). Puteti folosi urmatoarele variabile pentru a specifica un director:\n\n%USER% - nume utilizator\n\n%COMPUTER% - nume computer\n\n%IP% - adresa IP  computer\n\n%LAST=director% - nume director recent creat/modificat in directorul specificat\n\nPuteti specifica doua sau mai multe directoare destinatie, ele trebuie separate prin ; (punct si virgula).
+Specificati directorul sursa.
+Specificati directorul destinatie.
+Editeaza
+Calculeaza cantitatea de date de copiat
+Verifica datele copiate
+Copiaza numai fisierele noi si updatate
+Sterge bit arhiva din fisierele copiate
+Sterge fisierele sursa dupa copiere reusita
+Foloseste data curenta ca nume director si pastreaza ultimele 
+arhive complete
+(Vechile arhive vor fi automat sterse inainte de inceperea operatiunii curente de salvare)
+Status:
+Fisier:
+Cantitate date:
+Salveaza Date
+Calculeaza cantitate date
+Copiaza fisiere
+Actualizare fisiere
+Sterge arhive vechi
+Verifica arhive
+ MB/sec
+minute ramase
+secunde ramase
+Director:
+Destinatie:
+Salveaza subdirectoare
+Dupa terminare
+Trimite/afiseaza raport numai daca apare o problema
+Trimite/afiseaza raport in toate cazurile
+Nu trimite/afiseaza raport
+Sigur doriti sa stergeti fisierele sursa dupa arhivare?\n(Pentru securitatea datelor este recomandat sa folositi aceasta optiune numai daca arhivati fisierele in dublu exemplar sau daca optiunea "Verifica datele copiate" este activata.)
+Stergere fisiere sursa
+Completat
+Proiect terminat cu succes
+Status proiect
+Eroare in timpul executiei proiectului
+Numar de fisiere salvate:
+Timp total scurs:
+Lista erori
+Cantitate totala de date salvate:
+Nu afiseaza fereastra status salvare
+Sarcina terminata cu succes
+Anulat
+Lipsa date de salvat
+Nu poate deschide lista fisiere pentru a verifica din acest director: 
+Nu poate sterge:
+Configurare E-mail incompleta
+Trimitere E-mail ratata
+Nu poate deschide fisier: 
+Nu poate crea fisier: 
+Nu poate citi fisier: 
+Nu poate scrie fisier(disc plin sau protectie la scriere): 
+Nu poate verifica fisier: 
+Valoare suma de control CRC lipsa: 
+Valoare suma de control CRC incorecta: 
+Start Acum
+Prioritate operatie
+Asteptare
+Normal
+Maximum
+Eroare deschidere director destinatie
+Dupa incarcare 1/zi
+Repetitiv
+Dupa: 
+Automatic
+Suspenda la urmatoarea zi asemanatoare
+Orice hard disk
+Urmatorul proiect nu va fi executat deoarece un alt proiect prioritar este dezactivat.
+Doriti sa modificati setarile?
+Raport Procesare
+Operatie salvare fisier inceputa. Daca vedeti acest mesaj, operatiunea de salvare a fost oprita.
+Aceasta versiune a Hard Disk Sentinel PRO nu este inregistrata.\nIn versiunea inregistrata este posibil sa  anulati dialogul si sa permiteti ca proiectele de backup sa fie lansate automat.\n\nVizitati pagina web \n\nhttp://www.hdsentinel.com\n\npentru instructiuni referitoare la inregistrarea aplicatiei.\n\nDoriti sa deschideti pagina noastra web acum?
+Alerta sonora la problema
+Nu porneste cand cantitatea de date este mai mica de
+kbytes
+Alerta cand sunt prea putine date
+Salveaza nume director sursa impreuna cu continutul sau
+Arde CD/DVD folosind NERO
+Comprima fisiere folosind RAR
+Comprima fisiere folosind 7-Zip
+Selecteaza Aplicatie
+Afiseaza Linie Comanda
+Disc tinta:
+Media:
+Viteza:
+Burn-proof
+Parametri:
+Fisier tinta:
+Volume multiple, dimensiune volum: 
+Locatia lui Nerocmd.exe nu este specificata.
+Locatia lui RAR.exe nu este specificata.
+Locatia lui 7Z.exe nu este specificata.
+Doriti sa configurati acum?
+Configuratie Partiala
+(Apasa CTRL+C pentru a copia continutul ferestrei in clipboard).
+Alerta la eroare
+Alerta va fi generata (functie de configurarea setarilor mesajelor) daca aplicatia externa a fost terminata cu un cod de iesire diferit de 0.
+Verifica scriere
+Eroare Aplicatie Externa
+Urmatoarea linie comanda terminata cu eroare: 
+Cod eroare aplicatie: 
+Optiunea Wake-on-LAN trebuie activata pe computerul tinta.
+Asteapta pana computerul este gata (raspuns la PING)
+Abandoneaza daca nu raspunde timp de 
+Computer tinta:
+Actiune:
+Restart
+Asteptare
+Hibernare
+Fisier(e) sursa:
+Director(are) sursa:
+E-mail multiplu, un fisier per e-mail
+Server FTP:
+Mod Pasiv
+Export registri
+Porneste computer
+Opreste computer
+Trimite fisiere in e-mail
+Transfer fisiere FTP
+Upload fisiere la serverul HDS
+Nod Radacina:
+Cheie:
+Specificati cheie registri pentru export.
+Nicio Cheie Specificata
+Director Remote:
+Selecteaza computer sau introdu ca \\numecomputer
+Export registri ...
+Pornire computer(e)
+Secunde ramase pana la abandon:
+Anuleaza Acum
+Asteptare
+Raspuns
+Inchidere ...
+Inchidere initiata de la
+Specifica computere tinta separate prin ,\nSpecifica . pentru computere locale\nNota: asteptare si hibernare nu sunt disponibile la computere remote
+Incercari Transfer:
+Pauza intre incercari (sec):
+Eroare Transfer.
+Colecteaza fisiere pana cand dimensiunea totala atinge 
+Testeaza hard-disk(uri)
+Ruleaza test pe toate hard-discurile disponibile
+Hard-disc(uri) de testat:
+Nu se poate testa hard-disc-ul
+Test hard-disc ratat
+Rezultate test hard-disc:
+Auto-teste suportate:
+Detalii test hard-disc
+Gasite sectoare noi realocate
+Gasite erori noi de incercare de rotire
+Gasite evenimente noi realocare
+Gasite sectoare noi cu probleme
+Sectoarele cu probleme au fost rezolvate
+Gasite sectoare noi cu probleme off-line necorectabile
+Copiaza fisiere din sursa in tinta
+Update date din tinta si pastreaza in tinta fisierele indepartate din sursa
+Sincronizare simpla
+Update date din tinta si pastreaza in tinta fisierele indepartate din sursa
+Sincronizare dubla
+Update date din sursa si tinta prin pastrarea celor mai recente fisiere din ambele locatii
+Control Backup
+Optiuni Sincronizare
+Total fisiere indepartate din tinta:
+Total date actualizate in tinta:
+Total date copiate in sursa:
+Doar Fisiere Proces
+Potrivire filtre specificate
+Configureaza Filtre Fisier
+Intre datele
+si
+Nu mai vechi de
+Cu dimensiune
+Cu atribute
+Arhiva
+Read only
+Ascuns
+Sistem
+Creaza si foloseste fisiere CRC pentru stocare valori fisiere CRC
+Include Potrivire Fisiere
+Exclude Potrivire Fisiere
+Masca fisier:
+saptamani
+luni
+ani
+\1  contine lista completa de erori.
+Numar total de erori gasite:
+Configurare Directoare pe Backup
+Bifati casutele pentru a selecta directoarele SURSA sau pentru a introduce directoare separate de ; sub lista
+Selectati director TINTA sau introduceti calea sub lista
+Toate fisierele sursa din toate directoarele sursa vor fi arhivate in aceeasi tinta, daca aceasta optiune este DEZACTIVATA.\nAceasta poate cauza probleme datorita pierderii informatiei despre cale.
+Folosind sincronizare simpla sau dubla cu aceasta optiune se poate crea o arhiva incompleta.
+Sigur doriti sa continuati?
+Pauza
+Continuare
+Pauza - Apasati butonul Continuare
+Ignora fisiere in uz 
+Dezactiveaza mesajele de avertizare

@@ -1,0 +1,1362 @@
+Hard Disk Sentinel Is Already Running.
+Error
+Hard Disk Temperature
+Failure Predicted
+OK
+Supported
+Not supported
+Yes
+ &Hard Disk Drives 
+Select the hard disk(s) you want to view in the status window. Double click to select system tray icons. Right click to display local menu.
+No.
+Name (Size)
+Temperature
+Tray Icon
+ &Preferences 
+Display status window at start
+Load with Windows
+Transparency:
+Language:
+&Close
+Hard Disk Sentinel
+Select this drive to show its temperature in system tray
+&Show Status Window
+&Hide Status Window
+&Configuration
+E&xit
+At least one hard disk must be selected.
+ &Status Window  
+Background Color
+Background Image
+Select
+Error opening image file.
+Supported Image Files|*.jpg;*.bmp|All files|*.*
+Information
+S.M.A.R.T.
+Disk Performance
+Partitions
+Disk Information
+Transfer Rate Information
+Total Data Read
+Total Data Write
+Current Transfer Rate
+ KB/s
+Current Read Rate
+Current Write Rate
+Current Disk Activity
+Disk Activity %
+Transfer Rate (MB/s)
+Hard Disk Summary
+Hard Disk Number
+Hard Disk Model ID
+Firmware Revision
+Hard Disk Serial Number
+Total Size
+ATA Information
+Hard Disk Cylinders
+Hard Disk Heads
+Hard Disk Sectors
+Total Sectors
+ATA Revision
+Bytes Per Sector
+Bytes Per Logical Track
+Buffer Size
+Multiple Sectors
+Error Correction Bytes
+Unformatted Capacity
+Maximum PIO Mode
+Active PIO Mode
+Maximum UDMA Mode
+Active UDMA Mode
+ATA Features
+Supported
+Not supported
+Attribute
+Threshold
+Value
+Worst
+Data
+Status
+Partition Information
+Logical Drive
+Total Space
+Free Space
+Partition Type
+bytes
+Used Space
+Disk:
+Maximum Transfer Rate
+Estimated Max. Transfer Rate
+DVD Write Speed
+Larger disk utilization needed for the measurement.
+OK (Always passing)
+Fail (Always failing)
+Advisory: Usage limit exceeded
+Pre-Failure: Data loss predicted
+Copy entire page to clipboard
+Hard Disk &Temperature History
+since installation
+About
+&Registration
+Registration Name:
+Registration Key:
+Invalid registration key, registration failed.
+Registration successful. Thank you for your support.
+Display main window when started
+Available only after registration and activation.
+Unregistered version, please register.
+Registered to:
+Overview
+Current Temperature:
+Maximum Temperature (today):
+Temperature status is good.
+Current temperature is too high. It is recommended to use a hard disk cooling device (for example a fan or passive heatsink) if possible.
+Current temperature is good but previously it was too high. It is recommended to use a hard disk cooling device (for example a fan or passive heatsink) if possible.
+Performance:
+Health:
+Excellent
+Good
+Fair
+Acceptable
+Bad
+No actions needed.
+It is recommended to backup often to prevent data loss.
+&Properties
+Hard Disk &Overview
+&Previous Hard Disk
+&Next Hard Disk
+&Alerts
+Send e-mail alert if hard disk failure predicted
+Send e-mail alert if hard disk temperature is over
+&E-mail Configuration
+Mail account:
+Sender name:
+Sender e-mail:
+Recipient e-mail:
+SMTP server:
+Authentication Options (Leave these fields blank if not required)
+Username:
+Password:
+Default
+The following field must be specified in order to send the e-mail:
+Do you want to enter this information now?
+Error while sending alert e-mail.
+Alert e-mail sent.
+Overheat
+Temperature threshold setting:
+Temperature Unit:
+Sending Report
+Font:
+Save
+Display only the highest temperature on tray
+Transferred data unit:
+Acoustic Management Configuration
+Disabled
+Enabled
+Current Acoustic Level
+Recommended Acoustic Level
+Unknown
+Max performance and volume
+Min performance and volume
+Balanced performance and volume
+Acoustic Management
+Default
+Average Reads Per Day
+Average Writes Per Day
+Snap to screen edges
+Warning
+Send/display message
+Shut down
+When failure expected
+When temperature is too high
+When a new log entry is added
+Send daily status e-mails
+At
+Critical value degradation
+Current status
+Status e-mail sending error.
+Status e-mail sent successfully.
+&Update
+Find new version and update weekly
+Check for new version now
+Last check date:
+No checks made
+Cancel
+Installed version:
+Most recent version:
+Updating files
+Current file:
+Entire process:
+The current software version is up to date.
+Error while downloading. Please verify the network and try again.
+Update successfully completed.
+Status: Checking available version
+Status: Downloading
+Close
+Hard disk not found.
+S.M.A.R.T. functionality is missing. You need to copy the file Smartvsd.vxd from Windows\System folder to Windows\System\IoSubsys folder and restart your computer. Please check Help -> Installation for details.
+System administrator rights needed to access hard disk information.
+Log
+Number of problems logged:
+Note: The registered version can send alert e-mails and turn off the computer when a new hard disk problem is found and logged.
+No problems logged.
+The status of the hard disk is stable.
+Warning: hard disk status is degraded in the past days.
+Date
+Previous Value
+New Value
+Warning: multiple problems found in the past days.
+A previously working hard disk is not responding. It is possible that the operating system stopped the device to prevent (further) problems.
+Program status:
+Error reading activation information.
+Successfully registered and activated.
+Registered but not activated.
+Not registered and not activated.
+Registration And Activation On-Line
+Registration And Activation By E-Mail
+Activation file is saved as
+Please send this file with your registration name and registration key to info@hdsentinel.com  In reply, you'll receive your registration file which should be loaded by the Load Activated Keyfile button (or it is possible to manually copy to the folder of this software) to make the software registered and activated.
+It is recommended to use the on-line activation method because it is faster and more comfortable.
+Maximum number of activations reached for this registration key.
+Activation Error
+Error while communicating with the activation server.
+Please contact the developer about your license.
+The application already activated with this registration key on 5 different configurations.
+Error while reading data from the activation server.
+Activation is not possible.
+Activation done, thank you for your support.
+Activation Successful
+Activation By E-mail
+Under Windows 98, it is possible that an USB device is causing this problem because the USB device may cause problems with S.M.A.R.T. on the secondary IDE channel.
+The disk is not responding.
+The disk is not responding for a long time. It may be disconnected.
+Show application on both Task Bar and System Tray
+Analysing system. Please wait.
+Help
+Please enter your registration name (your name or nickname) and registration key you received. If your computer has an active internet connection, please select on-line activation: this case the registration and activation is automatic, no other actions needed. Otherwise, please select the e-mail activation method and send the displayed file to the author. You'll receive your activated keyfile, please put it into the folder of the application.
+Event
+Interface translated by:
+_translator name_
+_translator email_
+E-mail
+TXT files
+All files
+Icon should be red if temperature is over
+A&dvanced Options
+Detection frequency:
+1 second
+5 seconds
+10 seconds
+30 seconds
+1 minute
+2 minutes
+5 minutes (default)
+10 minutes
+30 minutes
+1 hour
+Enable warning if the hard disk is not responding
+Average Temperature (today):
+Current
+Daily Average
+Daily Maximum
+Sound alert
+Select Sound File
+Sound files
+Double click or right click to display more information.
+Adjust
+OK
+Cancel
+Error occurred while performing this command.
+This feature requires Windows 2000, XP or newer operating systems.
+When free disk space is low
+Set Free Disk Space Threshold
+Use same setting for all installed hard disks
+Global setting
+Warning if free space is less than
+Low disk space
+Low
+Disable automatic scandisk upon start of Windows
+It is required to restart the computer to apply new settings.
+Synchronize computer clock with an atomic clock
+When the application is started
+Do you want to view the status of hard disk(s) in a small status window?\n(Later it is possible to change this setting by a right click\non the system tray icon and selecting "Configuration" from the menu.)
+Temperature is not supported on this hard disk.
+Cannot be determined on this hard disk.
+&Help
+Help is not available. Please download the full installation package from the website of the application.
+This function is not available on the selected hard disk.
+Modify default hard disk icons in Windows Explorer
+SCSI Information
+Vendor Information
+Version
+Device Type
+Disk
+Removable
+Failure Prediction
+Fixed Disk
+Remote Drive
+Optical Storage
+The marked logical drives belong to the current physical hard disk.
+Change display mode
+Volume label
+Serial number
+Monitor space on network disks
+Hot &Keys
+Command
+Enable system hot keys (can be used from any application)
+Disk &Control
+Change default system icon for network disks
+Monitor space on removable disks
+Change default system icon for removable disks
+Do not examine space information of the following disks: (eg: CDE)
+Do not change default system icon of the following disks: (eg: KL)
+Double click to open a drive. F5 to Refresh.
+No disk in drive
+Mail Test
+If this message is delivered, the e-mail configuration is correct.
+Test mail successfully sent.
+Error while sending test mail. Please verify the e-mail configuration.
+Power on time:
+days
+hours
+minutes
+Estimated remaining lifetime:
+more than
+seconds
+Port:
+Delay before starting scandisk (seconds):
+Health value:
+When disk health is low
+Panic backup
+Health threshold:
+Display message on screen
+Send message to remote computer (NET SEND):
+This function is available only if PROFESSIONAL version is installed.\nBy using this function, it is possible to start pre-configured backup operation(s) when a problem is found.\n\nPlease visit the homepage (www.hdsentinel.com) to read more about this feature.
+Low health
+Create Test Report
+Error while sending the report.\nPlease open Configuration window, select Send test report, save the report and send it to reports@hdsentinel.hu
+&Message Settings
+Send E-mail
+Dial up the default internet connection before sending
+Close connection after sending
+Display custom message from text file also
+Please wait, measuring ...
+Invalid registration details - this function is disabled.
+Health Information
+Error while saving. The disk may be full or read-only.
+Thresholds / Tray &Icon
+Display hard disk temperature on tray icon
+Below
+Between \1 and \2
+Temp.:
+Above
+Use classic (digital) tray icon numbers
+Background
+Foreground
+Example
+Display hard disk health sign on tray icon
+Application Information
+Current Date And Time
+System Information
+Windows Version
+CPU Type & Speed
+BIOS Manufacturer
+Physical Memory Size
+Display Adapter
+Display Resolution
+Printer
+Network Controller
+PCI Device Information
+Computer Information
+Computer Name
+User Name
+IP Address
+MAC Address
+Physical Disk Information
+Flags
+Critical
+Statistical
+Performance
+Error-Rate
+Event Count
+Self Preserving
+Desktop
+Server
+Mobile
+Computer Type
+General Information
+HTML files|*.html|All files|*.*
+Save Report
+Send Report in E-mail
+Report type:
+Detailed HTML report
+Brief text report
+Send &Test Report
+Hard disk information to display
+Hard Disk Model
+Logical Drive(s)
+Health
+Status / Problem
+Physical Disk(s)
+The status of the hard disk is unknown.
+The status of the hard disk is perfect.
+The status of the hard disk is not perfect.
+Failure expected on this hard disk.
+There are \1 bad sectors on the disk surface. The contents of these sectors were moved to the spare area.
+Based on the number of remapping operations, the health of the disk was decreased in different steps.
+Based on the number of remapping operations, the bad sectors may form continuous areas.
+The drive found \1 bad sectors during its self test.
+Problems occurred during the spin up of the disk \1 times. This can be caused by the disk itself or huge power load (weak power supply).
+There are \1 weak sectors found on the disk surface. They may be remapped any time in the later use of the disk.
+Problems occurred between the communication of the disk and the host \1 times. In case of a sudden crash or reboot it is recommended to try a different, short data cable (avoid round cables, use 80 wire standard cables instead).
+It is recommended to examine the log of the disk regularly. All new problems found will be logged there.
+The hard disk status is PERFECT. Problematic or weak sectors were not found and there are no spin up or data transfer errors. 
+Apply
+Offset
+Offset:
+It is recommended to calibrate the temperature and set the temperature offset on the S.M.A.R.T. page. This way later the correct temperature value will be displayed. 
+Health calculation method:
+Analyse data field (default)
+Analyse vendor-specific values (NOT RECOMMENDED)
+Threshold exceed on:
+Attribute graph
+Display data field
+Display vendor specific values
+Not expected
+Happened
+Detailed text report
+File
+View
+Report
+Save TXT report
+Save HTML report
+Send TXT report
+Send HTML report
+It is recommended to continuously monitor the hard disk status.
+Analyse data field (more strict, recommended for servers)
+Modify Attribute Offset 
+The use of this option is recommended only for advanced users. By using this option, the displayed status may not reflect the actual condition. Are you sure you want to change this option?
+Do not show this again
+The use of this option is recommended only for advanced users. By using this option it is possible to display an incorrect condition and also possible to miss some alerts about further condition changes. Are you sure you want to change this option?
+Disable sound alerts
+Enable sound alerts
+Error occurred while setting acoustic level.\nThe hard disk controller or its driver do not support this function.
+Real time performance monitoring is not supported on this disk.
+Note: the unregistered version does not store changes of these options. The settings will be reset to default values when the application is restarted.
+Enable Attribute
+Repeat sound alert
+Use PC Speaker
+Send Test
+The message successfully sent to the target computer.
+Error occurred during the operation. Please verify the network connection and the running status of the messenger service on both computers.
+Problems Caused Sound Alert
+Re-enable alerts
+ATA Control Byte
+Valid
+Invalid
+ATA Checksum Value
+the displayed information may not be correct.
+Test Sound Alert
+Make a shortcut for this project to the desktop
+Shortcut Creation
+A shortcut for this project has been successfully created on the desktop.
+Error while creating the shortcut for this project.
+The registration information is expired. Please contact the author to extend the license.
+Send mouse clicks to window under status window
+Display information on desktop
+License valid:
+Forever
+Expired
+None
+Fully transparent background
+I&ntegration
+Service
+Password required to open main information window
+Password required to open configuration window or to close Hard Disk Sentinel
+Log out after
+minutes
+Password:
+Log &Out Now
+Use As &Service
+Use As &Application
+Remote Control
+Enable remote connection to Hard Disk Sentinel server
+Server name or IP address:
+TCP port (default = 61210):
+Protection
+Error while installing Hard Disk Sentinel service.
+Error while starting Hard Disk Sentinel service.
+Error while stopping Hard Disk Sentinel service.
+Hard Disk Sentinel now saves the current configuration and will be closed. It will be re-started as a service.
+Hard Disk Sentinel service now saves the current configuration and will be stopped. It will be re-started as an application.
+Authorized Access Required
+Invalid password entered. It is not possible to use this function.
+To close Hard Disk Sentinel service, please use the "Stop service" shortcut or switch back to Application mode on the Integration panel from the Configuration window and close the application.
+No
+High
+Maximum
+Update is not available when running Hard Disk Sentinel as service. Please switch back to Application mode on the Integration panel before updating the application to a new version.
+Service mode
+Safe mode (disable hardware detection)
+Hard Disk Sentinel service is not installed. Please open the Configuration window, select Integration panel and install Hard Disk Sentinel service.
+Hard Disk Sentinel service is already running.
+Hard Disk Sentinel service is not running.
+Average Transfer Rate
+Average Disk Activity
+Repeat Test
+Information not yet available
+Hard Disk Sentinel service stopped.\nDo you want to disable the service and use the software in Application mode?
+Microsoft Vista and newer operating systems do not allow services to interact with the desktop.\n\nHard Disk Sentinel will run invisibly: its windows and icons will not be\ndisplayed and it will not be possible to access configuration.\n\nTo stop the service and use the software in Application mode,\nplease select the "Stop service" shortcut from Hard Disk Sentinel group.\n\nAre you sure you want to continue?
+Find out how this value is calculated
+Please enable this application to run with the proper rights.
+Disk icon set:
+XP
+Vista
+Click To Start
+Hard Disk Test
+Test operation:
+Status:
+Estimated time remaining:
+Error while starting the test. The error code is:
+Running, No Problems Found
+Response:
+Elapsed time:
+This registration key can be used only to register the STANDARD version.\nPlease download and install the STANDARD version from www.hdsentinel.com\nto use this registration key.
+This registration key can be used only to register the PROFESSIONAL version.\nPlease download and install the PROFESSIONAL version from www.hdsentinel.com\nto use this registration key.
+Use megabytes unit for threshold
+Confirm:
+The two passwords are not the same.\nPlease enter the same password two times to confirm it.
+Enable WebStatus
+Ask for password to establish connection
+HTTP connection port
+Port Address (>1023)
+Attribute comments
+Decimal data fields
+The drive tried to examine and reallocate data sector(s) \1 times. The examined data area is perfect.
+Replace hard disk immediately.
+Detailed report components:
+Backup / Restore Current Configuration
+Backup Configuration
+Restore Configuration
+Optical Drive
+Generate and update XML file
+The hard disk temperature sensor is wrong. The measured value is:
+Accept remote connections from server
+Remote connection port
+Disable tray icon bubble alerts
+Disable detection of USB and SCSI drives
+Send
+Comments:
+Send To Developer
+Contacting server - www.hdsentinel.com
+Sending report
+Report successfully sent. \nThank you for your support.
+Send Test Report To Developer 
+Creating report
+I want to receive response after evaluating report
+This is a bug report
+Open HD Sentinel &Main Window
+Visible
+Hard Disk Size Unit:
+Partition Size Unit:
+CC (carbon copy):
+BCC (blind carbon copy):
+Update Test Report
+(estimated)
+Calculating time, please wait ... The current estimated value may not be accurate.
+Remote path
+Yellow temperature level reached.
+Red temperature level reached.
+Yellow health level reached.
+Red health level reached.
+Limit:
+Temperature:
+Attribute changed
+Clear Log
+Background
+Enable DynDNS Service
+Enable No-IP Service
+Enable Custom Dynamic DNS Service
+Configure
+Username
+Password
+Hostname (full)
+Full URL to update (%ip% changed with current IP)
+Last Server Response:
+Gadget
+Enable Gadget
+Display Header
+Display Disk Activity
+Do you want to test the configuration now by updating the IP address?
+The number of found problems is high at the following attribute:
+Read:
+Write:
+All Disks
+Activity Icon
+Display total disk activity on a single tray icon
+(HIGH word)
+(MID word)
+(LOW word)
+Power State:
+Active
+Sleeping
+(since \1)
+System Uptime
+System Up Since
+Disk Controller
+Disk Location
+Visit Our &Website
+Contact
+Buy Now
+Enter Registration Key
+The list contains \1 items. Please register the software to view all items.
+CPU Usage
+CPU
+Virtual Memory
+Used:
+The hard disk is operating in PIO mode which reduces performance. It is recommended to check and replace data cable or modify the configuration.
+The hard disk is operating in UDMA mode 2 (33 Mbytes/sec) which reduces performance. It is recommended to use a 80 conductor IDE cable if the controller supports higher data transfer rate(s).
+Silicon Image (SiI) controllers may not provide complete information about all connected disks. 
+The current disk controller driver does not provide full access to the disk itself to read all details. Please check if there is an updated driver available.
+This USB storage device does not provide more information about itself. Anyway, it can be tested for problems by Disk -> Surface test function.
+This RAID array does not provide access to disk details in the array. Anyway, it can be tested for problems by Disk -> Surface test function.
+Please use the "Report" menu "Send test report to developer" option to help us determining if it is possible to detect and display more information.
+Please visit the "Hardware" and "Support -> FAQ" sections on www.hdsentinel.com for details.
+Enable
+Maximum Temperature (ever measured):
+Minimum Temperature (ever measured):
+2 hours
+4 hours
+6 hours
+8 hours
+12 hours
+Reserved 1
+Reserved 2
+Yellow temperature limit reached. If the drive temperature still increases, then it is recommended to use a hard disk cooling device (for example a fan or passive heatsink) if possible.
+Select "Thresholds / Tray Icon" page to configure health and temperature thresholds for yellow and red levels.
+Critical
+It is recommended to backup immediately to prevent data loss.
+Compact buttons
+Normal buttons
+Large buttons
+Perf.:
+Interface:
+Message
+Random Seek Test
+Test drive seek performance, noise and temperature
+Seek Time
+Minimum
+Maximum
+Average
+Test
+Elapsed
+Remaining
+Operations
+Errors
+Start &Test
+&Stop Test
+Quick test
+Normal test
+Deep test
+Long intensive test
+Custom duration
+Time to complete test (HH:MM:SS): 
+READ Test
+WRITE Test
+This function can be used only once in the unregistered version.
+Do you want to open the website of the software now for the details of registration?
+Are you sure you want to stop this operation?
+This function is not available on the selected drive because of the configuration of this controller and drives.
+Hard Disk Sentinel Evaluation Version
+The registered version of Hard Disk Sentinel offers highest level of data protection by alerts, disk diagnostics, automatic backup (PRO version only), remote management and further functions to test and increase stability and performance of storage devices.\n\nThis demo version should be used for up to 30 days to evaluate some of the most important functions and verify compatibility with the system. After that trial period, you should upgrade to a registered version by purchasing a license or stop using the software.\n\nBenefits of purchasing a licensed version:\n\n- highest level of data protection\n- fast, secure and flexible payment options\n- immediate access to all functions and unlock all features\n- free technical support and help\n- lifetime license, no subscription or renewal costs\n- no restrictions and annoying notices
+S.M.A.R.T. offset is configured for an attribute used to calculate this value
+&Select Tray Icon Font
+Do not allow spin down of disks (numbers by comma, for example 1,2 or * to all)
+Verify Online 
+Compare S.M.A.R.T. values of this device with others (of the same model) to see if attributes are better or worse than the average
+Surface Test
+Analyse disk surface with different methods and tests
+Disk surface map
+Temperature and transfer speed
+Block
+Damaged
+Progress
+Pass
+Time
+Est.
+sectors
+Test stopped
+Unable to lock the disk for exclusive use.\nAre you sure you want to test it anyway (NOT recommended)?
+Test completed
+Position
+Sequential test
+Test blocks from the beginning to the end
+Random test
+Test blocks in random order
+Butterfly test
+Alternating: test one block from the beginning and one from the end
+Sequential backward test
+Test blocks from the end to the beginning
+Sector
+Verify error
+&Save disk information
+&Load disk information
+Initializing ...
+Disk Contents Inspector
+&Previous
+&Next
+&Go to ...
+Please select the drive (accessible to the operating system) to be tested and the testing method.\nRead the detailed information carefully before starting the test.\nClick View for surface details, use the \1 or review previous test results.
+Read test
+Reads the disk surface to verify if all sectors are accessible and readable.\n\nThe test is safe, it does not affect stored data.\n\nDisk problems may remain hidden and revealed disk issues are NOT fixed (like with ScanDisk).
+WRITE test
+Overwrites the disk surface with configurable pattern. Forces the analysis of any weak sectors and verifies any hidden problems and fixes them by reallocation of bad sectors (this is drive regeneration).\n\nEnables better use of the disk as after the test the spare area will be used instead of any problematic sectors.
+WRITE + read test
+Overwrites the disk surface with configurable pattern and then reads back sector contents, to verify if they are accessible and consistent. Forces the analysis of any weak sectors and verifies any hidden problems and fixes them by reallocation of bad sectors (this is drive regeneration).\n\nEnables better use of the disk as after the test the spare area will be used instead of any problematic sectors.
+Read + WRITE + read test (refresh data area)
+Reads stored data from each blocks, writes back the contents and finally reads the information and compare with original contents. By the extensive test, an additional write cycle is used before writing back the contents to improve the efficiency of the error correction (drive regeneration).\n\nThe operation is usually safe for the stored information but data loss may occur if the system is not stable and/or upon power failure, overclocking, memory/power supply/cable problems and other factors.\n\nThe test can be used to refresh the data area of the storage device, without the need of complete erase but it is still recommended to backup important data before this test.
+Reinitialize disk surface
+Overwrites the disk surface with special initialization pattern to restore the sectors to default (empty) status and reads back sector contents, to verify if they are accessible and consistent. Forces the analysis of any weak sectors and verifies any hidden problems and fixes them by reallocation of bad sectors (this is drive regeneration).\n\nEnables better use of the disk as after the test the spare area will be used instead of any problematic sectors.\nVery intensive and time-consuming test, especially if the level (the number of overwrite cycles) is set to higher value.\n\nThe simple version of this test is usually (incorrectly) called as low level format by other tools.
+Sector Order
+Non-destructive - safe to data
+Lock drive during test (unmount volumes)
+Repeat test
+times
+Limit testing to specific data blocks
+First block:
+Last block:
+DESTRUCTIVE - all data will be removed
+Empty data (zeroes)
+Random data
+Sector number
+Extensive read-write-read test with additional write operation
+Surface reinitialization level
+Most cases non-destructive (see notes and Help) 
+This test will permanently destroy ALL DATA on the selected drive.\nThe function cannot be undone.\n\nAre you sure you want to perform this test and lose ALL DATA stored on the drive?
+This test performs WRITE operation on the selected drive.\nThe test itself is not destructive but data loss may occur.\n\nAre you sure you want to perform this test?
+Test Confirmation 
+Click on the surface map to inspect sector contents.\n\nRight click to open context menu.
+The test measures transfer time for all blocks to reveal which areas of the surface are slower. As the block is slower, the associated color is darker.
+The developer offers no warranty on the stored data on any disks.
+Current pass
+All passes
+Cannot perform write test on system drive containing any of the following folder(s)
+The loaded information belongs to a different drive.\nHowever upon mouse click on the surface map, sectors of the the current drive are displayed.
+At this point, warranty replacement of the disk is not yet possible, only if the health drops further.
+Do you want to wake up all sleeping hard disks also?\nOtherwise only information of active disks will be updated.
+Update Disk Information
+Test type:
+Data impact:
+Write Pattern
+Reset maximum and minimum temperature values
+Maximum Temperature (during entire lifespan):
+Show values
+Use SSL
+SSD Controller
+The status of the solid state disk is PERFECT. Problematic or weak sectors were not found. 
+The health is determined by SSD specific S.M.A.R.T. attribute(s): 
+Manage Disk Features
+Error occurred while sending the command to the disk.\nThe disk controller or its driver does not support this function.\n\nThe command may be completed after a driver update or\nwhen using a different OS, different disk controller\nor a supported USB enclosure / docking station.
+Enable and Adjust
+Disable
+Pre-start delay (seconds):
+Custom Temperature Thresholds
+Yellow temperature limit:
+Red temperature limit:
+Disable custom thresholds for the selected disk
+Set custom temperature thresholds
+Modify custom temperature thresholds
+Custom
+Global
+Only one disk may have custom temperature threshold configured in this free version of Hard Disk Sentinel.
+The S.M.A.R.T. driver is missing from the current Win9x/ME system.\nDo you want to automatically update the configuration and restart the computer now?
+Load Activated Keyfile
+NTFS Mount Point(s)
+Mount Point
+Attention: your data may not be fully protected.
+Limited time offer: Upgrade today and save \1 on license fee!
+(enter coupon code \1 during secure online registration or click the link below)
+Please wait \1 second(s) before continue ...
+Volume Information
+Partition Style
+Active
+Alignment
+Start Offset
+Length
+Allocation Unit Size
+Total Allocation Units
+Free Allocation Units
+Used Allocation Units
+Volume Type
+Dynamic
+Basic
+&Open status of offline disk(s)
+Select disk(s) with the checkboxes to view their status just like connected (online) disk(s).
+Offline
+Select disk(s) with the checkboxes to be included in the authentic disk report.
+&Save authentic disk report (HTML)
+&Verify authentic disk report
+The selected file is not an authentic disk report.
+The authentic disk report successfully verified and valid.
+The authentic disk report is invalid or corrupted.
+Authentic Disk Report
+&Windows Volume/RAID Information
+\1 errors occurred during data transfer. This may indicate problem of the device or with data/power cables. It is recommended to examine and replace the cables if possible. 
+\1 errors reported during write to the device.
+The limitation of the RAID controller may prevent the detection of further disk information. This is not a limitation of Hard Disk Sentinel software.
+Subscribe to newsletter to be notified about updates and special offers
+Select Report menu -> Send test report to developer and select Subscribe to newsletter to receive information about special offers and updates.
+Daily Minimum
+Standard Width
+The TRIM feature of the SSD is supported and enabled for optimal performance.
+The TRIM feature of the SSD is supported but disabled. It is recommended to upgrade the operating system, the disk controller or its driver to improve performance.
+Lifetime writes:
+Total start/stop count:
+The configuration does not provide further disk status information. However, "Disk" menu "Surface Test" function can examine the disk functionality, reveal and fix possible problems.
+The current version expired. Please enter a registration key to continue using the software.
+The log contains no entries.
+Export transfer speed values
+Automatically adjust setting on restart
+More information:
+Click to add comment ...
+Comment
+Change &folder to store statistics and settings
+Duplicate License Warning
+The same registration code is used for both the installed and the portable version of Hard Disk Sentinel.\nTo fully use the features of both versions, separate licenses are required for these versions.
+Status last updated:
+Online Warranty Check
+Copy selected value to clipboard
+Accessing some areas of the surface during the test may\nbe slower due to the active operating system and\napplications, this can cause darker green blocks.
+Reset workload counters
+Do you want to save separate reports for selected disk drives?
+The detected total capacity (\1) of the drive \2 is not correct, the capacity should be \3.
+The current disk controller/driver/adapter may not be fully compatible with \1
+Using the drive may cause file system corruption and/or data loss.
+It is recommended to check and modify the configuration or upgrade the operating system, hard disk controller and/or drivers to safely use this device.
+Device Specific Information
+The hard disk controller provides only a generic self-monitoring (S.M.A.R.T.) status, without additional details. 
+The S.M.A.R.T. status is: 
+Always on top
+It is required to completely close by File -> Exit and restart to make this change take effect.
+System Idle Time
+The following error(s) detected:
+The status information and possible error(s) provided by the hard disk (RAID) controller. This may be different from the status of the physical drive.
+Auto-upload status to Server
+System Management Information
+The partition(s) on this hard disk created with \1 physical sector size.
+but the current physical sector size is \1.
+Connecting the hard disk differently than the current connection (by different hard disk controller, USB, eSATA connection) may cause that all folders and files will be unaccessible.
+It is recommended to re-connect the hard disk as previously connected (probably with different USB adapter, enclosure, docking station or so) to access the partition with all stored data - otherwise data loss may occur.
+Detect file information for sector
+Unable to determine disk drive layout.
+Unable to detect partition / logical drive information.
+No partition defined on this sector (unused sector).
+Unknown file
+Unused sector on logical drive \1
+Attributes:
+Number of file fragments:
+Detect file information for sectors with errors 
+Detecting File Information
+Detecting Disk Information
+Most recent detected information
+&Files on errors
+years
+months
+Custom Health Thresholds
+Yellow health threshold:
+Red health threshold:
+Set custom threshold
+Modify custom threshold
+Double click to adjust custom health thresholds
+Drive Connection/Removal Event Log
+The log shows all drive(s) connected and removed during active periods of Hard Disk Sentinel and shows changes in disk configuration when the software was inactive (detected on next startup).
+Number of entries:
+Date and time
+Disk drive
+When inactive
+Connected
+Removed
+In case of sudden system crash, reboot, blue-screen-of-death, inaccessible file(s)/folder(s), it is recommended to verify data and power cables, connections - and if possible try different cables to prevent further problems.
+Highest Possible Transfer Rate
+Negotiated Transfer Rate
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Security Mode
+Power Management=Power Management
+Write Cache=Write Cache
+Host Protected Area=Host Protected Area
+Advanced Power Management=Advanced Power Management
+Advanced Power Management Level=Advanced Power Management Level
+Current APM Level=Current APM Level
+Extended Power Management=Extended Power Management
+APM01=Minimum power consumption with standby
+APM02=Intermediate power management levels with standby
+APM80=Minimum power consumption without standby
+APM81=Intermediate power management levels without Standby
+APMFE=Maximum performance and power consumption
+FreeFall01=Lowest sensitivity to free fall events
+FreeFall02=Balanced sensitivity to free fall events
+FreeFallFF=Highest sensitivity to free fall events
+Current Sensitivity=Current Sensitivity
+Power Up In Standby=Power Up In Standby
+48-bit LBA Addressing=48-bit LBA Addressing
+Device Configuration Overlay=Device Configuration Overlay
+Read/Write DMA Queue=Read/Write DMA Queue
+Native Command Queuing=Native Command Queuing (NCQ)
+Read Ahead Buffer=Read Ahead Buffer
+Maximum Multiword DMA Mode=Maximum Multiword DMA Mode
+Active Multiword DMA Mode=Active Multiword DMA Mode
+IORDY Support=IORDY Support
+Maximum sectors transferred on R/W multiple=Maximum Sectors Transferred On R/W Multiple
+Minimum multiword DMA transfer time=Minimum multiword DMA Transfer Time
+Recommended multiword DMA transfer time=Recommended Multiword DMA Transfer Time
+Minimum PIO transfer time without IORDY=Minimum PIO Transfer Time Without IORDY
+Minimum PIO transfer time with IORDY=Minimum PIO Transfer Time With IORDY
+Security Erase=Security Erase
+Security Erase Time=Security Erase Time
+Security Enhanced Erase Feature=Security Enhanced Erase Feature
+Security Enhanced Erase Time=Security Enhanced Erase Time
+Security Enabled=Security Enabled
+Security Locked=Security Locked
+Security Frozen=Security Frozen
+Security Counter Expired=Security Counter Expired
+Security Level=Security Level
+Serial ATA Features=Serial ATA Features
+Interface=Interface
+S-ATA Compliance=S-ATA Compliance
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I Signaling Speed (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=S-ATA II Signaling Speed (3 Gps)
+Receipt Of Power Management Requests From Host=Receipt Of Power Management Requests From Host
+PHY Event Counters=PHY Event Counters
+Non-Zero Buffer Offsets In DMA Setup FIS=Non-Zero Buffer Offsets In DMA Setup FIS
+DMA Setup Auto-Activate Optimization=DMA Setup Auto-Activate Optimization
+Device Initiating Interface Power Management=Device Initiating Interface Power Management
+In-Order Data Delivery=In-Order Data Delivery
+Asynchronous Notification=Asynchronous Notification
+Software Settings Preservation=Software Settings Preservation
+Queue Length=Queue Length
+Disk Family=Disk Family
+Form Factor=Form Factor
+Capacity=Capacity
+Number Of Disks=Number Of Disks
+Number Of Heads=Number Of Heads
+Rotational Speed=Rotational Speed
+RPM=RPM
+Rotation Time=Rotation Time
+Average Rotational Latency=Average Rotational Latency
+Disk Interface=Disk Interface
+Buffer-Host Max. Rate=Buffer-Host Max. Rate
+Drive Ready Time (typical)=Drive Ready Time (typical)
+Average Seek Time=Average Seek Time
+Track To Track Seek Time=Track To Track Seek Time
+Full Stroke Seek Time=Full Stroke Seek Time
+Width=Width
+Depth=Depth
+Height=Height
+Weight=Weight
+grams=grams
+pounds=pounds
+Acoustic=Acoustic
+Idle=Idle
+Required power for spinup=Required power for spinup
+Power required (seek)=Power required (seek)
+Power required (idle)=Power required (idle)
+Power required (standby)=Power required (standby)
+Manufacturer=Manufacturer
+Manufacturer Website=Manufacturer Website
+; list of SMART features
+S.M.A.R.T. Details=S.M.A.R.T. Details
+Off-line data collection=Off-line Data Collection Status
+OFF00=Never Started
+OFF02=Successfully Completed
+OFF03=Activity In Progress
+OFF04=Suspended By Interrupting Command From Host
+OFF05=Aborted By Interrupting Command From Host
+OFF06=Aborted By Device With Fatal Error
+Self test execution status=Self Test Execution Status
+SET00a=Successfully Completed
+SET00b=Never Started
+SET01=Aborted By Host
+SET02=Interrupted By Host With Hardware/Software Reset
+SET03=Fatal/Unknown Error Occurred During The Test
+SET04=Test Failed By Unknown Element
+SET05=Test Failed By Electrical Element
+SET06=Test Failed By Servo/seek Element
+SET07=Test Failed By Read Element
+SET08=Test Failed And Handling Damage Is Suspected
+SET15=Test Is In Progress
+SETCO=completed
+Total time to complete off-line data collection=Total Time To Complete Off-line Data Collection
+Execute off-line immediate=Execute Off-line Immediate
+Abort/restart off-line by host=Abort/restart Off-line By Host
+Off-line read scanning=Off-line Read Scanning
+Short Self-test=Short Self-test
+Extended Self-test=Extended Self-test
+Selective Self-test=Selective Self-Test
+Conveyance self-test=Conveyance Self-test
+Save data before/after power saving mode=Save Data Before/After Power Saving Mode
+Enable/Disable attribute autosave=Enable/Disable Attribute Autosave
+Error logging capability=Error Logging Capability
+Short Self-test Estimated Time=Short Self-test Estimated Time
+Extended Self-test Estimated Time=Extended Self-test Estimated Time
+Conveyance self-test estimated time=Conveyance self-test estimated time
+Last Short Self-test Result=Last Short Self-test Result
+Last Short Self-test Date=Last Short Self-test Date
+Last Short Self-test Duration=Last Short Self-test Duration
+Last Extended Self-test Result=Last Extended Self-test Result
+Last Extended Self-test Date=Last Extended Self-test Date
+Last Extended Self-test Duration=Last Extended Self-test Duration
+Last Conveyance Self-test Result=Last Conveyance Self-test Result
+Last Conveyance Self-test Date=Last Conveyance Self-test Date
+Last Conveyance Self-test Duration=Last Conveyance Self-test Duration
+NOP Command=NOP Command
+Trusted Computing=Trusted Computing
+64-bit World Wide ID=64-bit World Wide ID
+Streaming=Streaming
+Media Card Pass Through=Media Card Pass Through
+General Purpose Logging=General Purpose Logging
+Error Logging=Error Logging
+CFA Feature Set=CFA Feature Set
+Long Physical Sectors=Long Physical Sectors
+Long Logical Sectors=Long Logical Sectors
+Write-Read-Verify=Write-Read-Verify
+NV Cache Feature=NV Cache Feature
+NV Cache Power Mode=NV Cache Power Mode
+
+# added 4 Nov 2008 
+Transport Version=Transport Version
+NV Cache Size=NV Cache Size
+Free-fall Control=Free-fall Control
+Free-fall Control Sensitivity=Free-fall Control Sensitivity
+Non-rotating Media (SSD)=Non-rotating Media (SSD)
+Nominal Media Rotation Rate=Nominal Media Rotation Rate
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA Gen3 Signaling Speed (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=CFast Device
+SSD Features=SSD Features
+Data Set Management=Data Set Management
+TRIM Command=TRIM Command
+Deterministic Read After TRIM=Deterministic Read After TRIM
+
+Operating System TRIM Function=Operating System TRIM Function
+
+# added 3 Oct 2011
+
+Self-Test Results=Self-Test Results
+SST05=First Segment of the Test Failed
+SST06=Second Segment of the Test Failed
+SST07=Self Test Failed at Test Segment
+SSTN=Self-Test Segment
+SSTN0=No Segment ID Available
+SSTH=Power On Hours
+SSTL=Failure Address (LBA)
+SSHL=The hard disk reports the following problems:
+
+
+SA1=Errors occurred while reading raw data from a disk\Indicate problem with the disk surface or the read/write heads.
+SA2=General throughput performance of the hard disk\Indicate problem with motor, servo or bearings.
+SA3=Time needed by spindle to spin-up to full RPM\Indicate problem with motor or bearings.
+SA4=Count of start/stop cycles of spindle\This value does not directly affect the condition of the drive.
+SA5=Count of sectors moved to the spare area\Indicate problem with the disk surface or the read/write heads.
+SA6=Margin of a channel while reading data\The exact function of this attribute is not specified.
+SA7=Rate of positioning errors of the read/write heads\Indicate problem with servo, head. High temperature can also cause this problem.
+SA8=Average time of seek operations of the heads\Indicate problem with servo.
+SA9=Total time the drive is powered on\The unit of the measure depends on the manufacturer.
+SA10=Retry count of spin start attempts\Indicate problem with motor, bearings or power supply.
+SA11=Number of attempts to calibrate a drive\Indicate problem with motor, bearings or power supply.
+SA12=Number of complete power on/off cycles\This value does not directly affect the condition of the drive.
+SA13=Number of software read errors\The number of uncorrectable read errors.
+SA184=Number of parity errors during transfer between the cache RAM and the host.
+SA187=Errors that could not be recovered using hardware error correction methods.
+SA187MTRON=Virtual block erase count\Indicate the wear of the storage device.
+SA188=Number of aborted operations due to HDD timeout. Value larger than zero may indicate power supply or data cable connection problems.
+SA189=Number of unsafe write operations outside the normal head flying range.
+SA190=Airflow temperature\The temperature of the air inside the hard disk housing.
+SA191=Number of mechanical errors\Number of errors resulting from shock or vibration.
+SA192=Count of power off cycles\This value does not directly affect the condition of the drive.
+SA193=Count of load/unload cycles\Number of cycles the head moved into landing zone position.
+SA194=Disk temperature\The temperature inside the hard disk housing.
+SA195=Count of correctable errors\Number of errors corrected by the internal error correcting mechanism.
+SA196=Count of sector remap operations\Number of all (successful and failed) remap operations.
+SA197=Count of unstable sectors\These pending sectors may be remapped to the spare area.
+SA198=Count of uncorrectable errors when reading/writing\Indicate problem with the disk surface or the read/write heads.
+SA199=Count of errors during data transfer between disk and host\Indicate problem with the power supply or data cable.
+SA200=Errors occurred while writing raw data to the disk\Indicate problem with the disk surface or the read/write heads.
+SA201=Number of software read errors\The number of uncorreactable read errors.
+SA202=Number of data address mark errors\Number of incorrect or invalid address marks.
+SA203=Number of data correction errors\Invalid error correction checksum found during error correction.
+SA204=Number of corrected data errors\Errors corrected by the internal error correction mechanism.
+SA205=Number of thermal problems\Total number of problems caused by high temperature.
+SA206=Head flying height\The height of the disk heads above the disk surface.
+SA207=Current value during spin up\The current needed to spin up the drive.
+SA208=Number of cycles needed to spin up\The number of retries during spin up because of low current available.
+SA209=Drive performance during offline operations\The seek performance of the drive during internal self tests.
+SA211=Vibration encountered during write operations.
+SA212=Shock encountered during write operations.
+SA220=Distance of the disk has shifted relative to the spindle\Incorrect disk spin can be cause by mechanical shock or high temperature.
+SA221=Number of mechanical errors\Number of errors resulting from shock or vibration.
+SA222=Number of powered on hours\This value is constantly increasing (once per every hour).
+SA223=Number of load/unload operations\The number of drive head enters/leaves the data zone.
+SA224=Mechanical friction rate\The rate of friction between mechanical parts. Indicate problem with the mechanical subsystem of the drive.
+SA226=Total time the heads are loaded\The time while the read/write heads are in the data zone.
+SA227=Rate of torque increase\Torque increase during the spin up operation of the hard disk.
+SA228=Number of power off cycles\The number of times the head was retracted as a result of power loss.
+SA230=Head positioning amplitude\Head moving distances between operations.
+SA231=Disk temperature\The temperature inside the hard disk housing.
+SA240=Number of head positioning hours\Time spent during the positioning of the drive heads.
+SA250=Number of retries during read operations\Number of errors found during reading a sector from disk surface.
+SA254=Number of free fall events detected by the accelerometer sensor.
+SA255=Vendor-specific\The function and value of this attribute are determined by the manufacturer.
+
+SC01=Buffer over/under run counters
+SC02_0000=Write errors corrected without substantial delay
+SC02_0001=Write errors corrected with possible delays
+SC02_0002=Total write errors
+SC02_0003=Total write errors corrected
+SC02_0004=Total write errors corrected by algorithm
+SC02_0005=Total bytes written
+SC02_0006=Total uncorrected write errors
+SC03_0000=Read errors corrected by ECC hardware method
+SC03_0001=Read errors corrected with possible delays
+SC03_0002=Total read errors
+SC03_0003=Total read errors corrected
+SC03_0004=Total read errors corrected by algorithm
+SC03_0005=Total bytes read
+SC03_0006=Total uncorrected read errors
+SC04_0000=Read reverse errors corrected by ECC hardware method
+SC04_0001=Read reverse errors corrected with possible delays
+SC04_0002=Total read reverse errors
+SC04_0003=Total read reverse errors corrected
+SC04_0004=Total read reverse errors corrected by algorithm
+SC04_0005=Total bytes read reverse 
+SC04_0006=Total uncorrected read reverse errors
+SC05_0000=Verify errors corrected without substantial delay
+SC05_0001=Verify errors corrected with possible delays
+SC05_0002=Total verify errors
+SC05_0003=Total verify errors corrected
+SC05_0004=Total verify errors corrected by algorithm
+SC05_0005=Total bytes verified
+SC05_0006=Total uncorrected verify errors
+SC06_0000=Non medium errors
+SC07=Last error event
+SC0B=Last deferred error or asynchronous event
+SC0D_0000=Temperature
+SC0D_0001=Reference temperature
+SC0E_0001=Manufacture date (year/week)
+SC0E_0002=Accounting date
+SC0E_0003=Specified cycle count over device lifetime
+SC0E_0004=Accumulated start-stop cycles
+SC0E_0005=Specified load-unload count over device lifetime
+SC0E_0006=Accumulated load-unload cycles
+SC0F=Application client parameter data
+SC10=Self test results log
+SC11_0001=Percentage used endurance indicator
+SC18=Protocol specific port log
+SC1A_0001=Accumulated transitions to active
+SC1A_0002=Accumulated transitions to idle_a
+SC1A_0003=Accumulated transitions to idle_b
+SC1A_0004=Accumulated transitions to idle_c
+SC1A_0008=Accumulated transitions to standby_z
+SC1A_0009=Accumulated transitions to standby_y
+SC37_0000=Blocks sent to initiator
+SC37_0001=Blocks received from initiator
+SC37_0002=Blocks read from cache and sent to initiator
+SC37_0003=I/O commands with size smaller than segment size
+SC37_0004=I/O commands with size larger than segment size
+SC3E_0000=Power on time
+SC3E_8000=Power on time
+SC3E_0008=Remaining minutes until next internal test
+
+## added 13 May 2015 ##
+
+Motherboard=Motherboard
+Product=Product
+Asset Tag=Asset Tag
+Memory Module=Memory Module
+Chassis=Chassis
+
+
+## added 22 Feb 2017 ##
+
+Disk repair=Disk repair
+Repair=Repair
+Repair successful=Repair successful
+Repair failed=Repair failed
+\1 sector(s) successfully repaired.=\1 sector(s) successfully repaired.
+read test with sector repair=read test with sector repair
+RepairDesc=Reads the disk surface to verify if all sectors are readable and forces the disk drive to repair any problematic (pending, weak) sectors: restore the status to good or reallocate (replace from spare area) if required to prevent further use of the original sector.\n\nThe test is safe for stored data and the damaged file(s) will be readable, however file fragment(s) on damaged sectors may be corrupted. File(s) on the affected repaired sectors are listed when the test completed.\n\nThe test is best to be used to repair drives with weak sector(s) without the need of complete backup (and use of the Reinitialize disk surface test) and works on both system and secondary drives too.
+Multiple disk drives=Multiple disk drives
+\1 drive(s) selected=\1 drive(s) selected
+Select disk drive(s) to be tested=Select disk drive(s) to be tested
+Are you sure you want to perform disk testing on multiple disk drives?=Are you sure you want to perform disk testing on multiple disk drives?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=Do you want to EXCLUDE the system drive and test only additional drive(s)?
+Byte / byte sequence=Byte / byte sequence
+Maximum try count=Maximum try count
+Add to Windows event log=Add to Windows event log
+Provide status information by WMI=Provide status information by WMI
+Automatic detection based on disk utilization=Automatic detection based on disk utilization
+Automatically save disk test results to folder=Automatically save disk test results to folder
+Selected disk only=Selected disk only
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.
+Control device-specific detection=Control device-specific detection
+Select device type to detect status and health information by the appropriate detection method.=Select device type to detect status and health information by the appropriate detection method.
+DeviceSpecificDesc=Hard Disk Sentinel saves a flag-file (zero bytes, without using disk space) on the device to record the selected device type. It is used in subsequent detections until the device is completely erased / formatted, when it is required to select device type again.
+Note=Note
+Complete erase / re-format does not reset the health and statistics.=Complete erase / re-format does not reset the health and statistics.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.
+Auto Detect=Auto Detect
+Part number(s)=Part number(s)
+Device type detection successfully completed.=Device type detection successfully completed.
+The device does not respond to detection, further status information cannot be detected.=The device does not respond to detection, further status information cannot be detected.
+Running=Running
+Inactive=Inactive
+without monitoring=without monitoring
+
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Monitor Windows Event Log for problems related to disks and storage
+Configure NAS Disk Monitoring=Configure NAS Disk Monitoring
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.
+Status Source=Status Source
+Auto Detect=Auto Detect
+&Browse=&Browse
+Add &URL=Add &URL
+&Edit=&Edit
+&Delete=&Delete
+&Test=&Test
+Status source files=Status source files
+HPA Security Extensions=HPA Security Extensions
+Service Interrupt=Service Interrupt
+IDLE IMMEDIATE command with UNLOAD feature=IDLE IMMEDIATE command with UNLOAD feature
+Nominal Form Factor=Nominal Form Factor
+Additional Product Identifier=Additional Product Identifier
+Read Zeroes After TRIM=Read Zeroes After TRIM
+Device Encrypts All User Data=Device Encrypts All User Data
+Sanitize=Sanitize
+Overwrite=Overwrite
+Crypto Scramble=Crypto Scramble
+Block Erase=Block Erase
+Sanitize Antifreeze Lock=Sanitize Antifreeze Lock
+ACS-3 Commands Allowed By Sanitize=ACS-3 Commands Allowed By Sanitize
+NCQ Streaming=NCQ Streaming
+NCQ Autosense=NCQ Autosense
+Automatic Partial to Slumber Translations=Automatic Partial to Slumber Translations
+Rebuild Assist=Rebuild Assist
+Hybrid Information=Hybrid Information
+Device Sleep (DevSleep)=Device Sleep (DevSleep)
+DevSleep to ReducedPwrState=DevSleep to ReducedPwrState
+Recently the following entries added to System Event Log:=Recently the following entries added to System Event Log:
+errors=errors
+most recent=most recent
+warnings=warnings
+The following function can be used to improve the situation:=The following function can be used to improve the situation:
+Certain detection functions to access disk status disabled.=Certain detection functions to access disk status disabled.
+Please change the following option:=Please change the following option:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Do you want to update now?
+Update not selected.=Update not selected.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Controlled Folder Access feature of Windows Defender prevents accessing disk status information.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Note: without this permission, unstable operation and limited functionality will likely occur.
+Disk Access Blocked=Disk Access Blocked
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=NVMe Namespace Information
+Total Sectors=Total Sectors
+Active LBA Format Index=Active LBA Format Index
+LBA Formats Supported=LBA Formats Supported
+LBA Format List=LBA Format List
+Best=Best
+Better=Better
+Good=Good
+Degraded=Degraded
+Zoned Capabilities=Zoned Capabilities
+SCT Command Transport=SCT Command Transport
+SCT Error Recovery Control=SCT Error Recovery Control
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=Include problem overview in alerts
+Alert about problematic drive(s) only=Alert about problematic drive(s) only
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Change(s) since \1
+Timestamp=Timestamp
+No entries found=No entries found
+Error log=Error log
+No error information recorded=No error information recorded
+The list automatically cleared by the controller on power cycle and reset=The list automatically cleared by the controller on power cycle and reset
+Depending on the configuration, the test duration may be different than estimated.=Depending on the configuration, the test duration may be different than estimated.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=The NVMe controller driver prevents using test commands too frequently. Please try again later.
+
+No device self-test operation in progress=No device self-test operation in progress
+Aborted by command=Aborted by command
+Aborted by controller reset=Aborted by controller reset
+Aborted due to removal of namespace=Aborted due to removal of namespace
+Aborted due to Format NVM command=Aborted due to Format NVM command
+Fatal error or unknown test error=Fatal error or unknown test error
+Failed in an unknown test segment=Failed in an unknown test segment
+Failed in one or more test segment(s)=Failed in one or more test segment(s)
+Aborted for unknown reason=Aborted for unknown reason
+No self-test information recorded=No self-test information recorded
+
+Repaired=Repaired
+Failed=Failed
+Quick Fix=Quick Fix
+QuickFixDesc=Verify which area(s) of the disk drive reported problems and written recently then diagnose, repair specifically those (and nearby) sectors and critical system areas. The test forces the disk drive to repair any problematic (pending, weak) sectors: restore the status to good or reallocate (replace from spare area) if required to prevent further use of the original sector.\n\nUnlike a complete scan, this test may not able to find and correct all possible problems, so best used on disk drives with relatively low number of problems and high Health value reported to repair weak sector(s) without the need of complete backup (and use of the Reinitialize disk surface test).\n\nThe test can be used on both system and secondary drives and it is safe for stored data. Possible damaged files will be readable, however file fragment(s) on damaged sectors may be corrupted. File(s) on the affected repaired sectors are listed when the test completed.
+
+targeted repair of problematic sectors=targeted repair of problematic sectors
+Last error (hour)=Last error (hour)
+Error free hours=Error free hours
+Never=Never
+Open Disk Management=Open Disk Management
+Open Device Manager=Open Device Manager
+Windows Drive Index=Windows Drive Index
+
+## added 30 Nov 2022 ##
+
+USB Device Name=USB Device Name
+safely remove required=safely remove required
+surprise remove possible=surprise remove possible
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.
+In a critical system, it is recommended to consider replacement.=In a critical system, it is recommended to consider replacement.
+One or more disk drive(s) may be disconnected or removed.=One or more disk drive(s) may be disconnected or removed.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.
+
+## added 8 Nov 2023 ##
+
+When custom threshold reached=When custom threshold reached
+When disk added/connected=When disk added/connected
+When disk removed/disconnected=When disk removed/disconnected
+Drive Added=Drive Added
+Drive Removed=Drive Removed
+Custom Alert=Custom Alert
+Configure custom alert threshold=Configure custom alert threshold
+Disable custom alert for the selected attribute=Disable custom alert for the selected attribute
+Alert When Disk Drive(s) Added/Connected=Alert When Disk Drive(s) Added/Connected
+Alert When Disk Drive(s) Removed/Disconnected=Alert When Disk Drive(s) Removed/Disconnected
+Select disk(s) from the list by using the checkboxes=Select disk(s) from the list by using the checkboxes
+Trigger alert on next startup if the list of disk drives changed while Hard Disk Sentinel was not running=Trigger alert on next startup if the list of disk drives changed while Hard Disk Sentinel was not running
+Automatically show the disk drive as offline after removed (with last known status)=Automatically show the disk drive as offline after removed (with last known status)
+Specify disk(s) to trigger alert when the list of detected disk drives changes.=Specify disk(s) to trigger alert when the list of detected disk drives changes.
+Specify disk(s) to DO NOT trigger alert when the list of disk drives changes (ignore).=Specify disk(s) to DO NOT trigger alert when the list of disk drives changes (ignore).
+Use the Select button or enter by disk drive model {firmware} / serial number.=Use the Select button or enter by disk drive model {firmware} / serial number.
+It is possible to use wildcards (* for any number of any characters, ? for any single character) to manually specify multiple disk drives.=It is possible to use wildcards (* for any number of any characters, ? for any single character) to manually specify multiple disk drives.
+Example: WDC* will match all disks starting with WDC letters.=Example: WDC* will match all disks starting with WDC letters.

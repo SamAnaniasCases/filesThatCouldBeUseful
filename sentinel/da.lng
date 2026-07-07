@@ -1,0 +1,1369 @@
+Hard Disk Sentinel kører allerede.
+Fejl
+Harddisk temperatur
+Svigt kan forventes
+OK
+Understøttet
+Ikke understøttet
+Ja
+ &Harddiske
+Vælg de(n) harddisk(e) du vil se i systembakken. Dobbeltklik = vis/skjul systembakke ikonet.  Højreklik = menu.
+#
+Type (Størrelse)
+Temperatur
+Systembakke ikon
+ &Opsætning 
+Vis status vinduet når Hard Disk Sentinel starter
+Start med Windows
+Gennemsigtighed:
+Sprog:
+&Luk
+Hard Disk Sentinel
+Vælg harddisk for at se dens temperatur i systembakken
+&Vis status vindue
+Skjul status vindue
+&Konfiguration
+&Afslut
+Mindst en harddisk skal være valgt.
+ &Status vindue
+Baggrundsfarve
+Baggrundsbillede
+Vælg
+Fejl ved åbning af billedfilen.
+Understøttede billedfiler|*.jpg;*.bmp|Alle filer|*.*
+Information
+S.M.A.R.T.
+Ydeevne
+Partitioner
+Informationsblad
+Overførselsinformationer 
+Data læst ialt
+Data skrevet ialt
+Aktuel overførelseshastighed
+ KB/s
+Aktuel læsehastighed
+Aktuel skrivehastighed
+Aktuel aktivitet
+Normal aktivitet %
+Overførelseshastighed (MB/s)
+Harddisk information
+Port
+Model ID
+Firmware revision
+Serial nummer
+Kapacitet
+ATA information
+Cylindre
+Hoveder
+Sektorer
+Sektorer ialt
+ATA revision
+Byte pr. sektor
+Byte pr. logisk spor
+Buffer størrelse
+Multi-sektorer
+Fejl-korrektion bytes
+Uformateret kapacitet
+Højeste PIO tilstand
+Aktiv PIO tilstand
+Max UDMA tilstand
+Aktiv UDMA tilstand
+ATA funktioner
+Understøttet
+Ikke understøttet
+Attribut
+Tærskelsværdi
+Værdi
+Værst
+Data
+Status
+Partition informationer
+Logisk drev
+Samlet størrelse
+Ledig plads
+Partition type
+byte
+Anvendt plads
+Harddisk:
+Max overførelseshastighed
+Anslået højeste overførselshastighed
+DVD skrivehastighed
+Større udnyttelse af harddisk er nødvendig for målingen
+OK (Passerer altid)
+Fejl (Fejler altid)
+Grænsen for levetid er udløbet
+Nær fejl: Datatab kan forventes
+Kopiering af data til udklipsholderen
+Harddisk & temperatur historie
+Siden installation
+Om
+Registrering
+Registreringsnavn:
+Registreringsnøgle:
+Ugyldig registreringsnøgle, Registrering fejlede.
+Registreringen blev fuldført. Tak for din støtte.
+Vis hovedvinduet når Hard Disk Sentinel starter
+Tilgængelig efter registrering og aktivering.
+Uregisreret version, registrer venligst.
+Registreret til:
+Oversigt
+Aktuel temperatur:
+Højeste temperatur (I dag):
+Temperatur status er i orden.
+Den aktuelle temperatur er for høj. Det anbefales at bruge en harddisk køleenhed (Fx. en blæser eller passiv køleflade).
+Den aktuelle temperatur er i orden, men tidligere var den for høj. Det anbefales at bruge en harddisk køleenhed (Fx. en blæser eller passiv køleplade).
+Ydeevne:
+Sundhed:
+Fremragende
+God
+Rimelig
+Acceptabel
+Dårlig
+Intet indgreb er nødvendig.
+Det anbefales at lave backup ofte for at undgå datatab.
+Egenskaber
+Harddisk oversigt
+Forrige harddisk
+Næste harddisk
+Alarmer
+Send e-mail alarm hvis harddisk fejl kan forventes
+Send e-mail alarm hvis harddisk temperatur er for høj
+E-mail konfiguration
+Mail konto:
+Afsenders navn:
+Afsenders e-mail:
+Modtagers e-mail:
+SMTP server:
+Godkendelses-mulighed (Efterlad disse felter tomme hvis den ikke påkrævet)
+Brugernavn:
+Kodeord:
+Standard
+De følgende felter skal være udfyldte for at kunne sende e-mailen:
+Vil du indtaste disse oplysninger nu?
+Fejl under afsendelsen af alarm e-mail.
+Alarm e-mail sendt.
+Overophedning
+Indstilling tærskelsværdi temperatur:
+Temperatur enhed:
+Sender rapport
+Skrifttype:
+Gem
+Vis kun den højeste temperatur på ikonet
+Data-overførsel enhed:
+Indstilling af lyd
+Deaktiveret
+Aktiveret
+Aktuel akustisk niveau
+Anbefalet akustisk niveau
+Ukendt
+Maksimal effekt og lydstyrke
+Minimal effekt og lydstyrke
+Balanceret effekt og lydstyrke
+Akustik, håndtering
+Standard
+Læsning, gennemsnit pr. dag
+Skrivning, gennemsnit pr. dag
+Tilpasset til kanten af display
+Advarsel
+Send/Vis besked
+Luk ned
+Når svigt forventes
+Når temperatur er for høj
+Når en ny log-post er tilføjet
+Send dagligt status e-mail
+Klokken:
+Ændring af kritisk værdi 
+Nuværende status
+Afsendelse af status e-mail fejlede.
+Status e-mail afsendt med success.
+Opdatering
+Søgning og opdatering af Hard Disk Sentinel ugentligt
+Opdater Hard Disk Sentinel
+Dato for sidste søgning:
+Ingen søgninger er foretaget
+Afbryd
+Installeret version:
+Sidste nye version:
+Opdaterer filer
+Aktuel fil:
+Hele processen:
+Du har den seneste version af Hard Disk Sentinel.
+Hentningsfejl. Tjek din internet forbindelse og forsøg igen.
+Opdateringen blev fuldført.
+Status: Søger efter nyeste version
+Status: Henter
+Luk
+Harddisk ikke fundet.
+S.M.A.R.T. driveren mangler. Du mangler at kopiere filen: "Smartvsd.vxd" fra Windows\System mappe til Windows\System\IoSubsys mappe og genstarte din computer. Tjek venligst Hjælp -> Installation for detaljer.
+System administrator rettigheder mangler for at kunne tilgå harddisk information.
+Log
+Antal problemer i loggen:
+Bemærk: Den registrerede version kan advare hhv. slukke computeren når harddiskens tilstand forværres og nyt problem er fundet og logget.
+Ingen problemer er fundet.
+Harddiskens status er stabil.
+Advarsel: Harddiskens tilstand er forværret i den sidste tid.
+Dato
+Tidligere værdi
+Ny værdi
+Advarsel: Flere problemer er fundet i den sidste tid.
+En tidligere fungerende harddisk svarer ikke. Det er muligt at operativsystemet stoppede enheden for at undgå yderligere problemer.
+Program status:
+Fejl under læsning af aktiveringsoplysningerne.
+Registrering og aktivering er fuldført.
+Registreret, men ikke aktiveret.
+Hverken registreret eller aktiveret.
+Registrer og aktiver online
+Registrer og aktiver via e-mail
+Aktiveringsfilen er gemt som:
+Send venligst denne fil med dit registreringsnavn og registreringsnøgle til info@hdsentinel.com  Udvikleren vil sende den aktiverde nøglefil tilbage til dig. Den skal indlæses med "Indlæs Aktiverede nøglefil" knap (Det er dog også muligt at kopiere/flytte nøglefilen til programmets installations-mappe).
+Det anbefales at bruge online aktiveringsmetoden fordi det er nemt og hurtigt.
+Det maksimale antal aktiveringer er opnået for denne registreringsnøgle.
+Aktiveringsfejl
+Der opstod en fejl under kommunikationen med aktiveringsserveren.
+Kontakt venligst udvikleren omkring din licens.
+Programmet er allerede aktiveret med denne registreringsnøgle på 5 forskellige computere.
+Fejl under læsning af data fra serveren.
+Aktivering fejlede.
+Aktiveringen er færdig, tak for din støtte.
+Aktiveringen er fuldført
+Aktiver via e-mail
+Under Win98 er det muligt at en USB-enhed er skyld i dette problem, fordi USB-enheden måske konflikter med S.M.A.R.T. på den anden IDE kanal.
+Harddisken svarer ikke.
+Harddisken har ikke svaret i længere tid. Den kan være afbrudt.
+Vis programmet på processlinjen
+Analyserer systemet. Vent venligst.
+Hjælp
+Indtast venligst registreringsnavn og registreringsnøglen du har modtaget. Hvis din computer har en aktiv internetforbindelse anbefales det at du bruger online aktivering: Så vil programmet blive registreret og aktiveret automatisk og ingen andre handlinger skal udføres. Du kan også aktivere via email og sende den viste fil til info@hdsentinel.com. Du vil modtage din aktiverede nøglefil, kopier den i programets installationsmappe.
+Begivenhed
+Dansk oversættelse:
+Kenneth Rasmussen & András Székács
+kenneth.90rasmussen@gmail.com
+E-mail
+TXT filer
+Alle filer
+Ikonet skal skifte til rødt hvis temperaturen overstiger
+Avancerede indstillinger
+Kontrollens hyppighed:
+1 sekund
+5 sekunder
+10 sekunder
+30 sekunder
+1 minut
+2 minutter
+5 minutter (Standard)
+10 minutter
+30 minutter
+1 time
+Aktiver advarsel hvis harddisken ikke svarer
+Gennemsnitstemperatur (I dag)
+Aktuel
+Daglig gennemsnit
+Daglig højeste
+Akustisk alarm
+Vælg lydfil
+Lyd filer
+Dobbeltklik eller højreklik for at se mere information.
+Indstilling
+OK
+Annuller
+Der opstod en fejl under udførelsen af denne kommando.
+Denne funktion kræver Windows 2000, XP eller nyere operativsystem.
+Når der er for lidt ledig plads
+Sæt minimumsgrænse for ledig plads
+Brug samme indstilling for alle harddiske
+Global indstilling
+Advarsel hvis ledig plads er lavere end
+Lav plads
+Lav
+Deaktiver automatisk scandisk under opstart af Windows
+Computeren skal genstartes for at benytte de nye indstillinger.
+Synkroniser computerens ur med et atomur
+Når programmet er startet
+Vil du se status for harddiskene i et lille status-vindue?\n(Senere vil det være muligt at ændre denne indstilling ved højreklik\n på systembakke-ikonet og vælge "Konfiguration" fra menuen.)
+Temperatur sensor er ikke tilgængelig på denne harddisk.
+Kan ikke blive vurderet på denne harddisk.
+Hjælp
+Hjælp er ikke tilgængeligt. Hent venligst den fulde installationspakke fra (http://www.hdsentinel.com).
+Denne funktion er ikke tilgængelig på den valgte harddisk.
+Ændring af standard harddisk-ikoner i Windows
+SCSI information
+Udvikler-informationer
+Version
+Enhed type
+Harddisk
+Flytbar
+Fejl forventes
+Harddisk
+Fjerntliggende harddisk
+Optisk lagring
+De markerede logiske drev tilhører den aktuelle fysiske harddisk.
+Skift visningstilstand
+Enhedsnavn
+Serienummer
+Overvåg den frie plads på netværksharddisk
+Genvejstaster
+Kommando:
+Aktiver system-genvejstaster (Kan bruges fra andre programmer)
+Harddisk kontrol
+Skift standard system-ikon for netværksharddisk
+Overvåg plads på den flytbare harddisk
+Skift standard system-ikon for flytbare harddiske
+Undersøg ikke den frie plads på de følgende drev (etc. C: D: E:)
+Skift ikke standard system-ikon på de følgende drev (etc. J: K: L:)
+Dobbeltklik for at åbne drevet. F5 = genopfrisk.
+Intet medie i drevet
+Mail test
+Hvis denne besked er afsendt, så er e-mail konfigurationen korrekt.
+Test-mail afsendt med success.
+Afsendelsen af test-mail fejlede. Tjek venligst e-mail konfigurationen.
+Tændt tid:
+dage
+timer
+minutter
+Anslået restlevetid:
+Mere end
+sekunder
+Port:
+Forsinkelse før scandisk startes (sekunder):
+Sundhedsværdi:
+Når harddiskens sundhed er lav
+Panik backup
+Minimumsniveau af sundhed:
+Vis besked på skærmen
+Send beskeder til denne computer (NET SEND):
+Denne funktion er kun tilgængeligt hvis den PROFESSIONELLE version er installeret. \nved at bruge denne funktion, er det muligt at starte de forudkonfigurerede backup opgave(r) når et problem bliver opdaget \n\nDu kan læse mere om denne funktion på (www.hdsentinel.com).
+Lav sundhed
+Opret test-rapport
+Afsendelsen af rapporten fejlede.\nÅbn venligst Konfigurationsvinduet, vælg Send test-rapport, gem rapporten og send den til reports@hdsentinel.hu
+Indstillinger for besked
+Send e-mail
+Undersøg internetforbindelse før afsendelse
+Luk forbindelsen efter afsendelse
+Vis brugerdefineret besked fra tekstfil også
+Vent venligst, måling er igang ...
+ugyldige registreringsdetaljer - Denne funktion er deaktiveret.
+Sundhedsinformation
+Forsendelsesfejl. harddisken er måske fyldt eller skrivebeskyttet.
+Tærskelsværdi/systembakke ikon
+Vis harddisk temperatur på systembakke ikonet
+Under
+Mellem \1 og \2
+Temperatur:
+Over
+Brug digitale tal på systembakke ikonet
+Baggrund
+Forgrund
+Eksempel
+Sundhedssymbol på systembakke ikonet
+Systeminformation
+Dato og tid
+System-information
+Windows version
+CPU type & hastighed
+BIOS producent
+Størrelsen af den fysiske hukommelse
+Vis adapter
+Vis opløsning
+Printer
+Netværkskontroller
+PCI enhed information
+Computer information
+Computernavn
+Brugernavn
+IP adresse
+MAC adresse
+Fysisk harddisk information
+Flag
+Kritisk
+Statistisk
+Ydeevne
+Fejlprocent
+Begivenhedstæller
+Selvkontrol
+Desktop
+Server
+Bærbar
+Computertype
+Generel information
+HTML filer|*.html|Alle filer|*.*
+Gem rapport
+Send rapport i e-mail
+Rapport type:
+Detaljeret HTML rapport
+Kort TXT rapport
+Send test-rapport
+Visning af harddisk information
+Harddisk model
+Logiske drev
+Sundhed
+Tilstand / Problem
+Fysisk harddisk
+Harddiskens status er ukendt.
+Harddiskens status er perfekt.
+Harddiskens status er ikke perfekt.
+Fejl forventes på denne harddisk.
+Der er \1 dårlig(e) sektorer på harddiskens overflade. Indholdet er flyttet til det reserverede areal.
+Baseret på antallet af korrektioner for sektorer, harddiskens tilstand er forværret i flere trin.
+Baseret på antallet af korrektioner for sektorer, de fejlbehæftede sektorer kan danne kontinuerlige områder.
+Harddisken fandt \1 dårlig sektor(er) gennem dens selv-test.
+Der opstod problemer under opstarten af harddisken \1 gang. Dette kan skyldes harddisken eller stort strømforbrug (For lille strømforsyning).
+Der er fundet \1 svag sektor(er) på harddiskens overflade. De kan omplaceres ved senere brug af harddisken.
+Der er opstået \1 problemer mellem harddisken og værtens kommunikation. Hvis computeren pludselig "fryser" eller genstarter anbefales der skift af datakabel. (Undgå runde kabler, brug 80-core standard båndkabler i stedet for).
+Det anbefales at gennemgå harddiskens log regelmæssigt. Alle nye problemer der bliver registreret vil blive gemt der.
+Harddiskens status er fremragende. Ingen svage sektorer, rotations/overførelsesfejl fundet.
+Brugen
+Forskydning
+Forskydning:
+Det anbealfes at kalibrere temperaturen og sætte temperatur forskydning på S.M.A.R.T. siden. På denne måde vises temperaturen korrekt.
+Beregningsmetode for sundhed:
+Analyse af data felt (standard)
+Analysen af leverandør-specifikke værdier (ANBEFALES IKKE)
+Forventet overtrædelse af tærskelsværdi:
+Attribut graf
+Vis data felt
+Vis leverandør specifikke værdier
+Ikke forventet
+Er sket
+Detaljeret rapport
+Filer
+Vis
+Rapport
+Gem TXT rapport
+Gem HTML rapport
+Send TXT rapport
+Send HTML rapport
+Det anbefales løbende at overvåge harddiskens tilstand.
+Analyser data felt strengere (Anbefales for servere)
+Ændre attribut forskydning
+Brugen af denne funktion anbefales kun for avancerede brugere. Ved at bruge denne funktion er det muligt at den viste status ikke er den aktuelle. Er du sikker på at du vil ændre denne funktion?
+Vis ikke dette igen
+Brugen af denne funktion anbefales kun for avancerede brugere. Ved brugen af denne funktion er det muligt at vise en ukorrekt tilstand, men også muligt at gå glip af nogle alarmer om fremtidige tilstandsændringer. Er du sikker på at du vil ændre denne funktion?
+Deaktiver akustiske alarmer
+Aktiver akustiske alarmer
+Der opstod en fejl ved justering af lydniveauet.\nHarddiskens kontroller eller driver understøtter ikke denne funktion.
+Overvågning af ydeevnen i realtid  er ikke understøttet på denne harddisk.
+Bemærk: Den uregistrerede version gemmer ikke på ændringer af denne funktion. Funktionerne vil blive nulstillet til standardværdier når programmer genstartes.
+Aktiver atribut
+Gentag lydalarm
+Brug PC højtaler
+Send test
+Beskeden blev sendt med success til den valgte computer.
+Der opstod en fejl under afsendelsen. Tjek venligst netværksforbindelsen og den aktuelle status for beskedservice på begge computere.
+Problemer som udløser akustisk alarm
+Genaktiver alarmer
+ATA kontrol Byte
+Verificeret
+Ugyldig
+ATA kontrolsum værdi
+Den viste information er måske ikke korrekt.
+Test af akustisk alarm
+Oprettelse af genvejsikon for dette projekt på skrivebordet
+Oprettelse af genvejsikon 
+En genvej for dette projekt er oprettet på skrivebordet med success.
+Der opstod en fejl under oprettelsen af genvejen for dette projekt.
+Registreringen er udløbet. Kontakt venligst info@hdsentinel.com for at forlænge licensen.
+Deaktiver flytbarhed + klikbarhed af Status vinduet. (Fjern kryds for at tillade)
+Vis information på skrivebordet.
+Gyldig indtil:
+For evigt
+Udløbet
+Ingen
+Gør statusvinduets baggrund gennemsigtig
+Integration
+Service
+Kodeord påkrævet for at åbne Informations-vinduet
+Kodeord påkrævet for at åbne konfigurations-vindue eller at lukke Hard Disk Sentinel
+Log ud efter
+Minutter
+Kodeord:
+Log ud nu
+Brug som service
+Brug som program
+Fjernkontrol
+Aktiver fjernforbindelse til Hard Disk Sentinel server
+Servernavn eller IP adresse:
+TCP port (standard = 61210):
+Beskyttelse
+Der opstod en fejl under installation af Hard Disk Sentinel service.
+Der opstod en fejl under start af Hard Disk Sentinel service.
+Der opstod en fejl under stop af Hard Disk Sentinel service.
+Hard Disk Sentinel gemmer nu den aktuelle konfiguration og vil blive lukket. Det vil genstarte som en service.
+Hard Disk Sentinel service gemmer nu den aktuelle konfiguration og vil blive stoppet. Det vil genstarte som program.
+Kodeord er påkrævet
+Ugyldig kodeord indtastet. Det er ikke muligt at bruge denne funktion.
+For at lukke Hard Disk Sentinel service, brug venligst "Stop service" genvejen eller skift tilbage til program tilstand i vinduet "indstillinger" på panelet "integration" og luk programmet.
+Nej
+Høj
+Højeste
+Det er ikke muligt at opdatere Hard Disk Sentinel mens det kører som service. Skift venligst tilbage til program tilstand i vinduet "indstillinger" på panelet "intergration" før du vil opdatere programmet til en nyere version.
+Service tilstand
+Sikker tilstand (deaktiver hardware genkendelse)
+Hard Disk Sentinel service er ikke installeret.  Efter opstart af programmet åbn venligst vinduet "indstillinger" og panelet "intergration" kan Hard Disk Sentinel service installeres og startes.
+Hard Disk Sentinel service kører allerede.
+Hard Disk Sentinel service kører ikke.
+Normal overførelseshastighed
+Normal harddisk aktivitet
+Gentag test
+Informationen er ikke tilgængelig endnu
+Hard Disk Sentinel service stoppede.\nVil du deaktivere servicen og bruge Hard Disk Sentinel i program tilstand?
+Windows Vista og nyere operativsystemer tillader ikke servicer til at interagere med skrivebordet.\n\nHard Disk Sentinel vil nu køre usynligt: Dets vinduer og ikoner vil ikke blive\nvist og det vil ikke være muligt at få adgang til konfiguration.\n\nFor at stoppe servicen og bruge program tilstanden,\n vælg venligst "Stop service" genvejen fra Hard Disk Sentinel gruppe.\n\nEr du sikker på at du vil fortsætte?
+Hvordan beregnes denne værdi?
+Tillad de nødvendige rettigheder for denne applikation.
+Harddisk ikon:
+XP
+Vista
+Klik for at starte
+harddisk test
+Operation:
+Status:
+Resterende tid:
+Der opstod en fejl under start af testen. Fejl koden er:
+Fremragende
+Svar:
+Forløbet tid:
+Denne registreringsnøgle kan kun bruges til STANDARD udgaven.\nHent veligste og installer STANDARD udgaven fra www.hdsentinel.com\nfor brugen af denne registreringsnøgle.
+Denne registreringsnøgle kan kun bruges til PROFESSIONAL udgaven.\nHent venligst og installer PROFESSIONAL udgaven fra www.hdsentinel.com\nfor brugen af denne registreringsnøgle.
+Angivelse af tærskelsværdi i MB
+Bekræftelse:
+De 2 adgangskoder er ikke identiske.\nIndtast venligst samme kodeord 2 gange for at verificere det.
+Aktiver webstatus
+Spørg efter adgangskode for at oprette forbindelse
+HTTP forbindelses port
+Port adresse (>1023)
+Vis/skjul detaljer for attributerne
+Decimal datafelt
+Harddisken undersøgte mistænkelige datasektorer \1 gange. Det undersøgte dataområde er vurderet at være i perfekt stand.
+Erstat harddisken omgående.
+Komponenter af den detaljerede rapport:
+Backup / Gendan aktuel konfiguration
+Backup konfiguration
+Gendan konfiguration
+Optisk drev	
+Generer og opdater .XML fil
+Harddiskens temperatur-sensor er defekt. Den målte værdi er:
+Accepter fjernforbindelse fra server
+Port for fjernforbindelse
+Deaktiver systembakke popup alarmer
+Deaktiver genkendelse af USB og SCSI harddiske
+Send
+Kommentarer:
+Send til udvikler
+Kontakter server - www.hdsentinel.com
+Sender rapport
+Rapport successfuldt afsendt. \nTak for din støtte.
+Send testrapport til udvikler 
+Opretter rapport
+Jeg vil gerne modtage svar efter evalueringsrapporten
+Dette er en fejlrapport
+Åbn Hard Disk Sentinel program vindue
+Synlig
+Enhed for visning af harddisk størrelse:
+Enhed for visning af partition størrelse:
+CC:
+BCC:
+Opdater test rapport
+(anslået)
+Beregner tid, Vent venligst ... Den aktuelle værdi er ikke ubetinget korrekt.
+Fjernrute
+Gul temperatur tærskelsværdi er opnået
+Rød temperatur tærskelsværdi er opnået
+Gul sundhed tærskelsværdi er opnået
+Rød sundhed tærskelsværdi er opnået
+Grænse:
+Temperatur:
+Attribut ændret
+Tøm log
+Baggrund
+Aktiver DynDNS service
+Aktiver No-IP service
+Aktiver brugerdefineret dynamisk DNS service
+Konfigurer
+Brugernavn
+Kodeord
+Værtsnavn (fuld)
+Fuld URL for at opdatere (%ip% ændret med aktuelle IP)
+Sidste svar fra server:
+Vista/windows 7 gadget
+Aktiver gadget
+Vis titel
+Vis harddisk aktivitet
+Vil du teste konfigurationen nu ved opdatering af IP adresse?
+Antallet af fundne problemer er høj for den følgende attribut
+Læsning:
+Skrivning:
+Alle partitioner
+Aktivitets ikon
+Vis harddisk aktivitet på et enkelt systembakke ikon
+(HØJ ord)
+(MID ord)
+(LAV ord)
+Energisparetilstand
+Aktiv
+Sovende
+(siden \1)
+System oppetid
+System tændt siden
+Harddisk kontroller
+Harddisk port
+HDSentinel hjemmeside
+Kontakt
+Køb nu
+Registrer nu
+Listen indeholder \1 muligheder. Registrer venligst Hard Disk Sentinel for at se alle muligheder
+CPU forbrug
+CPU
+Virtuel hukommelse
+Brug:
+Harddisken arbejder i PIO tilstand hvilket reducerer ydeevnen. Det anbefales at tjekke og erstatte datakablet eller ændre konfigurationen.
+Harddisken arbejder i UDMA tilstand 2 (33 Mb/s) hvilket reducerer ydeevnen. Det anbefales at bruge 80-core IDE kabel hvis controlleren understøtter højere data overførelseshastighed.
+Silicon Image (Sil) kontrollere giver måske ikke komplet information om alle tilsluttede harddiske.
+Den anvendte harddisk-kontroller driver giver ikke fuld adgang til alle harddiskens detaljer. Tjek venligst om der er en nyere driver tilgængelig.
+Denne USB lagringsenhed giver ikke yderligere information om den nuværende tilstand. Alligevel kan den blive testet for problemer via Harddisk -> Overflade test funktionen.
+Kontrolleren af denne RAID række giver ikke fuld adgang til harddiskens detaljer i rækken. Alligevel kan den blive testet for problemer via Harddisk -> Overflade test funktionen.
+Brug venligst "Rapport" menuen "Send testrapport til udvikler" Det kan hjælpe med at bestemme om det er muligt at opdage og vise flere oplysninger.
+Besøg venligst "Hardware" og "Support -> FAQ" sektioner på www.hdsentinel.com for detaljer.
+Aktiverer
+Højeste temperatur (Nogensinde målt)
+Laveste temperatur (Nogensinde målt)
+2 timer
+4 timer
+6 timer
+8 timer
+12 timer
+Reserveret 1
+Reserveret 2
+Gul temperatur tærskelsværdi er nået. Hvis harddiskens temperatur stiger stadig, så anbefales det at bruge en harddisk køleenhed (Eksempelvis en blæser eller passiv køleflade) hvis det er muligt.
+Vælg "Tærskelsværdi / systembakke ikon" for at konfigurere sundhed og temperatur tærskelsværdi for gul og rød niveau.
+Kritisk
+Det anbefales at lave en backup omgående for at undgå tab af data.
+Kompakte knapper
+Normale knapper
+Store knapper
+Ydeevne:
+Grænseflade
+Besked
+Test af tilfældig søgning
+Test af harddiskens søgetid, støjniveau og temperatur
+Søgetid
+Minimum
+Maksimum
+Normal
+Testet
+Forløbet
+Resterende
+Operationer
+Fejl
+Start test
+Afbryd test
+Hurtig test
+Normal test
+Grundig test
+Lang intensiv test
+Test med brugerdefineret varighed
+Forventet tid før test er fuldført (TT:MM:SS)
+Test af Læsning
+Test af Skrivning
+Denne funktion kan kun blive brugt en gang i en uregistreret udgave.
+Vil du åbne hdsentinel.com for at se detaljer om registrering?
+Er du sikker på at du vil afbryde denne operation?
+Denne funktion er ikke tilgængelig på det valgte drev pga. konfigurationen af dens kontroller og harddisk.
+Hard Disk Sentinel prøveversion
+Den registrerede version af Hard Disk Sentinel tilbyder databeskyttelse af højeste niveau med alarmer, harddisk diagnoser, automatisk backup(Kun PRO version) og fjernstyret overvågning og flere funktioner til test og forbedring af stabilitet og ydeevne af lagringsenheder.\n\nDenne prøve version kan bruges op til 30 dage til de mest vigtige funktioner og verificering af kompentiablitiet med systemet. Efter prøveperioden kan du opgradere til en registreret version ved køb af licens.\n\Fordelene ved at købe licens:\n\n- Højeste niveau af databeskyttelse\n- Hurtige sikre og fleksible ordre- og betalingsmuligheder\n- Adgang til alle funktioner\n- Gratis teknisk support og hjælp\n- Livstidslicens, ingen tilmeldinger eller ekstra omkostninger\n- Ingen begrænsninger eller irriterende bemærkninger.
+Der findes en S.M.A.R.T. forskydning med et attribut som har indflydelse til denne værdi.
+&Vælg skrifttype til systembakke ikon 
+Tillad ikke hardiske at standse (tal med komma, eksempelvis 1,2 eller * for alle)
+Online verifikation 
+Sammenlign S.M.A.R.T. værdier fra denne enhed med andres for at se om attributterne er bedre, ens eller dårligere (af samme harddisk model).
+Overfladetest
+Analyser harddiskens overflade med forskllige testmetoder
+Kort over harddiskens overflade
+Temperatur og overførselshastighed
+Blok
+Beskadiget
+Process
+Skridt
+Forløbet tid
+Forventet tid ialt:
+sektor
+Test stoppet
+Ude af stand til at låse harddisken for eksklusiv brug.\n Er du sikker på at du vil teste den alligevel?(Anbefales ikke)
+Test fuldført
+Position
+Sekventiel test
+Sekventiel test af blokke fra første til sidste blok
+Tilfældig test
+Test blokke i tilfældig rækkefølge
+Butterfly test
+Test en blok skiftevis fra begyndelsen og en fra slutningen
+Sekventiel baglæns test
+Sekventiel test af blokke fra den sidste til den første
+Sektor
+Verifikationsfejl
+&Gem harddisk information
+&Hent harddisk information
+Initialiserer ...
+Harddisk indhold inspektør
+&Forrige
+&Næste
+&Gå til ...
+Vælg en harddisk som er tilgængelig for operativsystemet til at blive testet og test metoden.\nLæs den detaljerede information omhyggeligt før du starter testen.\nVed brug af Vis knappen kan overfladen undersøges, og \1 tidligere test resultater også kan hentes.
+Læsetest
+Læser harddiskens overflade for at verificere om alle sektorer er tilgængelige og læsbare.\n\nTesten er sikker, den påvirker ikke dataen.\n\nHarddisk problemer kan fortsat være skjulte og mulige harddisk problemer bliver IKKE nødvendigvis korrigeret.(Ligesom med ScanDisk).
+SKRIVE test
+Overskriver harddiskens overflade med konfigurerbare mønstre. Gennemfører analysen af alle svage sektorer og verificerer alle skjulte problemer og håndterer dem med omplacering af dårlige sektorer til reserve-området (Denne proces er regenereringen).\n\nAktiverer bedre brug af harddisken og efter testen vil det overskydende areal blive brugt i stedet for problematiske sektorer.
+Skrive + læse test
+Overskriver harddiskens overflade med konfigrerbare mønstre, læser efterfølgende tilbage på sektorernes indhold, for at verificere at de er tilgængelige og konsistente. Tvinger analyse af alle svage og verficerer alle skjulte problemer og håndterer dem med omfordeling af dårlige sektorer (Denne proces er regenereringen).\n\nEfter denne test kan harddisken bedre bruges, efter testen reservearealet vil  blive brugt i stedet for problematiske sektorer.
+Læse + skrive + læse test (Genopfrisker dataarealet)
+Læser gemt data fra alle blokke, skriver det igen og læser informationen og sammenligner det med det oprindelige indhold. Med den grundige test en ekstra skrive cyklus bliver brugt før genskrivningen af indholdet for at forbedre effektiviteten af fejlrettelsen (Harddisk regenerering).\n\nOperationen er normalt sikker, men det er stadig muligt at miste data hvis systemet ikke er stabilt, strømsvigt, overclocking, hukommelses-, strømforsynings- eller kabelproblemer og andre faktorer.\n\nTesten kan blive brugt til genopfriskning af dataarealerne på lagringsenheden, uden brug af komplet sletning. (Det anbefales stadig at lave backup af indholdet før test)
+Reinitialiserer harddiskens overflade
+Overskriver harddiskens overflade med specielle initialiseringsmønstre til at gendanne sektorernes standard (tom) status og læser sektorernes indhold, for at verificere om de er læsbare og konsistente. Tvinger analyse af alle svage sektorer og verificerer alle skjulte problemer og håndterer dem ved omplacering af dårlige sektorer til reservearealet (Harddisk regenerering).\n\nEfter denne test kan harddisken bedre bruges, reservearealet vil blive brugt i steder for problematiske sektorer.\nMeget intensiv og tidskrævende test, specielt hvis niveauet af geninitialiseringen (antallet af overskrivninger) er sat til højere værdi.\n\nDen simple version af testen kaldes af andre værktøjer (fejlagtigt) low level formatering.
+Sektor sekvens
+Sletter intet - Sikker for data
+Lås harddisk under test (unmount enhed)
+Gentag test
+gange
+Begræns testen til specifikke datablokke
+Første blok:
+Sidste blok:
+DESTRUKTIV - alle data slettes
+Tom data (null bytes)
+Tilfældig data
+Sektor numre
+Grundig læse-skrive-læse test med ekstra skriveoperation
+Niveau af overflade reinitialization 
+Ikke desktruktiv i de fleste tilfælde (Se noter og hjælp)
+Denne test vil permanent slette ALT DATA på den valgte harddisk.\nFunktionen kan ikke fortrydes.\n\nEr du sikker på at du vil starte denne test og miste ALLE DATA gemt på harddisken?
+Denne test udfører SKRIVE operation på det valgte harddisk.\n Denne test er ikke destruktiv, men datatab kan stadig ske.\n\nEr du sikker på at du vil starte denne test?
+Bekræft test
+Klik på overfladekortet for at inspicere sektorernes indhold.\n\nHøjreklik for at åbne kontekst menuen.
+testen måler overførelsestiden for de enkelte blokke og viser med gradvis mørkere farver de langsomt håndterbare områder.
+Udvikleren tilbyder ingen garanti mod datatab på harddiske!
+Nuværende test
+Alle tests
+Kan ikke udføre skrivetest på system-harddisk som indeholder nogle af de følgende mapper:
+Den indlæste information tilhører en anden harddisk.\nDog vises sektorerne af den aktuelle harddisk allerede ved museklik på overfladekortet, .
+Ved dette punkt er ombytning af harddisken under garanti endnu ikke muligt,\nmedmindre sundheden forværres yderligere.
+Vil du vække også alle sovende harddiske?\nEllers vil kun information af aktive harddiske blive opdateret.
+Opdater harddisk information
+Test type:
+Data påvirkning:
+Skrive mønster
+Nulstil højeste og laveste temperatur værdier
+Højeste temperatur (I harddiskens levetid):
+Vis værdier
+Brug SSL
+SSD controller
+SSD'ens tilstand er fejlfri.\n- Problematiske eller svage sektorer blev ikke fundet.
+Sundheden er bestemt af SSD'en specifikke S.M.A.R.T. attribut(ter):
+Styring af harddiskens særlige funktioner
+Der opstod en fejl under gennemførelsen af kommandoen til harddisken.\nHarddiskens kontroller/driver understøtter ikke denne funktion.\n\nKommandoen kan måske gennemføres efter en driver opdatering eller\nved brug af et andet OS, harddisk kontrollere\neller et understøttet USB kabinet/docking station.
+Aktivering og justering
+Deaktivering
+Forsink opstart (sekunder):
+Brugerdefineret tærskelsværdi for temperatur
+Gul temperatur grænse:
+Rød temperatur grænse:
+Deaktiver inividuelle tærskelsværdier for den valgte harddisk
+Indstilling af individuel tærskelsværdi for temperatur
+Ændring af individuel tærskelsværdi for temperatur
+Brugerdefineret
+Global
+Kun en harddisk må have brugerdefineret tærskelsværdi for temperatur i denne gratis version af Hard Disk Sentinel.
+S.M.A.R.T. driveren mangler fra den aktuelle Win9x/ME system.\nVil du automatisk opdatere konfigurationen og genstarte computeren nu?
+Åbn aktiveringsnøglefil
+NTFS Monteringspunkt(er)
+Monteringspunkt
+Advarsel: Dine data er muligvis ikke beskyttet helt.
+Begrænset tilbud: Opgrader i dag og spar \1 på licens prisen!
+(indtast rabatkoden \1 under sikker online registrering eller klik på linket nedenfor)
+Vent venligst \1 sekund(er) før fortsættelse ...
+Partition information
+Partition stil
+Aktiv
+Partition alignment
+Start forskydning
+Længde
+Tildel enhedsstørrelse
+Samlet antal af allokeringsenheder
+Antallet ledige allokeringsenheder
+Antallet anvendte allokeringsenheder
+Enhedstype
+Dynamisk
+Basis
+&Vis status for offline harddiske
+Vælg harddiske med afkrydsningsfeltet for at se deres status ligesom tilsluttede (online) harddiske.
+Offline
+Vælg harddiske via afkrydsningsboksen til at blive indraget i den autentiske harddisk rapport.
+&Gem autentisk harddisk rapport (HTML)
+&Verificer autentisk harddisk rapport
+Den valgte fil er ikke en autentisk harddisk rapport.
+Den autentiske harddisk rapport blev successfuldt verificeret og er gyldig.
+Den autentiske harddisk rapport er ugyldig eller beskadiget.
+Autentisk harddisk rapport
+&Windows enhed/RAID information
+\1 fejl opstod under dataoverførsel. Dette kan indikere problemer med enheden eller data/strømkablet. Det anbefales at undersøge og erstatte kablerne hvis muligt. 
+\1 Der skete fejl under skrivning til enheden.
+Begrænsningen i RAID controlleren kan forhindre programmet i afsløringen af problemer i samtlige tilsluttede harddiske. Dette er ikke en begrænsning af Hard Disk Sentinel software.
+Abonner på nyhedsbrev og bliv påmindet om opdateringer og specielle tilbud
+Vælg Rapport (Menuen) -> Send test rapport til udvikler og vælg abonner til nyhedsbrev for at modtage information om specielle tilbud og opdateringer.
+Daglig laveste
+Standard bredde
+TRIM funktionen af SSD'en er understøttet og er aktiveret for optimal ydeevne.
+TRIM funktionen af SSD'en er understøttet men deaktiveret. Det anbefales at opgradere operativsystemet, harddiskens kontroller eller driver for at forbedre ydeevnen.
+Samlet skrevet datamængde:
+Samlet antal start/stop:
+Konfigurationen tilbyder ikke udlæsningen af harddisk tilstand informationen. Harddisk menuen "overflade test" funktion kan undersøge harddiskens funktionalitet, afsløre og håndtere mulige problemer.
+Programmets licens er udløbet. Indtast venligst en gyldig registreringsnøgle for fortsat brug af Hard Disk Sentinel.
+Loggen indeholder ingen poster.
+eksport af overførselshastighed værdier
+Automatisk anvendelse af indstillinger ved genstart
+Mere information:
+Klik for at tilføje en kommentar ...
+Kommentar
+Vælg &mappe for at gemme statistikker og indstillinger
+Advarsel: Licens er duplikeret
+Den samme registreringsnøgle er brugt til den installerede og bærbare version af Hard Disk Sentinel.\nFor at kunne bruge alle funktioner af begge versioner påkræves separate licenser for disse versioner.
+Status sidst opdateret:
+Se garanti online
+Kopier den valgte værdi til udklipsholderen
+Adgang til nogle arealer af overfladen gennem testen kan\nvære langsommere pga. styresystemet og\nde kørende programmerne på systemet, dette kan være årsagen til mørkegrønne blokke.
+Nulstil arbejdsbyrde tællerne
+Vil du gemme separate rapporter for de udvalgte harddiske?
+Den detekterede totale kapacitet (\1) af harddisken \2 er ukorrekt, kapaciteten burde være \3
+Den aktuelle hardHarddisk kontroller/driver/adapter er ikke helt kompatibelt med \1
+Anvendelse af denne harddisk kan forårsage korruption i fil-systemet eller datatab.
+Det anbefales at undersøge den nuværende konfigurationen måske opgradering af operativsystemets harddisk-kontroller og/eller drivere for sikker anvendelse af denne enhed
+Enhedsspecifikke informationer
+Harddisk-kontrolleren sikrer kun S.M.A.R.T tilstand uden yderligere detaljer.
+S.M.A.R.T tilstanden:
+Altid øverst
+Validering af denne indstilling kræver fra menuen Fil > Afslut og genstart af programmet.
+System-tid uden aktivitet
+Flg. problemer og fejl blev opdaget:
+Harddisk-kontrolleren (RAID-kontrolleren) sikrer statusinformationer og mulige problem-informationer. Det kan afvige fra tilstanden af den fysiske enhed.
+Status af automatisk upload til server
+System Management Information
+Partitioner på denne hardisk er oprettet med \1 fysisk sektor-størrelse
+men den nuværene fysisk sektor-størrelse er \1.
+Tilslutning af harddisken med en opkobling som afviger fra den nuværende (ved en anden disk-kontroller, USB adapter, eSATA tilslutning) kan være årsag til at alle mapper og filer bliver utilgængelige.
+Det anbefales at tilslutte harddisken på samme måde som tidligere (muligvis med en anden USB-adapter, harddisk-hus, docking-station el. lign.) for at få adgang partition med alle gemte data - ellers kan datatab opstå.
+Hent file information for sektoren
+Kan ikke bestemme diskens layout
+Kan ikke finde information for partition / logisk drev
+Ingen partition er defineret på denne sektor (ubrugt sektor)
+Ukendt fil
+Ubrugt sektor på logisk drev \1
+Attributer:
+Antallet af fil-fragmenter
+Find fil-information for sektorer med fejl
+Finder file information
+Finder disk information
+Nyeste fundne information
+&filer på fejl
+År
+Måneder
+Brugerdefinerede tærskelsværdier for sundhed
+Gul tærskelsværdi for sundhed:
+Rød tærskelsværdi for sundhed:
+Opret brugerdefineret tærskelsværdi
+Ændring af brugerdefineret tærskelsværdi
+Dobbeltklik for at justere brugerdefinerede tærskelsværdier
+Log for tilslutning/frakobling af drev
+Loggen viser alle drev tilsluttet og frakoblet under Hard Disk Sentinels aktive perioder og viser ændringer i disk-konfigurationen når softwaren var inaktiv (hentet ved næste opstart)
+Antallet af registreringer
+Dato og tid
+Diskdrev
+Når inaktiv
+Tilsluttet
+Frakoblet
+I tilfælde af pludselig system crash, genstart, blue-screen-of-death anbefales det at kontrollere data- og strømkabler, forbindelser - prøv om muligt at bruge andre kabler for at forhindre yderligere problemer
+Højest mulige overførselshastighed
+Forhandlet overførselshastighed
+
+
+
+
+
+DMA=DMA overførsel
+Ultra DMA=Ultra DMA overførsel
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Sikkerhedsmåde
+Power Management=Strømstyring
+Write Cache=Cache for skrivning
+Host Protected Area=Beskyttet område
+Advanced Power Management=Avanceret strømstyring
+Advanced Power Management Level=Niveau af avanceret strømstyring
+Current APM Level=Nuværende strømstyringsniveau
+Extended Power Management=Udvidet strømstyring
+APM01=Minimalt strømforbrug med standby
+APM02=Balanceret strømforbrug med standby
+APM80=Minimalt strømforbrug uden standby
+APM81=Balanceret strømforbrug uden standby
+APMFE=Maximal effekt og strømforbrug
+FreeFall01=Laveste sensitivitet for frit fald begivenheder
+FreeFall02=Balanceret sensitivitet for frit fald begivenheder
+FreeFallFF=Højeste sensitivitet for frit fald begivenheder
+Current Sensitivity=Nuværende sensitivitet
+Power Up In Standby=Opstart i standby
+48-bit LBA Adressing=48-bit LBA adressering
+Device Configuration Overlay=Multilevel konfiguration
+Read/Write DMA Queue=Læsning/skrivning af DMA kø
+Native Command Queuing=Native Command Queuing (NCQ)
+Read Ahead Buffer=pre læse buffer
+Maximum Multiword DMA Mode=Maximal multi-ord DMA måde
+Active Multiword DMA Mode=Aktiv multi-ord DMA måde
+IORDY Support=IORDY understøttelse
+Maximum sectors transferred on R/W multiple=Maximal antal af sektorer ved fler-sektor overførsel
+Minimum multiword DMA transfer time=Minimal multi-ord DMA transfertid
+Recommended multiword DMA transfer time=Anbefalet multi-ord DMA transfertid
+Minimum PIO transfer time without IORDY=Minimal PIO transfertid uden IORDY
+Minimum PIO transfer time with IORDY=Minimal PIO transfertid med IORDY
+Security Erase=Sikkerheds sletning
+Security Erase Time=Perioden af sikker sletning
+Security Enhanced Erase Feature=Avanceret sikker sletning
+Security Enhanced Erase Time=Perioden af avanceret sikker sletning
+Security Enabled=Sikkerhedsmåde tilladt
+Security Locked=Sikkerhedsmåde, harddisk spærret
+Security Frozen=Sikkerhedsmåde nedfrosset
+Security Counter Expired=Tæller sikkerhed er udløbet
+Security Level=Sikkerhedsniveau
+Serial ATA Features=Serial ATA karakteristik
+Interface=Grænseflade
+S-ATA Compliance=S-ATA kompatibilitet
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I overførselshastighed (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=S-ATA II overførselshastighed (3 Gps)
+Receipt Of Power Management Requests From Host=Modtagelse af forespørgsler fra vært for strømstyring          
+PHY Event Counters=Tællere for PHY begivenheder
+Non-Zero Buffer Offsets In DMA Setup FIS=Ikke-null Offset i DMA-setup FIS
+DMA Setup Auto-Activate Optimization=DMA-setup auto-aktivering af optimering 
+Device Initiating Interface Power Management=Udsendelse af strømstyringskommandoer til kontrolleren
+In-Order Data Delivery=Overførsel af data i rækkefølge
+Asynchronous Notification=Asynkron underretning
+Software Settings Preservation=Bevarelse af software-indstillinger
+Queue Length=Kø-længde
+Disk Family=Disk-familie
+Form Factor=Form faktor
+Capacity=Kapacitet
+Number Of Disks=Antallet af plader
+Number Of Heads=Antallet af hoveder
+Rotational Speed=Omdrejningtal
+RPM=Omdr/min.
+Rotation Time=Rotationstid
+Average Rotational Latency=Gennemsnits forsinkelse pga. rotation
+Disk Interface=Disk grænseflade
+Buffer-Host Max. Rate=Maximal overførsel mellem buffer og kontroller
+Drive Ready Time (typical)=Typisk spin-up tid
+Average Seek Time=Søgetid i Gennemsnit for positionering af hoveder
+Track To Track Seek Time=Søgetid i gennemsnit for skift fra spor til spor
+Full Stroke Seek Time=Søgetid for hoveder ved fuldt udslag 
+Width=Bredde
+Depth=Dybde
+Height=Højde
+Weight=Vægt
+grams=gram
+pounds=pund
+Acoustic=Akustik
+Idle=hviletilstand
+Required power for spinup=nødvendig strøm for spin-up
+Power required (seek)=Nødvenig effekt (positionering)
+Power required (idle)=Nødvendig effekt (i inaktiv tilstand)
+Power required (standby)=Nødvendig effekt (Standby)
+Manufacturer=Producent
+Manufacturer Website=Producentens hjemmeside
+; list of SMART features
+S.M.A.R.T. Details=S.M.A.R.T. detaljer
+Off-line data collection=Tilstand af off-line dataindsamling
+OFF00=Har ikke været startet
+OFF02=Gennemført med success
+OFF03=i gang for nuværende
+OFF04=Suspenderet af kontrolleren
+OFF05=Afbrudt af kontrolleren
+OFF06=Afbrudt af enheden pga. fejl
+Self test execution status=Status af selvtest
+SET00a=Gennemført med success
+SET00b=Har ikke været startet
+SET01=Afbrudt af kontrolleren
+SET02=Afbrudt af kontrolleren pga. hardware/software-fejl
+SET03=Der skete en fatal/ukendt fejl under testen
+SET04=Mislykket pga. fejl forårsaget af ukendt enhed
+SET05=Mislykket pga. fejl i elektronik
+SET06=Mislykket pga. fejl i servo/hoved-positionering
+SET07=Mislykket pga. fejl i læseenhed.
+SET08=Mislykket og sandsynlig skade ved lagring/bevægelse 
+SET15=Er i gang for nuværende
+SETCO=Afsuttet
+Total time to complete off-line data collection=Samlet tid for off-line dataindsamling
+Execute off-line immediate=Omgående gennemførelse af off-line test
+Abort/restart off-line by host=Off-line test afbrydes/genstartes af kontrolleren
+Off-line read scanning=Off-line læse scan
+Short Self-test=Kort selv-test
+Extended Self-test=Udvidet selv-test
+Selective Self-test=Selektiv selv-test
+Conveyance self-test=Overførsel selv-test
+Save data before/after power saving mode=Gem data før/efter overgang til energibesparelse
+Enable/Disable attribute autosave=Aktiver/deaktiver attribut auto-save
+Error logging capability=Logning af fejl
+Short Self-test Estimated Time=Anslået tid for kort selv-test
+Extended Self-test Estimated Time=Anslået tid for udvidet selv-test
+Last Short Self-test Result=Resultat af den sidste korte selv-test
+Last Short Self-test Date=Dato for den sidste korte selv-test
+Last Short Self-test Duration=Tidsforbruget af den sidste korte selv-test
+Last Extended Self-test Result=Resultatet af den sidste detaljerede selv-test
+Last Extended Self-test Date=Dato for den sidste detaljerede selv-test
+Last Extended Self-test Duration=Tidsforbruget af den sidste detaljerede selv-test
+Last Conveyance Self-test Result=Resultatet af den sidste overførsels selv-test
+Last Conveyance Self-test Date=Dato for den sidste overførsels selv-test
+Last Conveyance Self-test Duration=Tidsforbruget af den sidste overførsels selv-test
+NOP Command=NOP kommando
+Trusted Computing=Trusted Computing
+64-bit World Wide ID=64-bit individuel identifikation
+Streaming=Håndtering af datastream
+Media Card Pass Through=Håndtering af medie-kort
+General Purpose Logging=logning generelt
+Error Logging=Fejl-log
+CFA Feature Set=CFA kommandoer
+Long Physical Sectors=Lange fysiske sektorer
+Long Logical Sectors=Lange logiske sektorer
+Write-Read-Verify=Verificering af skrive-læse
+NV Cache Feature=NV cache funktion
+NV Cache Power Mode=Strømstyring af NV cache
+
+# tom linie #
+Transport Version=Transport Version
+NV Cache Size=Størrelse NV cache
+Free-fall Control=Frit fald kontrol
+Free-fall Control Sensitivity=Frit fald sensor følsomhed
+Non-rotating Media (SSD)=Ikke-roterende medie (SSD)
+Nominal Media Rotation Rate=Mediets omdrejningtal
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA 3.Gen overførselshastighed (6 Gps)
+# tom linie #
+# added 19 Jun 2009
+CFast Device=CFast enhed
+SSD Features=SSD egenskaber
+Data Set Management=Datapakke management
+TRIM Command=TRIM kommando
+Deterministic Read After TRIM=Deterministik læsning efter TRIM
+
+Operating System TRIM Function=Operativsystem TRIM funktion
+
+# added 2012 Mar 9
+
+Self-Test Results=Selv-test resultater
+SST05=Første segment af test mislykket
+SST06=Anden segment af test mislykket
+SST07=Testen er mislykket, segment
+SSTN=Selv-test segment
+SSTN0=Segment ID mangler
+SSTH=Driftstid (time)
+SSTL=Fejladresse (LBA)
+SSHL=Harddisken rapporter flg. problemer:
+
+
+SA1=Ikke-rettede fejl opdaget under læsning\Tyder på fejl ved overfladen eller hoveder.
+SA2=Effektivitet ved overførsel\Kan tyde på fejl ved motor, servo eller lejer.
+SA3=Spin-up tid indtil driftsomdrejningstal\Kan tyde på motor- eller lejefejl.
+SA4=Antallet af spin-up/stop\Værdien har ikke umiddelbar indflydelse på drevets tilstand.
+SA5=Sektor-antal overført til reservearealet\Tyder på fejl på overfladen eller ved hoveder.
+SA6=Spor reserveret til læsning\Uden betydning.
+SA7=Antallet af fejl under positionering af hoveder\Servo- hhv. hoved-problem eller høj temperatur.
+SA8=Gennemsnitstid for hoved-positionering\Kan tyde på servo-problem.
+SA9=Tid i drift\kontinuerligt voksende tæller, måleenhed er afhængig af producent.
+SA10=Antallet af spin-up forsøg\Tyder på fejl ved motor, lejer eller strømforsyning.
+SA11=Antallet forsøg på rekalibrering\Tyder på fejl ved motor, lejer eller strømforsyning.
+SA12=Ki/Antallet af start\Værdien har ikke umiddelbar indflydelse af diskens sundhed.
+SA13=Antallet af læsefejl gennem software\Antallet af korrigerbare læsefejl.
+SA184=Antallet af paritetsfejl i overførsel mellem intern cache og kontroller.
+SA187=Antallet af ukorrigerbare fejl gennem hardware.
+SA187MTRON=Antallet sletning af virtuelle blokke\tyder på nedslidning af lagerplads.
+SA188=Antallet af fejl pga. tidsoverskridelse. Tal større end 0 tyder på problemer ved strømforsyning eller tilslutningskabel.
+SA189=Antallet af usikre skriveoperationer, som skyldes hovedernes ikke passende flyvehøjde.
+SA190=Lufttemperatur\Lufttemperatur inde i harddisken.
+SA191=Antallet af mekaniske indvirkninger\Problemer pga. pludselig acceleration (f.eks tab af disk).
+SA192=Antallet stop\Værdien har ikke umiddelbar indflydelse på diskens sundhed.
+SA193=Antallet parkeringer\Angiver hvor mange gange hoveder er ankommet til eller forladt perkeringszonen.
+SA194=Driftstemperatur\Temperaturen målt inde i drevet.
+SA195=Antallet korrigerbare fejl\Henviser til rettede fejl korrigeret af interne algoritmer.
+SA196=Antallet forsøg på omplacering\Antallet af påbegyndte successfulde og mislykkede omplaceringer til reservearealet.
+SA197=Antallet svage sektorer\Mængden af svage sektorer som kan evt. omplaceres.
+SA198=Antallet af ukorrigerbare sektorer\Kan tyde på overflade- eller hoved-fejl.
+SA199=Antallet af dataoverførselsfejl\Muligvis svag strømforsyning, skadet eller for lang datakabel.
+SA200=Antallet fejl under skrivning\Tyder på overflade- eller hoved-fejl.
+SA201=Antallet software læsefejl\Antallet af ukorrigerbare fejl.
+SA202=Antallet af dataadresseringsfejl\Kan vokse ved ikke passende adressering.
+SA203=Antallet af fejl ved datakorrektion\Forkert kontrolsum ved korrektion af data.
+SA204=Antallet af korrigeret fejl med software\Viser mængden af korrigerede fejl ved intern korrektionsalgoritme.
+SA205=Antallet af temperatur-problemer\tyder på fejl pga. høj temperatur.
+SA206=Flyvehøjde af hoveder\Angiver hovedernes højde over pladeoverfladen.
+SA207=Strømstyrke ved spin-up\Størrelsen af den maksimale strøm ved spin-up.
+SA208=Antallet cyklus for spin-up\Antallet af spin-up pga. større strømforbrug.
+SA209=Effekt under selv-test\Bestemmer positioneringseffekten under selv-test.
+SA211=Vibration under skrivning.
+SA212=Mekanisk påvirkning, chock under skrivning.
+SA220=Pladens afvigelse fra center\Pladens forkerte rotation pga. f.eks. mekanisk chock.
+SA221=Antallet mekaniske påvirkninger\Problemer pga. pludselig acceleration (f.eks. styrt) eller vibration.
+SA222=Tid i tændt tilstand\Kontinuerligt voksende tæller i time-enhed.
+SA223=Antallet drifts-positioneringer\Antallet af positioneringer ind- og ud fra datazonen.
+SA224=Gnindnings-værdi\Mængden af gnindniger pga. problemer ved mekaniske dele.
+SA226=Positioneringstid\Viser hvor hurtig hovedet når datazonen.
+SA227=Værdine af spin-up moment\Stigningen af momentet under spin-up.
+SA228=Antallet af spændingsudfald\Antallet af stop pga. spændingsudfald.
+SA230=Amplitude ved positionering\Størrelsen af udsving under operationen.
+SA231=Driftstemperatur\Målt temperatur i drevet.
+SA240=Hoved-prsitoneringstid\Samlet tid i timer forbrugt ved hoved-positionering.
+SA250=Antallet af fornyet læseforsøg\Mulig fejl ved overfladen eller hoveder. 
+SA254=Styrt-sensor\Antallet af styrt og accelerations-begivenheder målt af sensoren.
+SA255=Producent-specifikt\Værdien og betydningen bestemmes af producenten.
+
+SC01=Tæller for buffer over/underrun
+SC02_0000=Korrigerede skrivefejl uden forsinkelse
+SC02_0001=Korrigerede skrivefejl med forsinkelse
+SC02_0002=Alle skrivefejl
+SC02_0003=Alle korrigerede skrivefejl
+SC02_0004=Alle skrivefejl rettet med algoritme
+SC02_0005=Samtlige skrevne bytes
+SC02_0006=Alle ikke-korrigerede skrivefejl
+SC03_0000=Rettede læsefejl med hardware-fejlkorrektion
+SC03_0001=korrigerede læsefejl med forsinkelse
+SC03_0002=Samtlige læsefejl
+SC03_0003=Alle korrigerede læsefejl
+SC03_0004=Alle med algoritme korrigerede læsefejl
+SC03_0005=Alle indlæste bytes
+SC03_0006=Alle ikke-korrigerede læsefejl
+SC04_0000=Omvendte læsefejl rettet med hardware-fejlretning
+SC04_0001=Omvendte læsefejl rettet med forsinkelse
+SC04_0002=Samtlige omvendte læsefejl
+SC04_0003=Alle rettede omvendte læsefejl
+SC04_0004=Alle med algoritme rettede omvendte læsefejl
+SC04_0005=Alle omvendt indlæste rettede bytes
+SC04_0006=Alle ikke rettede omvendt indlæste læsefejl
+SC05_0000=Rettede verificeringsfejl uden forsinkelse
+SC05_0001=Rettede verificeringsfejl med forsinkelse
+SC05_0002=samtlige verificeringsfejl
+SC05_0003=Alle rettede verificeringsfejl
+SC05_0004=Alle med algoritme rettede verificeringsfejl
+SC05_0005=Samtlige verivicerede bytes
+SC05_0006=Alle ikke korrigerede verificeringsfejl
+SC06_0000=Ikke fejl på medie
+SC07=Sidste fejl-begivenhed
+SC0B=Sidste fejl med forsinkelse eller asynkron begivenhed
+SC0D_0000=Temperatur
+SC0D_0001=Referens-temperatur 
+SC0E_0001=Produktionsdato (år/uge)
+SC0E_0002=Dato for idriftsættelse
+SC0E_0003=Antallet tilladte opstart i levetiden
+SC0E_0004=Antallet af opstart
+SC0E_0005=Antallet af load unload i levetiden
+SC0E_0006=Antallet af load unload
+SC0F=Parameter af software-klient
+SC10=Log af selvtest resultater
+SC11_0001=Procent af sundheds-indikator
+SC18=Protokol specifikt log
+SC1A_0001=Akkumuleret antal af skift til aktiv 
+SC1A_0002=Akkumuleret antal af skift til ledig_a 
+SC1A_0003=Akkumuleret antal af skift til ledig_b 
+SC1A_0004=Akkumuleret antal af skift til ledig_c 
+SC1A_0008=Akkumuleret antal af skift til standby_z 
+SC1A_0009=Akkumuleret antal af skift til standby_x
+SC37_0000=Antallet af pakker sendt til initiator
+SC37_0001=Antallet pakker modtaget fra initiator
+SC37_0002=Antallet af pakker læst fra cache og sendt til initiator
+SC37_0003=Antallet af pakker mindre end segmentstørrelse
+SC37_0004=Antallet af pakker større end segmentstørrelse
+SC3E_0000=Driftstid
+SC3E_8000=Driftstid
+SC3E_0008=Tiden i minutter til næste selvtest
+
+## added 13 May 2015 ##
+
+Motherboard=Bundkort
+Product=Produkt
+Asset Tag=Asset Tag
+Memory Module=Hukommelsesmodul
+Chassis=Chassis
+
+
+## 22 feb 2017 ##
+
+Disk repair=Disk reparation
+Repair=Reparation
+Repair successful=Reparation med success
+Repair failed=Reparation mislykkedes
+\1 sector(s) successfully repaired.=\1 sektor(er) repareret med success.
+read test with sector repair=Læsetest med sektor reparation
+RepairDesc=Læser diskens overflade for at verificere at alle sektorer er læsbare og tvinger disk-drevet for reparation af alle probleamtiske (uafgjorte, svage) sektorer: genetablerer status til god eller overflytter (erstatning fra reservearealet) hvis nødvendigt for at forhindre videre brug af den originale sektor.\n\nTesten er forsvarlig for den lagrede data og de skadede filer bliver læsbare, men fil-fragmenter på de dårlige sektorer kan være beskadigede. Fil(er) på de berørte reparerede sektorer opført på en liste når testen er afsuttet.\n\nTesten kan bedst bruges til reparation af drev med svage sektorer uden komplet backup (og brug a Reinitializer disk overflade) og virker både på system- og andre diske.
+Multiple disk drives=Multiple disk-drev
+\1 drive(s) selected=\1 drev er valgt.
+Select disk drive(s) to be tested=Vælg disk-drev for test
+Are you sure you want to perform disk testing on multiple disk drives?=Er du sikker på at du vil gennemføre disk-test på multiple disk-drev?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=Ønsker du at UDELUKKE system-drevet og teste kun de andre drev?
+Byte / byte sequence=Byte / byte sekevens
+Maximum try count=Maksimal antal af forsøg
+Add to Windows event log=Tilføj til Windows hændelseslog
+Provide status information by WMI=Giv status information med WMI
+Automatic detection based on disk utilization=Automatisk genkendelse på basis af disk udnyttelse
+Automatically save disk test results to folder=Gem automatisk disk-test resultater i mappe
+Selected disk only=Kun valgt disk
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Kontroller venligst firewall-indstillingerne og vær sikker på at software har adgang til aktiveringsserveren og prøv igen senere. \n\nSom alternativ du kan bruge Registration og Aktivering gennem E-mail knappen for at aktivere gennem e-mail. 
+Control device-specific detection=Kontrol af enhed-specifikt genkendelse
+Select device type to detect status and health information by the appropriate detection method.=Vælg enhedstype for at indlæse status og sundhedsinformation ved hjælp af passende genkendelsesmetode.
+DeviceSpecificDesc=Hard Disk Sentinel gemmer en flag-fil (null bytes, uden brug af diskkapacitet) på enheden for at gemme den valgte enhedstype. Det vil blive brugt ved følgende genkendelser indtil enheden er fuldstændig slettet / formatteret, hvorefter det bliver nødvendigt at vælge enhedstype igen.
+Note=Note
+Complete erase / re-format does not reset the health and statistics.=Fuldstændig sletning / re-formattering vil ikke nulstille sundhed og statistik.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Valg af forkert enhedstype kan være årsag til unødvendig slitage på flash-baserede enheder og kan resultere beskadigelse af data. 
+Auto Detect=Automatisk genkendelse
+Part number(s)=Typenummer
+Device type detection successfully completed.=Genkendelse af enhedstype er afsluttet med success.
+The device does not respond to detection, further status information cannot be detected.=Enheden svarer ikke på genkendelse, yderligere status-information kan ikke indlæses.
+Running=Kører
+Inactive=Inaktiv
+without monitoring=uden monitorering
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Monitorer Windows Event Log for problemer i forbindelse med diske og lagringsenheder
+Configure NAS Disk Monitoring=Konfigurer NAS Disk overvågning
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Angiv Status kilde(r) for overvågning af Network Attached Storage (NAS) disk drev.
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Status kildefiler indeholder komplet status af harddisk-drev, SSD-er lagringsenheder, og Hard Disk Sentinel læser dem for at vise de enkelte disk drev som om de var direkte opkoblet.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=Status kildefiler er gemt og opdateret på NAS enheden som er oprettet f.eks. af Hard Disk Sentinel Linux version.
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=Auto Detekt funktionen automatisk genkender mulige Status kildefiler (HDSReport.html) på tilgængelige netværksdrev.
+Status Source=Status kilde
+Auto Detect=Auto Detekt
+&Browse=&Gennemse
+Add &URL=Tilføj &URL
+&Edit=&Edit
+&Delete=&Slet
+&Test=&Test
+Status source files=Status kildefiler
+HPA Security Extensions=HPA Sikkerhedsudvidelser
+Service Interrupt=Service Interrupt
+IDLE IMMEDIATE command with UNLOAD feature=IDLE IMMEDIATE kommando med UNLOAD funktion
+Nominal Form Factor=Nominel Form faktor
+Additional Product Identifier=Ekstra produktidentifikation
+Read Zeroes After TRIM=Læs nuller efter TRIM
+Device Encrypts All User Data=Enheden Krypterer al brugerdata
+Sanitize=Rens
+Overwrite=Overskriv
+Crypto Scramble=Crypto krypter
+Block Erase=Blok-sletning
+Sanitize Antifreeze Lock=Slet Antifreeze lås
+ACS-3 Commands Allowed By Sanitize=ACS-3 kommando er tilladt af Slet
+NCQ Streaming=NCQ Streaming
+NCQ Autosense=NCQ Autosense
+Automatic Partial to Slumber Translations=Automatic Partial to Slumber Translations
+Rebuild Assist=Genopbygningsassistent
+Hybrid Information=Hybrid Information
+Device Sleep (DevSleep)=Enhed Dvale (DevSleep)
+DevSleep to ReducedPwrState=DevSleep til ReducedPwrState
+Recently the following entries added to System Event Log:=Følgende punkter er for nylig tilføjet til System Event Log:
+errors=fejl
+most recent=nyeste
+warnings=advarsler
+The following function can be used to improve the situation:=Flg. funktion kan bruges til situationsforbedring:
+Certain detection functions to access disk status disabled.=Visse detekteringsfunktioner er spærret for at nå drevets status.
+Please change the following option:=Den flg. option bedes ændret:
+
+
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Ønskes der opdatering nu??
+Update not selected.=Opdateringen er ikke valgt.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Controlled Folder Access funktion ved Windows Defender forhindrer adgang til disk status.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Tillades Hard Disk Sentinel detektering og diagnose af disk status ved at tilføje den til listen af tilladte software (anbefalet)?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Bemærkning: uden denne tilladelse ustabil operation og begrænset funktionalitet kan forekomme.
+Disk Access Blocked=Disk adgang er blokeret
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=NVMe Namespace Information
+Total Sectors=Total antal Sektorer
+Active LBA Format Index=Active LBA Format Index
+LBA Formats Supported=LBA Formater understøttet
+LBA Format List=LBA Format Liste
+Best=Bedst
+Better=Bedre
+Good=Godt
+Degraded=Degraderet
+Zoned Capabilities=Zone evner
+SCT Command Transport=SCT Command Transport
+SCT Error Recovery Control=SCT Error Recovery Control
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=Inkluder oversigt over problemer ved advarsler
+Alert about problematic drive(s) only=Advar kun om problematiske drev
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Ændring(er) siden \1
+Timestamp=Tidsstempel
+No entries found=Ingen tilføjelser en fundet
+Error log=Fejl log
+No error information recorded=Ingen fejl info er noteret
+The list automatically cleared by the controller on power cycle and reset=Listen er automatisk slettet af kontrolleren under power off-on og reset
+Depending on the configuration, the test duration may be different than estimated.=Varigheden af test kan være forskelligt fra den estimerede afhængig ag konfigurationen.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=NVMe kontroller driveren forhindrer brug af testkommandoer for hyppigt. Prøv venligst senere.
+
+No device self-test operation in progress=Ingen selvtest på en enhed er i gang
+Aborted by command=Abort gennem en kommando
+Aborted by controller reset=Abort gennem kontroller reset
+Aborted due to removal of namespace=Abort pgs. fjernelse af navnefelt
+Aborted due to Format NVM command=Abort pga. Format NVM kommando
+Fatal error or unknown test error=Fatal fejl eller ukendt fejl under test
+Failed in an unknown test segment=Fejlede i et ukendt test segment
+Failed in one or more test segment(s)=Fejlede i en eller flere testsegment(er)
+Aborted for unknown reason=Abort pga. ukendt årsag
+No self-test information recorded=Ingen selvtest info er noteret
+
+Repaired=Repareret
+Failed=Fejlede
+Quick Fix=Hurtig fix
+QuickFixDesc=Kontroller, hvilke områder af diskdrevet, som rapporterede problemer og blev skrevet til for nylig, og diagnosticer, reparer specifikt disse (og nærliggende) sektorer og kritiske systemområder. Testen tvinger diskdrevet til at reparere eventuelle problematiske (afventende, svage) sektorer: Gendan status til god eller omfordel (erstat fra reserveområde), hvis det er nødvendigt for at forhindre yderligere brug af den originale sektor.\n\nI modsætning til en komplet scanning, dette test er muligvis ikke i stand til at finde og rette alle mulige problemer, så det er bedst at bruge på diskdrev med et relativt lavt antal problemer og høj sundhedsværdi rapporteret til at reparere svag(e) sektor(er) uden behov for fuldstændig sikkerhedskopiering (og brug af geninitialisering af diskoverfladen test).\n\nTesten kan bruges på både system- og sekundære drev, og den er sikker for lagrede data. Mulige beskadigede filer vil være læsbare, men filfragment(er) på beskadigede sektorer kan være beskadiget. Fil(er) på de berørte reparerede sektorer vises, når testen er fuldført. 
+
+
+targeted repair of problematic sectors=Målrettet reparation af problematiske sektorer
+Last error (hour)=Sidste fejl (tid)
+Error free hours=Fejlfrie timer
+Never=Aldrig
+Open Disk Management=Åbn diskhåndtering
+Open Device Manager=Åbn enhedshåndtering
+Windows Drive Index=Windows Drev Index
+
+## added 30 Nov 2022 ##
+
+USB Device Name=Navnet på USB enhed
+safely remove required=sikker fjernelse er påkrævet
+surprise remove possible=pludselig fjernelse er mulig
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=Den nuværende USB forbindelse begrænser hastigheden af harddisken. Tilslut til en anden USB 3.0 port for at forøge hastigheden.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=Drevet kan degradere eller fejle, hvis den benyttede USB port leverer for lidt strøm for fejlfri operation.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=Harddisken har nået enden af dens forventede levetid. Chancen for pludselig eller uventet svigt er større.
+In a critical system, it is recommended to consider replacement.=Udskiftning er anbefalet i et kritisk system. 
+One or more disk drive(s) may be disconnected or removed.=En eller flere harddisk(e) er muligvis frakoblet eller fjernet.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Disken er sandsynligvis ikke er en reel hukommelsesenhed; det viser en meget høj ledig kapacitet, men data gemt på den kan være korrupt/tabt. 
+
+## added 8 Nov 2023 ##
+
+When custom threshold reached=Når brugerdefineret tæsrkelsværdi er nået
+When disk added/connected=Når harddisk(e) er tilføjet/tilsluttet
+When disk removed/disconnected=Når harddisk(e) er fjernet/frakoblet
+Drive Added=Harddisk-drev er tilføjet
+Drive Removed=Harddisk-drev er fjernet
+Custom Alert=Brugerdefineret advarsel
+Configure custom alert threshold=Indstil ønsket tærskel for advarsel
+Disable custom alert for the selected attribute=Deaktiver indstillet advarsel for det valgte attributum.
+Alert When Disk Drive(s) Added/Connected=Advar når harddisk(e) er tilføjet/tilsluttet
+Alert When Disk Drive(s) Removed/Disconnected=Advar når Harddisk(e) er fjernet/frakoblet
+Select disk(s) from the list by using the checkboxes=Afkryds harddisk(e) fra listen
+Trigger alert on next startup if the list of disk drives changed while Hard Disk Sentinel was not running=Vis advarsel ved næste opstart hvis listen af hardddisk(e) blev ændret mens Hard Disk Sentinel ikke kørte
+Automatically show the disk drive as offline after removed (with last known status)=Vis automatisk den fjernede harddisk offline efter fjernelsen ( med den sidst kendte tilstand )
+Specify disk(s) to trigger alert when the list of detected disk drives changes.=Specificer diske som udløser advarsel når listen for genkendte diske ændrer sig.
+Specify disk(s) to DO NOT trigger alert when the list of disk drives changes (ignore).=Specificer diske som MÅ IKKE udløse advarsel når listen for genkendte diske ændrer sig.( Ignorer ).
+Use the Select button or enter by disk drive model {firmware} / serial number.=Brug Vælg eller Enter ved harddisk model {firmware} / serie-nummer.
+It is possible to use wildcards (* for any number of any characters, ? for any single character) to manually specify multiple disk drives.=Det er muligt at bruge wildcards ( * for vilkårlig antal karakterer, ? for vilkårlige enkelte karakterer ) til manuel valg af flere drev. 
+Example: WDC* will match all disks starting with WDC letters.=F. eks.: WDC* vil vælge alle harddiske hvis navn begynder med WDC bogstaver.
+
+
+5°
+
+
+

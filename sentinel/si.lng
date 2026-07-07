@@ -1,0 +1,1342 @@
+Hard Disk Sentinel že tece.
+Napaka
+Temperatura trdega diska
+Napovedana napaka
+V redu
+Podprto
+Ni prodprto
+Da
+ &Trdi diski
+V oknu stanja izberite trdi disk(-e), ki si ga želite ogledati. Dvokliknite, da izberete ikone v sistemski vrstici. Desni klik za prikaz lokalnega menija.
+Ne.
+Ime (velikost)
+Temperatura
+Ikona pladnja
+ &Nastavitve
+Prikaz okna stanja ob zacetku
+Nalaganje z Windows-i
+Prozornost:
+Jezik:
+&Zapri
+Hard Disk Sentinel
+Izberite ta pogon za prikaz njegove temperature v sistemski vrstici
+&Prikaži okno stanja
+&Skrij okno stanja
+&Konfiguracija
+Iz&hod
+Izbrati morate vsaj en trdi disk.
+ &Statusno okno 
+Barva ozadja
+Slika ozadja
+Izberi
+Napaka pri odpiranju slikovne datoteke.
+Podprte slikovne datoteke|*.jpg;*.bmp|Vse datoteke|*.*
+Informacije
+S.M.A.R.T.
+Zmogljivost diska
+Particije
+Informacije o disku
+Informacije o hitrosti prenosa
+Skupno število prebranih podatkov
+Skupno število zapisanih podatkov
+Trenutna hitrost prenosa
+ KB/s
+Trenutna hitrost branja
+Trenutna hitrost pisanja
+Trenutna dejavnost diska
+Dejavnost diska %
+Hitrost prenosa (MB/s)
+Povzetek trdega diska
+Številka trdega diska
+ID modela trdega diska
+Revizija vdelane programske opreme
+Serijska številka trdega diska
+Celotna velikost
+ATA informacije
+Cilindri trdega diska
+Glave trdega diska
+Sektorji trdega diska
+Vseh sektorjev
+ATA revizija
+Bajtov na sektor
+Bajtov na logicno sled
+Velikost medpomnilnika
+Vec sektorjev
+Bajti za popravljanje napak
+Neformatirana zmogljivost
+Najvecji nacin PIO
+Aktivni nacin PIO
+Najvecji nacin UDMA
+Aktivni nacin UDMA
+Funkcije ATA
+Podprto
+Ni podprto
+Atribut
+Meja
+Vrednost
+Najslabše
+Podatki
+Status
+Informacije o particiji
+Logicni pogon
+Skupni prostor
+Prosti prostor
+Vrsta particije
+bajtov
+Uporabljen prostor
+Disk:
+Najvecja hitrost prenosa
+Ocenjena maks. hitrost prenosa
+Hitrost zapisovanja na DVD
+Za merjenje je potrebna vecja uporaba diska.
+V redu (Vedno prestane)
+Neuspešno (Vedno spodleti)
+Opozorilo: Omejitev uporabe je presežena
+Pred napako: Predvidena izguba podatkov
+Kopiraj celotno stran v odložišce
+Zgodovina &temperature trdega diska
+od namestitve
+O
+&Registracija
+Ime za registracijo:
+Kljuc registracije:
+Neveljaven registracijski kljuc, registracija ni uspela.
+Registracija uspešna. Hvala za vašo podporo.
+Ob zagonu prikaži glavno okno
+Na voljo samo po registraciji in aktivaciji.
+Neregistrirana razlicica, registrirajte se.
+Registerirano na:
+Pregled
+Trenutna temperatura:
+Najvišja temperatura (danes):
+Temperaturno stanje je dobro.
+Trenutna temperatura je previsoka. Ce je mogoce, je priporocljiva uporaba naprave za hlajenje trdega diska (na primer ventilatorja ali pasivnega hladilnika).
+Trenutna temperatura je dobra, prej pa je bila previsoka. Ce je mogoce, je priporocljiva uporaba naprave za hlajenje trdega diska (na primer ventilatorja ali pasivnega hladilnika).
+Zmogljivost:
+Zdravje:
+Odlicno
+Dobro
+Zadovoljivo
+Sprejemljivo
+Slabo
+Nobena dejanja niso potrebna.
+Priporocljivo je, da varnostno kopirate pogosto, da preprecite izgubo podatkov.
+&Lastnosti
+Pre&gled trdega diska
+&Prejšnji trdi disk
+&Naslednji trdi disk
+&Opozorila
+Pošlji e-poštno opozorilo, ce je predvidena okvara trdega diska
+Pošlji e-poštno opozorilo, ce je temperatura trdega diska previsoka
+Konfiguracija &E-pošte
+Poštni racun:
+Ime pošiljatelja:
+E-pošta pošiljatelja:
+E-pošta prejemnika:
+Strežnik SMTP:
+Možnosti preverjanja pristnosti (pustite ta polja prazna, ce niso potrebna)
+Uporabniško ime:
+Geslo:
+Privzeto
+Za pošiljanje e-pošte morate izpolniti naslednje polje:
+Ali želite te podatke vnesti zdaj?
+Napaka pri pošiljanju opozorilne e-pošte.
+Opozorilna e-pošta poslana.
+Pregretje
+Nastavitev temperaturnega praga:
+Enota za temperaturo:
+Pošiljanje porocila
+Pisava:
+Shrani
+Na pladnju prikaži samo najvišjo temperaturo
+Prenesena podatkovna enota:
+Konfiguracija upravljanja zvoka
+Onemogoceno
+Omogoceno
+Trenutna akusticna raven
+Priporocena akusticna raven
+Neznano
+Najvecja zmogljivost in glasnost
+Min. zmogljivost in glasnost
+Uravnotežena zmogljivost in glasnost
+Upravljanje akustike
+Privzeto
+Povprecno število branj na dan
+Povprecno število zapisov na dan
+Pripni na robove zaslona
+Opozorilo
+Pošlji/prikaži sporocilo
+Zaustavi
+Ko se pricakuje okvara
+Ko je temperatura previsoka
+Ko je dodan nov vnos v dnevnik
+Dnevno pošiljaj e-pošto o stanju
+ob
+Kriticna degradacija vrednosti
+Trenutni status
+Napaka pri pošiljanju e-pošte statusa.
+Statusna e-pošta uspešno poslana.
+&Posodobi
+Preveri za novo razlicico in jo posodabljaj vsak teden
+Sedaj preveri za novo razlicico
+Zadnji datum preverjanja:
+Brez preverjanj
+Preklici
+Namešcena razlicica:
+Najnovejša razlicica:
+Posodabljanje datotek
+Trenutna datoteka:
+Celoten postopek:
+Trenutna razlicica programske opreme je posodobljena.
+Napaka med prenosom. Preverite omrežje in poskusite znova.
+Posodobitev uspešno zakljucena.
+Stanje: Preverjanje razpoložljive razlicice
+Stanje: Prenašanje
+Zapri
+Trdi disk ni bil najden.
+Funkcionalnost S.M.A.R.T. manjka. Kopirati morate datoteko Smartvsd.vxd iz mape Windows\System v mapo Windows\System\IoSubsys in znova zagnati racunalnik. Za podrobnosti preverite Pomoc -> Namestitev.
+Za dostop do informacij o trdem disku so potrebne pravice sistemskega skrbnika.
+Dnevnik
+Število zabeleženih težav:
+Opomba: registrirana razlicica lahko pošilja opozorilna e-poštna sporocila in izklopi racunalnik, ko se najde in zabeleži nova težava s trdim diskom.
+Težave niso zabeležene.
+Stanje trdega diska je stabilno.
+Opozorilo: stanje trdega diska se je v zadnjih dneh poslabšalo.
+Datum
+Prejšnja vrednost
+Nova vrednost
+Opozorilo: v preteklih dneh je bilo ugotovljenih vec težav.
+Prej delujoci trdi disk se ne odziva. Možno je, da je operacijski sistem zaustavil napravo, da prepreci (nadaljnje) težave.
+Stanje programa:
+Napaka pri branju informacij o aktivaciji.
+Uspešno registriran in aktiviran.
+Registriran, vendar neaktiviran.
+Ni registriran in ni aktiviran.
+Registracija in aktivacija na spletu
+Registracija in aktivacija po elektronski pošti
+Aktivacijska datoteka je shranjena kot
+Prosimo, pošljite to datoteko z vašim registracijskim imenom in registracijskim kljucem na info@hdsentinel.com. V odgovor boste prejeli vašo registracijsko datoteko, ki jo morate naložiti z gumbom Naloži aktivirano datoteko s kljucem (ali pa jo je mogoce rocno kopirati v mapo te programske opreme), da se programska oprema registrira in aktivira.
+Priporocamo uporabo spletnega nacina aktivacije, ker je hitrejši in udobnejši.
+Za ta registracijski kljuc je bilo doseženo najvecje število aktivacij.
+Napaka pri aktiviranju
+Napaka pri komunikaciji z aktivacijskim strežnikom.
+Za licenco se obrnite na razvijalca.
+Aplikacija je že aktivirana s tem registracijskim kljucem na 5 razlicnih konfiguracijah.
+Napaka pri branju podatkov iz aktivacijskega strežnika.
+Aktivacija ni možna.
+Aktivacija opravljena, hvala za vašo podporo.
+Aktivacija uspešna
+Aktivacija po elektronski pošti
+V operacijskem sistemu Windows 98 je možno, da to težavo povzroca naprava USB, ker lahko naprava USB povzroci težave s S.M.A.R.T. na sekundarnem kanalu IDE.
+Disk se ne odziva.
+Disk se dolgo casa ne odziva. Morda je odklopljen.
+Prikaži aplikacijo v opravilni vrstici in sistemski vrstici
+Analiziram sistem. Prosim pocakaj.
+Pomoc
+Vnesite svoje registracijsko ime (vaše ime ali vzdevek) in registracijski kljuc, ki ste ga prejeli. Ce ima vaš racunalnik aktivno internetno povezavo, izberite spletno aktivacijo: v tem primeru sta registracija in aktivacija samodejni, druga dejanja niso potrebna. V nasprotnem primeru izberite nacin aktivacije po elektronski pošti in pošljite prikazano datoteko avtorju. Prejeli boste svojo aktivirano kljucno datoteko, prosimo, da jo shranite v mapo aplikacije.
+Dogodek
+Vmesnik prevedel:
+Andraž Poje
+Andraz.poje@gmail.com
+E-pošta
+TXT datoteke
+Vse datoteke
+Ikona mora biti rdeca, ce je temperatura nad
+N&apredne možnosti
+Pogostost zaznavanja:
+1 sekundo
+5 sekund
+10 sekund
+30 sekund
+1 minuta
+2 minuti
+5 minut (privzeto)
+10 minut
+30 minut
+1 uro
+Omogoci opozorilo, ce se trdi disk ne odziva
+Povprecna temperatura (danes):
+Trenutno
+Dnevno povprecje
+Dnevni maksimum
+Zvocno opozorilo
+Izberite zvocno datoteko
+Zvocne datoteke
+Dvokliknite ali kliknite z desno miškino tipko za prikaz vec informacij.
+Prilagodi
+V redu
+Preklici
+Med izvajanjem tega ukaza je prišlo do napake.
+Ta funkcija zahteva operacijski sistem Windows 2000, XP ali novejši.
+Ko je prostora na disku malo
+Nastavi prag prostega prostora na disku
+Uporabite isto nastavitev za vse namešcene trde diske
+Globalna nastavitev
+Opozorilo, ce je prostega prostora manj kot
+Malo prostora na disku
+Nizko
+Onemogocite samodejno skeniranje diska ob zagonu sistema Windows
+Za uporabo novih nastavitev je potreben ponovni zagon racunalnika.
+Sinhronizirajte racunalniško uro z atomsko uro
+Ko se aplikacija zažene
+Ali želite videti stanje trdih diskov v majhnem statusnem oknu?\n(Pozneje lahko to nastavitev spremenite z desnim klikom\nna ikono sistemske vrstice in izbiro "Konfiguracija" v meniju.)
+Temperatura ni podprta na tem trdem disku.
+Na tem trdem disku ni mogoce ugotoviti.
+Po&moc
+Pomoc ni na voljo. Prenesite celoten namestitveni paket s spletnega mesta aplikacije.
+Ta funkcija ni na voljo na izbranem trdem disku.
+Spremenite privzete ikone trdega diska v Windows raziskovalcu
+SCSI Informacije
+Informacije o prodajalcu
+Razlicica
+Vrsta naprave
+Disk
+Odstranljiv
+Napoved okvar
+Fiksni disk
+Oddaljeni pogon
+Opticni pomnilnik
+Oznaceni logicni pogoni pripadajo trenutnemu fizicnemu trdemu disku.
+Spremenite nacin prikaza
+Oznaka nosilca
+Serijska številka
+Spremljajte prostor na omrežnih diskih
+Vroce &tipke
+Ukaz
+Omogoci sistemske vroce tipke (uporabite jih lahko iz katere koli aplikacije)
+&Nadzor diska
+Spremenite privzeto sistemsko ikono za omrežne diske
+Spremljajte prostor na izmenljivih diskih
+Spremenite privzeto sistemsko ikono za izmenljive diske
+Ne preverjajte informacij o prostoru na naslednjih diskih: (npr.: CDE)
+Ne spreminjajte privzete sistemske ikone naslednjih diskov: (npr.: KL)
+Dvokliknite, da odprete pogon. F5 za osvežitev.
+V pogonu ni diska
+Preizkus pošte
+Ce je to sporocilo dostavljeno, je konfiguracija e-pošte pravilna.
+Testno sporocilo je bilo uspešno poslano.
+Napaka pri pošiljanju testne pošte. Preverite konfiguracijo e-pošte.
+Cas vklopa:
+dni
+ure
+minut
+Ocenjena preostala življenjska doba:
+vec kot
+sekund
+vrata:
+Zakasnitev pred zacetkom skeniranja (sekunde):
+Vrednost zdravja:
+Ko je zdravje diska slabo
+Panicna rezervna kopija
+Prag zdravja:
+Prikaži sporocilo na zaslonu
+Pošlji sporocilo oddaljenemu racunalniku (NET SEND):
+Ta funkcija je na voljo samo, ce je namešcena razlicica PROFESSIONAL.\nZ uporabo te funkcije je možno zaceti vnaprej konfigurirano varnostno kopiranje, ko se odkrije težava.\n\nProsimo, obišcite domaco stran (www.hdsentinel.com), ce želite prebrati vec o tej funkciji.
+Nizko zdravje
+Ustvari porocilo o preskusu
+Napaka pri pošiljanju porocila.\nOdprite okno konfiguracije, izberite Pošlji porocilo o testu, shranite porocilo in ga pošljite na reports@hdsentinel.hu
+Nastavitve sporo&cila
+Pošlji e-pošto
+Pred pošiljanjem poklicite privzeto internetno povezavo
+Po pošiljanju prekinite povezavo
+Prikaži tudi sporocilo po meri iz besedilne datoteke
+Prosim pocakajte, merjenje ...
+Neveljavni podatki o registraciji - ta funkcija je onemogocena.
+Informacije o zdravju
+Napaka med shranjevanjem. Disk je lahko poln ali samo za branje.
+Pragi / pladenj & ikona
+Prikaz temperature trdega diska na ikoni pladnja
+Pod
+Med \1 in \2
+Temp.:
+Nad
+Uporabite klasicne (digitalne) številke ikon v pladnju
+Ozadje
+Ospredje
+Primer
+Prikaži znak zdravja trdega diska na ikoni pladnja
+Informacije o aplikaciji
+Trenutni datum in cas
+Sistemska informacija
+Razlicica sistema Windows
+Vrsta in hitrost procesorja
+Proizvajalec BIOS-a
+Velikost fizicnega pomnilnika
+Adapter zaslona
+Locljivost zaslona
+Tiskalnik
+Omrežni krmilnik
+Informacije o napravi PCI
+Informacije o racunalniku
+Ime racunalnika
+Uporabniško ime
+IP naslov
+Mac naslov
+Informacije o fizicnem disku
+Zastavice
+Kriticno
+Statisticni
+Izvedba
+Stopnja napak
+Število dogodkov
+Samoohranitev
+Namizje
+Strežnik
+Mobilni
+Vrsta racunalnika
+Splošne informacije
+HTML datoteke|*.html|Vse datoteke|*.*
+Shrani porocilo
+Pošlji porocilo po e-pošti
+Vrsta porocila:
+Podrobno porocilo HTML
+Kratko besedilno porocilo
+Pošlji porocilo o &testiranju
+Informacije o trdem disku za prikaz
+Model trdega diska
+Logicni pogon(i)
+Zdravje
+Status / težava
+Fizicni disk(i)
+Stanje trdega diska ni znano.
+Stanje trdega diska je popolno.
+Stanje trdega diska ni popolno.
+Pricakuje se napaka na tem trdem disku.
+Na površini diska je \1 slabih sektorjev. Vsebina teh sektorjev je bila premaknjena v rezervno obmocje.
+Na podlagi števila operacij ponovnega preslikave je bilo zdravje diska zmanjšano v razlicnih korakih.
+Glede na število operacij ponovnega preslikave lahko slabi sektorji tvorijo neprekinjena obmocja.
+Pogon je med samopreizkusom našel \1 slabih sektorjev.
+Med vrtenjem diska so se \1-krat pojavile težave. To je lahko posledica samega diska ali velike obremenitve (šibko napajanje).
+Na površini diska je najdenih \1 šibkih sektorjev. Pri kasnejši uporabi diska jih je mogoce kadar koli znova preslikati.
+Težave so se pojavile \1-krat med komunikacijo diska in gostitelja. V primeru nenadnega zrušitve ali ponovnega zagona priporocamo, da poskusite z drugim, kratkim podatkovnim kablom (izogibajte se okroglim kablom, namesto tega uporabite 80-žilne standardne kable).
+Priporocljivo je, da redno pregledujete dnevnik diska. Vse nove odkrite težave bodo tam zabeležene.
+Stanje trdega diska je PERFEKTNO. Problematicni ali šibki sektorji niso bili najdeni in ni nobenih napak pri vrtenju ali prenosu podatkov.
+Uveljavi
+Odmik
+Odmik:
+Priporocljivo je umeriti temperaturo in nastaviti temperaturni odmik na S.M.A.R.T. strani. Tako bo pozneje prikazana pravilna vrednost temperature.
+Metoda izracuna zdravja:
+Analiziraj podatkovno polje (privzeto)
+Analizirajte vrednosti, specificne za prodajalca (NI PRIPOROCENO)
+Prag presežen na:
+Graf atributov
+Prikaz podatkovnega polja
+Prikaz vrednosti, specificnih za prodajalca
+Ni pricakovano
+Zgodilo se je
+Podrobno besedilno porocilo
+Datoteka
+Pogled
+Porocilo
+Shrani porocilo TXT
+Shrani porocilo HTML
+Pošlji porocilo TXT
+Pošlji porocilo HTML
+Priporocljivo je stalno spremljanje stanja trdega diska.
+Analizirajte podatkovno polje (strožje, priporocljivo za strežnike)
+Spremeni odmik atributa
+Uporaba te možnosti je priporocljiva samo za napredne uporabnike. Z uporabo te možnosti prikazano stanje morda ne bo odražalo dejanskega stanja. Ali ste prepricani, da želite spremeniti to možnost?
+Ne kaži vec tega
+Uporaba te možnosti je priporocljiva samo za napredne uporabnike. Z uporabo te možnosti je možno prikazati nepravilno stanje in tudi mogoce spregledati nekatera opozorila o nadaljnjih spremembah stanja. Ali ste prepricani, da želite spremeniti to možnost?
+Onemogoci zvocna opozorila
+Omogoci zvocna opozorila
+Pri nastavitvi glasnosti je prišlo do napake.\nKrmilnik trdega diska ali njegov gonilnik ne podpira te funkcije.
+Spremljanje delovanja v realnem casu na tem disku ni podprto.
+Opomba: neregistrirana razlicica ne shranjuje sprememb teh možnosti. Nastavitve bodo ponastavljene na privzete vrednosti, ko ponovno zaženete aplikacijo.
+Omogoci atribut
+Ponovi zvocno opozorilo
+Uporabite PC zvocnik
+Pošlji test
+Sporocilo je bilo uspešno poslano v ciljni racunalnik.
+Med operacijo je prišlo do napake. Prosimo, preverite omrežno povezavo in stanje izvajanja sporocilne storitve na obeh racunalnikih.
+Povzrocene težave Zvocno opozorilo
+Ponovno omogocite opozorila
+ATA nadzorni bajt 
+Veljavno
+Neveljavno
+Vrednost kontrolne vsote ATA
+prikazane informacije morda niso pravilne.
+Preizkusite zvocno opozorilo
+Ustvarite bližnjico za ta projekt na namizju
+Ustvarjanje bližnjice
+Bližnjica za ta projekt je bila uspešno ustvarjena na namizju.
+Napaka pri ustvarjanju bližnjice za ta projekt.
+Podatki o registraciji so potekli. Za podaljšanje licence se obrnite na avtorja.
+Pošlji klike miške v okno pod oknom stanja
+Prikaz informacij na namizju
+Veljavna licenca:
+Za vedno
+potekla
+brez
+Popolnoma transparentno ozadje
+I&ntegracija
+Storitev
+Za odpiranje glavnega informacijskega okna je potrebno geslo
+Za odpiranje konfiguracijskega okna ali zapiranje programa Hard Disk Sentinel je potrebno geslo
+Odjavite se po
+minut
+geslo:
+O&djavi se sedaj
+Uporabi kot &storitev
+Uporabi kot &aplikacijo
+Daljinsko upravljanje
+Omogoci oddaljeno povezavo s strežnikom Hard Disk Sentinel
+Ime strežnika ali naslov IP:
+Vrata TCP (privzeto = 61210):
+Varnost
+Napaka pri namestitvi storitve Hard Disk Sentinel.
+Napaka pri zagonu storitve Hard Disk Sentinel.
+Napaka pri zaustavitvi storitve Hard Disk Sentinel.
+Hard Disk Sentinel zdaj shrani trenutno konfiguracijo in bo zaprt. Ponovno bo zagnan kot storitev.
+Storitev Hard Disk Sentinel zdaj shrani trenutno konfiguracijo in bo ustavljena. Ponovno se bo zagnal kot aplikacija.
+Potreben je pooblašcen dostop
+Vneseno je neveljavno geslo. Te funkcije ni mogoce uporabiti.
+Ce želite zapreti storitev Hard Disk Sentinel, uporabite bližnjico Â»Ustavi storitevÂ« ali preklopite nazaj v nacin aplikacije na integracijski plošci iz okna konfiguracije in zaprite aplikacijo.
+Brez
+Visoko
+Najvec
+Posodobitev ni na voljo, ko se izvaja Hard Disk Sentinel kot storitev. Pred posodobitvijo aplikacije na novo razlicico preklopite nazaj v nacin aplikacije na integracijski plošci.
+Nacin storitve
+Varni nacin (onemogoci zaznavanje strojne opreme)
+Storitev Hard Disk Sentinel ni namešcena. Odprite okno za konfiguracijo, izberite integracijsko plošco in namestite storitev Hard Disk Sentinel.
+Storitev Hard Disk Sentinel že deluje.
+Storitev Hard Disk Sentinel se ne izvaja.
+Povprecna hitrost prenosa
+Povprecna aktivnost diska
+Ponovi test
+Informacije še niso na voljo
+Storitev Hard Disk Sentinel je ustavljena.\nAli želite onemogociti storitev in uporabljati programsko opremo v nacinu aplikacije?
+Microsoft Vista in novejši operacijski sistemi ne dovoljujejo storitev za interakcijo z namizjem.\n\nHard Disk Sentinel bo deloval nevidno: njegova okna in ikone ne bodo\nprikazani in ne bo mogoce dostopati do konfiguracije.\n\nCe želite zaustaviti storitev in uporabljati programsko opremo v nacinu aplikacije,\nprosimo izberite bližnjico "Ustavi storitev" v skupini Hard Disk Sentinel.\n\nAli ste prepricani, da želite nadaljevati?
+Ugotovite, kako se ta vrednost izracuna
+Omogocite zagon te aplikacije z ustreznimi pravicami.
+Nabor ikon diska:
+XP
+Vista
+Kliknite za zacetek
+Test trdega diska
+Testno delovanje:
+Stanje:
+Predvideni preostali cas:
+Napaka pri zagonu testa. Koda napake je:
+Tece, ni bilo najdenih težav
+Odgovor:
+Pretecen cas:
+Ta registracijski kljuc je mogoce uporabiti samo za registracijo STANDARDNE razlicice.\nPrenesite in namestite STANDARDNO razlicico s spletnega mesta www.hdsentinel.com\nza uporabo tega registracijskega kljuca.
+Ta registracijski kljuc je mogoce uporabiti samo za registracijo PROFESSIONALNE razlicice.\nPrenesite in namestite razlicico PROFESSIONAL s spletnega mesta www.hdsentinel.com\nza uporabo tega registracijskega kljuca.
+Za prag uporabi enoto megabajt
+Potrdi:
+Gesli nista enaki.\nDvakrat vnesite isto geslo, da ga potrdite.
+Omogoci WebStatus
+Zahtevaj geslo za vzpostavitev povezave
+Vrata povezave HTTP
+Naslov vrat (>1023)
+Pripišite komentarje
+Decimalna podatkovna polja
+Pogon je poskusil pregledati in prerazporediti sektor(je) podatkov \1 krat. Obmocje pregledanih podatkov je popolno.
+Takoj zamenjajte trdi disk.
+Podrobne komponente porocila:
+Varnostno kopiranje/obnovitev trenutne konfiguracije
+Konfiguracija varnostne kopije
+Obnovi konfiguracijo
+Opticni pogon
+Ustvarite in posodobite datoteko XML
+Senzor temperature trdega diska je napacen. Izmerjena vrednost je:
+Sprejmi oddaljene povezave s strežnika
+Vrata za oddaljeno povezavo
+Onemogoci opozorila o mehurckih ikone pladnja
+Onemogoci zaznavanje USB in SCSI pogonov
+Pošlji
+Komentarji:
+Pošlji razvijalcu
+Vzpostavljanje stika s strežnikom - www.hdsentinel.com
+Pošiljanje porocila
+Porocilo uspešno poslano. \nHvala za vašo podporo.
+Pošlji porocilo o preizkusu razvijalcu
+Ustvarjanje porocila
+Želim prejeti odgovor po oceni porocila
+To je porocilo o napaki
+Odprite &glavno okno HD Sentinel
+Vidno
+Enota velikosti trdega diska:
+Enota velikosti particije:
+CC (kopija):
+BCC (slepa kopija):
+Posodobi porocilo o preskusu
+(ocenjeno)
+Izracun casa, pocakajte ... Trenutna ocenjena vrednost morda ni tocna.
+Oddaljena pot
+Rumena temperaturna raven je dosežena.
+Rdeca temperaturna raven je dosežena.
+Rumena raven zdravja je dosežena.
+Rdeca raven zdravja je dosežena.
+Meja:
+Temperatura:
+Attribute changed
+Pocisti dnevnik
+Ozadje
+Omogoci storitev DynDNS
+Omogoci storitev brez IP-ja
+Omogoci storitev Dynamic DNS po meri
+Konfiguriraj
+Uporabniško ime
+Geslo
+Ime gostitelja (polno)
+Celoten URL za posodobitev (%ip% spremenjen s trenutnim IP-jem)
+Zadnji odziv strežnika:
+Pripomocek
+Omogoci pripomocek
+Prikaz glave
+Prikaz aktivnosti diska
+Ali želite zdaj preizkusiti konfiguracijo s posodobitvijo naslova IP?
+Število najdenih težav je visoko pri naslednjem atributu:
+Branje:
+Pisanje:
+Vsi diski
+Ikona dejavnosti
+Prikaži skupno aktivnost diska na ikoni posameznega pladnja
+(HIGH word)
+(MID word)
+(LOW word)
+Stanje moci:
+Aktiven
+Spanje
+(od \1)
+Cas delovanja sistema
+Sistem deluje od
+Krmilnik diska
+Lokacija diska
+Obišcite našo &spletno stran
+Kontakt
+Kupi zdaj
+Vnesite registracijski kljuc
+Seznam vsebuje \1 predmetov. Za ogled vseh elementov prosimo registrirajte programsko opremo.
+Uporaba procesorja
+Procesor
+Navidezni pomnilnik
+Rabljeno:
+Trdi disk deluje v nacinu PIO, kar zmanjšuje zmogljivost. Priporocamo, da preverite in zamenjate podatkovni kabel ali spremenite konfiguracijo.
+Trdi disk deluje v nacinu UDMA 2 (33 Mbajtov/s), kar zmanjšuje zmogljivost. Ce krmilnik podpira višje hitrosti prenosa podatkov, je priporocljiva uporaba 80-žilnega kabla IDE.
+Krmilniki Silicon Image (SiI) morda ne zagotavljajo popolnih informacij o vseh povezanih diskih. 
+Trenutni gonilnik krmilnika diska ne omogoca popolnega dostopa do samega diska za branje vseh podrobnosti. Preverite, ali je na voljo posodobljen gonilnik.
+Ta shranjevalna naprava USB ne zagotavlja vec informacij o sebi. Kakorkoli že, težave lahko preizkusite s funkcijo Disk -> Testiraj površino diska.
+To polje RAID ne omogoca dostopa do podrobnosti diska v polju. Kakorkoli že, težave lahko preizkusite s funkcijo Disk -> Testiraj površino diska.
+Uporabite možnost menija »Porocilo« »Pošlji porocilo o preizkusu razvijalcu«, da nam pomagate ugotoviti, ali je mogoce zaznati in prikazati vec informacij.
+Za podrobnosti obišcite razdelka »Strojna oprema« in »Podpora -> Pogosta vprašanja« na www.hdsentinel.com.
+Omogoci
+Najvišja temperatura (kadar koli izmerjena):
+Najnižja temperatura (kadar koli izmerjena):
+2 uri
+4 ure
+6 ur
+8 ur
+12 ur
+Reserved 1
+Reserved 2
+Rumena meja temperature je dosežena. Ce se temperatura pogona še vedno poveca, je priporocljivo, da uporabite hladilno napravo za trdi disk (na primer ventilator ali pasivni hladilnik), ce je to mogoce.
+Izberite stran »Pragovi / ikona pladnja«, da konfigurirate pragove zdravja in temperature za rumeno in rdeco raven.
+Kriticno
+Priporocljivo je, da varnostno kopirate takoj, da preprecite izgubo podatkov.
+Kompaktni gumbi
+Obicajni gumbi
+Veliki gumbi
+Perf.:
+Vmesnik:
+Sporocilo
+Test nakljucnega iskanja
+Preskusi iskalno zmogljivost diska, hrup in temperaturo
+Iskalni cas
+Najmanjši
+Najvecji
+Povprecni
+Testiraj
+Preteklo
+Preostalo
+Operacije
+Napake
+Zaženi &test
+&Ustavi test
+Hitri test
+Normalni test
+Globoki test
+Dolg intenziven test
+Trajanje po meri
+Cas za dokoncanje testa (HH:MM:SS):
+BRALNI test
+PISALNI test
+To funkcijo lahko uporabite samo enkrat v neregistrirani razlicici.
+Ali želite zdaj odpreti spletno stran programske opreme za podrobnosti o registraciji?
+Ali ste prepricani, da želite ustaviti to operacijo?
+Ta funkcija ni na voljo na izbranem pogonu zaradi konfiguracije tega krmilnika in pogonov.
+Hard Disk Sentinel ocenjevalna razlicica 
+Registrirana razlicica Hard Disk Sentinel ponuja najvišjo raven zašcite podatkov z opozorili, diagnostiko diska, samodejnim varnostnim kopiranjem (samo razlicica PRO), upravljanjem na daljavo in drugimi funkcijami za testiranje in povecanje stabilnosti in zmogljivosti pomnilniških naprav.\n\nTo demo razlicico je treba uporabljati do 30 dni za oceno nekaterih najpomembnejših funkcij in preverjanje združljivosti s sistemom. Po tem preizkusnem obdobju morate nadgraditi na registrirano razlicico z nakupom licence ali prenehati uporabljati programsko opremo.\n\nPrednosti nakupa licencne razlicice:\n\n- najvišja raven zašcite podatkov\n- hitre, varne in prilagodljive možnosti placila\n- takojšen dostop do vseh funkcij in odklepanje vseh funkcij\n- brezplacna tehnicna podpora in pomoc\n- doživljenjska licenca, brez stroškov narocnine ali obnove\n- brez omejitev in nadležnih obvestil
+S.M.A.R.T. odmik je konfiguriran za atribut, ki se uporablja za izracun te vrednosti
+&Izberi pisavo ikone v pladnju
+Ne dovoli ugašanja vrtenja diskov (številke z vejico, na primer 1,2 ali * za vse)
+Preveri na spletu
+Primerjaj S.M.A.R.T. vrednosti te naprave z drugimi (istega modela), da ugotovite, ali so lastnosti boljše ali slabše od povprecja
+Preskus površine
+Analizirajte površino diska z razlicnimi metodami in testi
+Zemljevid površine diska
+Temperatura in hitrost prenosa
+Blok
+Poškodovan
+Napredek
+Preteklo
+Cas
+Ocena
+sektorjev
+Test je ustavljen
+Diska ni mogoce zakleniti za izkljucno uporabo.\nAli ste prepricani, da ga želite vseeno preizkusiti (NI priporocljivo)?
+Test koncan
+Položaj
+Zaporedni test
+Preizkusite bloke od zacetka do konca
+Nakljucni test
+Testiraj bloke v nakljucnem vrstnem redu
+Metuljni test
+Izmenicno: testiraj en blok od zacetka in enega od konca
+Zaporedni test nazaj
+Testiraj bloke od konca do zacetka
+Sektor
+Preveri napako
+&Shrani podatke o disku
+&Naloži podatke o disku
+Inicializacija ...
+Inšpektor za vsebino diska
+&Prejšnje
+&Naslednje
+Po&jdi na ...
+Izberite pogon (dostopen operacijskemu sistemu), ki ga želite preizkusiti, in metodo testiranja.\nPred zacetkom preizkusa natancno preberite podrobne informacije.\nKliknite Ogled za podrobnosti o površini, uporabite \1 ali preglejte prejšnje rezultate preizkusa.
+Test branja
+Prebere površino diska, da preveri, ali so vsi sektorji dostopni in berljivi.\n\nPreizkus je varen, ne vpliva na shranjene podatke.\n\nTežave z diskom lahko ostanejo skrite in razkrite težave z diskom NISO odpravljene (kot pri ScanDisk).
+Test PISANJA
+Prepiše površino diska z nastavljivim vzorcem. Prisili analizo morebitnih šibkih sektorjev in preveri morebitne skrite težave ter jih odpravi s prerazporeditvijo slabih sektorjev (to je regeneracija pogona).\n\nOmogoci boljšo uporabo diska, saj bo po preizkusu rezervno obmocje uporabljeno namesto morebitnega problematicnega sektorji.
+test PISANJA + branja
+Prepiše površino diska z nastavljivim vzorcem in nato prebere vsebino sektorja, da preveri, ali je dostopna in dosledna. Prisili analizo morebitnih šibkih sektorjev in preveri morebitne skrite težave ter jih odpravi s prerazporeditvijo slabih sektorjev (to je regeneracija pogona).\n\nOmogoci boljšo uporabo diska, saj bo po preizkusu rezervno obmocje uporabljeno namesto morebitnega problematicnega sektorji.
+test branja + PISANJA + branja (osveži obmocje podatkov)
+Prebere shranjene podatke iz vsakega bloka, zapiše vsebino nazaj in na koncu prebere informacije ter jih primerja z izvirno vsebino. Z obsežnim preizkusom se uporabi dodaten cikel zapisovanja pred ponovnim zapisovanjem vsebine, da se izboljša ucinkovitost odpravljanja napak (regeneracija pogona).\n\nDelovanje je obicajno varno za shranjene informacije, vendar lahko pride do izgube podatkov, ce je sistem ni stabilen in/ali po izpadu elektricne energije, overclockingu, težavah s pomnilnikom/napajalnikom/kablom in drugih dejavnikih.\n\nPreizkus je mogoce uporabiti za osvežitev podatkovnega podrocja pomnilniške naprave, ne da bi bilo potrebno popolno brisanje, vendar je še vedno priporocamo varnostno kopiranje pomembnih podatkov pred tem testom.
+Ponovno inicializiraj površino diska
+Prepiše površino diska s posebnim inicializacijskim vzorcem, da povrne sektorje na privzeto (prazno) stanje in prebere vsebino sektorjev, da preveri, ali so dostopni in dosledni. Prisili analizo morebitnih šibkih sektorjev in preveri morebitne skrite težave ter jih odpravi s prerazporeditvijo slabih sektorjev (to je regeneracija pogona).\n\nOmogoci boljšo uporabo diska, saj bo po preizkusu rezervno obmocje uporabljeno namesto morebitnega problematicnega sektorjev.\nZelo intenziven in dolgotrajen test, še posebej, ce je raven (število ciklov prepisovanja) nastavljena na višjo vrednost.\n\nPreprosto razlicico tega testa druga orodja obicajno (napacno) imenujejo nizkonivojski format.
+Red sektorjev
+Nedestruktivno - varno za podatke
+Zakleni pogon med preizkusom (izklopi nosilce)
+Ponovi test
+krat
+Omejite testiranje na dolocene podatkovne bloke
+Prvi blok:
+Zadnji blok:
+DESTRUKTIVNO - vsi podatki bodo odstranjeni
+Prazni podatki (nicle)
+Nakljucni podatki
+Številka sektorja
+Obsežen preizkus branja-pisanja-branja z dodatno operacijo zapisovanja
+Stopnja ponovne inicializacije površine
+Vecina primerov ni destruktivna (glejte opombe in pomoc) 
+Ta preizkus bo trajno unicil VSE PODATKE na izbranem pogonu.\nFunkcije ni mogoce razveljaviti.\n\nAli ste prepricani, da želite izvesti ta preizkus in izgubiti VSE PODATKE, shranjene na pogonu?
+Ta preizkus izvede operacijo PISANJA na izbranem pogonu.\nSam preizkus ni unicujoc, vendar lahko pride do izgube podatkov.\n\nAli ste prepricani, da želite izvesti ta preizkus?
+Potrditev testa
+Kliknite zemljevid površine, da pregledate vsebino sektorja.\n\nDesni klik, da odprete kontekstni meni.
+Test meri cas prenosa za vse bloke, da odkrije, katera podrocja površine so pocasnejša. Ker je blok pocasnejši, je povezana barva temnejša.
+Razvijalec ne daje nobene garancije za shranjene podatke na katerem koli disku.
+Trenutni prehod
+Vsi prehodi
+Preizkusa zapisovanja na sistemski pogon, ki vsebuje katero koli od naslednjih map, ni mogoce izvesti
+Naložene informacije pripadajo drugemu pogonu.\nVendar se ob kliku miške na zemljevid površine prikažejo sektorji trenutnega pogona.
+V tem trenutku garancijska zamenjava diska še ni možna, le ce zdravje še bolj pade.
+Ali želite prebuditi tudi vse spece trde diske?\nV nasprotnem primeru bodo posodobljene le informacije aktivnih diskov.
+Posodobi informacije o disku
+Vrsta testa:
+Vpliv podatkov:
+Vzorec pisanja
+Ponastavi najvišje in najnižje vrednosti temperature
+Najvišja temperatura (med celotno življenjsko dobo):
+Pokaži vrednosti
+Uporabi SSL
+SSD krmilnik
+Stanje SSD diska je POPOLNO. Problematicni ali šibki sektorji niso bili najdeni.
+Zdravje je doloceno s S.M.A.R.T. lastnostmi:
+Upravljanje funkcij diska
+Med pošiljanjem ukaza na disk je prišlo do napake.\nKrmilnik diska ali njegov gonilnik ne podpira te funkcije.\n\nUkaz je morda dokoncan po posodobitvi gonilnika ali\npri uporabi drugega OS, drugega krmilnika diska\ali podprtega USB ohišje / prikljucna postaja.
+Omogoci in prilagodi
+Onemogoci
+Zakasnitev pred startom (sek):
+Mejne vrednosti temperature po meri
+Prag rumene temperature:
+Prag rdece temperature:
+Onemogoci pragove po meri za izbrani disk
+Nastavite temperaturne pragove po meri
+Spremenite temperaturne pragove po meri
+Poljubno
+Globalno
+Samo en disk ima lahko konfiguriran temperaturni prag po meri v tej brezplacni razlicici programa Hard Disk Sentinel.
+V trenutnem sistemu Win9x/ME manjka S.M.A.R.T. gonilnik.\nAli želite samodejno posodobiti konfiguracijo in znova zagnati racunalnik?
+Naloži aktivirano datoteko s kljucem
+Tocke priklopa NTFS
+Tocka priklapljanja
+Pozor: vaši podatki morda niso popolnoma zašciteni.
+Casovno omejena ponudba: nadgradite še danes in prihranite \1 pri licencnini!
+(med varno spletno registracijo vnesite kodo kupona \1 ali kliknite spodnjo povezavo)
+Pocakajte \1 sekundo(s), preden nadaljujete ...
+Informacije o nosilcu
+Slog particije
+Aktiven
+Poravnava
+Zacni odmik
+Dolžina
+Velikost dodelitvene enote
+Skupne enote dodelitve
+Proste dodelitvene enote
+Uporabljene dodelitvene enote
+Vrsta nosilca
+Dinamicni
+Osnovni
+&Odpri stanje izkljucenih diskov
+Izberite diske s potrditvenimi polji, da si ogledate njihov status tako kot prikljucene (povezane) diske.
+Izkljuceni
+Izberite diske s potrditvenimi polji, ki jih želite vkljuciti v pristnem porocilo o diskih.
+&Shrani pristno porocilo o disku (HTML)
+&Preverite pristno porocilo o disku
+Izbrana datoteka ni verodostojno porocilo o disku.
+Pristno porocilo o disku je bilo uspešno preverjeno in veljavno.
+Pristno porocilo o disku je neveljavno ali poškodovano.
+Pristno porocilo o disku
+Informacije o nosilcu/RAID sistema &Windows
+Med prenosom podatkov je prišlo do \1napak. To lahko pomeni težavo naprave ali podatkovnih/napajalnih kablov. Priporocljivo je, da kable pregledate in po možnosti zamenjate.
+\1 napak, sporocenih med pisanjem v napravo.
+Omejitev krmilnika RAID lahko prepreci zaznavanje nadaljnjih informacij o disku. To ni omejitev programske opreme Hard Disk Sentinel.
+Narocite se na glasilo, da boste obvešceni o novostih in posebnih ponudbah
+Izberite meni Porocilo -> Pošlji testno porocilo razvijalcu in izberite Naroci se na novice, ce želite prejemati informacije o posebnih ponudbah in posodobitvah.
+Dnevni minimum
+Standardna širina
+Funkcija TRIM SSD je podprta in omogocena za optimalno delovanje.
+Funkcija TRIM pogona SSD je podprta, vendar onemogocena. Za izboljšanje zmogljivosti je priporocljivo nadgraditi operacijski sistem, krmilnik diska ali njegov gonilnik.
+Zapisovanja v življ. dobi
+Skupno število zagonov/zaustavitev:
+Konfiguracija ne zagotavlja dodatnih informacij o stanju diska. Vendar pa lahko s funkcijo "Test površine" v meniju "Disk" preverite funkcionalnost diska ter odkrijete in odpravite morebitne težave.
+Trenutna razlicica je potekla. Za nadaljnjo uporabo programske opreme vnesite registracijski kljuc.
+Dnevnik ne vsebuje nobenih vnosov.
+Izvoz vrednosti hitrosti prenosa
+Samodejno prilagodi nastavitev ob ponovnem zagonu
+Vec informacij:
+Kliknite za dodajanje komentarja ...
+Komentar
+Spremenite &mapo za shranjevanje statisticnih podatkov in nastavitev
+Opozorilo o podvojeni licenci
+Ista registracijska koda se uporablja za namešceno in prenosno razlicico programa Hard Disk Sentinel.\nZa popolno uporabo funkcij obeh razlicic so za ti razlicici potrebne locene licence.
+Status je bil nazadnje posodobljen:
+Spletni garancijski pregled
+Kopiranje izbrane vrednosti v odložišce
+Dostopanje do nekaterih obmocij površine med preskusom \nje lahko pocasnejše zaradi aktivnega operacijskega sistema in\naplikacij, kar lahko povzroci temnejše zelene bloke.
+Ponastavite števce delovne obremenitve
+Ali želite shraniti locena porocila za izbrane diskovne pogone?
+Zaznana skupna zmogljivost (\1) pogona \2 ni pravilna, zmogljivost bi morala biti \3.
+Trenutni diskovni krmilnik/ gonilnik/adapter morda ni popolnoma združljiv s \1
+Uporaba pogona lahko povzroci okvaro datotecnega sistema in/ali izgubo podatkov.
+Za varno uporabo te naprave je priporocljivo preveriti in spremeniti konfiguracijo ali nadgraditi operacijski sistem, krmilnik trdega diska in/ali gonilnike.
+Posebne informacije o napravi
+Krmilnik trdega diska zagotavlja le splošno stanje samokontrole (S.M.A.R.T.) brez dodatnih podrobnosti. 
+Status S.M.A.R.T. je: 
+Vedno na vrhu
+Da bi ta sprememba zacela veljati, je treba program popolnoma zapreti s Datoteka -> Izhod in ga znova zagnati.
+Cas mirovanja sistema
+Odkrite so bile naslednje napake:
+Informacije o stanju in morebitnih napakah, ki jih zagotavlja krmilnik trdega diska (RAID). Ta se lahko razlikuje od stanja fizicnega diska.
+Status samodejnega nalaganja v strežnik
+Informacije o upravljanju sistema
+Particije na tem trdem disku, ustvarjene s fizicno velikostjo sektorja \1.
+vendar je trenutna fizicna velikost sektorja \1.
+Prikljucitev trdega diska drugace od trenutne povezave (z drugim krmilnikom trdega diska, povezavo USB ali eSATA) lahko povzroci, da vse mape in datoteke ne bodo dostopne.
+Za dostop do particije z vsemi shranjenimi podatki je priporocljivo ponovno prikljuciti trdi disk, kot je bil prikljucen prej (verjetno z drugim adapterjem USB, ohišjem, prikljucno postajo ali podobno) - sicer lahko pride do izgube podatkov.
+Zaznavanje informacij o datotekah za sektor
+Ni mogoce dolociti postavitve diskovnega pogona.
+Ni mogoce zaznati informacij o particiji/logicnem pogonu.
+V tem sektorju ni opredeljenega nobenega razdelka (neuporabljen sektor).
+Neznana datoteka
+Neuporabljen sektor na logicnem pogonu \1
+Atributi:
+Število fragmentov datoteke:
+Zaznavanje informacij o datotekah za sektorje z napakami 
+Ugotavljanje informacij o datotekah
+Zaznavanje informacij o disku
+Najnovejše odkrite informacije
+&Datoteke o napakah
+let
+mesecev
+Pragovi zdravja po meri
+Rumeni prag zdravja:
+Rdeci prag zdravja:
+Nastavite prag po meri
+Spreminjanje praga po meri
+Z dvojnim klikom prilagodite pragove zdravja po meri
+Dnevnik dogodkov prikljucitve/odstranitve pogona
+V dnevniku so prikazani vsi prikljuceni in odstranjeni diski med aktivnimi obdobji programa Hard Disk Sentinel, prikazane pa so tudi spremembe konfiguracije diska, ko je bila programska oprema neaktivna (zaznane ob naslednjem zagonu).
+Število vnosov:
+Datum in ura
+Diskovni pogon
+Ko ni aktiven
+Povezan
+Odstranjen
+V primeru nenadnega sesutja sistema, ponovnega zagona, modrega zaslona smrti, nedostopnih datotek/pomnilnikov je priporocljivo preveriti podatkovne in napajalne kable ter povezave in po možnosti preizkusiti razlicne kable, da preprecite nadaljnje težave.
+Najvišja možna hitrost prenosa
+Pogojena hitrost prenosa
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Varnostni nacin
+Power Management=Upravljanje napajanja
+Write Cache=Predpomnilnik pisanja
+Host Protected Area=Zašciteno obmocje gostitelja
+Advanced Power Management=Napredno upravljanje porabe energije
+Advanced Power Management Level=Napredna raven upravljanja z energijo
+Current APM Level=Trenutna raven APM
+Extended Power Management=Razširjeno upravljanje porabe energije
+APM01=Minimalna poraba energije v stanju pripravljenosti
+APM02=Vmesne ravni upravljanja porabe energije s stanjem pripravljenosti
+APM80=Minimalna poraba energije brez stanja pripravljenosti
+APM81=Vmesne ravni upravljanja porabe energije brez stanja pripravljenosti
+APMFE=Najvecja zmogljivost in poraba energije
+FreeFall01=Najnižja obcutljivost na dogodke prostega pada
+FreeFall02=Uravnotežena obcutljivost na dogodke prostega pada
+FreeFallFF=Najvecja obcutljivost na dogodke prostega pada
+Current Sensitivity=Trenutna obcutljivost
+Power Up In Standby=Vklop v stanju pripravljenosti
+48-bit LBA Addressing=48-bit LBA naslavljanje
+Device Configuration Overlay=Prekrivanje konfiguracije naprave
+Read/Write DMA Queue=Cakalna vrsta DMA za branje/pisanje
+Native Command Queuing=Razporejanje ukazov (NCQ)
+Read Ahead Buffer=Medpomnilnik za branje naprej
+Maximum Multiword DMA Mode=Najvecji vecbesedni nacin DMA
+Active Multiword DMA Mode=Aktivni vecbesedni nacin DMA
+IORDY Support=IORDY podpora
+Maximum sectors transferred on R/W multiple=Najvecje število sektorjev, prenesenih pri vec R/W
+Minimum multiword DMA transfer time=Minimalni vecbesedni cas prenosa DMA
+Recommended multiword DMA transfer time=Priporoceni vecbesedni cas prenosa DMA
+Minimum PIO transfer time without IORDY=Minimalni cas prenosa PIO brez IORDY
+Minimum PIO transfer time with IORDY=Minimalni cas prenosa PIO z IORDY
+Security Erase=Varnostno brisanje
+Security Erase Time=Cas varnostnega brisanja
+Security Enhanced Erase Feature=Funkcija izboljšanega varnostnega brisanja
+Security Enhanced Erase Time=Varnostno izboljšan cas brisanja
+Security Enabled=Varnost omogocena
+Security Locked=Varnostno zaklenjeno
+Security Frozen=Varnost zamrznjena 
+Security Counter Expired=Varnostni števec je potekel
+Security Level=Raven varnosti
+Serial ATA Features=Funkcije Serial ATA
+Interface=Vmesnik
+S-ATA Compliance=Skladnost s S-ATA
+S-ATA I Signaling Speed (1.5 Gps)=Hitrost signalizacije S-ATA I (1,5 Gps)
+S-ATA II Signaling Speed (3 Gps)=Hitrost signalizacije S-ATA II (3 Gps)
+Receipt Of Power Management Requests From Host=Prejem zahtev za upravljanje porabe energije od gostitelja
+PHY Event Counters=PHY Števci dogodkov
+Non-Zero Buffer Offsets In DMA Setup FIS=Nenicelni odmiki medpomnilnika v nastavitvi DMA FIS
+DMA Setup Auto-Activate Optimization=Nastavitev DMA Samodejna aktivacija Optimizacija
+Device Initiating Interface Power Management=Upravljanje napajanja vmesnika, ki zažene napravo
+In-Order Data Delivery=Dostava podatkov po narocilu
+Asynchronous Notification=Asinhrono obvestilo
+Software Settings Preservation=Ohranjanje nastavitev programske opreme
+Queue Length=Dolžina cakalne vrste
+Disk Family=Družina diska
+Form Factor=Faktor oblike
+Capacity=Zmogljivost
+Number Of Disks=Število diskov
+Number Of Heads=Število glav
+Rotational Speed=Hitrost vrtenja
+RPM=RPM
+Rotation Time=Cas vrtenja
+Average Rotational Latency=Povprecna rotacijska zakasnitev
+Disk Interface=Vmesnik diska
+Buffer-Host Max. Rate=Medpomnilnik-gostitelj najv. stopnja
+Drive Ready Time (typical)=Cas pripravljenosti pogona (obicajno)
+Average Seek Time=Povprecni cas iskanja
+Track To Track Seek Time=Iskalni cas od sledi do sledi
+Full Stroke Seek Time=‘full-stroke’ iskalni cas
+Width=Premer
+Depth=Globina
+Height=Višina
+Weight=Teža
+grams=gramov
+pounds=pounds
+Acoustic=Akustika
+Idle=Nedejaven
+Required power for spinup=Potrebna moc za vrtenje
+Power required (seek)=Potrebna moc (iskanje)
+Power required (idle)=Potrebna moc (mirovanje)
+Power required (standby)=Potrebna moc (pripravljenost)
+Manufacturer=Proizvajalec
+Manufacturer Website=Spletna stran proizvajalca
+; seznam funkcij SMART
+S.M.A.R.T. Details=S.M.A.R.T. Podrobnosti
+Off-line data collection=Stanje zbiranja podatkov brez povezave
+OFF00=Nikoli zaceto
+OFF02=Uspešno zakljuceno
+OFF03=Dejavnost v teku
+OFF04=Zacasno ustavljeno s prekinitvijo ukaza gostitelja
+OFF05=Prekinjeno s prekinitvijo ukaza gostitelja
+OFF06=Prekinila naprava z usodno napako
+Self test execution status=Status izvajanja samotestiranja
+SET00a=Uspešno zakljuceno
+SET00b=Nikoli zaceto
+SET01=Prekinil gostitelj
+SET02=Prekinil gostitelj s ponastavitvijo strojne/programske opreme
+SET03=Med preizkusom je prišlo do usodne/neznane napake
+SET04=Preizkus ni uspel zaradi neznanega elementa
+SET05=Test ni uspel zaradi elektricnega elementa
+SET06=Test ni uspel zaradi Servo/seek elementa
+SET07=Test ni uspel zaradi bralnega elementa
+SET08=Test ni uspel in obstaja sum poškodbe pri rokovanju
+SET15=Test je v teku
+SETCO=koncan
+Total time to complete off-line data collection=Skupni cas za dokoncanje zbiranja podatkov brez povezave
+Execute off-line immediate=Takoj izvedi brez povezave
+Abort/restart off-line by host=Prekinitev/ponovni zagon brez povezave s strani gostitelja
+Off-line read scanning=Skeniranje branje brez povezave
+Short Self-test=Kratek samotest
+Extended Self-test=Razširjeno samotestiranje
+Selective Self-test=Selektivni samotest
+Conveyance self-test=Prenos Samotestiranja
+Save data before/after power saving mode=Shranite podatke pred/po nacinu varcevanja z energijo
+Enable/Disable attribute autosave=Omogoci/onemogoci samodejno shranjevanje atributov
+Error logging capability=Zmožnost beleženja napak
+Short Self-test Estimated Time=Predvideni cas kratkega samotestiranja
+Extended Self-test Estimated Time=Predvideni cas razširjenega samotestiranja
+Conveyance self-test estimated time=Predvideni cas prenosnega samotestiranja
+Last Short Self-test Result=Rezultat zadnjega kratkega samotestiranja
+Last Short Self-test Date=Datum zadnjega kratkega samotestiranja
+Last Short Self-test Duration=Trajanje zadnjega kratkega samotestiranja
+Last Extended Self-test Result=Rezultat zadnjega razširjenega samotestiranja
+Last Extended Self-test Date=Datum zadnjega razširjenega samotestiranja
+Last Extended Self-test Duration=Trajanje zadnjega razširjenega samotestiranja
+Last Conveyance Self-test Result=Rezultat zadnjega samotestiranja prenosa
+Last Conveyance Self-test Date=Datum zadnjega samotestiranja prenosa
+Last Conveyance Self-test Duration=Trajanje zadnjega samotestiranja prenosa
+NOP Command=NOP ukaz
+Trusted Computing=Zaupno racunalništvo
+64-bit World Wide ID=64-bitni svetovni ID
+Streaming=Pretakanje
+Media Card Pass Through=Pojdi skozi medijske kartice
+General Purpose Logging=Splošno beleženje napak
+Error Logging=Beleženje napak
+CFA Feature Set=Komplet funkcij CFA
+Long Physical Sectors=Dolgi fizicni sektorji
+Long Logical Sectors=Dolgi logicni sektorji
+Write-Read-Verify=Zapiši-Preberi-Preveri
+NV Cache Feature=Funkcija NV predpomnilnika 
+NV Cache Power Mode=Nacin napajanja NV predpomnilnika
+
+# added 4 Nov 2008 
+Transport Version=Verzija transporta
+NV Cache Size=Velikost NV predpomnilnika
+Free-fall Control=Nadzor prostega pada
+Free-fall Control Sensitivity=Obcutljivost nadzora prostega pada
+Non-rotating Media (SSD)=Nevrtljivi mediji (SSD)
+Nominal Media Rotation Rate=Nominalna hitrost vrtenja medija
+S-ATA Gen3 Signaling Speed (6 Gps)=Hitrost signalizacije S-ATA Gen3 (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=Naprava CFast
+SSD Features=Funkcije SSD
+Data Set Management=Upravljanje nabora podatkov
+TRIM Command=TRIM ukaz
+Deterministic Read After TRIM=Deterministicno branje po TRIM
+
+Operating System TRIM Function=Funkcija TRIM operacijskega sistema
+
+# added 3 Oct 2011
+
+Self-Test Results=Rezultati samotestiranja
+SST05=Prvi segment testa ni uspel
+SST06=Drugi segment testa ni uspel
+SST07=Samotestiranje ni uspelo v testnem segmentu
+SSTN=Segment samotestiranja
+SSTN0=ID segmenta ni na voljo
+SSTH=Ure vklopa
+SSTL=Naslov napake (LBA)
+SSHL=Trdi disk poroca o naslednjih težavah:
+
+
+SA1=Med branjem neobdelanih podatkov z diska je prišlo do napak\Nakazuje težavo s površino diska ali bralno/pisalnimi glavami.
+SA2=Splošna prepustnost trdega diska\Nakazuje težavo z motorjem, servom ali ležaji.
+SA3=Cas, ki ga potrebuje vreteno, da se zavrti do polnih vrtljajev\Nakazuje težavo z motorjem ali ležaji.
+SA4=Število ciklov zagona/ustavitve vretena\Ta vrednost ne vpliva neposredno na stanje pogona.
+SA5=Število sektorjev, premaknjenih v rezervno obmocje\Nakazuje težavo s površino diska ali bralno/pisalnimi glavami.
+SA6=Rob kanala med branjem podatkov\Natancna funkcija tega atributa ni navedena.
+SA7=Stopnja napak pri pozicioniranju bralnih/pisalnih glav\Nakazuje težavo s servom, glavo. Visoka temperatura lahko povzroci tudi to težavo.
+SA8=Povprecni cas iskanja glav\Nakazuje težavo s servom.
+SA9=Skupni cas delovanja diska\Merska enota je odvisna od proizvajalca.
+SA10=Število ponovnih poskusov zagona vrtenja\Nakazuje težavo z motorjem, ležaji ali napajanjem.
+SA11=Število poskusov kalibracije pogona\Nakazuje težavo z motorjem, ležaji ali napajanjem.
+SA12=Število popolnih ciklov vklopa/izklopa\Ta vrednost ne vpliva neposredno na stanje pogona.
+SA13=Število napak pri branju programske opreme\Število napak pri branju, ki jih ni mogoce popraviti.
+SA184=Število paritetnih napak med prenosom med predpomnilnikom RAM in gostiteljem.
+SA187=Napake, ki jih ni bilo mogoce obnoviti z metodami za odpravljanje napak strojne opreme.
+SA187MTRON=Število izbrisa navideznega bloka\Prikaži obrabo pomnilniške naprave.
+SA188=Število prekinjenih operacij zaradi casovne omejitve HDD. Vrednost, vecja od nic, lahko pomeni težave z napajanjem ali povezavo s podatkovnim kablom.
+SA189=Število nevarnih zapisovalnih operacij zunaj obicajnega obsega letenja glave.
+SA190=Temperatura pretoka zraka\Temperatura zraka v ohišju trdega diska.
+SA191=Število mehanskih napak\Število napak, ki so posledica udarca ali vibracij.
+SA192=Število ciklov izklopa\Ta vrednost ne vpliva neposredno na stanje pogona.
+SA193=Število ciklov nakladanja/razkladanja\Število ciklov, ko se je glava premaknila v položaj pristajalne cone.
+SA194=Temperatura diska\Temperatura znotraj ohišja trdega diska.
+SA195=Število popravljivih napak\Število napak, ki jih je popravil notranji mehanizem za popravljanje napak.
+SA196=Število operacij preslikave sektorja\Število vseh (uspešnih in neuspešnih) operacij preslikave.
+SA197=Število nestabilnih sektorjev\Ti cakajoci sektorji se lahko ponovno preslikajo v rezervno obmocje.
+SA198=Število nepopravljivih napak pri branju/pisanju\Navedite težavo s površino diska ali bralno/pisalnimi glavami.
+SA199=Število napak med prenosom podatkov med diskom in gostiteljem\Nakazuje težavo z napajalnikom ali podatkovnim kablom.
+SA200=Med zapisovanjem neobdelanih podatkov na disk je prišlo do napak\Navedite težavo s površino diska ali bralno/pisalnimi glavami.
+SA201=Število napak pri branju programske opreme\Število napak pri branju, ki jih ni mogoce popraviti.
+SA202=Število napak podatkovnih naslovnih oznak\Število nepravilnih ali neveljavnih naslovnih oznak.
+SA203=Število napak popravka podatkov\Neveljavna kontrolna vsota popravka napak, najdena med popravkom napak.
+SA204=Število popravljenih podatkovnih napak\Napake, popravljene z notranjim mehanizmom za odpravljanje napak.
+SA205=Število toplotnih težav\Skupno število težav, ki jih povzroca visoka temperatura.
+SA206=Višina letenja glave\Višina glav diska nad površino diska.
+SA207=Trenutna vrednost med vrtenjem\Tok, potreben za vrtenje pogona.
+SA208=Število ciklov, potrebnih za vrtenje\Število ponovnih poskusov med vrtenjem zaradi nizkega razpoložljivega toka.
+SA209=Zmogljivost pogona med operacijami brez povezave\Iskanje zmogljivosti pogona med notranjimi samopreizkusi.
+SA211=Med zapisovanjem so se pojavile vibracije.
+SA212=Med pisanjem je prišlo do šoka.
+SA220=Razdalja diska se je premaknila glede na vreteno\Nepravilno vrtenje diska je lahko posledica mehanskega udarca ali visoke temperature.
+SA221=Število mehanskih napak\Število napak, ki so posledica udarca ali vibracij.
+SA222=Število vklopljenih ur\Ta vrednost nenehno narašca (enkrat na vsako uro).
+SA223=Število operacij nalaganja/razkladanja\Število glav pogona vstopi/zapusti podatkovno obmocje.
+SA224=Mehanska stopnja trenja\Stopnja trenja med mehanskimi deli. Oznacuje težavo z mehanskim podsistemom pogona.
+SA226=Skupni cas, ko so glave naložene\Cas, ko so bralne/pisalne glave v podatkovnem obmocju.
+SA227=Hitrost povecanja navora\Povecanje navora med vrtenjem trdega diska.
+SA228=Število ciklov izklopa\Število krat, ko je bila glava umaknjena zaradi izgube napajanja.
+SA230=Amplituda pozicioniranja glave\razdalje premikanja glave med operacijami.
+SA231=Temperatura diska\Temperatura znotraj ohišja trdega diska.
+SA240=Število ur pozicioniranja glave \ Cas, porabljen med pozicioniranjem pogonskih glav.
+SA250=Število ponovnih poskusov med operacijami branja\Število napak, najdenih med branjem sektorja s površine diska.
+SA254=Število dogodkov prostega pada, ki jih je zaznal senzor pospeška.
+SA255=Specificno za prodajalca\Funkcijo in vrednost tega atributa doloci proizvajalec.
+
+SC01=Števec prepocnega/prehitrega zacasnega medpomnilnika
+SC02_0000=Napake pri pisanju popravljene brez znatne zamude
+SC02_0001=Napake pri pisanju popravljene z možnimi zamudami
+SC02_0002=Vse napake pri pisanju
+SC02_0003=Popravljene skupne pisne napake
+SC02_0004=Skupne pisalne napake, popravljene z algoritmom
+SC02_0005=Skupno število zapisanih bajtov
+SC02_0006=Skupaj nepopravljenih pisnih napak
+SC03_0000=Napake pri branju popravljene s strojno metodo ECC
+SC03_0001=Napake pri branju popravljene z možnimi zamudami
+SC03_0002=Skupaj napak pri branju
+SC03_0003=Popravljene skupne napake pri branju
+SC03_0004=Skupno število napak pri branju, popravljenih z algoritmom
+SC03_0005=Skupno število prebranih bajtov
+SC03_0006=Skupaj nepopravljenih napak pri branju
+SC04_0000=Branje povratnih napak, popravljenih s strojno metodo ECC
+SC04_0001=Napake pri branju so popravljene z možnimi zamudami
+SC04_0002=Skupno napak povratnega branja
+SC04_0003=Popravljene skupne napake pri povratnem branju
+SC04_0004=Skupno število napak povratnega branja, popravljenih z algoritmom
+SC04_0005=Skupno število bajtov, prebranih obratno
+SC04_0006=Skupaj nepopravljenih napak pri povratnem branju
+SC05_0000=Preveritvene napake popravljene brez znatne zamude
+SC05_0001=Preveritvene napake popravljene z možno zamudo
+SC05_0002=Skupno število preveritvenih napak
+SC05_0003=Skupaj popravljenih preveritvenih napak
+SC05_0004=Skupaj z algoritmom popravljenih preveritvenih napak
+SC05_0005=Skupno število preverjenih bajtov
+SC05_0006=Skupno število nepopravljenih preveritvenih napak
+SC06_0000=Ne-medijske napake
+SC07=Zadnji dogodek napake
+SC0B=Zadnja odložena napaka ali asinhroni dogodek
+SC0D_0000=Temperatura
+SC0D_0001=Referencna temperatura
+SC0E_0001=Datum izdelave (leto/teden)
+SC0E_0002=Datum racuna
+SC0E_0003=Doloceno število ciklov v življenjski dobi naprave
+SC0E_0004=Akumulirani start-stop cikli
+SC0E_0005=Doloceno število nalaganja-razkladanja v življenjski dobi naprave
+SC0E_0006=Akumulirani cikli obremenitve-razkladanja
+SC0F=Podatki parametrov odjemalca aplikacije
+SC10=Dnevnik rezultatov samotestiranja
+SC11_0001=Indikator uporabljene vzdržljivosti v odstotkih
+SC18=Dnevnik vrat, specificen za protokol
+SC1A_0001=Akumuliranih prehajanj v aktivno
+SC1A_0002=Akumuliranih prehajanj v idle_a
+SC1A_0003=Akumuliranih prehajanj v idle_b
+SC1A_0004=Akumuliranih prehajanj v idle_c
+SC1A_0008=Akumuliranih prehajanj v standby_z
+SC1A_0009=Akumuliranih prehajanj v standby_y
+SC37_0000=Bloki poslani iniciatorju
+SC37_0001=Bloki, prejeti od iniciatorja
+SC37_0002=Blokira branje iz predpomnilnika in poslano iniciatorju
+SC37_0003=V/I ukazi z velikostjo, manjšo od velikosti segmenta
+SC37_0004=V/I ukazi, katerih velikost je vecja od velikosti segmenta
+SC3E_0000=Cas vklopa
+SC3E_8000=Cas vklopa
+SC3E_0008=Preostale minute do naslednjega internega testa
+
+## added 13 May 2015 ##
+
+Motherboard=Osnovna plošca
+Product=Izdelek
+Asset Tag=Oznaka sredstva
+Memory Module=Spominski modul
+Chassis=Ohišje
+
+
+## added 22 Feb 2017 ##
+
+Disk repair=Popravilo diska
+Repair=Popravilo
+Repair successful=Popravilo uspešno
+Repair failed=Popravilo neuspešno
+\1 sector(s) successfully repaired.=\1 sektorjev je bilo uspešno popravljenih.
+read test with sector repair=test branja s popravilom sektorja
+RepairDesc=Prebere površino diska, da preveri, ali so vsi sektorji berljivi, in prisili diskovni pogon, da popravi vse problematicne (cakajoce, šibke) sektorje: obnovi stanje na dobro ali prerazporedi (zamenjaj iz rezervnega obmocja), ce je potrebno, da prepreci nadaljnjo uporabo izvirni sektor.\n\nPreizkus je varen za shranjene podatke in poškodovane datoteke bodo berljive, vendar so lahko fragmenti datoteke na poškodovanih sektorjih poškodovani. Datoteke na prizadetih popravljenih sektorjih so navedene, ko je test koncan.\n\nPreizkus je najbolje uporabiti za popravilo pogonov s šibkimi sektorji brez potrebe po popolni varnostni kopiji (in uporabi preizkusa za ponovno inicializacijo površine diska). ) in deluje tudi na sistemskih in sekundarnih pogonih.
+Multiple disk drives=Vec diskovnih pogonov
+\1 drive(s) selected=\1 pogon(ov) izbran(ih)
+Select disk drive(s) to be tested=Izberi diskovne pogone za testiranje
+Are you sure you want to perform disk testing on multiple disk drives?=Ali ste prepricani, da želite izvesti testiranje diska na vec diskovnih pogonih?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=Ali želite IZKLJUCITI sistemski pogon in preizkusiti samo dodatne pogone?
+Byte / byte sequence=Bajt / bit sekvenca
+Maximum try count=Najvecje število poskusov
+Add to Windows event log=Dodaj v dnevnik dogodkov Windows
+Provide status information by WMI=Dobi informacije o stanju prek WMI
+Automatic detection based on disk utilization=Samodejno zaznavanje na podlagi uporabe diska
+Automatically save disk test results to folder=Samodejno shrani rezultate testa diska v mapo
+Selected disk only=Samo izbrani disk
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Preverite nastavitve požarnega zidu in se prepricajte, da lahko programska oprema dostopa do aktivacijskega strežnika, ter poskusite znova pozneje.\n\nLahko pa uporabite gumb Registracija in aktivacija po e-pošti za aktivacijo po e-pošti.
+Control device-specific detection=Nadzor zaznavanja, specificnega za napravo
+Select device type to detect status and health information by the appropriate detection method.=Izberite vrsto naprave za zaznavanje informacij o stanju in zdravju z ustrezno metodo zaznavanja.
+DeviceSpecificDesc=Hard Disk Sentinel shrani datoteko z zastavicami (nic bajtov, brez porabe prostora na disku) v napravo za zapis izbrane vrste naprave. Uporablja se pri nadaljnjih zaznavah, dokler naprava ni popolnoma izbrisana/formatirana, ko je treba znova izbrati vrsto naprave.
+Note=Opomba
+Complete erase / re-format does not reset the health and statistics.=Popolno brisanje/ponovno formatiranje ne ponastavi zdravja in statistike.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Izbira neustrezne vrste naprave lahko povzroci nepotrebno obrabo flash naprav in lahko povzroci poškodbo podatkov.
+Auto Detect=Samodejno zaznavanje
+Part number(s)=Številke dela
+Device type detection successfully completed.=Zaznavanje vrste naprave je uspešno zakljuceno.
+The device does not respond to detection, further status information cannot be detected.=Naprava se ne odzove na zaznavo, nadaljnjih informacij o stanju ni mogoce zaznati.
+Running=Tece
+Inactive=Neaktivno
+without monitoring=brez spremljanja
+
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Spremljajte Dnevnik dogodkov Windows za težave, povezane z diski in shranjevanjem
+Configure NAS Disk Monitoring=Konfiguriraj spremljanje NAS diskov
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Dolocite vir(e) statusa za spremljanje diskovnih pogonov NAS (Network Attached Storage).
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Datoteke statusnih virov vsebujejo celotno stanje trdih diskov, SSD-jev, naprav za shranjevanje in Hard Disk Sentinel jih prebere, da prikaže ustrezne diskovne pogone, kot ce bi bili povezani neposredno.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=Datoteke statusa virov so shranjene in posodobljene v napravi NAS, ustvarjene z (na primer) razlicico Linuxa Hard Disk Sentinel.
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=Funkcija samodejnega zaznavanja samodejno zazna možne datoteke stanja virov (HDSReport.html) na razpoložljivih omrežnih pogonih.
+Status Source=Status virov
+Auto Detect=Samodejno zaznaj
+&Browse=&Brskaj
+Add &URL=Dodaj &URL
+&Edit=&Uredi
+&Delete=&Izbriši
+&Test=&Testiraj
+Status source files=Datoteke statusa virov
+HPA Security Extensions=Varnostne razširitve HPA
+Service Interrupt=Prekinitev storitve
+IDLE IMMEDIATE command with UNLOAD feature=IDLE IMMEDIATE ukaz s funkcijo UNLOAD
+Nominal Form Factor=Nominalni faktor oblike
+Additional Product Identifier=Dodatni identifikator izdelka
+Read Zeroes After TRIM=Preberite nicle po TRIM
+Device Encrypts All User Data=Naprava šifrira vse uporabniške podatke
+Sanitize=Saniraj
+Overwrite=Prepiši
+Crypto Scramble=Crypto Scramble
+Block Erase=Block Erase
+Sanitize Antifreeze Lock=Saniraj Antifreeze Lock
+ACS-3 Commands Allowed By Sanitize=Ukazi ACS-3, ki jih dovoljuje sanacija
+NCQ Streaming=NCQ pretakanje
+NCQ Autosense=NCQ Autosense
+Automatic Partial to Slumber Translations=Automatic Partial to Slumber Translations
+Rebuild Assist=Rebuild Assist
+Hybrid Information=Hibridne informacije
+Device Sleep (DevSleep)=Spanje naprave (DevSleep)
+DevSleep to ReducedPwrState=DevSleep v ReducedPwrState
+Recently the following entries added to System Event Log:=Nedavno so bili v dnevnik sistemskih dogodkov dodani naslednji vnosi:
+errors=napake
+most recent=najnovejši
+warnings=opozorila
+The following function can be used to improve the situation:=Za izboljšanje stanja je mogoce uporabiti naslednjo funkcijo:
+Certain detection functions to access disk status disabled.=Dolocene funkcije zaznavanja za dostop do stanja diska so onemogocene.
+Please change the following option:=Spremenite naslednjo možnost:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Ali želite posodobiti zdaj?
+Update not selected.=Posodobitev ni izbrana.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Funkcija nadzorovanega dostopa do map programa Windows Defender preprecuje dostop do informacij o stanju diska.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Ali programu Hard Disk Sentinel dovolite, da zazna in diagnosticira stanje diska z dodajanjem na seznam dovoljene programske opreme (priporoceno)?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Opomba: brez tega dovoljenja bo verjetno prišlo do nestabilnega delovanja in omejene funkcionalnosti.
+Disk Access Blocked=Dostop do diska blokiran
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=Informacije o imenskem prostoru NVMe
+Total Sectors=Vseh sektorjev
+Active LBA Format Index=Indeks aktivnega formata LBA
+LBA Formats Supported=Podprti formati LBA
+LBA Format List=Seznam formatov LBA
+Best=Najboljše
+Better=Boljše
+Good=Dobro
+Degraded=Degradirano
+Zoned Capabilities=Zonske zmogljivosti
+SCT Command Transport=SCT Command Transport
+SCT Error Recovery Control=Nadzor za obnovitev napak SCT
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=V opozorila vkljucite pregled težave
+Alert about problematic drive(s) only=Opozorilo samo o problematicnih pogonih
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Spremembe od \1
+Timestamp=Casovni žig
+No entries found=Ni najdenih vnosov
+Error log=Dnevnik napak
+No error information recorded=Podatki o napaki niso zabeleženi
+The list automatically cleared by the controller on power cycle and reset=Seznam samodejno pocisti krmilnik ob vklopu in ponastavitvi
+Depending on the configuration, the test duration may be different than estimated.=Odvisno od konfiguracije se lahko trajanje preizkusa razlikuje od ocenjenega.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=Gonilnik krmilnika NVMe preprecuje prepogosto uporabo testnih ukazov. Prosim poskusite kasneje.
+
+No device self-test operation in progress=Ne poteka noben postopek samotestiranja naprave
+Aborted by command=Prekinjeno z ukazom
+Aborted by controller reset=Prekinjeno s ponastavitvijo krmilnika
+Aborted due to removal of namespace=Prekinjeno zaradi odstranitve imenskega prostora
+Aborted due to Format NVM command=Prekinjeno zaradi ukaza Format NVM
+Fatal error or unknown test error=Usodna napaka ali neznana testna napaka
+Failed in an unknown test segment=Neuspešno v neznanem testnem segmentu
+Failed in one or more test segment(s)=Neuspešno v enem ali vec testnih segmentih
+Aborted for unknown reason=Prekinjeno iz neznanega razloga
+No self-test information recorded=Podatki o samotestiranju niso zabeleženi
+
+Repaired=Popravljeno
+Failed=Spodletelo
+Quick Fix=Hitri popravek
+QuickFixDesc=Preverite, katera obmocja diskovnega pogona so porocala o težavah in so bila nedavno zapisana, nato pa diagnosticirajte, popravite posebej te (in bližnje) sektorje in kriticna sistemska podrocja. Preizkus prisili diskovni pogon, da popravi morebitne problematicne (cakajoce, šibke) sektorje: obnovi stanje na dobro ali prerazporedi (zamenja iz rezervnega obmocja), ce je potrebno, da prepreci nadaljnjo uporabo izvirnega sektorja.\n\nV nasprotju s popolnim pregledom to test morda ne bo mogel najti in odpraviti vseh možnih težav, zato ga je najbolje uporabiti na diskovnih pogonih z relativno majhnim številom težav in visoko vrednostjo zdravja, sporoceno za popravilo šibkih sektorjev brez potrebe po popolni varnostni kopiji (in uporabi ponovne inicializacije površine diska). test).\n\nTest je mogoce uporabiti na sistemskih in sekundarnih pogonih in je varen za shranjene podatke. Morebitne poškodovane datoteke bodo berljive, vendar so lahko fragmenti datoteke na poškodovanih sektorjih poškodovani. Datoteke v prizadetih popravljenih sektorjih so navedene, ko je test koncan.
+
+targeted repair of problematic sectors=ciljno popravilo problematicnih sektorjev
+Last error (hour)=Zadnja napaka (ura)
+Error free hours=Ure brez napak
+Never=Nikoli
+Open Disk Management=Odpri Upravljanje diskov
+Open Device Manager=Odpri Upravljanje naprav
+Windows Drive Index=Windows Drive Index
+
+## added 30 Nov 2022 ##
+
+USB Device Name=Ime USB naprave
+safely remove required=zahteva varno odstranitev
+surprise remove possible=možna takojšnja odstranitev
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=Trenutna povezava USB omejuje hitrost diskovnega pogona. Povežite se z drugimi vrati USB 3.0, da zagotovite vecjo zmogljivost.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=Pogon se lahko poslabša ali odpove, ce ga uporabljate s trenutnimi vrati USB, ki morda ne zagotavljajo dovolj energije za pravilno delovanje.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=Diskovni pogon je dosegel konec predvidene življenjske dobe. Možnost nenadnega, nepredvidenega izpada je vecja.
+In a critical system, it is recommended to consider replacement.=V kriticnem sistemu je priporocljivo razmisliti o zamenjavi.
+One or more disk drive(s) may be disconnected or removed.=Eden ali vec diskovnih pogonov je morda odklopljenih ali odstranjenih.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Verjetno diskovni pogon ni prava naprava za shranjevanje: kaže zelo visoko razpoložljivo zmogljivost, vendar se lahko podatki, shranjeni na njem, poškodujejo/izgubijo.
+

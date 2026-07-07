@@ -1,0 +1,1173 @@
+Hard Disk Sentinel Sudah Berjalan.
+Galat
+Suhu Disket Keras
+Kegagalan Terprediksi
+Oke
+Didukung
+Tak didukung
+Ya
+ &Penggerak Disket Keras 
+Pilih disket keras yang ingin Anda tilik di jendela. Klik dua kali untuk memilih ikon dulang sistem. Klik kanan untuk menayangkan menu lokal.
+No.
+Nama (Ukuran)
+Suhu
+Ikon Dulang
+ &Preferensi 
+Tayangkan jendela status ketika mulai
+Mulai bersama Windows
+Transparansi:
+Bahasa:
+&Tutup
+Hard Disk Sentinel
+Pilih penggerak ini guna menampilkan suhunya di dulang sistem
+&Tampilkan Jendela Status
+&Sembunyikan Jendela
+&Konfigurasi
+Ke&luar
+Setidaknya satu disket keras harus dipilih.
+ Jendela &Status  
+Warna Latar Belakang
+Citra Latar Belakang
+Pilih
+Tak berhasil membuka berkas citra.
+Berkas Citra yang Didukung|*.jpg;*.bmp|Semua berkas|*.*
+Informasi
+S.M.A.R.T.
+Kinerja Disket
+Partisi
+Informasi Disket
+Informasi Laju Transfer
+Total Data Terbaca
+Total Data Tertulis
+Laju Transfer Sekarang
+ KB/sekon
+Laju Baca Sekarang
+Laju Tulis Sekarang
+Aktivitas Disket Sekarang
+Aktivitas Disket %
+Laju Transfer (MB/sekon)
+Ringkasan Disket Keras
+Nomor Disket Keras
+ID Model Disket Keras
+Revisi Peranti Tegar
+Nomor Seri Disket Keras
+Total Ukuran
+Informasi ATA
+Tabung Disket Keras
+Kepala Disket Keras
+Sektor Disket Keras
+Total Sektor
+ATA Revisi ATA
+Bita Per Sektor
+Bita Per Lintasan Logis
+Ukuran Penyangga
+Sektor Berganda
+Bita koreksi galat
+Kapasitas Tak Terformat
+Moda PIO Maksimum
+Moda PIO Aktif
+Moda UDMA Maksimum
+Moda UDMA Aktif
+Fitur ATA
+Didukung
+Tak didukung
+Atribut
+Nilai ambang
+Nilai
+Terburuk
+Data
+Status
+Informasi Partisi
+Penggerak Logis
+Total Ruang
+Ruang Kosong
+Tipe Partisi
+bita
+Ruang Terpakai
+Disket:
+Laju Transfer Maksimum
+Perkiraan Laju Transfer Maks.
+Laju Tulis DVD
+Dibutuhkan penggunaan disket yang lebih besar untuk melakukan pengukuran.
+Oke (Selalu lolos)
+Gagal (Selalu gagal)
+Saran: Batas pemakaian terlewati
+Pragagal: Hilang data terprediksi
+Salin seluruh halaman ke papan klip
+Sejarah &Suhu Disket Keras
+sejak instalasi
+Tentang
+&Pendaftaran
+Nama Pendaftaran:
+Kunci Pendaftaran:
+Kunci pendaftaran tak sah, pendaftaran gagal.
+Pendaftaran berhasil. Terima kasih atas dukungan Anda.
+Tayangkan jendela utama ketika mulai
+Tersedia hanya setelah pendaftaran dan pengaktifan.
+Versi tak terdaftar, silakan mendaftar.
+Terdaftar kepada:
+Tinjauan Umum
+Suhu Saat Ini:
+Suhu Maksimum (hari ini):
+Status suhu baik.
+Suhu saat ini terlalu tinggi. Dianjurkan agar menggunakan sebuah gawai pendingin disket keras (contohnya sebuah kipas atau pengusir panas pasif) jika memungkinkan.
+Suhu saat ini baik tetapi sebelumnya terlalu tinggi. Dianjurkan agar menggunakan sebuah gawai pendingin disket keras (contohnya sebuah kipas atau pengusir panas pasif) jika memungkinkan.
+Kinerja:
+Kesehatan:
+Sempurna
+Baik
+Sedang
+Dapat Diterima
+Buruk
+Aksi tak diperlukan.
+Dianjurkan agar rajin merekam cadang demi mencegah hilang data.
+&Properti
+&Tinjauan Umum Disket Keras
+Disket Keras &Sebelumnya
+Disket Keras &Berikutnya
+&Peringatan
+Kirimkan surel peringatan jika kegagalan disket keras terprediksi
+Kirimkan surel peringatan jika suhu disket keras kelewat tinggi 
+Konfigurasi &Surel
+Akun surat:
+Nama pengirim:
+Surel pengirim:
+Surel penerima:
+Peladen SMTP:
+Opsi Autentikasi (Biarkan ruas ini kosong bila tak diperlukan)
+Nama pengguna:
+Sandi lewat:
+Standar
+Ruas berikut ini harus diisi dalam rangka mengirim surel:
+Apakah Anda ingin mengetikkan informasi ini sekarang?
+Terbentuk galat selama mengirim surel peringatan.
+Surel peringatan dikirim.
+Kelewat Panas
+Penataan nilai ambang suhu:
+Unit Suhu:
+Mengirim Laporan
+Huruf:
+Simpan
+Tayangkan hanya suhu tertinggi di dulang
+Unit data terkirim:
+Konfigurasi Manajemen Akustik
+Lumpuh
+Berfungsi
+Aras Akustik Sekarang
+Aras Akustik Disarankan
+Tak diketahui
+Kinerja dan volume maks
+Kinerja dan volume min
+Kinerja dan volume seimbang
+Manajemen Akustik
+Standar
+Rata-Rata Baca Per Hari
+Rata-Rata Tulis Per Hari
+Jepret ke tepi layar
+Peringatan
+Kirim/tayang pesan
+Tutup padam
+Saat kegagalan diperkirakan
+Saat suhu kelewat tinggi
+Saat bertambah entri log baru
+Kirimkan surel status harian
+Pada
+Penurunan nilai gawat
+Status saat ini
+Surel status gagal terkirim.
+Surel status berhasil terkirim.
+&Pemutakhiran
+Temukan versi baru dan mutakhirkan mingguan
+Periksa versi baru sekarang
+Tanggal pemeriksaan terakhir:
+Tidak ada pemeriksaan dilakukan
+Batal
+Versi terinstal:
+Versi terbaru:
+Memutakhirkan berkas-berkas
+Berkas saat ini:
+Seluruh proses:
+Saat ini tidak ada versi baru yang tersedia.
+Terbentuk galat sewaktu mengunduh. Silakan memverifikasi kondisi jaringan dan coba lagi.
+Pemutakhiran berhasil dirampungkan.
+Status: Memeriksa versi tersedia
+Status: Mengunduh
+Tutup
+Disket keras tak ditemukan.
+Fungsionalitas S.M.A.R.T. lenyap. Anda harus menyalin berkas Smartvsd.vxd dari pelipat Windows\System ke pelipat Windows\System\IoSubsys dan memulai ulang komputer Anda. Silakan buka Bantuan -> Instalasi untuk melihat rincian.
+Dibutuhkan hak administrator sistem guna mengakses informasi disket keras.
+Log
+Jumlah masalah yang tercatat dalam log:
+Catatan: Versi terdaftar dapat mengirim surel peringatan dan menutup padam komputer ketika sebuah masalah disket keras ditemukan dan dicatat dalam log.
+Tidak ada masalah yang tercatat dalam log.
+Status disket keras stabil.
+Peringatan: status disket keras menurun dalam beberapa hari belakangan.
+Tanggal
+Nilai Sebelumnya
+Nilai Baru
+Peringatan: bermacam masalah timbul dalam beberapa hari belakangan.
+Disket keras yang sebelumnya bekerja tak memberi tanggapan. Barangkali sistem operasi menghentikan gawai demi mencegah masalah lebih jauh.
+Status program:
+Tak berhasil membaca informasi pengaktifan.
+Berhasil didaftarkan dan diaktifkan.
+Terdaftar namun belum diaktifkan.
+Tak terdaftar dan belum diaktifkan.
+Pendaftaran dan Pengaktifan Terhubung
+Pendaftaran dan Pengaktifan dengan Surel
+Berkas Pengaktifan disimpan sebagai
+Silakan kirimkan berkas ini beserta nama dan kunci pendaftaran ke info@hdsentinel.com Pengembang akan mengirimkan kembali berkas pendaftaran Anda yang mesti dimuat oleh tombol Muat Berkas Kunci Aktif (atau bisa juga dengan menyalin secara manual ke pelipat perangkat lunak ini).
+Dianjurkan untuk menggunakan metode pengaktifan terhubung karena lebih cepat dan lebih nyaman.
+Jumlah pengaktifan maksimum tercapai untuk kunci pendaftaran.
+Galat Pengaktifan
+Terbentuk galat sewaktu berkomunikasi dengan peladen pengaktifan.
+Silakan hubungi pengembang mengenai lisensi Anda.
+Aplikasi telah diaktifkan dengan kunci pendaftaran ini pada 5 konfigurasi berbeda.
+Terbentuk galat sewaktu membaca data dari peladen.
+Pengaktifan tak dapat dilakukan.
+Pengaktifan selesai, terima kasih atas dukungan Anda.
+Pengaktifan Berhasil
+Pengaktifan dengan Surel
+Pada Windows 98, bisa saja terjadi bahwa sebuah gawai USB menyebabkan masalah ini karena gawai USB dapat menyebabkan masalah dengan S.M.A.R.T. pada kanal IDE sekunder.
+Disket tak memberi tanggapan.
+Disket tak memberi tanggapan untuk waktu yang lama. Barangkali terputus.
+Tampilkan aplikasi baik di Batang Tugas dan Dulang Sistem
+Menganalisis sistem. Harap tunggu.
+Bantuan
+Silakan masukkan nama pendaftaran Anda (nama asli Anda atau nama panggilan) dan kunci pendaftaran yang Anda terima. Bila komputer Anda memiliki koneksi internet aktif, silakan pilih pengaktifan terhubung: dalam hal ini, pendaftaran dan pengaktifan berlangsung otomatis, tidak ada aksi lain yang diperlukan. Atau, silakan pilih metode pengaktifan surel dan kirimkan berkas tertayang kepada pembuat. Anda akan menerima berkas kunci, silakan letakkan ke dalam pelipat aplikasi.
+Peristiwa
+Alih bahasa antarmuka oleh:
+_elda taluta_
+_RA-HA-SI-A_
+Surel
+Berkas TXT
+Semua berkas
+Ikon mesti berwarna merah jika suhu kelewat tinggi
+O&psi Lanjutan
+Frekuensi deteksi:
+1 sekon
+5 sekon
+10 sekon
+30 sekon
+1 menit
+2 menit
+5 menit (standar)
+10 menit
+30 menit
+1 jam
+Terbitkan peringatan jika disket keras tak memberi tanggapan
+Suhu Rata-Rata (hari ini):
+Sekarang
+Rata-Rata Harian
+Maksimum Harian
+Bunyi peringatan
+Pilih Berkas Bunyi
+Berkas bunyi
+Klik dua kali atau kanan untuk menayangkan informasi lebih jauh.
+Sesuaikan
+Oke
+Batal
+Terbentuk galat ketika melaksanakan perintah ini.
+Fitur ini membutuhkan Windows 2000, XP atau sistem operasi lebih baru.
+Saat ruang disket kosong minim
+Tata Nilai Ambang Ruang Disket Kosong
+Pakai penataan yang sama untuk seluruh disket keras yang dipasang
+Penataan global
+Ingatkan jika ruang kosong kurang dari
+Ruang disket minim
+Minim
+Lumpuhkan scandisk otomatis setelah memulai Windows
+Komputer perlu dimulai ulang untuk menerapkan penataan baru.
+Selaraskan jam komputer dengan sebuah jam atom
+Ketika aplikasi dimulai
+Apakah Anda ingin menilik status disket keras dalam sebuah jendela status mini?\n(Nantinya Anda dapat mengubah penataan ini dengan klik kanan\ndi ikon dulang sistem dan memilih "Konfigurasi" dari menu.)
+Suhu tak didukung pada disket keras ini.
+Tak bisa ditentukan pada disket keras ini.
+&Bantuan
+Bantuan tak tersedia. Silakan unduh paket instalasi lengkap dari halaman web aplikasi.
+Fungsi ini tak tersedia pada disket keras yang dipilih.
+Modifikasikan ikon disket keras standar Penjelajah Windows
+Informasi SCSI
+Informasi Vendor
+Versi
+Tipe Gawai
+Disket
+Dapat Pindah
+Perkiraan Kegagalan
+Disket Tetap
+Penggerak Jarak Jauh
+Penyimpanan Optik
+Gawai logis yang ditandai berasal dari disket keras fisik saat ini.
+Ubah moda tayangan
+Label volume
+Nomor seri
+Pantau ruang pada disket jaringan
+Tombol &Cepat
+Perintah
+Fungsikan tombol cepat sistem (dapat digunakan dari aplikasi apa saja)
+&Kontrol Disket
+Ubah ikon sistem standar untuk disket jaringan
+Pantau ruang pada disket dapat pindah
+Ubah ikon sistem standar untuk disket dapat pindah
+Jangan periksa informasi ruang untuk disket-disket berikut ini: (mis: CDE)
+Jangan ganti ikon sistem standar untuk disket-disket berikut ini: (mis: KL)
+Klik dua kali untuk membuka penggerak. F5 untuk Segarkan.
+Tidak ada disket dalam penggerak
+Uji Surat
+Jika pesan ini terkirim, maka konfigurasi surel tepat.
+Surat uji berhasil terkirim.
+Terbentuk galat sewaktu mengirim surat uji. Silakan memverifikasi konfigurasi surel.
+Masa kerja:
+hari
+jam
+menit
+Perkiraan sisa umur:
+lebih dari
+sekon
+Pangkalan:
+Masa tunda sebelum memulai scandisk (sekon):
+Nilai Kesehatan:
+Saat kesehatan memburuk
+Cadang panik
+Nilai ambang kesehatan:
+Tayangkan pesan di layar
+Kirimkan pesan ke komputer jarak jauh (NET SEND):
+Fungsi ini tersedia hanya jika Anda menginstal versi PROFESSIONAL.\nDengan menggunakan fungsi ini, Anda dapat memulai operasi rekam cadang prakonfigurasi ketika sebuah masalah timbul.\n\nSilakan kunjungi halaman pangkal (www.hdsentinel.com) untuk membaca lebih jauh tentang fitur ini.
+Kesehatan buruk
+Buat Laporan Uji
+Terbentuk galat ketika mengirimkan laporan.\nSilakan buka jendela Konfigurasi, pilih Pengiriman Laporan Uji, simpan laporan dan kirimkan ke reports@hdsentinel.hu
+&Penataan Pesan
+Kirim Surel
+Panggil koneksi internet standar sebelum pengiriman
+Tutup koneksi setelah pengiriman
+Tayangkan juga pesan suai dari berkas teks
+Harap tunggu, menghitung ...
+Rincian pendaftaran tak sah - fungsi ini dilumpuhkan.
+Informasi Kesehatan
+Terbentuk galat ketika menyimpan. Barangkali disket penuh atau berformat baca-saja.
+&Nilai Ambang / Dulang
+Tayangkan suhu disket keras di ikon dulang
+Di bawah
+Antara \1 dan \2
+Suhu:
+Di atas
+Pakai nomor ikon dulang klasik (digital)
+Latar blkg
+Latar depan
+Contoh
+Tayangkan tanda kesehatan disket keras di ikon dulang
+Aplikasi Informasi
+Tanggal dan Jam Saat Ini
+Informasi Sistem
+Versi Windows
+Tipe & Kecepatan CPU
+Pabrik pembuat BIOS
+Ukuran Memori Fisik
+Adapter Peraga
+Resolusi Peraga
+Pencetak
+Pengontrol Jaringan
+Informasi Gawai PCI
+Informasi Komputer
+Nama Komputer
+Nama Pengguna
+Alamat PI
+Alamat MAC
+Informasi Disket Fisik
+Bendera
+Genting
+Statistik
+Kinerja
+Laju-Galat
+Cacah Peristiwa
+Melayani Sendiri
+Destop
+Peladen
+Mobil
+Tipe Komputer
+Informasi Umum
+Berkas-berkas HTML|*.html|Semua berkas|*.*
+Simpan Laporan
+Kirimkan Laporan via Surel
+Tipe laporan:
+Laporan HTML Terperinci
+Laporan teks singkat
+Pengiriman &Laporan Uji
+Informasi disket yang ditayangkan
+Model Disket Keras
+Penggerak Logis
+Kesehatan
+Status / Masalah
+Disket Fisik
+Status disket keras tak diketahui.
+Status disket keras sempurna.
+Status disket keras tak sempurna.
+Kegagalan diperkirakan terjadi pada disket keras ini.
+Terdapat \1 sektor buruk pada permukaan disket. Isi sektor ini dipindahkan ke wilayah kosong.
+Berdasarkan jumlah operasi pemetaan ulang, kesehatan disket menurun dalam pelbagai tahapan berbeda.
+Berdasarkan jumlah operasi pemetaan ulang, sektor buruk dapat membentuk wilayah berkesinambungan.
+Penggerak menemukan \1 sektor buruk selama uji sendiri.
+Terjadi \1 kali masalah selama pemutaran disket. Hal ini dapat diakibatkan oleh disket itu sendiri atau beban daya berlebih (catu daya lemah).
+Ditemukan \1 sektor lemah pada permukaan disket. Sektor ini dapat dipetakan ulang kapan saja dalam pemakaian disket berikutnya.
+Masalah terjadi antara komunikasi disket dan inang \1 kali. Dalam hal tabrakan mendadak atau boot ulang, dianjurkan untuk mencoba kabel data pendek yang lain (hindari kabel bundar, gunakan kabel standar 80 saja).
+Dianjurkan untuk memeriksa log disket secara berkala. Semua masalah baru yang ditemukan akan dicatat dalam log tersebut.
+Status disket keras SEMPURNA. Sektor lemah maupun bermasalah tak ditemukan dan tidak ada galat pemutaran ataupun transfer data. 
+Terapkan
+Offset
+Offset:
+Dianjurkan untuk mengkalibrasi suhu dan menata offset suhu pada halaman S.M.A.R.T. Dengan cara ini nantinya nilai suhu yang tepat akan ditayangkan. 
+Metode perhitungan kesehatan:
+Analisis ruas data (standar)
+Analisis nilai khas vendor (TAK DIANJURKAN)
+Nilai ambang terlewati di:
+Atribut grafik
+Tayangkan ruas data
+Tayangkan nilai khas vendor
+Tak diharapkan
+Terjadi
+Laporan teks terperinci
+Berkas
+Tilikan
+Laporan
+Simpan laporan TXT
+Simpan laporan HTML
+Kirim laporan TXT
+Kirim laporan HTML
+Dianjurkan untuk memantau status disket keras secara berkesinambungan.
+Analisis ruas data (lebih ketat, baik untuk peladen)
+Modifikasi Offset Atribut 
+Penggunaan opsi ini hanya dianjurkan bagi pengguna mahir. Dengan menggunakan opsi ini, status yang ditayangkan mungkin tak menggambarkan kondisi sebenarnya. Apakah Anda yakin hendak mengubah opsi ini?
+Jangan tampilkan lagi
+Penggunaan opsi ini hanya dianjurkan bagi pengguna mahir. Dengan menggunakan opsi ini, bisa jadi kondisi tak tepat akan tertayang dan mungkin juga beberapa peringatan tentang perubahan kondisi yang lebih jauh akan terlewatkan. Apakah Anda yakin hendak mengubah opsi ini?
+Lumpuhkan bunyi peringatan
+Fungsikan bunyi peringatan
+Terbentuk galat sewaktu menata aras akustik.\nPengontrol disket keras atau pemacunya tak mendukung fungsi ini.
+Pemantauan kinerja waktu nyata tak didukung pada disket ini.
+Catatan: Versi tak terdaftar tak menyimpan perubahan atas opsi ini. Penataan akan ditata ulang ke nilai standar ketika aplikasi dimulai ulang.
+Fungsikan Atribut
+Ulangi bunyi peringatan
+Pakai Pengeras Suara PC
+Uji Kirim
+Pesan berhasil dikirim ke komputer target.
+Terbentuk galat selama operasi. Silakan memverifikasi koneksi jaringan dan status berjalan dari layanan pengantar pesan pada kedua komputer.
+Bunyi Peringatan Atas Masalah
+Fungsikan kembali peringatan
+Bita Kendali ATA
+Sahih
+Tak Sahih
+Nilai Verifikasi ATA
+Informasi yang ditayangkan mungkin tak tepat.
+Uji Bunyi Peringatan
+Buat sebuah pintasan untuk proyek ini ke destop
+Pembuatan Pintasan
+Pintasan untuk proyek ini telah berhasil dibuat di destop.
+Terbentuk galat sewaktu membuat pintasan untuk proyek ini.
+Informasi pendaftaran kedaluwarsa. Silakan hubungi pembuat untuk memperpanjang lisensi.
+Kirim klik tetikus ke jendela di bawah jendela status
+Tayangkan informasi di destop
+Masa berlaku lisensi:
+Selamanya
+Kedaluwarsa
+Kosong
+Latar belakang transparan penuh
+I&ntegrasi
+Layanan
+Minta sandi lewat untuk membuka jendela informasi utama
+Minta sandi lewat untuk membuka konfigurasi atau menutup HD Sentinel
+Log keluar setelah
+menit
+Sandi lewat:
+Log &Keluar Sekarang
+Pakai sebagai &Layanan
+Pakai sebagai &Aplikasi
+Kendali Jarak Jauh
+Fungsikan koneksi jarak jauh ke peladen Hard Disk Sentinel
+Nama Peladen atau alamat PI:
+Pangkalan TCP (standar = 61210):
+Proteksi
+Terbentuk galat sewaktu menginstal layanan Hard Disk Sentinel.
+Terbentuk galat sewaktu memulai layanan Hard Disk Sentinel.
+Terbentuk galat sewaktu menghentikan layanan Hard Disk Sentinel.
+Hard Disk Sentinel sekarang menyimpan konfigurasi saat ini dan akan ditutup. Hard Disk Sentinel akan dimulai ulang sebagai layanan.
+Hard Disk Sentinel sekarang menyimpan konfigurasi saat ini dan akan ditutup. Hard Disk Sentinel akan dimulai ulang sebagai aplikasi.
+Diperlukan Akses Berkuasa
+Sandi lewat yang dimasukkan tak sahih. Tak dapat menggunakan fungsi ini.
+Untuk menutup layanan Hard Disk Sentinel, silakan pakai pintasan "Stop layanan" atau bertukar balik ke moda Aplikasi pada panel Integrasi dari jendela Konfigurasi dan tutup aplikasi.
+Tidak
+Tinggi
+Maksimum
+Pemutakhiran tak tersedia saat menjalankan Hard Disk Sentinel sebagai layanan. Silakan bertukar balik ke moda Aplikasi pada panel Integrasi sebelum memutakhirkan aplikasi ke versi baru.
+Moda layanan
+Moda aman (melumpuhkan deteksi perangkat keras)
+Layanan Hard Disk Sentinel tak diinstal. Silakan buka jendela Konfigurasi, pilih panel Integrasi dan instal layanan Hard Disk Sentinel.
+Layanan Hard Disk Sentinel sudah berjalan.
+Layanan Hard Disk Sentinel tak berjalan.
+Laju Transfer Rata-Rata
+Aktivitas Disket Rata-Rata
+Ulangi Uji
+Informasi tak tersedia
+Layanan Hard Disk Sentinel berhenti.\nApakah Anda ingin melumpuhkan layanan dan memakai perangkat lunak dalam moda Aplikasi?
+Microsoft Vista dan sistem operasi yang lebih baru tak memperkenankan layanan untuk berinteraksi dengan destop.\n\nHard Disk Sentinel akan berjalan diam-diam: jendela dan ikonnya tak akan nditayangkan dan tak dimungkinkan untuk mengakses konfigurasi.\n\nGuna menghentikan layanan dan memakai perangkat lunak dalam moda Aplikasi, silakan pilih pintasan "Stop layanan" dari grup Hard Disk Sentinel.\n\nApakah Anda yakin hendak melanjutkan?
+Cari tahu bagaimana nilai ini dihitung
+Silakan fungsikan aplikasi ini agar berjalan dengan hak yang sesuai.
+Paket ikon disket:
+XP
+Vista
+Klik untuk Memulai
+Uji Disket Keras
+Operasi uji:
+Status:
+Perkiraan sisa waktu:
+Terbentuk galat sewaktu mulai menguji. Kode galat ialah:
+Bekerja, Tidak Ada Masalah Ditemukan
+Tanggapan:
+Waktu berlangsung:
+Kunci pendaftaran ini hanya dapat digunakan untuk mendaftarkan versi STANDARD.\nSilakan unduh dan instal versi STANDARD dari www.hdsentinel.com\nto menggunakan kunci pendaftaran ini.
+Kunci pendaftaran ini hanya dapat digunakan untuk mendaftarkan versi PROFESSIONAL.\nSilakan unduh dan instal versi PROFESSIONAL dari www.hdsentinel.com\nto menggunakan kunci pendaftaran ini.
+Pakai unit megabita untuk nilai ambang
+Tegaskan:
+Kedua sandi lewat tak sama.\nSilakan ketik sandi lewat yang sama dua kali untuk mempertegas.
+Fungsikan WebStatus
+Sandi lewat buat memulai koneksi
+Pangkalan koneksi HTTP
+Alamat Pangkalan (>1023)
+Komentar atribut
+Ruas data desimal
+Penggerak mencoba memeriksa dan mengalokasi ulang sektor data sebanyak \1 kali. Wilayah data yang diperiksa sempurna.
+Ganti disket keras secepatnya.
+Komponen laporan terperinci:
+Rekam Cadang / Simpan Ulang Konfigurasi Sekarang
+Rekam Cadang Konfigurasi
+Simpan Ulang Konfigurasi
+Penggerak Optik
+Bangkitkan dan mutakhirkan berkas XML
+Sensor suhu disket keras salah. Nilai yang diukur sebesar:
+Terima koneksi jarak jauh dari peladen
+Pangkalan koneksi jarak jauh
+Lumpuhkan peringatan ikon dulang
+Lumpuhkan deteksi gawai USB dan SCSI
+Kirim
+Komentar:
+Kirim kepada Pengembang
+Menghubungi peladen - www.hdsentinel.com
+Mengirim laporan
+Laporan berhasil dikirim. \nTerima kasih atas dukungan Anda.
+Kirimkan Laporan Uji kepada Pengembang 
+Membuat laporan
+Saya ingin menerima tanggapan setelah mengevaluasi laporan
+Ini sebuah laporan kutu
+Buka &Jendela Utama HD Sentinel
+Tampak
+Unit Ukuran Disket Keras:
+Unit Ukuran Partisi:
+CC (carbon copy):
+BCC (blind carbon copy):
+Mutakhirkan Laporan Uji
+(perkiraan)
+Menghitung waktu, harap tunggu ... Perkiraan nilai sekarang mungkin tak akurat.
+Jalur jarak jauh
+Aras suhu Kuning tercapai.
+Aras suhu Merah tercapai.
+Aras kesehatan Kuning tercapai.
+Aras kesehatan Merah tercapai.
+Batas:
+Suhu:
+Atribut berubah
+Bersihkan Log
+Latar belakang
+Fungsikan Layanan DynDNS
+Fungsikan Layanan Non-PI
+Fungsikan Layanan DNS Dinamis Suai
+Konfigurasikan
+Nama pengguna
+Sandi lewat
+Nama inang (lengkap)
+URL lengkap untuk pemutakhiran (%ip% diganti dengan PI sekarang)
+Tanggapan Peladen Terakhir:
+Acang
+Fungsikan Acang
+Tayangkan Tajuk
+Tayangkan Aktivitas Disket
+Apakah Anda sekarang ingin menguji konfigurasi dengan memutakhirkan alamat PI?
+Masalah yang timbul berjumlah besar pada atribut berikut ini:
+Baca:
+Tulis:
+Seluruh Disket
+Ikon Aktivitas
+Tayangkan aktivitas disket total pada satu ikon dulang
+(HIGH word)
+(MID word)
+(LOW word)
+Keadaan Daya:
+Aktif
+Pudar
+(sejak \1)
+Waktu Naik Sistem
+Sistem Naik Sejak
+Pengontrol Disket
+Lokasi Disket
+Kunjungi Situs &Web Kami
+Kontak
+Beli Sekarang
+Masukkan Kunci Pendaftaran
+Senarai mengandung \1 butir. Silakan mendaftarkan perangkat lunak guna menilik seluruh butir.
+Pemakaian CPU
+CPU
+Memori Virtual
+Terpakai:
+Disket keras beroperasi dalam moda PIO yang menurunkan kinerja. Dianjurkan untuk memeriksa dan mengganti kabel data atau memodifikasi konfigurasi.
+Disket keras beroperasi dalam moda 2 UDMA (33 Mbita/sekon) yang menurunkan kinerja. Dianjurkan untuk menggunakan kabel IDE konduktor 80 jika pengontrol mendukung laju transfer data yang lebih tinggi.
+Pengontrol Silicon Image (SiI) bisa saja memberikan informasi yang tak lengkap mengenai seluruh disket yang terpasang. 
+Pemacu pengontrol disket saat ini tak memberikan akses penuh atas disket itu sendiri guna membaca seluruh rincian. Silakan periksa kalau-kalau tersedia kemutakhiran pemacu.
+Gawai penyimpanan USB tak memberikan informasi lebih jauh mengenai gawai itu sendiri. Akan tetapi, gawai ini dapat diuji melalui Disket -> Fungsi uji permukaan.
+Larik RAID ini tak memberikan akses atas rincian disket dalam larik. Akan tetapi, larik ini dapat diuji melalui Disket -> Fungsi uji permukaan.
+Silakan gunakan menu opsi "Kirimkan laporan uji kepada pengembang" dari "Laporan" untuk membantu kami menentukan jika kiranya memungkinkan guna mendeteksi dan menayangkan informasi lebih jauh.
+Silakan kunjungi seksi "Perangkat Keras" dan "Dukungan -> FAQ" di www.hdsentinel.com untuk melihat rincian.
+Fungsikan
+Suhu Maksimum (pernah terukur):
+Suhu Minimum (pernah terukur):
+2 jam
+4 jam
+6 jam
+8 jam
+12 jam
+Dipesan 1
+Dipesan 2
+Batas suhu Kuning tercapai. Jika suhu penggerak terus meningkat, maka dianjurkan untuk menggunakan gawai pendingin disket keras (contohnya, sebuah kipas atau pengusir panas pasif) jika memungkinkan.
+Pilih halaman "Nilai Ambang / Dulang" guna mengkonfigurasi nilai ambang kesehatan dan suhu untuk aras merah dan kuning.
+Gawat
+Dianjurkan untuk sesegera mungkin merekam cadang demi mencegah hilang data.
+Tombol kompak
+Tombol Normal
+Tombol Besar
+Kinerja:
+Antarmuka:
+Pesan
+Uji Cari Acak
+Menguji kinerja pencarian penggerak, kegaduhan dan suhu
+Waktu Cari
+Minimum
+Maksimum
+Rata-Rata
+Uji
+Berlangsung
+Tersisa
+Operasi
+Galat
+Mulai &Uji
+&Stop Uji
+Uji cepat
+Uji normal
+Uji mendalam
+Uji intensif panjang
+Durasi suai
+Waktu yang dibutuhkan untuk merampungkan uji (HH:MM:SS): 
+Uji BACA
+Uji TULIS
+Fungsi ini hanya dapat dilakukan sekali pada versi tak terdaftar.
+Apakah Anda sekarang ingin membuka halaman web perangkat lunak untuk melihat rincian pendaftaran?
+Apakah Anda yakin hendak menghentikan operasi ini?
+Fungsi ini tak tersedia pada penggerak yang dipilih karena konfigurasi pengontrol dan penggerak ini.
+Versi Evaluasi Hard Disk Sentinel 
+Hard Disk Sentinel versi terdaftar menawarkan derajat proteksi data tertinggi melalui peringatan, diagnosis disket, rekam cadang otomatis (khusus versi PRO), manajemen jarak jauh dan pelbagai fungsi canggih guna menguji dan meningkatkan stabilitas serta kinerja gawai penyimpanan.\n\nVersi demo ini untuk dipakai selama 30 hari guna menguji fungsi-fungsi terpenting dan memastikan kompatibilitas dengan sistem. Seusai masa uji coba tersebut, Anda harus menatar ke versi terdaftar dengan jalan membeli lisensi atau berhenti memakai perangkat lunak ini.\n\nKeuntungan membeli edisi berlisensi:\n\n- derajat proteksi data tertinggi\n- opsi pembayaran yang cepat, luwes dan aman\n- akses cepat terhadap seluruh fungsi dan membuka kancing semua fitur\n- bantuan dan dukungan teknis gratis\n- lisensi berlaku seumur hidup, tanpa dikenakan biaya berlangganan atau perpanjangan\n- tidak ada pembatasan dan pemberitahuan mengganggu
+Offset S.M.A.R.T. dikonfigurasikan untuk atribut yang dipakai guna menghitung nilai ini
+&Pilih Huruf Ikon Dulang
+Jangan izinkan stop putar disket (nomor berkoma, contoh 1,2 atau * untuk semua)
+Verifikasi Terhubung 
+Bandingkan nilai-nilai S.M.A.R.T. gawai ini dengan yang lain (bermodel sama) guna melihat apakah atribut lebih baik atau lebih buruk daripada rata-rata
+Uji Permukaan
+Menganalisis permukaan disket dengan pengujian dan metode yang berbeda
+Peta permukaan disket
+Suhu dan laju transfer
+Blok
+Rusak
+Perkembangan
+Tahap
+Waktu
+Perk.
+sektor
+Pengujian berhenti
+Tak dapat mengkancing disket untuk pemakaian eksklusif.\nApakah Anda yakin tetap hendak menguji (TAK dianjurkan)?
+Pengujian rampung
+Posisi
+Uji bertahap
+Pengujian blok dari awal sampai ujung
+Uji acak
+Pengujian blok berdasarkan urutan acak
+Uji kupu-kupu
+Persilihan: pengujian satu blok dari awal dan satu blok dari ujung
+Uji mundur bertahap
+Pengujian blok dari ujung sampai awal
+Sektor
+Verifikasikan galat
+&Simpan informasi disket
+&Muat informasi disket
+Menginisialisasi ...
+Inspektur Isi Disket
+&Sebelumnya
+&Berikutnya
+&Tuju ...
+Silakan pilih penggerak (harus dapat diakses oleh sistem operasi) yang akan diuji dan metode pengujian.\nBaca rincian informasi dengan seksama sebelum memulai uji.\nKlik Tilikan guna melihat rincian permukaan, gunakan \1 atau menilik hasil uji terdahulu.
+Uji baca
+Membaca permukaan disket untuk memastikan apakah semua sektor dapat diakses dan dibaca.\n\nPengujian bersifat aman, tak mempengaruhi data yang tersimpan.\n\nMasalah disket mungkin tetap tersembunyi dan masalah disket yang terungkap TAK terselesaikan (seperti halnya pada ScanDisk).
+Uji TULIS
+Menimpa permukaan disket dengan pola yang dapat dikonfigurasi. Memaksa analisis atas sektor yang lemah dan memastikan masalah tersembunyi dan menyelesaikannya dengan alokasi ulang sektor buruk (ini adalah regenerasi penggerak).\n\nMemfungsikan pemakaian disket yang lebih baik karena setelah pengujian, akan digunakan wilayah kosong alih-alih sektor yang bermasalah.
+Uji baca + TULIS 
+Menimpa permukaan disket dengan pola yang dapat dikonfigurasi kemudian membaca mundur isi sektor, guna memastikan jika sektor-sektor dapat diakses dan konsisten. Memaksa analisis atas sektor yang lemah dan memastikan masalah tersembunyi dan menyelesaikannya dengan alokasi ulang sektor buruk (ini adalah regenerasi penggerak).\n\nMemfungsikan pemakaian disket yang lebih baik karena setelah pengujian, akan digunakan wilayah kosong alih-alih sektor yang bermasalah.
+Uji baca + TULIS + baca (menyegarkan wilayah data)
+Membaca data yang tersimpan dari setiap blok, menulis mundur isi dan pada akhirnya membaca informasi dan membandingkan dengan isi asli. Dengan pengujian yang ekstensif, sebuah siklus tulis tambahan digunakan sebelum menulis mundur isi guna memperbaiki efisiensi koreksi galat (regenerasi penggerak).\n\nOperasi ini biasanya aman untuk informasi yang tersimpan namun hilang data bisa terjadi jika sistem tak stabil dan/atau akibat gangguan daya, overclock, masalah memori/catu daya/kabel dan faktor-faktor lainnya.\n\nUji dapat digunakan untuk menyegarkan wilayah data gawai penyimpanan tanpa perlu menghapus tuntas, walaupun demikian tetap dianjurkan untuk merekam cadang data penting sebelum melakukan uji ini.
+Inisialisasi ulang permukaan disket
+Menimpa permukaan disket dengan pola inisialisasi khusus untuk menyimpan ulang sektor ke status standar (kosong) dan membaca mundur isi sektor, guna memastikan jika sektor-sektor dapat diakses dan konsisten. Memaksa analisis atas sektor yang lemah dan memastikan masalah tersembunyi dan menyelesaikannya dengan alokasi ulang sektor buruk (ini adalah regenerasi penggerak).\n\nMemfungsikan pemakaian disket yang lebih baik karena setelah pengujian, akan digunakan wilayah kosong alih-alih sektor yang bermasalah.\nSangat intensif dan memakan banyak waktu, terutama bila aras (jumlah siklus penimpaan) ditata ke nilai yang lebih tinggi.\n\nVersi sederhana atas uji ini biasanya (secara tak tepat) disebut format aras rendah oleh alat lain.
+Urutan Sektor
+Tak merusak - aman bagi data
+Kancing penggerak selama (bongkar volume)
+Ulangi uji
+kali
+Batasi pengujian untuk blok data khas
+Blok pertama:
+Blok terakhir:
+MERUSAK - semua data akan dihapus
+Data kosong (nol)
+Data acak
+Nomor sektor
+Uji baca-tulis-baca ekstensif dengan operasi tulis tambahan
+Aras inisialisasi ulang permukaan
+Pada umumnya tak merusak (lihat catatan dan Bantuan) 
+Uji ini akan merusak SEMUA DATA secara permanen dalam penggerak yang dipilih.\nFungsi ini tak dapat dibatalkan.\n\nApakah Anda yakin hendak melakukan uji ini dan kehilangan SEMUA DATA yang tersimpan dalam penggerak?
+Uji ini melakukan operasi TULIS pada penggerak yang dipilih.\nUji ini sendiri tak merusak namun hilang data bisa saja terjadi.\n\nApakah Anda yakin hendak melakukan uji ini?
+Penegasan Uji 
+Klik di atas peta permukaan untuk memeriksa isi sektor.\n\nKlik kanan untuk memanggil menu konteks.
+Uji ini mengukur waktu transfer untuk seluruh blok guna mengungkap wilayah permukaan mana yang lebih lambat. Karena blok lebih lambat, warna yang terasosiasi akan tampak lebih gelap.
+Pengembang tak menawarkan garansi atas data yang tersimpan pada disket.
+Tahap sekarang
+Semua tahap
+Tak dapat melakukan uji tulis pada penggerak sistem yang berisi pelipat-pelipat berikut ini
+Informasi yang dimuat berasal dari penggerak yang lain.\nAkan tetapi, melalui klik tetikus di atas peta permukaan, sektor penggerak saat ini akan ditayangkan.
+Pada tahap ini, garansi penggantian disket tak memungkinkan, hal tersebut hanya dapat dilakukan jika kesehatan semakin memburuk.
+Apakah Anda ingin membangunkan seluruh disket keras pudar juga?\nKalau tidak, hanya informasi dari disket aktif yang akan dimutakhirkan.
+Mutakhirkan Informasi Disket
+Tipe uji:
+Dampak data:
+Pola Tulis
+Tata ulang nilai suhu maksimum dan minimum
+Suhu Maksimum (sepanjang masa hidup):
+Tampilkan nilai
+Pakai SSL
+Pengontrol SSD
+Status solid state disk SEMPURNA. Sektor lemah maupun bermasalah tak ditemukan. 
+Kesehatan ditentukan oleh atribut S.M.A.R.T. khas SSD: 
+Kelola Fitur Disket
+Terbentuk galat sewaktu mengirim perintah ke disket.\nPengontrol disket atau pemacunya tak mendukung fungsi ini.\n\nPerintah dapat dirampungkan setelah memutakhirkan pemacu atau\nsaat menggunakan SO lain, pengontrol disket lain\natau sebuah stasiun lampiran USB yang didukung.
+Fungsikan dan Sesuaikan
+Lumpuh
+Masa tunda pramulai (sekon):
+Nilai Ambang Suhu Suai
+Batas suhu kuning:
+Batas suhu merah:
+Lumpuhkan nilai ambang suhu untuk disket yang dipilih
+Tata nilai ambang suhu suai
+Modifikasikan nilai ambang suhu suai
+Suai
+Global
+Hanya satu disket yang dapat memiliki nilai ambang suhu suai dikonfigurasikan dalam Hard Disk Sentinel versi gratis ini.
+Pemacu S.M.A.R.T. lenyap dari sistem Win9x/ME saat ini.\nApakah Anda ingin memutakhirkan konfigurasi secara otomatis dan memulai ulang komputer sekarang?
+Muat Berkas Kunci Aktif
+Titik Muat NTFS
+Titik Muat
+Perhatian: Data Anda mungkin tak terproteksi sepenuhnya.
+Penawaran waktu singkat: Tatar hari ini dan berhemat \1 untuk biaya lisensi!
+(masukkan kode kupon \1 sewaktu pendaftaran terhubung aman atau klik tautan di bawah ini)
+Harap tunggu \1 sekon sebelum melanjutkan ...
+Informasi Volume
+Gaya Partisi
+Aktif
+Perataan
+Mulai Offset
+Panjang
+Ukuran Unit Alokasi
+Unit Alokasi Total
+Unit Alokasi Bebas
+Unit Alokasi Terpakai
+Tipe Volume
+Dinamis
+Dasar
+&Buka status disket terputus
+Pilih disket dengan kotak centang untuk menilik statusnya seperti pada disket terpasang (terhubung).
+terputus
+Pilih disket dengan kotak centang yang akan disertakan dalam laporan disket autentik.
+&Simpan laporan disket autentik (HTML)
+&Verifikasikan laporan disket autentik 
+Berkas yang dipilih bukanlah laporan disket autentik.
+Laporan disket autentik berhasil diverifikasikan dan sahih.
+Laporan disket autentik tak sahih atau rusak.
+Laporan disket autentik
+Informasi &Volume/RAID
+\1 galat terbentuk selama transfer data. Ini bisa menandakan masalah pada gawai atau dengan kabel data/daya. Dianjurkan untuk memeriksa dan mengganti kabel jika memungkinkan. 
+\1 galat dilaporkan selama penulisan ke gawai.
+Pembatasan pengontrol RAID dapat mencegah deteksi informasi disket lebih jauh. Ini bukan keterbatasan Hard Disk Sentinel.
+Berlangganan berita agar dikabari atas kemutakhiran dan penawaran spesial
+Pilih menu Laporan -> Kirimkan laporan uji kepada pengembang dan pilih Berlangganan berita untuk menerima informasi atas kemutakhiran dan penawaran spesial.
+Minimum Harian
+Lebar Standar
+Fitur TRIM SSD didukung dan difungsikan untuk kinerja optimal.
+Fitur TRIM SSD didukung namun lumpuh. Dianjurkan untuk menatar sistem operasi, pengontrol disket atau pemacunya untuk meningkatkan kinerja.
+Umur tulis:
+Total cacah mulai/stop:
+Konfigurasi tak memberikan informasi status disket. Akan tetapi, fungsi "Uji Permukaan" dari menu "Disket" dapat memeriksa fungsionalitas disket, mengungkap dan memecahkan masalah.
+Versi saat ini kedaluwarsa. Silakan masukkan kunci pendaftaran guna melanjutkan pemakaian program.
+Log tak berisi entri.
+Ekspor nilai kecepatan transfer
+Otomatis sesuaikan penataan ketika memulai ulang
+Informasi Tambahan:
+Klik untuk menambahkan komentar ...
+Komentar
+Ganti &pelipat penyimpanan statistik dan penataan
+Peringatan Lisensi Duplikat
+Kode pendaftaran yang sama dipakai untuk Hard Disk Sentinel versi instal dan portabel.\nUntuk menggunakan fitur kedua versi secara penuh, dibutuhkan lisensi terpisah untuk kedua versi ini.
+Status terakhir kali dimutakhirkan pada:
+Pemeriksaan Garansi Terhubung
+Salin nilai yang dipilih ke papan klip
+Mengakses beberapa wilayah permukaan selama pengujian mungkin\nlebih lambat akibat sistem operasi dan aplikasi\naktif, ini dapat menghadirkan blok hijau gelap.
+Tata ulang pencacah beban kerja
+Apakah Anda hendak menyimpan laporan terpisah untuk penggerak disket yang dipilih?
+Kapasitas total yang terdeteksi (\1) dari penggerak \2 tak tepat, kapasitas seharusnya \3.
+Pengontrol/pemacu/adapter disket saat ini mungkin tak sepenuhnya cocok dengan \1
+Penggunaan penggerak dapat mengakibatkan kerusakan sistem berkas dan/atau hilang data.
+Dianjurkan agar Anda memeriksa dan memodifikasi konfigurasi atau menatar sistem operasi, pengontrol disket keras dan/atau penggerak supaya dapat menggunakan gawai ini dengan aman.
+Informasi Spesifik Gawai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Moda Keamanan
+Power Management=Manajemen Daya
+Write Cache=Tembolok Tulis
+Host Protected Area=Wilayah Terproteksi Inang
+Advanced Power Management=Manajemen Daya Canggih
+Advanced Power Management Level=Aras Manajemen Daya Canggih
+Current APM Level=Aras MDC Sekarang
+Extended Power Management=Manajemen Daya Diperpanjang
+APM01=Konsumsi daya minimum dengan siaga
+APM02=Aras manajemen daya sedang dengan siaga
+APM80=Konsumsi daya minimum tanpa siaga
+APM81=Aras manajemen daya sedang tanpa siaga
+APMFE=Kinerja dan konsumsi daya maksimum
+FreeFall01=Kepekaan paling rendah untuk peristiwa jatuh bebas
+FreeFall02=Kepekaan seimbang untuk peristiwa jatuh bebas
+FreeFallFF=Kepekaan paling tinggi untuk peristiwa jatuh bebas
+Current Sensitivity=Kepekaan Sekarang
+Power Up In Standby=Hidup Saat Siaga
+48-bit LBA Addressing=Alamat LBA 48-bit
+Device Configuration Overlay=Lapisan Konfigurasi Gawai
+Read/Write DMA Queue=Antrian DMA Baca/Tulis
+Native Command Queuing=Native Command Queuing (NCQ)
+Read Ahead Buffer=Penyangga Baca Depan
+Maximum Multiword DMA Mode=Moda DMA Multikata Maksimum
+Active Multiword DMA Mode=Moda DMA Multikata Aktif
+IORDY Support=Dukungan IORDY
+Maximum sectors transferred on R/W multiple=Sektor maksimum yang ditransfer pada R/W berganda
+Minimum multiword DMA transfer time=Waktu Transfer DMA Multikata Minimum
+Recommended multiword DMA transfer time=Waktu Transfer DMA Multikata yang Dianjurkan
+Minimum PIO transfer time without IORDY=Waktu Transfer PIO Minimum tanpa IORDY
+Minimum PIO transfer time with IORDY=Waktu Transfer PIO Minimum dengan IORDY
+Security Erase=Hapus Aman
+Security Erase Time=Waktu Hapus Aman
+Security Enhanced Erase Feature=Fitur Hapus Aman Diperketat
+Security Enhanced Erase Time=Waktu Hapus Aman Diperketat
+Security Enabled=Keamanan Berfungsi
+Security Locked=Keamanan Terkancing
+Security Frozen=Keamanan Dibekukan
+Security Counter Expired=Pencacah Keamanan Kedaluwarsa
+Security Level=Derajat Keamanan
+Serial ATA Features=Fitur Serial ATA
+Interface=Antarmuka
+S-ATA Compliance=Kecocokan S-ATA
+S-ATA I Signaling Speed (1.5 Gps)=Kecepatan Sinyal S-ATA I (1.5 Gps)
+S-ATA II Signaling Speed (3 Gps)=Kecepatan Sinyal S-ATA II (3 Gps)
+Receipt Of Power Management Requests From Host=Penerimaan Permintaan Manajemen Daya dari Inang
+PHY Event Counters=Pencacah Peristiwa PHY
+Non-Zero Buffer Offsets In DMA Setup FIS=Offset Penyangga Non-Kosong dalam FIS Tata DMA
+DMA Setup Auto-Activate Optimization=Pengoptimalan Oto-Aktif Tata DMA
+Device Initiating Interface Power Management=Manajemen Daya Antarmuka Memulai Gawai
+In-Order Data Delivery=Kiriman Data Pesanan
+Asynchronous Notification=Pemberitahuan Tak Selaras
+Software Settings Preservation=Perlindungan Penataan Perangkat Lunak
+Queue Length=Panjang Antrian
+Disk Family=Keluarga Disket
+Form Factor=Form Factor
+Capacity=Kapasitas
+Number Of Disks=Jumlah Disket
+Number Of Heads=Jumlah Kepala
+Rotational Speed=Kecepatan Perputaran
+RPM=RPM
+Rotation Time=Waktu Rotasi
+Average Rotational Latency=Latensi Perputaran Rata-Rata
+Disk Interface=Antarmuka Disket
+Buffer-Host Max. Rate=Laju Maks. Inang-Penyangga
+Drive Ready Time (typical)=Waktu Siap Penggerak (umum)
+Average Seek Time=Waktu Cari Rata-Rata
+Track To Track Seek Time=Waktu Cari Lintas ke Lintas
+Full Stroke Seek Time=Waktu Cari Tarikan Penuh
+Width=Panjang
+Depth=Kedalaman
+Height=Lebar
+Weight=Berat
+grams=gram
+pounds=pon
+Acoustic=Akustik
+Idle=Menganggur
+Required power for spinup=Kebutuhan daya untuk pemutaran
+Power required (seek)=Kebutuhan daya (cari)
+Power required (idle)=Kebutuhan daya (menganggur)
+Power required (standby)=Kebutuhan daya (siaga)
+Manufacturer=Pabrik Pembuat
+Manufacturer Website=Halaman Web Pabrik Pembuat
+; list of SMART features
+S.M.A.R.T. Details=Rincian S.M.A.R.T.
+Off-line data collection=Status Kumpulan Data Terputus
+OFF00=Tak Pernah Dimulai
+OFF02=Berhasil Dirampungkan
+OFF03=Aktivitas Sedang Berlangsung
+OFF04=Ditunda oleh Perintah Penyela dari Inang
+OFF05=Digugurkan oleh Perintah Penyela dari Inang
+OFF06=Digugurkan oleh Gawai dengan Galat Fatal
+Self test execution status=Status Pelaksanaan Uji Sendiri
+SET00a=Berhasil Dirampungkan
+SET00b=Tak Pernah Dimulai
+SET01=Digugurkan oleh Inang
+SET02=Dipotong oleh Inang dengan Tata Ulang Perangkat Keras/Perangkat Lunak
+SET03=Galat Fatal/Tak Dikenal Terjadi Selama Pengujian
+SET04=Pengujian Digagalkan oleh Unsur Tak Dikenal
+SET05=Pengujian Digagalkan oleh Unsur Elektrik
+SET06=Pengujian Digagalkan oleh Unsur Servo/Cari
+SET07=Pengujian Digagalkan oleh Unsur Baca
+SET08=Pengujian Gagal dan Diduga Terjadi Kerusakan Penanganan
+SET15=Pengujian Sedang Berlangsung
+SETCO=rampung
+Total time to complete off-line data collection=Total Waktu Untuk Pengumpulan Data Terputus Lengkap
+Execute off-line immediate=Laksanakan Terputus Secepatnya
+Abort/restart off-line by host=Pengguguran/Mulai Ulang Terputus oleh Inang
+Off-line read scanning=Pemindaian Baca Terputus
+Short Self-test=Uji Sendiri Singkat
+Extended Self-test=Uji Sendiri Diperpanjang
+Selective Self-test=Uji Sendiri Selektif
+Conveyance self-test=Uji Sendiri Pengiriman
+Save data before/after power saving mode=Simpan Data Sebelum/Setelah Moda Simpan Daya
+Enable/Disable attribute autosave=Fungsikan/Lumpuhkan Otosimpan Atribut
+Error logging capability=Kemampuan Pencatatan Log Galat
+Short Self-test Estimated Time=Perkiraan Waktu Uji Sendiri Singkat
+Extended Self-test Estimated Time=Perkiraan Waktu Uji Sendiri Diperpanjang
+Conveyance self-test Estimated Time=Perkiraan Waktu Uji Sendiri Pengiriman
+Last Short Self-test Result=Hasil Uji Sendiri Singkat Terakhir
+Last Short Self-test Date=Tanggal Uji Sendiri Singkat Terakhir
+Last Short Self-test Duration=Durasi Uji Sendiri Singkat Terakhir
+Last Extended Self-test Result=Hasil Uji Sendiri Diperpanjang Terakhir
+Last Extended Self-test Date=Tanggal Uji Sendiri Diperpanjang Terakhir
+Last Extended Self-test Duration=Durasi Uji Sendiri Diperpanjang Terakhir
+Last Conveyance Self-test Result=Hasil Uji Sendiri Pengiriman Terakhir
+Last Conveyance Self-test Date=Tanggal Uji Sendiri Pengiriman Terakhir
+Last Conveyance Self-test Duration=Durasi Uji Sendiri Pengiriman Terakhir
+NOP Command=Perintah NOP
+Trusted Computing=Komputasi Terpercaya
+64-bit World Wide ID=ID World Wide 64-bit
+Streaming=Aliran
+Media Card Pass Through=Peredaran Kartu Media
+General Purpose Logging=Pencatatan Log Bertujuan Umum
+Error Logging=Pencatatan Log Galat
+CFA Feature Set=Paket Fitur CFA
+Long Physical Sectors=Sektor Fisik Panjang
+Long Logical Sectors=Sektor Logis Panjang
+Write-Read-Verify=Tulis-Baca-Verifikasi
+NV Cache Feature=Fitur Tembolok NV
+NV Cache Power Mode=Moda Daya Tembolok NV
+
+# added 4 Nov 2008 
+Transport Version=Versi Transpor
+NV Cache Size=Ukuran Tembolok NV
+Free-fall Control=Kendali Jatuh Bebas
+Free-fall Control Sensitivity=Kepekaan Kendali Jatuh Bebas 
+Non-rotating Media (SSD)=Media Tak Berputar (SSD)
+Nominal Media Rotation Rate=Laju Rotasi Media Nominal
+S-ATA Gen3 Signaling Speed (6 Gps)=Kecepatan Sinyal S-ATA Gen3 (6 Gps)
+
+# added 19 Jun 2009
+CFast Device=Gawai CFast
+SSD Features=Fitur SSD
+Data Set Management=Manajemen Paket Data
+TRIM Command=Perintah TRIM
+Deterministic Read After TRIM=Pembacaan Ditentukan Setelah TRIM
+
+Operating System TRIM Function=Fungsi TRIM Sistem Operasi
+
+# added 3 Oct 2011
+
+Self-Test Results=Hasil Uji Sendiri
+SST05=Segmen Pertama Pengujian Gagal
+SST06=Segmen Kedua Pengujian Gagal
+SST07=Uji Sendiri Gagal pada Segmen Uji
+SSTN=Segmen Uji Sendiri
+SSTN0=Tidak Ada Kesediaan Segmen ID
+SSTH=Jam Hidup
+SSTL=Alamat Kegagalan (LBA)
+SSHL=Disket keras melaporkan pelbagai masalah berikut ini:
+
+
+SA1=Galat yang terbentuk sewaktu membaca data dari disket\Menandakan masalah terletak pada permukaan disket atau kepala baca/tulis.
+SA2=Kinerja terobosan umum disket keras\Menandakan masalah terletak pada motor, servo atau bearing.
+SA3=Waktu yang diperlukan oleh poros untuk berputar hingga RPM penuh\Menandakan masalah terletak pada motor atau bearing.
+SA4=Cacah mulai/stop siklus poros\Nilai ini tak mempengaruhi kondisi penggerak secara langsung.
+SA5=Cacah sektor yang dipindahkan ke wilayah kosong\Menandakan masalah terletak pada permukaan disket kepala baca/tulis.
+SA6=Margin sebuah kanal ketika membaca data\Fungsi atribut ini tak ditetapkan.
+SA7=Taraf galat penempatan kepala baca/tulis\Menandakan masalah terletak pada servo, kepala. Suhu tinggi dapat pula menyebabkan masalah ini.
+SA8=Waktu rata-rata operasi pencarian kepala\Menandakan masalah terletak pada servo.
+SA9=Total waktu penggerak dihidupkan\Unit pengukuran yang bergantung pada pabrik pembuat.
+SA10=Cacah coba lagi untuk upaya mulai berputar\Menandakan masalah terletak pada motor, bearing atau catu daya.
+SA11=Jumlah upaya mengkalibrasi penggerak\Menandakan masalah terletak pada motor, bearing atau catu daya.
+SA12=Jumlah siklus hidup/padam rampung\Nilai ini tak mempengaruhi kondisi penggerak secara langsung.
+SA13=Jumlah galat baca perangkat lunak\Jumlah galat baca yang tak dapat dikoreksi.
+SA184=Jumlah galat kesetaraan selama transfer antara RAM tembolok dan inang.
+SA187=Galat yang dapat dipulihkan dengan menggunakan metode koreksi galat perangkat keras.
+SA187MTRON=Cacah kosong blok virtual\Menandakan keausan gawai penyimpanan.
+SA188=Jumlah operasi yang digugurkan akibat batas waktu HDD. Nilai yang lebih besar daripada nol dapat menandakan terjadinya pelbagai masalah catu daya atau koneksi kabel data.
+SA189=Jumlah operasi tulis tak aman di luar jangkauan kepala normal.
+SA190=Suhu aliran udara\Suhu udara di dalam penempatan disket keras.
+SA191=Jumlah galat mekanik\Jumlah galat yang berasal dari kejutan atau getaran.
+SA192=Cacah siklus padam daya\Nilai ini tak mempengaruhi kondisi penggerak secara langsung.
+SA193=Cacah siklus muat/bongkar\Jumlah siklus perpindahan kepala ke dalam posisi zona pendaratan.
+SA194=Suhu disket\Suhu di dalam penempatan disket keras.
+SA195=Cacah galat yang dapat dikoreksi\Jumlah galat yang dikoreksi oleh mekanisme koreksi galat internal.
+SA196=Cacah operasi pemetaan ulang sektor\Jumlah seluruh operasi pemetaan ulang (berhasil dan gagal).
+SA197=Cacah sektor tak stabil\Sektor yang tertunda ini dapat dipetakan ulang ke wilayah kosong.
+SA198=Cacah galat yang tak dapat dikoreksi saat membaca/menulis\Menandakan masalah terletak pada permukaan disket atau kepala baca/tulis.
+SA199=Cacah galat selama transfer data antara disket dan inang\Menandakan masalah terletak pada catu daya atau kabel data.
+SA200=Galat yang terbentuk sewaktu menulis data mentah dari disket\Menandakan masalah terletak pada permukaan disket atau kepala baca/tulis.
+SA201=Jumlah galat baca perangkat lunak\Jumlah galat baca yang tak dapat dikoreksi.
+SA202=Jumlah galat tanda alamat data\Jumlah tanda alamat yang tak tepat atau tak sahih.
+SA203=Jumlah galat koreksi data\Verifikasi koreksi galat tak sahih yang ditemukan selama pengoreksian galat.
+SA204=Jumlah galat data yang dikoreksi\Galat yang dikoreksi oleh mekanisme koreksi galat internal.
+SA205=Jumlah masalah panas\Total jumlah masalah yang disebabkan oleh suhu tinggi.
+SA206=Lebar kepala\Lebar kepala disket di atas permukaan disket.
+SA207=Nilai arus selama pemutaran\Arus yang diperlukan untuk memutarkan penggerak.
+SA208=Jumlah siklus yang dibutuhkan untuk pemutaran\Jumlah coba lagi selama pemutaran akibat adanya arus rendah.
+SA209=Kinerja penggerak selama operasi terputus\Kinerja pencarian penggerak selama uji sendiri internal.
+SA211=Getaran yang dialami selama operasi tulis.
+SA212=Kejutan yang dialami selama operasi tulis.
+SA220=Jarak peralihan disket relatif terhadap poros\Pemutaran disket yang tak tepat dapat disebabkan oleh kejutan mekanik atau suhu tinggi.
+SA221=Jumlah galat mekanik\Jumlah galat yang berasal dari kejutan atau getaran.
+SA222=Jumlah jam hidup\Nilai ini meningkat secara konstan (satu jam satu kali).
+SA223=Jumlah operasi muat/bongkar\Jumlah kepala penggerak memasuki/meninggalkan zona data.
+SA224=Laju friksi mekanik\Laju friksi antarbagian-bagian mekanik. Menandakan masalah terletak pada subsistem mekanik penggerak.
+SA226=Total waktu pemuatan kepala\Masa saat kepala baca/tulis berada di zona data.
+SA227=Laju peningkatan torsi\Peningkatan torsi selama operasi pemutaran disket keras.
+SA228=Jumlah siklus padam daya\Jumlah kejadian kepala ditarik sebagai hasil dari hilang daya.
+SA230=Amplitudo posisi kepala\Jarak perpindahan kepala antaroperasi.
+SA231=Suhu disket\Suhu di dalam penempatan disket keras.
+SA240=Jumlah jam posisi kepala\Masa yang dihabiskan sewaktu menempatkan kepala penggerak.
+SA250=Jumlah coba lagi selama operasi baca\Jumlah galat yang ditemukan sewaktu membaca sebuah sektor dari permukaan disket.
+SA254=Jumlah peristiwa jatuh bebas yang terdeteksi oleh sensor accelerometer.
+SA255=Khas-vendor\Fungsi dan nilai atribut ini ditetapkan oleh pabrik pembuat.
+
+SC01=Pencacah peristiwa buffer over/under run 
+SC02_0000=Galat tulis yang dikoreksi tanpa penundaan berarti
+SC02_0001=Galat tulis yang dikoreksi dengan kemungkinan penundaan
+SC02_0002=Total galat tulis
+SC02_0003=Total galat tulis yang dikoreksi
+SC02_0004=Total galat tulis dikoreksi dengan algoritma
+SC02_0005=Total bita yang tertulis
+SC02_0006=Total galat tulis yang tak terkoreksi
+SC03_0000=Galat baca yang dikoreksi dengan metode perangkat keras ECC
+SC03_0001=Galat baca yang dikoreksi dengan kemungkinan penundaan
+SC03_0002=Total galat baca
+SC03_0003=Total galat baca yang dikoreksi
+SC03_0004=Total galat baca yang dikoreksi dengan algoritma
+SC03_0005=Total bita yang terbaca
+SC03_0006=Total galat baca yang tak terkoreksi
+SC04_0000=Galat baca mundur yang dikoreksi dengan metode perangkat keras ECC
+SC04_0001=Galat baca mundur yang dikoreksi dengan kemungkinan penundaan
+SC04_0002=Total galat baca mundur
+SC04_0003=Total galat baca mundur yang dikoreksi
+SC04_0004=Total galat baca mundur yang dikoreksi dengan algoritma
+SC04_0005=Total bita galat baca mundur
+SC04_0006=Total galat baca mundur yang tak terkoreksi
+SC05_0000=Galat verifikasi yang dikoreksi tanpa penundaan berarti
+SC05_0001=Galat verifikasi yang dikoreksi dengan kemungkinan penundaan
+SC05_0002=Total galat verifikasi
+SC05_0003=Total galat verifikasi yang dikoreksi
+SC05_0004=Total galat verifikasi yang dikoreksi dengan algoritma
+SC05_0005=Total bita yang terverifikasikan
+SC05_0006=Total galat verifikasi yang tak terkoreksi
+SC06_0000=Galat Tanpa Perantara
+SC07=Peristiwa galat terakhir
+SC0B=Peristiwa galat tertunda atau tak selaras terakhir
+SC0D_0000=Suhu
+SC0D_0001=Suhu rujukan
+SC0E_0001=Tanggal pembuatan (tahun/minggu)
+SC0E_0002=Tanggal pembukuan
+SC0E_0003=Cacah siklus yang ditentukan atas umur gawai
+SC0E_0004=Siklus mulai-stop terakumulasi
+SC0F=Data tolok ukur klien aplikasi
+SC10=Log hasil uji sendiri
+SC18=Log pangkalan khas protokol
+SC37_0000=Blok dikirim ke inisiator
+SC37_0001=Blok diterima dari inisiator
+SC37_0002=Blok dibaca dari tembolok dan dikirim ke inisiator
+SC37_0003=Perintah I/O berukuran lebih kecil daripada ukuran segmen
+SC37_0004=Perintah I/O berukuran lebih besar daripada ukuran segmen
+SC3E_0000=Masa kerja
+SC3E_8000=Masa kerja
+SC3E_0008=Menit tersisa hingga uji internal berikutnya
+

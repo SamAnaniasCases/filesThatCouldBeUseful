@@ -1,0 +1,248 @@
+Operationer
+Projekt
+Schema
+Projektnamn:
+Nytt
+Ta bort
+Projekt typ:
+Kör externt program eller kommando-fil
+Sökväg:
+Starta osynligt, utan att visa fönster
+Starta:
+Skapa Nytt Projekt
+Projekt
+Ogiltigt projektnamn. Får inte vara tomt och får inte vara ett existerande namn. 
+Spara
+Återställ standardprojekt
+Starta
+Tid
+Kan köras senare
+Fråga före start
+Fixa tid
+Efter laddning
+Ta bort
+Lägg till nytt projekt till listan
+Fel vid sparandet av projekt.
+Vill du köra projektet?
+Projektstart
+Fel vid projektstart.
+Kommentar:
+Bläddra
+Körbara filer|*.exe;*.bat;*.com|Alla filer|*.*
+Aktiverad
+Vill du spara den modifierade konfigurationen?
+Är det säkert att du vill radera detta projekt?\nProjektet raderas även från schemat.\nAntal schema alternativ för detta projekt: 
+Är det säkert att du vill radera projektet?
+Överför filer och mappar
+Källa
+Destination
+Konfigurera
+Lägg till
+Undantag
+Vänligen specificera filerna som ska undantas av programmet:
+De valda filerna kommer att ignoreras av Hard Disk Sentinel. De kopieras inte och påverkas inte av några inställningar.
+Globala inställningar
+Projektoperationer
+Projektinställningar
+Innehållet i dessa mappar kommer att sparas till de(n) bestämda mapp(en/arna).
+Ursprungsmapp
+Destinationsmapp
+Filmask
+Mappinställningar
+Destinationsmappen skapas automatiskt (om nödvändigt). Det är möjligt att använda följande variabler för att bestämma en mapp:\n\n%USER% - namn på användare\n\n%COMPUTER% - namn på dator\n\n%IP% - Datorns IP nummer\n\n%LAST=folder% - namn på senast skapad/ändrad (nyaste) mapp i den bestämda mappen\n\nDet är möjligt att bestämma en eller fler destinationsmapp(ar), separera dem med ; (semicolon).
+Välj eller skapa en destinations mapp.
+Välj en giltig destinationsmapp.
+Redigera
+Beräkna storleken på datan som ska kopieras
+Verifiera kopierad data
+Kopiera endast nya och uppdaterade filer
+Töm arkivbit på kopierade filer
+Radera ursprungsfiler efter utförd kopiering
+Använd dagens datum som mappnamn och spara den senaste
+kompletta arkiv
+(Äldre arkiv raderas automatiskt innan nya skapas)
+Status:
+Fil:
+Datamängd:
+Sparar Data
+Beräknar mängden data
+Kopierar filer
+Uppdaterar filer
+Tar bort föregående arkiv
+Verifierar arkiv
+ MB/sek
+minuter återstående
+sekunder kvar
+Mapp:
+Destination:
+Spara undermappar
+After avslut
+Skicka/visa rapport endast om något fel inträffar
+Skicka/visa alltid rapport
+Skicka inte eller visa någon rapport
+Är det säkert att du vill radera original filerna efter sparandet ?\n(För maximal datasäkerhet rekommenderas denna möjlighet endast om du sparar filerna på i två eller fler kopior om "verifiera kopierad data"-inställning används.)
+Raderar ursprungsfiler
+Slutfört
+Projektet framgångsrikt slutfört
+Projekt-status
+Fel uppstod vid uträttande av projektet
+Antal filer sparade:
+Total förlupen tid:
+Fellista
+Total mängd data sparad:
+Visa inte statusfönstret
+Uppgifterna utförda
+Avbruten
+Ingen data att spara
+Gick inte att öppna fillista för att verifiera från denna folder: 
+Kunde inte radera: 
+E-mail konfiguration utförd
+E-mail fel vid sändning
+Kunde inte öppna fil: 
+Kunde inte skapa fil: 
+Kunde inte läsa fil: 
+Kan inte skriva fil(disk full eller inte skrivbar): 
+går inte att verifiera fil: 
+saknar CRC-checksum-värde: 
+Felaktigt CRC-checksum-värde: 
+Starta nu
+Turordning för arbeten
+I vila
+Normal
+Maximal
+Fel vid öppnande av destinationsmapp
+Efter aktivitet 1/dag
+Upprepad
+Efter: 
+Automatiskt
+Gör paus nästa gång
+Vilken hårddisk som helst
+Följande arbete kommer inte att utföras eftersom annat pågående arbete avbrutits.
+Vill du modifiera inställningarna?
+Behandlar rapport
+Arbetet med att spara filen startad. Om du ser detta meddelande, har arbetet avbrutits.
+Den här versionen av Hard Disk Sentinel PRO är oregistrerad.\nI den registrerade versionen är det möjligt att ta bort frågeställningen för att tillåta att backup arbeten startas automatiskt.\n\nBesök vår hemsida \n\nhttp://www.hdsentinel.com\n\nför instruktioner hur du registrerar programmet.\n\nVill du besöka hemsidan nu?
+Använd ljudsignal vid problem
+Starta inte om summan data är mindre än
+kb
+Varna om det saknas data
+Spara ursprungsmapps namn med innehåll också
+Bränn CD/DVD med NERO
+Komprimera filer med RAR
+Komprimera filer med 7-Zip
+Välj program
+Visa kommandorad
+Måldisk:
+Media:
+Hastighet:
+Burn-proof
+Parametrar:
+Målfil:
+Multipla volymer, volymstorlek: 
+Platsen för Nerocmd.exe är inte specificerad.
+Platsen för RAR.exe är inte specificerad.
+Platsen för 7Z.exe är inte specificerad.
+Vill du göra dina inställningar nu?
+Delvis konfiguration
+(Tryck CTRL+C för att kopiera innehållet i fönstret till klippbordet).
+Varna vid fel
+Varningen startas (bereroende på det konfig. meddelandets inställningar) om det externa programmet kompletteras med en slutakod annan än 0.
+Verifiera skrivning
+Externt program fel
+Följande sökväg kompletterad med ett fel: 
+programmets felkod: 
+Fjärrstart(Wake-on-LAN) måste aktiveras på mål datorn.
+Vänta tills datorn är färdig (svar till PING)
+Sluta försök om inget svar erhållits inom 
+Måldator:
+Händelse:
+Omstart
+Standby
+Vilande
+Källfil(er):
+Käll mapp(ar):
+Flera mail, en fil per mail
+FTP-server:
+Passivt läge
+Exportera registerposter
+Slå på datorn
+Stäng av datorn
+Skicka filer i e-post
+Skicka filer med FTP
+Ladda upp filer till HDS Server
+Rotpunkt:
+Nyckel:
+Specifiera en registernyckel att exportera.
+Ingen nyckel specifierad
+extern mapp:
+Välj dator eller skriv som \\datornamn
+Exporterar registerposter ...
+Startar dator(er)
+Återstående sekunder innan avbrytning:
+Avbryt nu
+Väntar
+Svar
+Stänger av ...
+Nedstängning initierad från
+Välj måldatorer separerade med ,\nSpecify . för lokal dator\nNote: standby och paus är inte möjligt på externa datorer
+Överföringsförsök:
+Fördröjning mellan återförsök (sek):
+Överföringsfel.
+Spara filer tills den totala storleken når 
+Testa hårddisk(ar)
+Kör test på alla tillgängliga hårddiskar
+Disk(ar) att testa:
+Kunde inte testa hårddisk
+Hårddisktest misslyckades
+Hårddisk testresultat:
+Stödda självtester:
+Detaljer för hårddisktest
+nya om-allokerade sektorer funna
+nya återuppstartsfel funna
+nya om-allokeringshändelser funna
+nya väntande sektorer funna
+väntande sektorer reparerade
+nya off-line okorrigerbara sektorer funna
+Kopiera filer från källa till mål
+Uppdatera data på mål och behåll filer på mål vilka borttagits från källa
+Enkel synkronisering
+Uppdatera data på mål och ta bort filer från mål som tagits bort från ursprung
+Tvåvägssynkronisering
+Uppdatera data på både ursprung och mål genom att ha endast de senaste filerna på båda platserna
+Backupkontroll
+Synkroniseringsinställningar
+Antal filer borttagna från mål:
+Antal uppdaterad data i mål:
+Totalt data kopierad till ursprung:
+Behandla endast filer
+Jämför specifierade filter
+Konfigurera filfilter
+Mellan datum
+och
+Inte äldre än
+Med storlek
+Med attributer
+Arkiv
+Läs endast
+Dold
+System
+Skapa och använd CRC-filer för att lagra CRC-värden
+Inkludera Filer Matchande
+Exkludera Filer Matchande
+Fil mask:
+veckor
+månader
+år
+\1  innehåller den fullständiga listan med fel.
+Totalt antal fel hittade:
+Konfigurera mappar för backup
+Använd kryssrutorna för att välja källmappar eller skriv i mappar skilda med ; under listan med mappar
+Välj Målmapp eller skriv in sökvägen under listan
+Alla ursprungsfiler från alla ursprungsmappar kommer att sparas till samma mål om denna inställning är avaktiverad.\nDetta kan orsaka problem pga. att målets position saknas.
+Att använda en eller tvåvägs synkroniseringmetod med denna inställning kan orsaka ofullständigt arkiv.
+Är det säkert att du vill fortsätta?
+Paus
+Fortsätt
+Pausad - Klicka på fortsätt-knappen
+Ignorera filer som används (inte utdelningsbara)
+Inaktivera varningsmeddelande

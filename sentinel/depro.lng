@@ -1,0 +1,248 @@
+Operationen
+Projekte
+Zeitplan
+Projektname:
+Neu
+Entfernen
+Projekttyp:
+Externe Anwendung oder Batch-Datei starten
+Befehlszeile:
+Unsichtbar, ohne Fenster anzuzeigen, starten
+Starten am:
+Neues Projekt erstellen
+Projekt
+Ungültiger Projektname. Darf nicht aus Leerzeichen bestehen und muss ein noch nicht existierender Namen sein.
+Speichern
+Standardprojekte wiederherstellen
+Start
+Uhrzeit
+Später
+Vor Start fragen
+Feste Uhrzeit
+Nach Start
+Löschen
+Neues Projekt zur Liste hinzufügen
+Projekt Speicherfehler.
+Wollen Sie dieses Projekt starten?
+Projekt starten
+Projekt Startfehler.
+Kommentar:
+Durchsuchen
+Ausführbare|*.exe;*.bat;*.com|Alle Dateien|*.*
+Aktiviert
+Wollen Sie die modifizierte Konfiguration speichern?
+Sind Sie sicher, dass Sie dieses Projekt löschen wollen?\nDas Projekt wird auch aus dem Zeitplan entfernt.\nAnzahl Zeitplanoptionen für dieses Projekt:
+Sind Sie sicher, dass Sie dieses Projekt löschen wollen?
+Dateien und Ordner übertragen
+Quelle
+Ziel
+Konfigurieren
+Hinzufügen
+Ausnahmen
+Bitte geben Sie die durch die Anwendung auszuschließenden Dateien an:
+Die hier angegebenen Dateien werden von Hard Disk Sentinel ignoriert. Sie werden nicht kopiert und sind von keiner der Optionen betroffen.
+Globale Einstellungen
+Projektoperationen
+Projektoptionen
+Der Inhalt dieser Ordner wird zu den angegebenen Zielordnern gespeichert.
+Quellordner
+Zielordner
+Dateimaske
+Ordner-Einstellungen
+Der Zielordner wird automatisch erzeugt (falls nötig). Es ist möglich, folgende Variablen zur Angabe eines Ordners zu verwenden:\n\n%USER% - Name des Benutzers\n\n%COMPUTER% - Name des Computers\n\n%IP% - IP-Adresse des Computers\n\n%LAST=folder% - Name des zuletzt erzeugten/modifizierten (neuesten) Ordners in angegebenem Ordner\n\nEs ist möglich, zwei oder mehr Zielordner festzulegen, bitte trennen Sie diese durch ; (Semikolon).
+Bitte zumindest einen Quellordner auswählen oder festlegen.
+Bitte einen gültigen Zielordner festlegen.
+Bearbeiten
+Zu kopierende Datenmenge berechnen
+Kopierte Daten verifizieren
+Nur neue und aktualisierte Dateien kopieren
+Archiv-Bit bei kopierten Dateien löschen
+Quelldateien nach erfolgreichem Kopieren löschen
+Aktuelles Datum als Ordnernamen verwenden und behalte die letzten
+vollständigen Archive
+(Die vorherigen Archive werden vor Beginn der aktuellen Speicheroperation automatisch gelöscht.)
+Status:
+Datei:
+Datenmenge:
+Daten speichern
+Datenmenge berechnen
+Dateien kopieren
+Dateien aktualisieren
+Vorherige Archive löschen
+Archive verifizieren
+ MB/Sek.
+Minuten verbleiben
+Sekunden verbleiben
+Ordner:
+Ziel:
+Unterordner speichern
+Nach Fertigstellung
+Bericht nur bei Problem senden/anzeigen
+Bericht in jedem Fall senden/anzeigen
+Keinen Bericht senden oder anzeigen
+Sind Sie sicher, dass Sie die Quelldateien nach der Archivierung löschen wollen?\n(Um die Datensicherheit zu maximieren wird die Anwendung dieser Option nur dann empfohlen, wenn Sie die Dateien in zwei oder mehr Kopien archivieren oder wenn die Option "Verifiziere kopierte Daten" aktiviert ist.)
+Quelldateien löschen
+Fertiggestellt
+Projekt erfolgreich fertiggestellt
+Projektstatus
+Fehler während Ausführung des Projekts aufgetreten
+Anzahl gespeicherte Dateien:
+Gesamtzeit:
+Fehlerliste
+Gesamte gespeicherte Datenmenge:
+Fenster mit Speicherfortschritt nicht anzeigen
+Tasks erfolgreich fertiggestellt
+Abgebrochen
+Keine Daten zu speichern
+Kann Dateiliste zur Verifizierung nicht aus diesem Ordner öffnen:
+Kann nicht löschen:
+E-Mail-Konfiguration ist unvollständig
+E-Mail Sendefehler
+Kann Datei nicht öffnen:
+Kann Datei nicht erstellen:
+Kann Datei nicht lesen:
+Kann Datei nicht schreiben (Laufwerk voll oder nicht beschreibbar):
+Kann Datei nicht verifizieren:
+Vermisse Wert der CRC-Prüfsumme:
+Falscher Wert der CRC-Prüfsumme:
+Jetzt starten
+Ausführungspriorität
+Leerlauf
+Normal
+Maximum
+Zielordner Fehler beim öffnen
+1/Tag nach Start
+Periodisch
+Nach:
+Automatisch
+Am nächsten Wochentag aussetzen
+Alle Festplatten
+Folgendes Projekt wird nicht ausgeführt, weil ein anderes anstehendes Projekt deaktiviert ist.
+Wollen Sie die Einstellungen ändern?
+Verarbeitungsbericht
+"Datei speichern"-Operation gestartet. Wenn Sie diese Meldung sehen, wurde die Speichern-Operation abgebrochen.
+Diese Version von Hard Disk Sentinel PRO ist nicht registriert.\nIn der registrierten Version ist es möglich, den Anfragedialog zum Erlauben des automatischen Start eines Backup-Projekts zu entfernen.\n\nBitte besuchen Sie unsere Webseite auf \n\nhttp://www.hdsentinel.com\n\nfür Instruktionen zur Registrierung der Anwendung.\n\nWollen Sie die Webseite jetzt öffnen?
+Sound-Warnung bei Problem
+Nicht starten, wenn die Datenmenge kleiner ist als
+kByte
+Bei zu wenigen Daten alarmieren
+Quellordnernamen auch mit Inhalt speichern
+CD/DVD mit NERO brennen
+Dateien mit RAR komprimieren
+Dateien mit 7-Zip komprimieren
+Anwendung wählen
+Befehlszeile anzeigen
+Ziellaufwerk:
+Medien:
+Speed:
+Burn-Proof
+Parameter:
+Zieldatei:
+Mehrere Volumes, Volume-Größe:
+Der Ort der Nerocmd.exe ist nicht angegeben.
+Der Ort der RAR.exe ist nicht angegeben.
+Der Ort der 7Z.exe ist nicht angegeben.
+Wollen Sie dies jetzt konfigurieren?
+Teilkonfiguration
+(CTRL+C drücken, um den Inhalt des Fensters in die Zwischenablage zu kopieren.)
+Warnmeldung bei Fehler
+Warnmeldung (basierend auf konfigurierten Meldungseinstellungen) wird erzeugt, falls externe Anwendung anders als mit Exit-Code 0 beendet wurde.
+Schreiben verifizieren
+Externe Anwendung Fehler
+Folgende Befehlszeile wurde mit einem Fehler beendet:
+Fehler-Code der Anwendung:
+Auf dem Zielrechner sollte die Option Wake-on-LAN aktiviert sein.
+Warten bis der Rechner bereit ist (auf PING antwortet)
+Versuch stoppen wenn keine Reaktion auf
+Zielrechner:
+Aktion:
+Neu starten
+Standby
+Hibernate
+Quelldateien:
+Quellordner:
+Mehrere Mails, eine Datei pro Mail
+FTP-Server:
+Passiver Modus
+Registry-Einträge exportieren
+Rechner einschalten
+Rechner ausschalten
+Dateien in E-Mail verschicken
+FTP-Transfer der Dateien
+Dateien zum HDS Server hochladen
+Root-Knoten:
+Schlüssel:
+Bitte einen zu exportierenden Registry-Schlüssel angeben.
+Kein Schlüssel angegeben
+Remote-Ordner:
+Rechner wählen oder als \\computername angeben
+Registry-Einträge exportieren...
+Starte den/die Rechner
+Verbleibende Sekunden vor Abbruch:
+&Jetzt abbrechen
+Warte
+Antwort
+Herunterfahren ...
+Herunterfahren initialisiert von
+Gib die Zielrechner durch , getrennt an\nGib . für lokalen Rechner an\nAnmerkung: Standby und Hibernate steht auf Remote-Rechnern nicht zur Verfügung
+Transfer-Wiederholungen:
+Verzögerung zwischen Wiederholungen (Sek):
+Transfer-Fehler.
+Dateien sammeln bis Gesamtgröße erreicht ist
+Festplatten testen
+Test auf allen verfügbaren Festplatten laufen lassen
+Zu testende Laufwerke:
+Kann Festplatte nicht testen
+Festplattentest fehlgeschlagen
+Festplattentest Ergebnisse:
+Unterstützte Selbsttests:
+Festplattentest Details
+neu zugeteilte Sektoren gefunden
+neue Hochdrehversuch-Fehler gefunden
+neue Neuzuordnungsereignisse gefunden
+neue auf Zuordnung wartende Sektoren gefunden
+auf Zuordnung wartende Sektoren repariert
+neue offline nicht-korrigierbare Sektoren gefunden
+Dateien von Quelle zum Ziel kopieren
+Daten am Ziel aktualisieren und von Quelle gelöschte Dateien am Ziel behalten
+Einwege-Synchronisierung
+Daten am Ziel aktualisieren und von Quelle gelöschte Dateien am Ziel entfernen
+Zweiwege-Synchronisierung
+Daten an Quelle aktualisieren und die neuesten Dateien an beiden Orten behalten
+Backup-Steuerung
+Synchronisier-Optionen
+Am Ziel gelöschte Dateien insgesamt:
+Am Ziel aktualisierte Daten insgesamt:
+Zur Quelle kopierte Daten insgesamt:
+Nur Dateien abarbeiten
+Passend zu angegebenem Filter
+Dateifilter konfigurieren
+Zeitraum
+und
+Nicht älter als
+Mit Größe
+Mit den Attributen
+Archiv
+Schreibgeschützt
+Versteckt
+System
+Erzeuge und nutze CRC-Dateien zum Speichern der Datei-CRC-Werte
+Einschließlich zutreffender Dateien
+Ausschließlich zutreffender Dateien
+Dateimaske:
+Wochen
+Monate
+Jahre
+\1 enthält die komplette Liste der Fehler.
+Gesamtzahl gefundener Fehler:
+Ordner für Backup konfigurieren
+Checkboxen zur Auswahl der QUELL-Ordner verwenden oder Ordner durch ; getrennt in die untere Ordnerliste eingeben
+ZIEL-Ordner wählen oder dessen Pfad in untere die Liste eingeben
+Alle Quelldateien aus allen Quellordnern werden zum selben Ziel archiviert, wenn diese Option DEAKTIVIERT ist.\nDies kann Probleme durch Verlust von Pfadinformationen verursachen.
+Das Verwenden von Einwege- oder Zweiwege-Synchronisierung mit dieser Option kann ein unvollständiges Archiv verursachen.
+Sind Sie sicher, dass Sie fortfahren wollen?
+Pause
+Fortfahren
+Pausiert - Fortfahren-Button drücken
+In Benutzung befindliche (nicht gemeinsam nutzbare) Dateien ignorieren
+Warnmeldung deaktivieren

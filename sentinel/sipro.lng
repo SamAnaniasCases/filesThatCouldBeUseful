@@ -1,0 +1,248 @@
+Operaci&je
+Projekti
+Urnik
+Ime projekta:
+Novo
+Odstrani
+Tip projekta:
+Zaûenite zunanjo aplikacijo ali paketno datoteko
+Ukazna vrstica:
+Zaûeni nevidno, brez prikaznega okna
+Zagon na:
+Ustvari nov projekt
+Projekt
+Neveljavno ime projekta. Ne sme biti prazno in mora biti öe neobstojece ime.
+Shrani
+Obnovi privzete projekte
+Zacetek
+Ura
+Lahko tece pozneje
+Vpraöaj pred tekom
+Popravi cas
+Po nalaganju
+Izbriöi
+Dodaj nov projekt na seznam
+Napaka pri shranjevanju projekta.
+Ali ûelite zagnati ta projekt?
+Zagon projekta
+Napaka pri zagonu projekta.
+Komentar:
+Brskaj
+Izvröljive|*.exe;*.bat;*.com|Vse datoteke|*.*
+Omogoceno
+Ali ûelite shraniti spremenjeno konfiguracijo?
+Ali ste prepricani, da ûelite izbrisati ta projekt?\nProjekt bo odstranjen tudi iz razporeda.\nätevilo moûnosti razporeda za ta projekt:
+Ali ste prepricani, da ûelite izbrisati projekt?
+Prenos datotek in map
+Vir
+Destinacija
+Konfiguriraj
+Dodaj
+Izjeme
+Dolocite datoteke, ki naj jih aplikacija izkljuci:
+Hard Disk Sentinel ne bo upoöteval tukaj navedenih datotek. Ne bodo kopirani in nanje ne bodo vplivale nobene moûnosti.
+Globalne nastavitve
+Projektne operacije
+Moûnosti projekta
+Vsebina teh map bo shranjena v dolocene ciljne mape.
+Izvorna mapa
+Ciljna mapa
+Maska datoteke
+Nastavitve mape
+Ciljna mapa bo samodejno ustvarjena (ce je potrebno). Za dolocitev mape je mogoce uporabiti naslednje spremenljivke:\n\n%USER% - ime uporabnika\n\n%COMPUTER% - ime racunalnika\n\n%IP% - IP naslov racunalnika\ n\n%LAST=mapa% - ime nazadnje ustvarjene/spremenjene (najnovejöe) mape v podani mapi\n\nMoûno je dolociti dve ali vec ciljnih map, locite jih z ; (podpicje).
+Izberite ali dolocite vsaj eno izvorno mapo.
+Dolocite veljavno ciljno mapo.
+Uredi
+Izracunajte kolicino podatkov, ki jih ûelite kopirati
+Preverite kopirane podatke
+Kopirajte samo nove in posodobljene datoteke
+Pocisti arhivsko zastavico kopiranih datotek
+Po uspeönem kopiranju izbriöite izvorne datoteke
+Za ime mape uporabite trenutni datum in obdrûite zadnjega
+celotni arhivi
+(Prejönji arhivi bodo samodejno izbrisani pred zacetkom dejanskega shranjevanja)
+Status:
+Datoteka:
+Kolicina podatkov:
+Shranjevanje podatkov
+Izracun kolicine podatkov
+Kopiranje datotek
+Posodabljanje datotek
+Brisanje prejönjega arhiva
+Preverjanje arhiva
+ MB/sek
+preostalih minut
+preostalih sekund
+Mapa:
+Cilj:
+Shranite podmape
+Po zakljucku
+Poölji/prikaûi porocilo le, ce je priölo do teûave
+Poölji/prikaûi porocilo v vseh primerih
+Ne poöiljajte ali prikazujte porocila
+Ali ste prepricani, da ûelite izbrisati izvorne datoteke po arhiviranju?\n(Za cim vecjo varnost podatkov je priporocljivo, da uporabite to moûnost samo, ce arhivirate datoteke v dveh ali vec kopijah ali ce je omogocena moûnost "preveri kopirane podatke". )
+Brisanje izvornih datotek
+Dokoncano
+Projekt uspeöno zakljucen
+Status projekta
+Med izvajanjem projekta je priölo do napake
+ätevilo shranjenih datotek:
+Skupni preteceni cas:
+Seznam napak
+Skupna kolicina shranjenih podatkov:
+Ne prikaûi okna napredka shranjevanja
+Naloge uspeöno opravljene
+Prekinjeno
+Ni podatkov za shranjevanje
+Ni mogoce odpreti seznama datotek za preverjanje iz te mape:
+Ni mogoce izbrisati:
+Konfiguracija e-poöte je nepopolna
+Napaka pri poöiljanju elektronske poöte
+Ni mogoce odpreti datoteke:
+Ni mogoce ustvariti datoteke:
+Datoteke ni mogoce prebrati:
+Datoteke ni mogoce zapisati (disk je poln ali ni zapisljiv):
+Ni mogoce preveriti datoteke:
+Manjka vrednost kontrolne vsote CRC:
+Nepravilna vrednost kontrolne vsote CRC:
+Zacni zdaj
+Prednost operacije
+Nedejaven
+Normalno
+Najvec
+Napaka pri odprtju ciljne mape
+Po obremenitvi 1/dan
+Ponavljajoc
+po:
+Samodejno
+Prekinite na naslednji tak dan
+Kateri koli trdi disk
+Naslednji projekt ne bo izveden, ker je drug projekt v teku onemogocen.
+Ali ûelite spremeniti nastavitve?
+Porocilo o obdelavi
+Operacija shranjevanja datoteke se je zacela. Ce vidite to sporocilo, je bila operacija shranjevanja prekinjena.
+Ta razlicica Hard Disk Sentinel PRO ni registrirana.\nV registrirani razlicici je mogoce odstraniti pogovorno okno z vpraöanji, da se omogoci samodejni zagon projektov varnostnega kopiranja.\n\nProsimo, obiöcite naöo spletno stran na \n\nhttp://www.hdsentinel .com\n\nza navodila o registraciji aplikacije.\n\nAli ûelite zdaj odpreti naöo spletno stran?
+Zvocno opozorilo ob teûavi
+Ne zaûenite, ce je kolicina podatkov manjöa od
+kbajtov
+Izdaj opozorilo, ce ni dovolj podatkov
+Shranite tudi ime izvorne mape z njeno vsebino
+Zapiöi CD/DVD z NERO
+Stisnite datoteke z uporabo RAR
+Stisnite datoteke z uporabo 7-Zip
+Izberi aplikacijo
+Ogled ukazne vrstice
+Ciljni pogon:
+Medij:
+Hitrost:
+Burn-proof
+Parametri:
+Ciljna datoteka:
+Vec nosilcev, velikost nosilca: 
+Lokacija Nerocmd.exe ni navedena.
+Lokacija RAR.exe ni navedena.
+Lokacija 7Z.exe ni navedena.
+Ali ga ûelite zdaj konfigurirati?
+Delna konfiguracija
+(Pritisnite CTRL+C, da kopirate vsebino okna v odloûiöce).
+Opozorilo ob napaki
+Opozorilo bo ustvarjeno (na podlagi konfiguriranih nastavitev sporocila), ce je zunanja aplikacija zakljucila z izhodno kodo, ki ni 0.
+Preveri pisanje
+Napaka zunanje aplikacije
+Naslednja ukazna vrstica se je zakljucila z napako:
+Koda napake aplikacije:
+Na ciljnem racunalniku mora biti omogocena moûnost Wake-on-LAN.
+Pocakaj, da je racunalnik pripravljen (odgovori na PING)
+Prenehaj poskuöati, ce ni odgovora za
+Ciljni racunalnik:
+Akcija:
+Ponovni zagon
+Ostani v pripravljenosti
+Hibernacija
+Izvorne datoteke:
+Izvorne mape:
+Vec e-poötnih sporocil, ena datoteka na e-poötno sporocilo
+FTP streûnik:
+Pasivni nacin
+Izvozite elemente registra
+VKLOPITE racunalnik
+IZKLOPITE racunalnik
+Poöljite datoteke po e-poöti
+FTP prenos datotek
+Naloûite datoteke na streûnik HDS
+Korensko vozliöce:
+kljuc:
+Dolocite registrski kljuc za izvoz.
+Kljuc ni dolocen
+Oddaljena mapa:
+Izberite racunalnik ali vnesite \\ime racunalnika
+Izvaûanje elementov registra ...
+Zagon racunalnika(-ov)
+Preostale sekunde pred preklicem:
+&Preklici zdaj
+Cakanje
+Odziv
+Izklapljanje ...
+Izklop se je zacel iz
+Dolocite ciljne racunalnike, locene z ,\nDolocite . za lokalni racunalnik\nOpomba: stanje pripravljenosti in mirovanje nista na voljo na oddaljenih racunalnikih
+Ponovni poskusi prenosa:
+Zamik med ponovnimi poskusi (s):
+Napaka pri prenosu.
+Zbiraj datoteke, dokler ne doseûete skupne velikosti
+Testiraj trdi disk(e)
+Izvedite test na vseh razpoloûljivih trdih diskih
+Pogon(i) za testiranje:
+Trdega diska ni mogoce testirati
+Test trdega diska ni uspel
+Rezultati testa trdega diska:
+Podprti samopreizkusi:
+Podrobnosti o preizkusu trdega diska
+najdenih novih prerazporejenih sektorjev
+najdene nove napake pri ponovnem poskusu vrtenja
+najdeni novi dogodki prerazporeditve
+najdenih novih cakajocih sektorjev
+cakajoci sektorji popravljeni
+najdeni novi nepopravljivi sektorji brez povezave
+Kopirajte datoteke iz vira v cilj
+Posodobite podatke na cilju in obdrûite datoteke, ki so bile odstranjene iz vira
+Enosmerna sinhronizacija
+Posodobite podatke o cilju in odstranite datoteke iz cilja, ki so bile odstranjene iz vira
+Dvosmerna sinhronizacija
+Posodobite podatke na izvoru in cilju tako, da obdrûite najnovejöe datoteke na obeh lokacijah
+Nadzor varn. kopiranja
+Moûnosti sinhronizacije
+Skupno ötevilo datotek, odstranjenih s cilja:
+Skupni podatki posodobljeni na cilj:
+Skupni podatki, kopirani v vir:
+Obdelaj le datoteke
+Ujemanje z dolocenimi filtri
+Konfigurirajte filtre datotek
+Med datumi
+in
+Ne starejöi od
+Z velikostjo
+Z atributi
+Arhivski
+Le za branje
+Skriti
+Sistemski
+Ustvarite in uporabite datoteke CRC za shranjevanje vrednosti CRC datoteke
+Vkljucno z ujemanjem datotek
+Izkljucitev ujemajocih se datotek
+Maska datoteke:
+tednov
+mesecev
+let
+\1  vsebuje celoten seznam napak.
+Skupno ötevilo najdenih napak:
+Konfigurirajte mape za varnostno kopiranje
+S potrditvenimi polji izberite mape VIR ali vnesite mape, locene z ; pod seznamom map
+Izberite CILJNO mapo ali vnesite njeno pot pod seznamom
+Vse izvorne datoteke iz vseh izvornih map bodo arhivirane v isti cilj, ce je ta moûnost ONEMOGOCENA.\nTo lahko povzroci teûave zaradi izgube informacij o poti.
+Uporaba enosmerne ali dvosmerne sinhronizacije s to moûnostjo lahko povzroci nepopoln arhiv.
+Ste prepricani, da ûelite nadaljevati?
+Pavza
+Nadaljuj
+Zaustavljeno - Pritisnite gumb Nadaljuj
+Prezri datoteke v uporabi (ni za skupno rabo)
+Onemogoci opozorilno obvestilo

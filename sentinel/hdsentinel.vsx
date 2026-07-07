@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+	<name>Hard Disk Sentinel</name>
+	<namespace>HDSentinel</namespace>
+	<version>4.20</version>
+	<author name="H.D.S. Hungary">
+		<info url="http://www.hdsentinel.com/" />
+	</author>
+	<copyright>&#169; 2013</copyright>
+	<description>Display hard disk temperature and health information.</description>
+	<icons>
+	<icon height="48" width="48" src="hdsentinel.png"/>
+	</icons>
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="4.20.1" src="hdsentinel.html" />
+			<permissions>full</permissions>
+			<platform minPlatformVersion="0.4" />
+			<defaultImage src="hdsentinel.png"/>
+		</host>
+	</hosts>
+</gadget>

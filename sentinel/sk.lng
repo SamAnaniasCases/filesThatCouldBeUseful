@@ -1,0 +1,1346 @@
+Hard Disk Sentinel je u spustenı.
+Chyba
+Teplota pevného disku
+Predpovedané zlyhanie
+OK
+Podporované
+Nepodporované
+Áno
+ &Pevné disky
+Zvo¾te si pevné disky, ktoré chcete vidie v stavovom okne. Dvojklikom zobrazíte ikony do systémovej lišty. Pravım kliknutím zobrazíte miestne menu.
+Nie.
+Názov (Ve¾kos)
+Teplota
+Ikona v systémovej lište
+ &Nastavenia
+Zobrazi okno s informáciami pri štarte
+Spusti pri štarte
+Prieh¾adnos:
+Jazyk:
+&Zavrie
+Hard Disk Sentinel
+Zvo¾te tento pevnı disk a zobrazi teplotu v systémovej lište
+Zobrazi stavové &okno
+S&chova stavové okno
+&Konfigurácia
+&Ukonèi
+Aspoò jeden pevnı disk musí by zvolenı.
+ &Stavové okno
+Farba pozadia
+Obrázok pozadia
+Zvoli
+Problém s otváraním súboru
+Podporované obrázkové súbory|*.jpg;*.bmp|Všetky súbory|*.*
+Informácie
+S.M.A.R.T.
+Vıkon disku
+Partície
+Informácie o disku
+Informácie o rıchlosti prenosu
+Spolu preèítanıch dát
+Spolu zapísanıch dát
+Aktuálna prenosová rıchlos
+ KB/s
+Aktuálna rıchlos èítania
+Aktuálna rıchlos zápisu
+Aktuálna aktivita pevného disku
+Aktivita disku %
+Rıchlos prenosu (MB/s)
+Informácie pevného disku
+Èíslo pevného disku
+ID modelu pevného disku
+Revízia firmware
+Sériové èíslo pevného disku
+Kapacita
+Informácie ATA
+Poèet stôp na disku
+Poèet hláv na disku
+Poèet sektorov na disku
+Celkovı poèet sektorov
+Revízia ATA
+Bytov na sektor
+Bytov na logickú stopu
+Ve¾kos vyrovnávacej pamäte
+Viacnásobné sektory
+Opravy chıb bytov
+Nenaformátovaná kapacita
+Maximálny PIO mód
+Aktívny PIO mód
+Maximálny UDMA mód
+Aktívny UDMA mód
+Vlastnosti ATA
+Podporované
+Nepodporované
+Atribút
+Hranièná hodnota
+Hodnota
+Najhoršie
+Dáta
+Stav
+Informácie o partícii
+Logická jednotka
+Celkové miesto
+Vo¾né miesto
+Typ partície
+bytov
+Vyuité miesto
+Disk:
+Maximálna prenosová rıchlos
+Odhadovaná max. prenosová rıchlos
+Rıchlos zápisu na DVD
+Pre správne meranie je potrebné väèšie vyuitie disku.
+OK (môe sa zmeni)
+Chyba (môe by chybnı)
+Odporúèanie: Prekroèená doba pouívania
+Moné zlyhanie: Predpokladaná strata dát
+Skopírova celú stránku do schránky
+&História teplôt pevnıch diskov
+Od inštalácie
+O programe
+&Registrácia
+Registraèné meno:
+Registraènı k¾úè:
+Neplatnı registraènı k¾úè, registrácia sa nepodarila.
+Registrácia bola úspešná. Ïakujeme za Vašu podporu.
+Pri spustení zobrazi hlavné okno
+Dostupné len po aktivácii a registrácii.
+Neregistrovaná verzia. Prosím, zaregistrujte ju.
+Registrované pre:
+Preh¾ad
+Aktuálna teplota:
+Maximálna teplota (dnes):
+Teplota je v poriadku.
+Aktuálna teplota je privysoká. Odporúèame pevnı disk chladi, ak je to moné.
+Aktuálna teplota je v poriadku, ale bola privysoká. Odporúèame pevnı disk chladi, ak je to moné.
+Vıkon:
+Zdravie:
+Vıborné
+Dobré
+Primerané
+Akceptovate¾né
+Zlé
+Nie je potreba vykona iadne èinnosti.
+Odporúèame Vám zálohova dáta, aby ste predišli ich strate.
+&Vlastnosti
+Pr&eh¾ad o pevnom disku
+Predošlı pevnı d&isk
+N&asledujúci pevnı disk
+&Upozornenia
+Odosla e-mailové upozornenie, ak je predpokladané zlyhanie pevného disku
+Odosla e-mailové upozornenie, ak je teplota pevného disku privysoká
+E-&mailová konfigurácia
+Úèet:
+Meno odosielate¾a:
+E-mail odosielate¾a:
+E-mail prijímate¾a:
+Server SMTP:
+Monosti autentifikácie (Ak nie sú vyadované, nechajte prázdne):
+Uívate¾ské meno:
+Heslo:
+Pôvodné
+Nasledujúce pole musí by vyplnené, aby bolo moné odosla e-mail:
+Chcete poadované údaje zada teraz?
+Nepodarilo sa odosla e-mailové upozornenie.
+E-mailové upozornenie bolo odoslané.
+Prehriatie
+Hranièná teplota
+Jednotka teploty
+Posla správu
+Písmo:
+Uloi
+Zobrazi v systémovej lište iba najvyššiu teplotu
+Jednotka prenesenıch dát:
+Nastavenie hluènosti disku
+Vypnuté
+Zapnuté
+Aktuálna hluènos disku
+Odporúèaná hluènos disku
+Neznáme
+Max. vıkon a hluènos
+Min. vıkon a hluènos
+Vyváenı vıkon a hluènos
+Nastavenie hluènosti
+Pôvodné
+Priemernı poèet èítaní za deò
+Priemernı poèet zápisov za deò
+Pri¾nú k rohom obrazovky
+Upozornenie
+Odosla/zobrazi správu
+Vypnú
+Keï sa oèakáva zlyhanie
+Keï je teplota privysoká
+Keï je do logu pridanı novı zápis
+Posla dennı stav e-mailom
+O
+Pokles na kritickú hodnotu
+Aktuálny stav
+E-mail o aktuálnom stave nebol odoslanı.
+E-mail o aktuálnom stave bol odoslanı úspešne.
+Ak&tualizácia
+Nájs novú verzia a aktualizova raz tıdenne
+Skontrolova novú verziu teraz
+Dátum poslednej kontroly:
+Neboli urobené iadne kontroly
+Zruši
+Inštalovaná verzia:
+Posledná verzia:
+Aktualizujú sa súbory
+Aktuálny súbor:
+Celkovo:
+Pouívate najnovšiu verziu programu.
+Nastala chyba pri sahovaní. Skontrolujte nastavenia siete a skúste to znova.
+Aktualizácia úspešná.
+Stav: Kontrola aktuálnej verzie
+Stav: Sahovanie
+Zavrie
+Pevnı disk nenájdenı.
+Funkcia S.M.A.R.T. nie je dostupná. Je potrebné skopírova súbor Smartvsd.vxd z prieèinka Windows\System do prieèinka Windows\System\IoSubsys a reštartova poèítaè. Viac informácii nájdete v Pomoc -> Inštalácia.
+Pre prístup k informáciám o pevnom disku je potrebné ma práva administrátora.
+Protokol
+Poèet zaznamenanıch problémov
+Poznámka: Registrovaná verzia umoòuje zaslanie upozornenia e-mailom a vypnutie poèítaèa, ak sa vyskytne novı problém s pevnım diskom.
+iadne zaznamenané problémy.
+Stav disku je stabilnı.
+Upozornenie: stav disku sa v poslednıch dòoch zhoršil.
+Dátum
+Predchádzajúca hodnota
+Nová hodnota
+Upozornenie: v poslednıch dòoch sa vyskytlo viacero problémov.
+V minulosti funkènı pevnı disk neodpovedá. Je moné, e operaènı systém toto zariadenie zastavil, aby zabránil ïalším problémom.
+Stav programu:
+Problém pri naèítaní aktivaènıch informácii.
+Úspešne registrované a aktivované.
+Registrované, ale neaktivované.
+Neregistrované a neaktivované.
+Registrácia a aktivácia cez internet
+Registrácia a aktivácia cez e-mail
+Aktivaènı súbor je uloenı ako:
+Zašlite prosím tento súbor spolu s Vašim registraènım menom a k¾úèom na adresu info@hdsentinel.com Vıvojári Vám zašlú registraènı súbor, ktorı naèítate do programu prostredníctvom tlaèítka "Naèíta aktivaènı k¾úè". Takisto je moné nakopírova ho do inštalaèného prieèinka manuálne.
+Odporúèame Vám vyui aktiváciu cez internet - táto aktivaèná metóda je rıchlejšia a pohodlnejšia.
+Maximálny poèet aktivácii pre tento registraènı k¾úè bol prekroèenı.
+Chyba pri aktivácii.
+Chyba pri komunikácii s aktivaènım serverom.
+Kontaktujte autora programu kvôli Vašej licencii.
+Táto aplikácia u bola aktivovaná s danım registraènım k¾úèom na 5 rôznych konfiguráciách.
+Vyskytla sa chyba pri èítaní dát zo servera.
+Aktivácia nie je moná.
+Aktivácia dokonèená, ïakujeme za podporu.
+Aktivácia úspešná
+Aktivácia e-mailom
+V systéme Windows 98 je moné zariadenie USB spôsobuje tento problém, pretoe má problémy s funkciou S.M.A.R.T. na sekundárnom IDE kanáli.
+Pevnı disk neodpovedá.
+Pevnı disk neodpovedá po dlhší èas. Je moné, e bol odpojenı.
+Zobrazi aplikáciu na paneli úloh aj v systémovej lište.
+Prebieha analıza systému. Prosím, èakajte.
+Pomoc
+Zadajte registraèné meno (alebo prezıvku) a registraènı k¾úè, ktorı ste obdrali. Ak Váš poèítaè má aktívne pripojenie k internetu, zvo¾te aktiváciu cez internet: v tomto prípade je registrácia a aktivácia automatická, ïalšie úkony nie sú potrebné. V opaènom prípade, zvo¾te aktiváciu cez e-mail a zašlite zobrazenı súbor autorovi. Následne obdríte súbor s aktivovanım k¾úèom, ktorı umiestnite do prieèinka, v ktorom je program nainštalovanı.
+Udalos
+Preklad
+Lukas Surin
+_translator email_
+E-mail
+Súbory TXT
+Všetky súbory
+Èervená ikona v prípade prehriatia
+Pokroèi&lé monosti
+Frekvencia detekcie:
+1 sekunda
+5 sekúnd
+10 sekúnd
+30 sekúnd
+1 minúta
+2 minúty
+5 minút (základné)
+10 minút
+30 minút
+1 hodina
+Zapnú upozornenie, ak pevnı disk neodpovedá
+Priemerná teplota (dnes):
+Aktuálna
+Dennı priemer
+Denné maximum
+Zvukové upozornenie
+Zvo¾te zvukovú súbor
+Zvukové súbory
+Dvojklik alebo pravı klik pre viac informácii.
+Prispôsobi
+OK
+Zruši
+Pri vykonaní tohto príkazu sa vyskytla chyba.
+Táto funkcia vyaduje Windows 2000, XP alebo novší.
+Ak je málo vo¾ného miesta na disku
+Hranica vo¾ného miesta na disku
+Poui rovnaké nastavenie pre všetky nainštalované disky
+Všeobecné nastavenia
+Upozorni, ak vo¾né miesto je menej ne
+Málo vo¾ného miesta na disku
+Nízky
+Vypnú automatické skenovania diskov pri štarte Windows.
+Pre pouitie novıch nastavení je potrebné reštartova poèítaè.
+Synchronizova èas s atómovımi hodinami.
+Pri spustení aplikácie
+Chcete zobrazi stav pevnıch diskov v malom stavovom okne?\n(Neskôr je moné toto nastavenie zmeni pravım kliknutím\n na systémovú lištu, vo¾ba "Konfigurácia".)
+Tento pevnı disk nepodporuje sledovanie teploty.
+Nie je moné zisti pre tento pevná disk.
+&Pomoc
+Pomoc nie je dostupná. Stiahnite plnı inštalaènı balíèek zo stránky programu.
+Táto funkcia nie je dostupná pre zvolenı pevnı disk.
+Zmeni základné ikony diskov v Prieskumníkovi.
+Informácie SCSI
+Informácie vırobcu
+Verzia
+Typ zariadenia
+Disk
+Vymenite¾nı
+Predpokladané zlyhanie
+Pevnı disk
+Vzdialenı disk
+Optické úloisko
+Oznaèené logické jednotky patria k zvolenému fyzickému pevnému disku.
+Zmeni spôsob zobrazenia
+Názov jednotky
+Sériové èíslo
+Monitorova miesto na sieovıch jednotkách
+Skratk&y
+Príkaz
+Zapnú systémové skratky (môu by pouité zo všetkıch aplikácii)
+Nastavenia &disku
+Zmeni vıchodiskovú systémovú ikonu pre sieové disky
+Monitorova miesto na vymenite¾nıch diskoch
+Zmeni vıchodiskovú systémovú ikonu pre vymenite¾né disky
+Nezisova informácie o vo¾nom mieste na nasledujúcich jednotkách: (napr.: CDE)
+Nemeni ikony na nasledujúcich jednotkách: (napr.: KL)
+Dvojklikom otvoríte jednotku. F5 pre Obnovenie.
+V jednotke nie je iaden disk.
+Test e-mailu.
+Ak sa podarí túto správu doruèi, konfigurácia e-mailu je správna.
+Testovací e-mail bol odoslanı.
+Vyskytol sa problém pri odosielaní testovacieho e-mailu. Skontrolujte prosím nastavenia e-mailu.
+Èas prevádzky:
+dní
+hodín
+minút
+Odhadovanı zostávajúci èas:
+viac ne
+sekúnd
+Port:
+Oneskorenie spustenia scandisku (v sekundách):
+Zdravie:
+Keï je zdravie disku nízke
+Núdzová záloha
+Hranica zdravia:
+Zobrazi správu na obrazovke
+Odosla správu na vzdialenı poèítaè (NET SEND):
+Táto funkcia je dostupná len vo verzii PROFESSIONAL.\nPouitím tejto funkcie je moné spusti predkonfigurované úlohy zálohovania v prípade vıskytu problémov.\n\n Navštívte domovskú stránku (www.hdsentinel.com) pre viac informácii o tejto funkcii.
+Zdravie - nízke
+Vytvori testovací report
+Chyba pri odosielaní reportu.\nOtvorte okno Konfigurácia, zvo¾te Odosla testovací report, ulote ho a zašlite na reports@hdsentinel.hu
+&Nastavenie správ
+Odosla e-mail
+Vytoèi vıchodzie internetové pripojenie
+Ukonèi spojenie po odoslaní
+Zobrazi uívate¾skú správu z textového súboru
+Prosím èakajte, prebieha zisovanie...
+Neplatné registraèné údaje - táto funkcia je vypnutá.
+Informácie o zdraví
+Vyskytla sa chyba pri ukladaní. Je moné, e disk je plnı alebo iba na èítanie.
+Hranice / Systémová &Lišta
+Zobrazi teplotu disku v ikone na systémovej lište
+Pod
+Medzi \1 a \2
+Teplota:
+Nad
+Poui klasické (digitálne) èísla v systémovej lište.
+Pozadie
+Popredie
+Príklad
+Zobrazi stav zdravia disku v ikone na systémovej lište
+O aplikácii
+Aktuálny dátum a èas
+Systémové informácie
+Verzia Windows
+Typ a rıchlos procesora
+Vırobca BIOS
+Fyzická ve¾kos pamäte
+Zobrazovací adaptér
+Rozlíšenie displeja
+Tlaèiareò
+Sieová karta
+Informácie zariadenia PCI
+Informácie o poèítaèi
+Názov poèítaèa
+Uívate¾ské meno
+IP adresa
+MAC adresa
+Informácie o fyzickom disku
+Indikátory
+Kritické
+Štatistické
+Vıkon
+Poèet chıb
+Poèet udalostí
+Automatická diagnóza
+Plocha
+Server
+Prenosnı
+Typ poèítaèa
+Všeobecné informácie
+HTML súbory|*.html|Všetky súbory|*.*
+Uloi report
+Posla report e-mailom
+Typ reportu:
+Detailnı HTML report
+Struènı textovı report
+Odosla &Testovací report
+Zobrazi informácie o pevnom disku
+Model pevného disku
+Jednotka(y)
+Zdravie
+Stav / Problém
+Fyzickı disk
+Stav pevného disku je neznámy.
+Stav pevného disku je perfektnı.
+Stav pevného disku nie je perfektnı.
+Predpokladané zlyhanie na tomto pevnom disku.
+Vyskytlo sa \1 vadnıch sektorov na tomto pevnom disku. Obsah tıchto sektorov bol presunutı do náhradnej oblasti.
+S oh¾adom na poèet remapping operácii, zdravie disku bolo zníené.
+S oh¾adom na poèet remapping operácii, vadné sektory na disku môu vytvára celistvé oblasti
+Poèet nájdenıch vadnıch sektorov v rámci samokontroly: \1
+Pri roztoèení disku vznikol problém \1 krát. Toto môe by spôsobené samotnım diskom, ako aj vysokou záaou zdroja (prípadne je zdroj slabı).
+Poèet slabıch sektorov na povrchu disku: \1 Môu by opravené pri ïalšom pouívaní disku.
+Poèet problémov komunikácie disku a hostite¾a: \1 V prípade náhleho pádu alebo reštartu je odporúèané skúsi kratší datovı kábel (vyhnite sa gu¾atım káblom, pouite radšej 80 ilové štandardné).
+Odporúèame pravidelnú kontrolu denníka udalostí (logu) disku, kde nájdete prípadne vzniknuté problémy.
+Stav pevného disku je VİBORNİ. Problematické alebo slabé sektory neboli na tomto disku nájdené, nevyskytli sa problémy s roztáèaním plotní ani chyby prenosu dát.
+Poui
+Odchılka
+Odchılka:
+Odporúèame kalibrova teplotu disku a nastavi správnu odchılku na záloke S.M.A.R.T., èím sa docieli zobrazovanie správnych teplotnıch hodnôt. 
+Spôsob vıpoètu zdravia:
+Analyzova pole dát (pôvodné)
+Analyzova špecifické hodnoty vırobcov (neodporúèané)
+Hranièné hodnoty:
+Graf atribútov
+Zobrazi pole dát
+Zobrazi špecifické hodnoty vırobcov
+Neoèakávané
+Udalos
+Detailnı textovı report
+Súbor
+Zobrazi
+Report
+Uloi TXT report
+Uloi HTML report
+Odosla TXT report
+Odosla HTML report
+Je odporúèané monitorova stav diskov nepretrite.
+Analyzova dátové polia (striktnejšie, odporúèané pre servery)
+Zmeni odchılku atribútu
+Pouitie tejto vo¾by je odporúèané len pokroèilım uívate¾om. Pouitie tejto vo¾by môe spôsobi, e zobrazenı stav nebude zodpoveda aktuálnym podmienkam. Ste si istı, e chcete zmeni túto vo¾bu?
+Znovu nezobrazova.
+Pouitie tejto vo¾by je odporúèané len pokroèilım uívate¾om. Pouitie tejto vo¾by môe spôsobi, e zobrazenı stav bude nesprávny a nezobrazia sa niektoré upozornenia o budúcich zmenách stavov diskov. Ste si istı, e chcete zmeni túto vo¾bu?
+Vypnú zvukové upozornenia
+Zapnú zvukové upozornenia
+Vyskytla sa chyba pri nastavovaní úrovne hluènosti disku.\n Pevnı disk alebo ovládaè nepodporuje túto funkciu.
+Monitorovanie tohto pevného disku v reálnom èase nie je podporované.
+Poznámka: neregistrovaná verzia neukladá zmeny tıchto volieb. Nastavenia budú zmenené spä na pôvodné po reštarte aplikácie.
+Zapnú atribút
+Opakova zvukové upozornenie
+Poui PC speaker
+Test odoslania
+Správa bola úspešne odoslaná na cie¾ovı poèítaè.
+Poèas operácie sa vyskytla chyba. Skontrolujte sieové pripojenia a stav sluby správ na oboch poèítaèoch.
+Problémy vyvolali zvukové upozornenie
+Znovu zapnú upozornenia
+ATA kontrola bajtov
+V poriadku
+Chybná
+Hodnota kontrolného súètu ATA
+zobrazené informácie nemusia by správne
+Test zvukového upozornenia
+Vytvori odkaz tohto projektu na Plochu
+Vytvorenie odkazu
+Odkaz tohto projektu bol úspešne vytvorenı.
+Pri vytváraní odkazu tohto projektu sa vyskytla chyba
+Registrácia vypršala. Kontaktujte autora oh¾adom rozšírenia licencie.
+Nehybné stavové okno
+Zobrazi informácie na ploche
+Licencia je platná:
+Navdy
+Vypršala
+iadna
+Plne transparentné pozadie
+Inte&grácia
+Sluba
+Poadova heslo na otvorenie hlavného informaèného okna
+Poadova heslo na otvorenie nastavení alebo ukonèenie programu
+Odhlási po
+minútach
+Heslo:
+&Odhlási teraz
+Poui ako &Slubu
+Poui ako &Aplikáciu
+Vzdialená správa
+Zapnú vzdialené pripojenie s Hard Disk Sentinel serverom
+Názov servera alebo IP adresa:
+TCP port (prednastavenı = 61210):
+Ochrana heslom
+Chyba pri inštalácii sluby Hard Disk Sentinel.
+Chyba pri spúšaní sluby Hard Disk Sentinel.
+Chyba pri zastavení sluby Hard Disk Sentinel.
+Hard Disk Sentinel teraz uloí aktuálnu konfiguráciu a bude ukonèenı. Následne bude znova spustenı ako sluba.
+Sluba Hard Disk Sentinel teraz uloí aktuálnu konfiguráciu a bude ukonèenı. Následne bude znova spustenı ako aplikácia.
+Vyaduje sa kontrola prístupu
+Bolo zadané nesprávne heslo. Túto funkciu nie je moné poui.
+Pre ukonèenie sluby Hard Disk Sentinel, pouite odkaz "Zastavi slubu" alebo prepnite program spä do Módu Aplikácia na paneli Integrácia v okne Konfigurácia a zavrite aplikáciu.
+Nie
+Vysokı
+Maximum
+Aktualizácia nie je dostupná, keï je Hard Disk Sentinel spustenı ako sluba. Prepnite program naspä do Módu Aplikácia na paneli Integrácia v okne Konfigurácia, pred aktualizáciou na novšiu verziu.
+Mód Sluba
+Núdzovı reim (vypnú detekciu hardwaru)
+Sluba Hard Disk Sentinel nie je nainštalovaná. Otvorte okno Konfigurácia, zvo¾te Integrácia a nainštalujte slubu Hard Disk Sentinel.
+Sluba Hard Disk Sentinel je u spustená.
+Sluba Hard Disk Sentinel nie je spustená.
+Priemerná rıchlos prenosu
+Priemerná disková aktivita
+Zopakova test
+Informácie nie sú dostupné
+Sluba Hard Disk Sentinel je zastavená.\nPrajete si vypnú slubu a pouíva software v Móde Aplikácia?
+Microsoft Vista a novšie operaèné systémy neumoòujú slubám spustenie na ploche.\n\nHard Disk Sentinel bude spustenı skrytı: okná a ikony nebudú zobrazené\na nebude moné pristupova ku konfigurácii.\n\nNa zastavenie sluby a pouitie v Móde Aplikácia,\nspustite odkaz "Zastavi slubu zo skupiny Hard Disk Sentinel.\n\nPokraèova?
+Zistite ako sa táto hodnota vypoèítava
+Umonite tejto aplikácii spustenie s adekvátnymi oprávneniami
+Sada ikon diskov:
+XP
+Vista
+Spusti test
+Test disku
+Test:
+Stav:
+Odhadovanı zostávajúci èas:
+Vyskytla sa chyba pri spúštaní testu. Èíslo chyby: 
+Prebieha kontrola, neboli nájdené iadne problémy
+Vısledok
+Uplynutı èas:
+Tento registraènı k¾úè môe by pouitı len na registráciu verzie STANDARD. \nStiahnite a nainštalujte verziu STANDARD z www.hdsentinel.com,\n aby ste mohli poui tento registraènı k¾úè.
+Tento registraènı k¾úè môe by pouitı len na registráciu verzie PROFESSIONAL.\nStiahnite a nainštalujte verziu PROFESSIONAL z www.hdsentinel.com,\n aby ste mohli poui tento registraènı k¾úè.
+Poui megabajt ako jednotku hraniènıch hodnôt
+Potvrdi:
+Zadané heslá nie sú zhodné.\nZadajte rovnaké heslo a potvrïte.
+Zapnú WebStatus
+Poadova heslo na zahájenie spojenia
+HTTP port
+Adresa portu (>1023)
+Komentár
+Decimal data fields
+Pevnı disk sa pokúsil o realokáciu sektorov: \1 krát. Kontrolovaná oblas je v poriadku.
+Bezodkladne vymeòte pevnı disk.
+Zloenie detailného reportu
+Záloha / Obnovenie aktuálnej konfigurácie
+Zálohova konfiguráciu
+Obnovi konfiguráciu
+Optickı disk
+Vytvori alebo aktualizova XML súbor
+Teplotnı senzor pevného disku je chybnı. Nameraná hodnota je:
+Prija vzdialené spojenia zo serveru
+Port vzdialeného spojenia
+Vypnú varovania v systémovej lište
+Vypnú detekciu USB a SCSI diskov
+Odosla
+Komentáre:
+Odosla vıvojárom
+Kontaktujem server - www.hdsentinel.com
+Odosielanie správy
+Správa bola úspešne odoslaná.\nÏakujeme za Vašu podporu.
+Odosla testovací report vıvojárom.
+Vytváranie reportu
+Chcem dosta odpoveï po vyhodnotení reportu
+Toto je hlásenie o chybe
+Otvori &Hlavné okno HD sentinelu
+Vidite¾ná
+Ve¾kos pevného disku:
+Ve¾kos partície:
+CC (kópia):
+BCC (skrytá kópia):
+Aktualizova správu
+(odhadovaná)
+Poèítanie èasu, prosím, èakajte ... Aktuálna hodnota nemusí by presná
+Vzdialená cesta
+Dosiahnutá ltá úroveò teploty.
+Dosiahnutá èervená úroveò teploty.
+Dosiahnutá ltá úroveò zdravia.
+Dosiahnutá èervená úroveò zdravia.
+Limit:
+Teplota:
+Atribút zmenenı
+Vyèisti denník
+Pozadie
+Zapnú slubu DynDNS
+Zapnú slubu No-IP
+Zapnú uívate¾skú slubu dynamického DNS
+Nastavenia
+Uívate¾ské meno
+Heslo
+Názov hostite¾a (úplnı)
+Celá URL pre aktualizáciu (%ip% zmenená na aktuálnu IP)
+Posledná odpoveï serveru:
+Gadget
+Zapnú Gadget
+Zobrazi hlavièku
+Zobrazi aktivitu disku
+Chcete otestova nastavenia teraz aktualizovaním IP adresy?
+Poèet nájdenıch problémov na danom atribúte je vysokı:
+Èítanie:
+Zápis:
+Všetky disky
+Ikona aktivity
+Zobrazi všetku aktivitu v jednej ikone
+(HIGH word)
+(MID word)
+(LOW word)
+Stav napájania:
+Aktívny
+Spánok
+(od \1)
+Èas behu systému
+Systém spustenı od
+Radiè disku
+Umiestnenie disku
+Navštívte našu &Webstránku
+Kontakt
+Kúpi teraz
+Vlote Registraènı k¾úè
+Zoznam obsahuje \1 poloiek. K zobrazení všetkıch poloiek program zaregistrujte.
+Vyuitie procesora
+Procesor
+Virtuálna pamä
+Vyuitie:
+Pevnı disk pracuje v reime PIO, ktorı má vıraznı vplyv na vıkon. Skontrolujte a vymeòte dátovı kábel alebo upravte nastavenia.
+Pevnı disk pracuje v reime UDMA, mód 2 (33 Mbytes/s), èo má vplyv na vıkon. Odporúèame pouitie 80 ilového IDE kábla (v prípade, e radiè podporuje vyššie rıchlosti).
+Radièe Silicon Image (SiI) nemusia poskytnú o diskoch všetkıch dostupné informácie. 
+Aktuálny ovládaè radièa diskov neposkytuje plnı prístup k disku za úèelom získania všetkıch informácii. Skontrolujte, èi nie je dostupnı aktuálnejší ovládaè.
+Toto úloné zariadenie USB neposkytuje viac informácii, ale je moné ho otestova prostredníctvom funkcie Disk -> Test povrchu.
+Toto pole RAID neposkytuje prístup k detailnım informáciám diskov v poli,ale je moné ho otestova prostredníctvom funkcie Disk -> Test povrchu.
+Pouite menu "Report", vo¾bu "Odosla testovací report vıvojárom", aby sme mohli zisti, èi je moné zobrazi viac informácii.
+Navštívte stránky "Hardware" a "Podpora -> Èasto kladené otázky (FAQ)" na www.hdsentinel.com pre viac informácii.
+Zapnú
+Maximálna teplota (za celı èas):
+Minimálna teplota (za celı èas):
+2 hodiny
+4 hodiny
+6 hodín
+8 hodín
+12 hodín
+Vyhradené 1
+Vyhradené 2
+ltı teplotnı limit bol dosiahnutı. Ak teplota disku stále stúpa, odporúèame pridanie chladenia, ak je to moné.
+Zvo¾te záloku "Hranièné hodnoty / Systémová lišta" pre konfiguráciu hraniènıch hodnôt zdravia a teplôt pre ltú a èervenú úroveò.
+Kritickı
+Odporúèame bezodkladne zálohova, aby ste predišli strate dát.
+Kompaktné tlaèítka
+Normálne tlaèítka
+Ve¾ké tlaèítka
+Vıkon:
+Rozhranie:
+Správa
+Test prístupovej doby
+Test prístupovej doby, hluènosti a teploty
+Prístupová doba
+Minimum
+Maximum
+Priemer
+Test
+Uplynulo
+Zostáva
+Operácii
+Chyby
+Spusti &Test
+&Zastavi Test
+Rıchly test
+Normálny test
+Håbkovı test
+Dlhı intenzívny test
+Uívate¾ská vo¾ba
+Èas na dokonèenie testu(HH:MM:SS): 
+Test Èítania
+Test Zápisu
+V neregistrovanej verzii je túto funkciu moné poui iba jedenkrát.
+Prajete si otvori webovú stránku programu pre podrobné informácie o registrácii?
+Ste si istı, e chcete zastavi túto operáciu?
+Táto funkcia nie je dostupná na zvolenom disku kvôli konfigurácii radièa a diskov.
+Hard Disk Sentinel Skúšobná Verzia
+Registrovaná verzia Hard Disk Sentinel poskytuje najvyšší stupeò ochrany dát prostredníctvom upozornení, diagnostiky disku, automatickıch záloh (iba verzia PRO), vzdialenú správu a ïalšie funkcie na otestovanie a zvıšenie stability a vıkonu úlonıch zariadení.\n\n Táto demoverzia môe by pouívaná maximálne 30 dní. Po vypršaní tejto skúšobnej doby by ste mali program registrova alebo presta pouíva.\n\nBenefity kúpy licencovanej verzie:\n\n- najvyšší stupeò ochrany dát\n- rıchle, bezpeèné a flexibilné monosti platby\n- okamitı prístup ku všetkım funkciám\n- technická podpora a pomoc zadarmo\n- doivotná licencia, iadne ïalšie poplatky\n- iadne obmedzenia a otravné upozornenia
+Odchılka S.M.A.R.T. je nastavená pre atribút, ktorı sa pouíva na vıpoèet tejto hodnoty
+&Zvoli písmo ikon v systémovej lište
+Vypnú spin down diskov (èísla oddelené èiarkou, napríklad: 1,2 alebo * pre všetky)
+Overi on-line
+Porovna hodnoty S.M.A.R.T. s rovnakımi modelmi pre zistenie, èi sú hodnoty horšie alebo lepšie ako priemer
+Test povrchu
+Analyzova povrch disku rôznymi metódami a testami
+Mapa povrchu disku
+Teplota a rıchlos disku
+Blok
+Poškodené
+Priebeh
+V poriadku
+Èas
+Zost.
+Sektor
+Test zastavenı
+Nie je moné disk uzamknú pre vıhradne pouitie.\nNapriek tomu testova (NEODPORÚÈANÉ)?
+Test kompletnı
+Pozícia
+Sekvenènı test
+Test blokov od zaèiatku do konca
+Náhodnı test
+Test blokov v náhodnom poradí
+Rıchly test
+Alternácia: testova jeden blok na zaèiatku a jeden na konci
+Sekvenènı spätnı test
+Test blokov od konca na zaèiatok
+Sektor
+Verifikova chyby
+&Uloi informácie disku
+&Naèíta informácie disku
+Inicializácia
+Inšpekcia obsahu disku
+&Predchádzajúce
+&Nasledujúci
+&Ís na...
+Vyberte jednotku (dostupnú pre operaènı systém), ktorá sa má otestova a testovaciu metódu.\nPreèítajte si pozorne detailné informácie pred zaèatím testu.\nKliknutím na "Zobrazi" zobrazíte detaily povrchu disku, pouite funkciu \1 alebo skontrolujte vısledky predošlıch testov.
+Test èítania
+Preèíta povrchu disku za úèelom overenia, e všetky sektory sú dostupné a èitate¾né.\n\nTest je úplne bezpeènı a nijako neovplyvòuje uloené dáta.\n\nProblémy s diskom môu osta skryté a prípadne nájdené problémy NEBUDÚ odstránené (ako v prípade scandisku).
+Test zápisu
+Prepíše povrch disku s konfigurovate¾nım vzorom dát, èím sa vynúti analıza slabıch sektorov a kontrolujú sa skryté problémy. Tieto sú následne opravené realokáciou zlıch sektorov.\n\nTento test umoní lepšie pouívanie disku, pretoe namiesto problematickıch sektorov sa pouije vyhradené realokaèné miesto.
+Zápis + test èítania
+Prepíše povrch disku s konfigurovate¾nım vzorom dát a následne ho spä preèíta pre overenie, èi sú sektory dostupné a zhodné so zapísanımi údajmi, èím sa vynúti analıza slabıch sektorov a kontrolujú sa skryté problémy. Tieto sú následne opravené realokáciou zlıch sektorov.\n\nTento test umoní lepšie pouívanie disku, pretoe namiesto problematickıch sektorov sa pouije vyhradené realokaèné miesto.
+Èítanie + zápis + test èítania (refresh data area)
+Preèíta uloené dáta z kadého bloku, zapíše spä ich obsah a nakoniec dáta znova preèíta a porovná s pôvodnım obsahom. Tımto rozšírenım testom sa pouije dodatoènı zapisovací cyklus, pred spätnım zapisaním obsahu na zlepšenie efektivity a opravy chıb.\n\nOperácia je zväèša bezpeèná, ale môe dôjs k strate dát, ak systém nie je stabilnı a/alebo dôjde k vıpadku napájania, pretaktovanı, vyskytujú sa problémy s pamäami/napájacím zdrojom alebo iné.\n\nTest môe by pouitı na obnovenie dátovej èasti disku bez potreby kompletného vymazania. Napriek tomu je odporúèané zálohovanie dát pred testom.
+Reinicializácia povrchu disku
+Prepíše povrch disku špeciálnym inicializaènım vzorom pre obnovenie pôvodného (prázdneho) stavu sektorov a preèíta znova obsah sektorov pre overenie, èi sú dostupné a zhodné. Tımto testom sa vynúti analıza slabıch sektorov a kontrolujú sa skryté problémy. Tieto sú následne opravené realokáciou zlıch sektorov.\n\nTento test umoní lepšie pouívanie disku, pretoe namiesto problematickıch sektorov sa pouije vyhradené realokaèné miesto. \nTest je ve¾mi intenzívny a èasovo nároènı, najmä ak úroveò (poèet prepisov) je nastavená na vyššiu hodnotu.\n\nJednoduchšia verzia tohto testu je zvyèajne (a nesprávne) niektorımi nástrojmi nazıvaná low level format.
+Poradie sektorov
+Nedeštruktívne - bezpeèné pre dáta
+Uzamknú disky poèas testu (odpoji jednotky)
+Opakova test
+krát
+Testova iba špecifické bloky
+Prvı blok:
+Poslednı blok:
+DEŠTRUKTÍVNE - všetky dáta budú odstránené
+Prázdne dáta (nuly)
+Náhodné dáta
+Èíslo sektorov
+Rozšírenı èítanie-zápis-èítanie test s dodatoènım zápisom
+Úroveò reinicializácie povrchu
+Vo väèšine prípadov nedeštruktvíny (viac v sekcii Pomoc) 
+Test permanentne znièí VŠETKY DÁTA na zvolenom disku.\nTento proces je nezvratnı.\n\nSte si istı, e chcete spusti tento test a VYMAZA VŠETKY DÁTA uloené na disku?
+Tento test vykoná ZÁPIS na zvolenı disk.\nTest sám o sebe nie je pre dáta deštruktívny, ale strata dát sa môe vyskytnú.\n\nSte si istı, e chcete spusti tento test?
+Potvrdenie testu
+Kliknite na mapu povrchu pre zobrazenie obsahu sektora.\n\nPravım kliknutím otvoríte kontextovú ponuku.
+Test meria èas prenosu pre všetky bloky a odhalí, ktoré èasti povrchu sú pomalšie. Èím pomalšie bloky sú, tım tmavšia farba je priradená.
+Autor programu neposkytuje iadnu záruku pre dáta uloené na disku.
+Aktuálny priechod
+Všetky priechody
+Nie je moné vykona test zápisu na systémovej jednotke obsahujúcej nasledujúce prieèinky
+Naèítané informácie zodpovedajú odlišnému disku,\nAvšak po kliknutí na mapu povrchu sa zobrazia sektory aktuálneho disku.
+V tomto bode nie je moné uplatni záruènú vımenu disku,s vınimkou situácie, keï zdravie disku neustále klesá.
+Prajete si prebudi všetky spiace pevné disky?\nV opaènom prípade len informácie o aktívnych diskoch budú aktualizované.
+Aktualizova informácie o disku
+Typ testu:
+Dopad na dáta:
+Vzorec zápisu
+Resetova maximálne a minimálne hodnoty teploty disku
+Maximálna teplota (nameraná za ivota disku):
+Zobrazi hodnoty
+Poui SSL
+Radiè SSD
+Stav SSD je PERFEKTNİ. Problematické alebo slabé sektory neboli nájdené. 
+Zdravie disku sa pri SSD zisuje špecifickımi S.M.A.R.T. atribútmi: 
+Nastavenia vlastností disku
+Vyskytla sa chyba pri posielaní príkazu disku..\nRadiè disku alebo jeho ovládaè nepodporuje túto funkciu.\n\nPríkaz môe by vykonanı po aktualizácii ovládaèov alebo\n pouitím iného operaèného systému, prípadne iného radièa disku\n alebo podporovaného externého USB disk / dokovacej stanice.
+Nastavi a zapnú
+Vypnú
+Oneskorené spustenie (v sekundách):
+Vlastné hranièné hodnoty teplôt
+lté hranièné hodnoty teplôt:
+Èervené hranièné hodnoty teplôt:
+Vypnú vlastné hranièné hodnoty teplôt pre zvolené disky
+Nastavi vlastné hranièné hodnoty
+Zmeni vlastné hranièné hodnoty
+Vlastné
+Všeobecné
+V neplatenej verzii Hard Disk Sentinel je moné nastavi vlastné hranièné hodnoty teplôt iba pre jeden pevnı disk.
+Ovládaè S.M.A.R.T. nie je dostupnı pre aktuálny systém Win9x/ME.\nChcete automaticky aktualizova konfiguráciu a reštartova poèítaè teraz?
+Naèíta súbor s aktivovanım k¾úè
+Prístupovı bod NTFS
+Prístupovı bod
+Upozornenie: dáta nemusia by plne chránené.
+Èasovo obmedzená ponuka: Upgradujte dnes a ušetrite \1 na licenènom poplatku!
+(vlote kód kupónu \1 pri online registrácii a kliknite nad odkaz uvedenı nišie)
+Poèkajte \1 sekúnd pred pokraèovaním...
+Informácie o jednotke
+Typ partície
+Aktívna
+Zarovnanie
+Zaèiatok odchılky
+Dåka
+Ve¾kos alokaènej jednotky
+Celkovı poèet alokaènıch jednotiek
+Vo¾nıch alokaènıch jednotiek
+Pouitıch alokaènıch jednotiek
+Typ jednotky
+Dynamická
+Základná
+&Zobrazi stav offline diskov
+Vyberte disky zo zoznamu pre zobrazenie ich stavu, tak ako pri aktívnych diskoch.
+Offline
+Vybra disky, ktoré budú zahrnuté do aktuálneho reportu diskov.
+&Uloi aktuálny report diskov
+&Overi aktuálny report diskov
+Zvolenı súbor nie je aktuálny report diskov.
+Aktuálny report disku bol úspešne skontrolovanı.
+Aktuálny report disku je poškodenı alebo neplatnı
+Aktuálny report disku
+&Jednotka Windows/Informácie RAID
+\1 nájdenıch chıb poèas presunu dát, èo môe indikova problém so zariadením alebo dátovımi/napájacími káblami. Odporúèame skontrolova a vymeni káble, ak je to moné. 
+\1 nájdenıch chıb poèas zápisu.
+Obmedzenia radièa RAID môu zabráni detekcii ïalších informácii o disku. Tieto obmedzenia nie sú spôsobené programom Hard Disk Sentinel.
+Prihláste sa k odberu nášho newsletteru, aby ste boli informovanı o aktulizáciach a vıhodnıch ponukách.
+Zvo¾te ponuku Report -> Zasla report vıvojárom a zaškrtnite Prihláste sa k odberu nášho newsletteru, aby ste boli informovanı o aktulizáciach a vıhodnıch ponukách.
+Denné minimum
+Štandardná šírka
+Funkcia TRIM je podporovaná a zapnutá pre optimálny vıkon.
+Funkcia TRIM je podporovaná, ale nie je aktívna. Odporúèame upgrade operaèného systému, radièa diskov alebo ich ovládaèa pre zlepšenie vıkonu.
+Zapísanıch dát:
+Celkovı poèet štart/stop cyklov:
+Konfigurácia neposkytuje ïalšie informácie o stave disku. Napriek tomu ponuka "Disk", vo¾ba "Test povrchu" umoòuje preskúma funkcionalitu disku, odhali a opravi prípadné problémy.
+Aktuálna verzia vypršala. Zadajte registraènı k¾úè pre ïalšie pouívanie tohto programu.
+Denník (log) neobsahuje iadne záznamy.
+Exportova hodnoty rıchlosti prenosu dát
+Automaticky upravi nastavenia po reštarte
+Viac informácii:
+Kliknutím pridáte poznámku ...
+Poznámka
+Zmeni &prieèinok pre ukladanie štatistík a nastavení
+Upozornenie na duplicitnú licenciu
+Rovnakı registraènı kód bol pouitı pre inštalovanú aj prenosnú verziu Hard Disk Sentinel.\nPre plné vyuitie funkcii na oboch verziách, sa vyaduje licencia pre kadú verziu zvláš.
+Posledná aktualizácia stavu:
+On-line kontrola záruky
+Skopírova zvolené hodnoty do schránky
+Prístup k niektorım oblastiam disku poèas testu môe\nby pomalšie kvôli aktivite operaèného systému a aplikácii, èo môe vyvola tmavšie zelené bloky.
+Resetova štatistiky záae
+Chcete uloi oddelené reporty pre zvolené pevné disky?
+Celková zistená kapacita (\1) disku \2 nie je správna, mala by by \3.
+Aktuálny radiè diskov/ovládaè/adaptér nemusí by plne kompatibilnı s \1
+Pouívaním disku môe dôjs k poškodeniu systému súborov a/alebo strate dát.
+Odporúèame kontrolu a upravenie konfigurácie alebo upgrade operaèného systému, radièa diskov a/alebo ovládaèov pre bezpeènú prevádzku daného zariadenia.
+Špecifické informácie o zariadení
+Radiè zariadenia poskytuje iba základné informácie bez dodatoènıch detailov.
+Status S.M.A.R.T. je:
+Vdy navrchu
+Je nutné úplne zavretie cez Súbor -> Skonèi, aby sa prejavili dôsledky tejto zmeny.
+èas neèinnosti systému
+Nasledovné chyby boli zistené:
+Informácie o stave a moné chyby nahlásaené radièom RAID. Môe sa líši od fyzického stavu jednotky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DMA=DMA
+Ultra DMA=Ultra DMA
+S.M.A.R.T.=S.M.A.R.T.
+Security Mode=Bezpeènı mód
+Power Management=Správa napájania
+Write Cache=Zapisovacia vyrovnávacia pamä
+Host Protected Area=Host Protected Area
+Advanced Power Management=Pokroèilá správa napájania
+Advanced Power Management Level=Stupeò pokroèilej správy napájania
+Current APM Level=Aktuálny stupeò pokroèilej správy napájania
+Extended Power Management=Rozšírená správa napájania
+APM01=Minimálna spotreba energie v reime spánok (standby)
+APM02=Piemerná spotreba energie
+APM80=Minimálna spotreba energie bez reimu spánok (standby)
+APM81=Piemerná spotreba energie bez reimu spánok (standby)
+APMFE=Maximálny vıkon a spotreba energie
+FreeFall01=Najnišia senzitivita senzoru pádu
+FreeFall02=Stredná senzitivita senzoru pádu
+FreeFallFF=Najvyššia senzitivita senzoru pádu
+Current Sensitivity=Aktuálna senzitivita
+Power Up In Standby=Automatické zapnutie pri prebudení
+48-bit LBA Addressing=48-bitové LBA Adresovanie
+Device Configuration Overlay=Device Configuration Overlay
+Read/Write DMA Queue=Front DMA na èítanie/zápis
+Native Command Queuing=Inteligentné radenie príkazov (NCQ)
+Read Ahead Buffer=Prednaèítavanie vyrovnávacej pamäte
+Maximum Multiword DMA Mode=Maximálny Multiword DMA mód
+Active Multiword DMA Mode=Aktívny Multiword DMA mód
+IORDY Support=Podpora IORDY
+Maximum sectors transferred on R/W multiple=Maximum Sectors Transferred On R/W Multiple
+Minimum multiword DMA transfer time=Minimum multiword DMA Transfer Time
+Recommended multiword DMA transfer time=Recommended Multiword DMA Transfer Time
+Minimum PIO transfer time without IORDY=Minimálny èas pri PIO móde bez IORDY
+Minimum PIO transfer time with IORDY=Minimálny èas pri PIO móde s IORDY
+Security Erase=Bezpeèné vymazanie
+Security Erase Time=Èas potrebnı na bezpeèné vymazanie
+Security Enhanced Erase Feature=Funkcia rozšíreného bezpeèného vymazania
+Security Enhanced Erase Time=Èas potrebnı na rozšírené bezpeèné vymazanie
+Security Enabled=Zabezpeèenie zapnuté
+Security Locked=Zabezpeèenie zamknuté
+Security Frozen=Zabezpeèenie pozastavané
+Security Counter Expired=Poèítadlo zabezpeèenia vypršalo
+Security Level=Úroveò zabezpeèenia
+Serial ATA Features=Funkcie Serial ATA
+Interface=Rozhranie
+S-ATA Compliance=S-ATA
+S-ATA I Signaling Speed (1.5 Gps)=S-ATA I - rıchlos 1.5 Gps
+S-ATA II Signaling Speed (3 Gps)=S-ATA II - rıchlos 3.0 Gps
+Receipt Of Power Management Requests From Host=Prijímanie poiadaviek správy napájania od hostu
+PHY Event Counters=Poèítadlo udalostí PHY
+Non-Zero Buffer Offsets In DMA Setup FIS=Non-Zero Buffer Offsets In DMA Setup FIS
+DMA Setup Auto-Activate Optimization=Nastavenie DMA - Automaticky aktivova optimalizáciu
+Device Initiating Interface Power Management=Zariadenia inicializuje správu napájania rozhrania
+In-Order Data Delivery=Dodávanie dát v poradí
+Asynchronous Notification=Asynchrónne notifikácie
+Software Settings Preservation=Zachova nastavenia softwaru
+Queue Length=Dåka frontu
+Disk Family=Model disku
+Form Factor=Vırobné vlastnosti
+Capacity=Kapacita
+Number Of Disks=Poèet plotní
+Number Of Heads=Poèet hláv
+Rotational Speed=Rıchlos
+RPM=otáèok za minútu
+Rotation Time=Èas rotácie
+Average Rotational Latency=Priemerná rotaèná latencia
+Disk Interface=Rozhranie disku
+Buffer-Host Max. Rate=Buffer-Host Max. Rate
+Drive Ready Time (typical)=Typickı èas spustenia jednotky (typical)
+Average Seek Time=Priemernı èas seek-u
+Track To Track Seek Time=Èas seekovania medzi stopami
+Full Stroke Seek Time=Plnı èas seekovania
+Width=Šírka
+Depth=Håbka
+Height=Vıška
+Weight=Hmotnos
+grams=gramov
+pounds=libier
+Acoustic=Akustické
+Idle=Neèinnos
+Required power for spinup=Energia potrebná na roztoèenie disku
+Power required (seek)=Energia potrebná na seek
+Power required (idle)=Energia potrebná v neèinnosti
+Power required (standby)=Energia potrebná v reimu spánku
+Manufacturer=Vırobca
+Manufacturer Website=Webovı stránka vırobcu
+; list of SMART features
+S.M.A.R.T. Details=Detaily S.M.A.R.T.
+Off-line data collection=Stav off-line zberu dát
+OFF00=Nespustenı
+OFF02=Úspešne dokonèenı
+OFF03=Prebieha operácia
+OFF04=Odloené prerušovacím príkazom hostite¾a
+OFF05=Zrušené prerušovacím príkazom hostite¾a
+OFF06=Odloené zariadením pre fatálne zlyhanie
+Self test execution status=Stav priebehu autodiagnostiky
+SET00a=Úspešne dokonèenı
+SET00b=Nespustenı
+SET01=Zrušené hostite¾om
+SET02=Prerušené hostite¾om (hardware/software reset)
+SET03=Fatálna/Neznáma chyba sa vyskytla poèas testu
+SET04=Test zlyhal kvôli neznámej chybe
+SET05=Test zlyhal kvôli napájaniu
+SET06=Test zlyhal kvôli servo/seek-u
+SET07=Test zlyhal kvôli èítaniu
+SET08=Test zlyhal, chyba pri spracovaní
+SET15=Test prebieha
+SETCO=kompletnı
+Total time to complete off-line data collection=Celkovı èas potrebnı na off-line zber dát
+Execute off-line immediate=Execute Off-line Immediate
+Abort/restart off-line by host=Abort/restart Off-line By Host
+Off-line read scanning=Off-line Read Scanning
+Short Self-test=Krátka autodiagnostika
+Extended Self-test=Rozšírená autodiagnostika
+Selective Self-test=Selektívna autodiagnostika
+Conveyance self-test=Autodiagnostika transportu
+Save data before/after power saving mode=Save Data Before/After Power Saving Mode
+Enable/Disable attribute autosave=Enable/Disable Attribute Autosave
+Error logging capability=Error Logging Capability
+Short Self-test Estimated Time=Odhadovanı èas krátkej autodiagnostiky
+Extended Self-test Estimated Time=Odhadovanı èas rozšírenej autodiagnostiky
+Last Short Self-test Result=Poslednı vısledok krátkej autodiagnostiky
+Last Short Self-test Date==Poslednı dátum krátkej autodiagnostiky
+Last Short Self-test Duration==Posledné trvanie krátkej autodiagnostiky
+Last Extended Self-test Result=Poslednı vısledok rozšírenej autodiagnostiky
+Last Extended Self-test Date=Poslednı dátum rozšírenej autodiagnostiky
+Last Extended Self-test Duration=Posledné trvanie rozšírenej autodiagnostiky
+Last Conveyance Self-test Result=Poslednı vısledok autodiagnostiky transportu
+Last Conveyance Self-test Date=Poslednı dátum autodiagnostiky transportu
+Last Conveyance Self-test Duration=Posledné trvanie autodiagnostiky transportu
+NOP Command=Príkaz NOP
+Trusted Computing=Trusted Computing
+64-bit World Wide ID=64-bit World Wide ID
+Streaming=Streamovanie
+Media Card Pass Through=Media Card Pass Through
+General Purpose Logging=Všeobecné logovanie
+Error Logging=Denník chıb
+CFA Feature Set=Set funkcií CFA
+Long Physical Sectors=Dlhé fyzické sektory
+Long Logical Sectors=Dlhé logické sektory
+Write-Read-Verify=Verifikácia prostredníctvom zápisu/èítania
+NV Cache Feature=Funkcia NV Cache
+NV Cache Power Mode=NV Cache Power Mode
+
+# added 4 Nov 2008 
+Transport Version=Transport Version
+NV Cache Size=NV Cache Size
+Free-fall Control=Senzor pádu
+Free-fall Control Sensitivity=Senzitivita senzoru pádu
+Non-rotating Media (SSD)=Nerotaèné médium (SSD)
+Nominal Media Rotation Rate=Rıchlos (otáèok za minútu)
+S-ATA Gen3 Signaling Speed (6 Gps)=S-ATA 3. generácie (rıchlos 6.0 Gps)
+
+# added 19 Jun 2009
+CFast Device=CFast Device
+SSD Features=Funkcie SSD
+Data Set Management=Data Set Management
+TRIM Command=Príkaz TRIM
+Deterministic Read After TRIM=Deterministic Read After TRIM
+
+Operating System TRIM Function=Funkcia TRIM operaèného systému
+
+# added 3 Oct 2011
+
+Self-Test Results=Vısledky autodiagnostiky
+SST05=Prvı segment zlyhania testu
+SST06=Druhı segment zlyhania testu
+SST07=Autodiagnostika zlyhala na segmente
+SSTN=Segment autodiagnostiky
+SSTN0=Nie je dostupné ID segmentu
+SSTH=Poèet hodín v prevádzke
+SSTL=Adresa poruchy (LBA)
+SSHL=Pevnı disk hlási nasledovné problémy:
+
+
+SA1=Errors occurred while reading raw data from a disk\Indicate problem with the disk surface or the read/write heads.
+SA2=General throughput performance of the hard disk\Indicate problem with motor, servo or bearings.
+SA3=Time needed by spindle to spin-up to full RPM\Indicate problem with motor or bearings.
+SA4=Count of start/stop cycles of spindle\This value does not directly affect the condition of the drive.
+SA5=Count of sectors moved to the spare area\Indicate problem with the disk surface or the read/write heads.
+SA6=Margin of a channel while reading data\The exact function of this attribute is not specified.
+SA7=Rate of positioning errors of the read/write heads\Indicate problem with servo, head. High temperature can also cause this problem.
+SA8=Average time of seek operations of the heads\Indicate problem with servo.
+SA9=Total time the drive is powered on\The unit of the measure depends on the manufacturer.
+SA10=Retry count of spin start attempts\Indicate problem with motor, bearings or power supply.
+SA11=Number of attempts to calibrate a drive\Indicate problem with motor, bearings or power supply.
+SA12=Number of complete power on/off cycles\This value does not directly affect the condition of the drive.
+SA13=Number of software read errors\The number of uncorrectable read errors.
+SA184=Number of parity errors during transfer between the cache RAM and the host.
+SA187=Errors that could not be recovered using hardware error correction methods.
+SA187MTRON=Virtual block erase count\Indicate the wear of the storage device.
+SA188=Number of aborted operations due to HDD timeout. Value larger than zero may indicate power supply or data cable connection problems.
+SA189=Number of unsafe write operations outside the normal head flying range.
+SA190=Airflow temperature\The temperature of the air inside the hard disk housing.
+SA191=Number of mechanical errors\Number of errors resulting from shock or vibration.
+SA192=Count of power off cycles\This value does not directly affect the condition of the drive.
+SA193=Count of load/unload cycles\Number of cycles the head moved into landing zone position.
+SA194=Disk temperature\The temperature inside the hard disk housing.
+SA195=Count of correctable errors\Number of errors corrected by the internal error correcting mechanism.
+SA196=Count of sector remap operations\Number of all (successful and failed) remap operations.
+SA197=Count of unstable sectors\These pending sectors may be remapped to the spare area.
+SA198=Count of uncorrectable errors when reading/writing\Indicate problem with the disk surface or the read/write heads.
+SA199=Count of errors during data transfer between disk and host\Indicate problem with the power supply or data cable.
+SA200=Errors occurred while writing raw data to the disk\Indicate problem with the disk surface or the read/write heads.
+SA201=Number of software read errors\The number of uncorreactable read errors.
+SA202=Number of data address mark errors\Number of incorrect or invalid address marks.
+SA203=Number of data correction errors\Invalid error correction checksum found during error correction.
+SA204=Number of corrected data errors\Errors corrected by the internal error correction mechanism.
+SA205=Number of thermal problems\Total number of problems caused by high temperature.
+SA206=Head flying height\The height of the disk heads above the disk surface.
+SA207=Current value during spin up\The current needed to spin up the drive.
+SA208=Number of cycles needed to spin up\The number of retries during spin up because of low current available.
+SA209=Drive performance during offline operations\The seek performance of the drive during internal self tests.
+SA211=Vibration encountered during write operations.
+SA212=Shock encountered during write operations.
+SA220=Distance of the disk has shifted relative to the spindle\Incorrect disk spin can be cause by mechanical shock or high temperature.
+SA221=Number of mechanical errors\Number of errors resulting from shock or vibration.
+SA222=Number of powered on hours\This value is constantly increasing (once per every hour).
+SA223=Number of load/unload operations\The number of drive head enters/leaves the data zone.
+SA224=Mechanical friction rate\The rate of friction between mechanical parts. Indicate problem with the mechanical subsystem of the drive.
+SA226=Total time the heads are loaded\The time while the read/write heads are in the data zone.
+SA227=Rate of torque increase\Torque increase during the spin up operation of the hard disk.
+SA228=Number of power off cycles\The number of times the head was retracted as a result of power loss.
+SA230=Head positioning amplitude\Head moving distances between operations.
+SA231=Disk temperature\The temperature inside the hard disk housing.
+SA240=Number of head positioning hours\Time spent during the positioning of the drive heads.
+SA250=Number of retries during read operations\Number of errors found during reading a sector from disk surface.
+SA254=Number of free fall events detected by the accelerometer sensor.
+SA255=Vendor-specific\The function and value of this attribute are determined by the manufacturer.
+
+SC01=Buffer over/under run counters
+SC02_0000=Write errors corrected without substantial delay
+SC02_0001=Write errors corrected with possible delays
+SC02_0002=Total write errors
+SC02_0003=Total write errors corrected
+SC02_0004=Total write errors corrected by algorithm
+SC02_0005=Total bytes written
+SC02_0006=Total uncorrected write errors
+SC03_0000=Read errors corrected by ECC hardware method
+SC03_0001=Read errors corrected with possible delays
+SC03_0002=Total read errors
+SC03_0003=Total read errors corrected
+SC03_0004=Total read errors corrected by algorithm
+SC03_0005=Total bytes read
+SC03_0006=Total uncorrected read errors
+SC04_0000=Read reverse errors corrected by ECC hardware method
+SC04_0001=Read reverse errors corrected with possible delays
+SC04_0002=Total read reverse errors
+SC04_0003=Total read reverse errors corrected
+SC04_0004=Total read reverse errors corrected by algorithm
+SC04_0005=Total bytes read reverse 
+SC04_0006=Total uncorrected read reverse errors
+SC05_0000=Verify errors corrected without substantial delay
+SC05_0001=Verify errors corrected with possible delays
+SC05_0002=Total verify errors
+SC05_0003=Total verify errors corrected
+SC05_0004=Total verify errors corrected by algorithm
+SC05_0005=Total bytes verified
+SC05_0006=Total uncorrected verify errors
+SC06_0000=Non medium errors
+SC07=Last error event
+SC0B=Last deferred error or asynchronous event
+SC0D_0000=Temperature
+SC0D_0001=Reference temperature
+SC0E_0001=Manufacture date (year/week)
+SC0E_0002=Accounting date
+SC0E_0003=Specified cycle count over device lifetime
+SC0E_0004=Accumulated start-stop cycles
+SC0F=Application client parameter data
+SC10=Self test results log
+SC18=Protocol specific port log
+SC37_0000=Blocks sent to initiator
+SC37_0001=Blocks received from initiator
+SC37_0002=Blocks read from cache and sent to initiator
+SC37_0003=I/O commands with size smaller than segment size
+SC37_0004=I/O commands with size larger than segment size
+SC3E_0000=Power on time
+SC3E_8000=Power on time
+SC3E_0008=Remaining minutes until next internal test
+
+
+## added 22 Feb 2017 ##
+
+Disk repair=Oprava disku
+Repair=Oprava
+Repair successful=Oprava bola úspešná
+Repair failed=Oprava zlyhala
+\1 sector(s) successfully repaired.=Poèet úspešne opravenıch sektorov: \1.
+read test with sector repair=test èítania s opravou sektorov
+RepairDesc=Povrch disku sa naèíta za úèelom verifikácie èitate¾nosti všetkıch sektorov a vyvolá opravu problematickıch sektorov: obnoví stav sektorov na dobrı alebo dôjde k realokácii, aby sa zabránilo pouívaniu vadného sektora.\n\nTest je bezpeènı pre uloené dáta. Poškodené súbory budú èitate¾né, avšak ich èasti uloené na vadnıch sektoroch môu by poškodené. Zoznam súborov dotknutıch opravou sektorov sa zobrazí po skonèení testu.\n\nTento test je vhodnı na opravu diskov so slabımi sektormi bez potreby úplnej zálohy disku (na rozdiel od testu reinicializácie disku). Test je moné poui aj na systémovı disk.
+Multiple disk drives=Viacero diskovıch jednotiek
+\1 drive(s) selected=Zvolenıch diskov: \1
+Select disk drive(s) to be tested=Zvo¾te disky na otestovanie
+Are you sure you want to perform disk testing on multiple disk drives?=eláte si vykona testovanie na viacerıch diskoch?
+Do you want to EXLCLUDE the system drive and test only additional drive(s)?=eláte si vylúèi systémovı disk z testovania a testova iba nesystémové disky?
+Byte / byte sequence=Byte / byte sequence
+Maximum try count=Maximálny poèet pokusov
+Add to Windows event log=Prida do denníka udalostí Windows
+Provide status information by WMI=Poskytnú informácie o stave z WMI
+Automatic detection based on disk utilization=Automatická detekcia pod¾a vyaenosti disku
+Automatically save disk test results to folder=Automaticky uloi vısledky testu do prieèinka
+Selected disk only=Iba zvolené disky
+Please verify your firewall settings and make sure the software can access the activation server and try again later.\n\nAlternatively, you may use the Registration And Activation By E-mail button to activate by e-mail.=Skontrolujte nastavenia brány firewall, uistite sa, e softvér sa môe pripoji na aktivaènı server a skúste znova.\n\nAlternatívne môete vyui registráciu a aktiváciu e-mailom.
+Control device-specific detection=Ovládanie špecifickej detekcie zariadenia
+Select device type to detect status and health information by the appropriate detection method.=Zvo¾te typ zariadenia pre správnu detekciu stavu a informácií o zdraví disku vhodnou metódou.
+DeviceSpecificDesc=Hard Disk Sentinel uloí na zaradenie tzv. flag súbor (o ve¾kosti 0 bajtov, t. j. bez pouitia miesta na disku) za úèelom zaznamenania typu zvoleného zariadenia. Toto sa pouije aj na následné detekcie a do úplného vymazania alebo formátovania disku (vtedy je nutné zvoli typ zariadenia opätovne).
+Note=Poznámka
+Complete erase / re-format does not reset the health and statistics.=Úplné vymazanie ani preformátovanie nespôsobí resetovanie štatistík alebo stavu zdravia disku.
+Selecting improper device type may cause unnecessary wear to flash-based device and may result in data corruption.=Zvolenie nevhodného typu zariadenia môe zbytoène namáha zariadenia zaloené na technológii flash a spôsobi poškodenie dát.
+Auto Detect=Autodetekcia
+Part number(s)=Vırobné èíslo
+Device type detection successfully completed.=Detekcia typu zariadenia prebehla úspešne.
+The device does not respond to detection, further status information cannot be detected.=Toto zariadenie nereaguje na detekciu. Ïalšie stavové informácie nemôu by zistené.
+Running=Prebieha
+Inactive=Neaktívne
+without monitoring=bez monitorovania
+
+## added 18 Dec 2017 ##
+
+Monitor Windows Event Log for problems related to disks and storage=Monitorova Prehliadaè správ systému Windows na problémy súvisiace s diskami a úlonım priestorom
+Configure NAS Disk Monitoring=Konfigurova monitorovanie diskov na NAS
+Specify Status Source(s) to monitor Network Attached Storage (NAS) disk drives.=Špecifikujte zdroj dát pre monitorovanie disk na sieovıch úloiskách (NAS)
+Status Source files contain complete status of hard disk drives, SSDs, storage devices and Hard Disk Sentinel reads them to show the appropriate disk drives like if they would be connected directly.=Súbory zdrojov dát obsahujú úplnı stav pevnıch diskov, SSD a úlonıch zariadení. Hard Disk Sentinel naèíta tie súbory a zobrazí pevné disky tak, ako by boli pripojené priamo.
+Status Source files saved and updated on the NAS device, created by (for example) Hard Disk Sentinel Linux version.=Súbory zdrojov dát uloené a aktualizované na sieovıch úloiskách (NAS), vytvorené (napríklad) verziu Hard Disk Sentinel pre Linux.
+The Auto Detect function automatically detects possible Status Source files (HDSReport.html) on available network drives.=Funkcia Autodetekcia automaticky h¾adá moné súbory zdrojov dát (HDSReport.html) na dostupnıch sieovıch jednotkıch.
+Status Source=Zdroj dát
+Auto Detect=Autodetekcia
+&Browse=&Prehliada
+Add &URL=Prida &cestu (URL)
+&Edit=&Upravi
+&Delete=&Vymaza
+&Test=&Test
+Status source files=Súbory zdrojov dát
+HPA Security Extensions=HPA Security Extensions
+Service Interrupt=Service Interrupt
+IDLE IMMEDIATE command with UNLOAD feature=IDLE IMMEDIATE command with UNLOAD feature
+Nominal Form Factor=Fyzické rozmery (Form Factor)
+Additional Product Identifier=Dodatoènı identifikátor produktu
+Read Zeroes After TRIM=Èíta "0" po dokonèení TRIM
+Device Encrypts All User Data=Zariadenie šifruje všetky uívate¾ské dáta
+Sanitize=Vyèisti
+Overwrite=Prepísa
+Crypto Scramble=Crypto Scramble
+Block Erase=Block Erase
+Sanitize Antifreeze Lock=Sanitize Antifreeze Lock
+ACS-3 Commands Allowed By Sanitize=ACS-3 Commands Allowed By Sanitize
+NCQ Streaming=NCQ Streaming
+NCQ Autosense=NCQ Autosense
+Automatic Partial to Slumber Translations=Automatic Partial to Slumber Translations
+Rebuild Assist=Rebuild Assist
+Hybrid Information=Hybrid Information
+Device Sleep (DevSleep)=Device Sleep (DevSleep)
+DevSleep to ReducedPwrState=DevSleep to ReducedPwrState
+Recently the following entries added to System Event Log:=Nasledovné záznamy boli naspoledny pridané do Prehliadaèa správ systému Windows
+errors=chyby
+most recent=posledné pouité
+warnings=upozornenia
+The following function can be used to improve the situation:=Nasledovná funkcia môe by pouitá na zlepšenie uvedenej situácie:
+Certain detection functions to access disk status disabled.=Niektoré detekèné funkcie pre prístup k stavu disk sú neaktívne.
+Please change the following option:=Prosím zmeòte nasledovnú monos:
+
+## added 28 Jun 2018 ##
+
+Do you want to update now?=Vykona aktualizáciu teraz?
+Update not selected.=Aktualizácia nebola vybraná.
+Controlled Folder Access feature of Windows Defender prevents accessing disk status information.=Funkcia kontrolovaného prístupu k prieèinkom programu Windows Defender bráni prístupu k informáciám o stave disku.
+Do you allow Hard Disk Sentinel to detect and diagnose disk status by adding to the list of allowed software (recommended) ?=Chcete umoòi Hard Disk Sentinelu detekova a diagnostikova stav disku jeho pridaním na zoznam povoleného softvéru (odporúèané)?
+Note: without this permission, unstable operation and limited functionality will likely occur.=Upozornenie: Bez tohto povolenia môe by funkcionalita a stabilita programu obmedzená.
+Disk Access Blocked=Prístup k disku blokovanı
+
+## added 22 Jan 2020 ##
+
+NVMe Namespace Information=Informácie z NVMe
+Total Sectors=Celkovo Sektorov
+Active LBA Format Index=Aktívny Index LBA Formátu
+LBA Formats Supported=Podporované LBA Formáty
+LBA Format List=Zoznam LBA Formátu
+Best=Najlepšie
+Better=Lepšie
+Good=Dobré
+Degraded=Zhoršené
+Zoned Capabilities=Zoned Capabilities
+SCT Command Transport=SCT Command Transport
+SCT Error Recovery Control=SCT Error Recovery Control
+
+
+## added 13 Oct 2020 ##
+
+Include problem overview in alerts=Zahrnú do upozornení preh¾ad problémov
+Alert about problematic drive(s) only=Upozorni iba oh¾adom problematickıch diskov
+
+
+## added 15 Feb 2022 ##
+
+Change(s) since \1=Zmien od \1
+Timestamp=Èasová znaèka
+No entries found=Nenašli sa iadne záznamy
+Error log=Záznam chıb
+No error information recorded=Nie sú zaznamenané iadne informácie o chybách
+The list automatically cleared by the controller on power cycle and reset=Zoznam je automaticky vyèistenı ovládaèom pri zapínacom cykle a resetovaní
+Depending on the configuration, the test duration may be different than estimated.=V závislosti od konfigurácie sa môe trvanie testu odlišova od odhadu.
+The NVMe controller driver prevents using test commands too frequently. Please try again later.=Ovládaè NVMe kontroleru zabraòuje pouitiu testovacích príkazov príliš èasto. Prosím, skúste neskôr.
+
+No device self-test operation in progress=Neprebieha iadna samotestovanie zariadenia
+Aborted by command=Zrušené príkazom
+Aborted by controller reset=Zrušené resetom kontroleru
+Aborted due to removal of namespace=Zrušené kvôli odstráneniu namespace
+Aborted due to Format NVM command=Zrušené kvôli NVM príkazu formátovania
+Fatal error or unknown test error=Zásadná alebo neznáma chyba testu
+Failed in an unknown test segment=Zlyhanie v neznámej èasti testu
+Failed in one or more test segment(s)=Zlyhanie v jednej alebo viacerıch èastiach testu
+Aborted for unknown reason=Zrušené z neznámych dôvodov
+No self-test information recorded=Neexistuje záznam o samotestovaní
+
+Repaired=Opravené
+Failed=Zlyhané
+Quick Fix=Rıchla oprava
+QuickFixDesc=Verifikácia, ktoré èasti disku reportovali problémy a boli nedávno zapísané, nasledované diagnostikou a opravou špecificky tıch(a blízkych) sektorov a systémovıch oblastí. Test núti diskovú jednotku opravi problematické (èakajúce, slabé) sektory obnovením ich stavu do dobrıch alebo realokovaním v prípade potreby.\n\nNarozdiel od kompletného skenu, tento test nemusí byy schopnı odhali a opravi všetky moné problémy a je teda najlepšie ho poui na diskové jednotky s relatívne nízky poètom problémov a vysokım reportovanım zdravím jednotky bez potreby úplnej zálohy (a pouitia testu reinicializácie povrchu disku.\n\nTest môe by pouívanı na systémovıch aj nesystémovıch jednotkách a je bezpeènı pre uloené dáta. Potenciálne poškodené súbory budú èitate¾né, ale ich èasti na poškodenıch sektorov môu by poškodené alebo znièené. Súbor(y) na dotknutıch opravenıch sektorov sa zobrazia v zozname po skonèení testu.
+
+targeted repair of problematic sectors=cielená oprava problematickıch sektorov
+Last error (hour)=Posledná chyba (hodina)
+Error free hours=Hodín bez chıb
+Never=Nikdy
+Open Disk Management=Otvori správcu diskov
+Open Device Manager=Otvori správcu zariadení.
+Windows Drive Index=Windows Drive Index
+
+
+## added 30 Nov 2022 ##
+
+USB Device Name=Názov USB zariadenia
+safely remove required=vyaduje sa bezpeèné odstránenie
+surprise remove possible=rıchle odstránenie je moné
+The current USB connection limits the speed of the disk drive. Connect to a different USB 3.0 port to get higher performance.=Aktuálne pripojenie USB obmedzuje rıchlos tohto disku. Pripojte disk k inému USB 3.0 pre vyšší vıkon.
+The drive can degrade or fail when used with the current USB port which may not provide enough power for proper operation.=Zariadenie (disk) sa môe pokazi alebo znehodnocova pri pouívaní v aktuálnom USB porte, ktorı nemusí dodáva dostatoèné napájanie pre jeho riadne fungovanie.
+The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.=Tento disk dosiahol koniec svojej plánovanej ivotnosti. Monos náhleho a nepredpokladaného zlyhania je vyššia.
+In a critical system, it is recommended to consider replacement.=V kritickıch systémoch sa odporúèa zvái vımena.
+One or more disk drive(s) may be disconnected or removed.=Jeden alebo viacerov diskov môu by odpojené alebo odstránené.
+Probably the disk drive is not a real storage device: it shows very high available capacity, but data saved on it can be corrupted / lost.=Je pravdepodobné, e toto zariadenie nie je skutoènım záznamovım zariadením: ukazuje príliš vysokú dostupnú kapacitu, ale uloené dáta mou by poškodené alebo stratené.
+

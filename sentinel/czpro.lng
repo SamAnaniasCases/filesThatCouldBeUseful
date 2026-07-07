@@ -1,0 +1,248 @@
+Záloha
+Plán
+Naplánovat
+Název plánu:
+Nový
+Odstranit
+Typ plánu:
+Spustit aplikaèní nebo dávkový soubor
+Pøíkazová øádka:
+Spustit, bez zobrazovacího okna
+Spustit v:
+Vytvoøit plán
+Plán
+Chybný název projektu. Prosím vyplòte údaje.
+Uložit
+Obnovit výchozí plán
+Start
+Èas
+Spustit pozdìji
+Ptát se pøed startem
+Zmìnit èas
+Po startu
+Vymazat
+Pøidat nový plán do seznamu
+Chyba pøi uložení plánu.
+Chcete spustit tento plán?
+Start plánu
+Chyba pøi startu plánu.
+Komentáø:
+Prohlížet
+Spustitelný|*.exe;*.bat;*.com|Všechny soubory*.*
+Povolit
+Chcete uložit upravenou konfiguraci?
+Jste si jistý, že chcete odstranit tento plán?\nProjekt bude odstranìn i z plánu.\nèíslo pro tento plán: 
+Jste si jistý, že chcete odstranit plán?
+Pøevést soubory a složky
+Zdroj
+Cíl
+Nastavit
+Pøidat
+Výjimky
+Prosím urèete soubory aplikací, které budou vyjmuty:
+Soubory zde urèené budou ignorovány Hard Disk Sentinelem. Nebudou zkopírovány a ani ovlivnìny žádnými volbami.
+Všeobecná nastavení
+Plán operace
+Nastavení plánu
+Obsah tìchto složek bude uložen do urèené cílové složky.
+Zdrojová složka
+Cílová složka
+Maska souboru
+Nastavení složky
+Cílová složka bude automaticky vytvoøena (bude-li to nezbytné). Je možné použít následující urèenou složku:\n\n%USER% - jméno uživatele\n\n%COMPUTER% - název poèítaèe\n\n%IP% - IP adresa poèítaèe\n\n%LAST=složka% - název trvale vytvoøené/upravené (nejnovìjší) složky v urèené složce\n\nJe možné urèit dvì nebo více cílových složek, prosím oddìlte je ; (støedníkem).
+Prosím urèete zdrojovou složku.
+Prosím urèete cílovou složku.
+Upravit
+Vypoèítat množství zálohovaných dat
+Ovìøit zálohovaná data
+Zálohovat jen nové a aktualizované soubory
+Odstranit archív po záloze souborù
+Vymazat zdrojové soubory po úspìšné záloze
+Použít poslední aktuální datum i název složky
+Komprimovaný soubor dokonèen
+(Pøedchozí archív bude automaticky odstranìn, pøed startem aktuální operace)
+Stav:
+Soubor:
+Množství dat:
+Zálohuji data
+Vypoèet množství dat
+Kopírování souborù
+Aktualizace souborù
+Odstraòuji pøedchozí archív
+Ovìøuji archív
+ MB/sek
+zbývá minut
+zbývá sekund
+Složka:
+Cíl:
+Zálohovat podsložky
+Po dokonèení
+Odeslat/zobrazit zprávu jen jestli nastal problém
+Odeslat/zobrazit zprávu ve všech pøípadech
+Neodesílat ani zobrazovat zprávu
+Jste si jistý, že chcete vymazat zdrojové soubory po archivaci?\n(Pro maximální ochranu dat je doporuèeno použít tuto volbu, jen jestli máte soubory ve dvou nebo více kopiích nebo jestli je povolena volba "ovìøit kopírovaná data".)
+Odstraòuji zdrojové soubory
+Kompletní
+Plán úspìšnì dokonèen
+Stav projektu
+Nastala chyba bìhem vykonávání projektu
+Množství zálohovaných souborù:
+Celkový uplynulý èas:
+Seznam chyb
+Celkové množství zálohovaných dat:
+Nezobrazit zálohovaná data ve stavovém oknì
+Úloha úspìšnì dokonèena
+Pøerušeno uživatelem
+Žádná data k uložení
+Nelze otevøít a ovìøit seznam souborù z této složky: 
+Nelze odstranit: 
+E-mail nastavení je neúplné
+E-mail chyba bìhem odeslání
+Nelze otevøít soubor: 
+Nelze vytvoøit soubor: 
+Nelze pøeèíst soubor: 
+Nelze zapsat soubor: 
+Nelze ovìøit soubor: 
+Chybìjící CRC hodnoty kontrolního souètu: 
+Nesprávná CRC hodnota kontrolního souètu: 
+Start
+Priorita procesu
+Nízká
+Normální
+Maximální
+Chyba pøi otevøení cílové složky
+Po uplynutí 1/dne 
+Opakovanì
+Po: 
+Automaticky
+Odložit na další den
+Všechny harddisky
+Následující plán nebude spuštìn, protože další nespuštìný plán je vypnut.
+Chcete zmìnit nastavení?
+Zpráva o procesu
+Zálohování souboru bylo spuštìno. Jestliže se zobrazí nìjaká zpráva, zálohování se nezdaøilo.
+Tato verze Hard Disk Sentinel PRO je neregistrovaná.\nV registrované verzi je možné odstranit otázku, povolit spuštìní zálohy automaticky.\n\nProsím navštivte naše www - stránky \n\nhttp://www.hdsentinel.com\n\npro instrukce o registraci programu.\n\nChcete navštívit naše webové stránky právì teï?
+Zvuková výstraha pøi chybì
+Nespustit, jestliže množství dat je menší než
+kbajtù
+Zobrazit výstrahu v pøípadì malého množství dat
+Uložit zdrojový název a obsah složky
+Vypálit CD/DVD programem NERO
+Komprimovat soubory použitím RAR
+Komprimovat soubory použitím 7-Zip
+Vybrat aplikaci
+Zobrazit pøíkazovou øádku
+Cílový disk:
+Médium:
+Rychlost:
+Simulovat zápis
+Parametr:
+Cílová složka:
+Vícenásobný svazek, velikost: 
+Umístìní Nerocmd.exe není urèeno.
+Umístìní RAR.exe není urèeno.
+Umístìní 7Z.exe není urèeno.
+Chcete najít soubor právì teï?
+Dílèí konfigurace
+(Stisknutím CTRL+C zkopírujete obsah okna do schránky).
+Upozornit pøi chybì
+Výstraha bude vygenerována (založeno na nastavení v Nastavení zpráv), jestliže externí aplikace byla dokonèena s výchozím kódem jiný než 0.
+Ovìøit zápis
+Chyba externí aplikace
+Následující pøíkaz byl dokonèen s chybou: 
+Chybový kód aplikace:
+Wake-on-LAN volba by mìla být umožnìna na cílovém poèítaèi.
+Èekat, než poèítaè bude pøipraven (odpovìï na PING)
+Zastavit test jestliže není žádná odezva po 
+Cílový poèítaè:
+Akce:
+Restartovat
+Pohotovostní režim
+Spánek
+Zdrojový soubor(y):
+Zdrojová složka(y):
+Vícenásobný mail
+FTP server:
+Pasivní mód
+Exportovat položky registru
+Zapnout poèítaè
+Vypnout poèítaè
+Odeslat soubory v e-mailu
+FTP pøenos souborù
+Peer-to-peer pøenos souborù
+Koøenový uzel:
+Klíè:
+Prosím specifikujte klíè registru pro export.
+Žádný specifický klíè
+Vzdálená složka:
+Vybrat poèítaè nebo zadat \\název poèítaèe
+Export položky registru ...
+Spustit poèítaè(e)
+Zbývající sekundy pøed zrušením:
+&Zrušit právì teï
+Poèkejte prosím
+Odpovìï
+Vypnout ...
+Zrušit zahájenou práci
+Specifikujte cílový poèítaè,\nSpecifikace pro místní poèítaè\nPoznámka:Není dostupné v pohotovostním režimu a režimu spánku na vzdáleném poèítaèi.
+Poèet pokusù:
+Prodleva mezi pokusy (sek):
+Chyba pøenosu.
+Vložit soubory dokud celková velikost dosahuje
+Test harddisku(ù)
+Spustit test na všech dostupných harddiscích
+Testování disku(ù):
+Harddisk-nelze testovat
+Harddisk-chyba testování
+Harddisk-výsledky testu:
+Podporované samokontroly:
+Harddisk-detaily testu
+nalezeny nové pøeadresované sektory
+rotace obnovi procesù s nalezenými chybami
+nalezeny nové události pøeadresování
+nalezeny nové nevyøízené sektory
+stálé nevyøízené sektory 
+nalezeny nové off-line chybné sektory
+Kopírovat soubory z cílového zdroje
+Aktualizovat data na cíl a uchovat soubory, které jsou ze zdroje
+Jednocestná synchronizace
+Aktualizovat data na cíli a odstranit soubory, které jsou ze zdroje
+Dvoucestná synchronizace
+Aktualizovat data na obou zdrojích a cílech, uchovaných v obou umístìních
+Kontrola zálohy
+Nastavení synchronizace
+Celkové soubory odstranìné z cíle:
+Celková data aktualizovaná na cíl:
+Celková data kopírovana ze zdroje:
+Zpracovat jen soubory
+Porovnání podle specifických filtrù
+Urèit souborové filtry
+Mezi daty
+a
+Ne starší než
+S velikostí
+S atributy
+Archiv
+Jen pro ètení   
+Skryté
+Systémové
+Vytvoøit a používat CRC soubory k uložení CRC hodnot
+Zaèlenìné soubory k porovnání
+Vyjma souborù k porovnání
+Maska souborù:
+týdny
+mìsíce
+roky
+\1  obsahuje kompletní seznam chyb.
+Celkový poèet nalezených chyb:
+Konfigurujte složky pro zálohování
+Použít zatrhávací políèka pro výbìr Zdrojové složky nebo zadat složky oddìlené ; dole v seznamu
+Vyberte cílovou složku nebo zadejte cestu dole v seznamu
+Všechny zdrojové soubory ze všech zdrojových složek budou archivovány do stejného cíle, jestli je tato volba je VYPNUTA.\nToto mùže zpùsobit problém, kvùli ztrátì informací o cestì.
+Použitím jedno nebo dvoucestné synchronizace s touto volbou mùže vytvoøit neúplný archiv.
+Jste si jistý, že chcete pokraèovat?
+Pauza
+Pokraèovat
+Pauza - stiskni tlaèítko pro pokraèování
+Ignorovat soubory, které jsou používané (nesdílené)
+Zakázat varovnou oznamovací zprávu

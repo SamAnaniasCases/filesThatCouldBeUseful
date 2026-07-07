@@ -1,0 +1,5 @@
+Get-ExecutionPolicy -Scope CurrentUser
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -Force
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted -Force

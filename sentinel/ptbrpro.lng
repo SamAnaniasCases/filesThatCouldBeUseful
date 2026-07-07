@@ -1,0 +1,248 @@
+Operaçõ&es  
+Projetos
+Programação
+Projeto:
+Novo
+Remover
+Tipo do Projeto:
+Rodar appl. externa ou arquivo batch
+Comando de linha:
+Iniciar invisível, sem mostrar janela 
+Iniciar na:
+Criar Novo Projeto
+Projeto
+Nome do Projeto inválido. Deve ser preenchido e não deve existir ainda.
+Salvar
+Restaurar Projetos Padrão 
+Iniciar
+Hora
+pode rodar + tarde
+Perguntar antes de executar
+Acertar hora
+Após carga
+Apagar
+Incluir novo projeto à lista 
+Erro ao salvar projeto.
+Deseja rodar este projeto? 
+Início do Projeto
+Erro de Início de Projeto
+Comentário:
+Browse
+Executáveis|*.exe;*.bat;*.com|Todos os Arquivos|*.*
+Ativado
+Ques salvar a configuração alterada? 
+Tem certeza de que quer apagar este projeto?\nO projeto será tb. removido do programação.\nNúmero de opções de programação para este projeto: 
+Certeza que quer apagar este projeto?  
+Transferir arquivos e pastas  
+Origem
+Destino
+Configurar
+Incluir
+Excessões
+Favor especificar arquivos a excluir pela aplicação: 
+Os arquivos especificados serão ignorados pelo Hard Disk Sentinel. Eles não serão copiados e não serão afetadas por nenhuma opção.
+Ajustes Globais
+Operações do Projeto 
+Opções do Projeto 
+Os conteúdos destas pastas serão salvas nas pasta(s) de destino especificadas 
+Pasta Origem 
+Pasta Destino
+Máscara de arquivo
+Opções de Pastas                                  
+Pastas de destino serão automáticamente criadas (se necessário). É possível usar as seguintes variáveis para especificar a pasta:\n\n%USER% - nome do usuário\n\n%Computador% - nome do computador\n\n%IP% - Endereço IP do computador\n\n%LAST=pasta% - nome da pasta criada/alterada(mais nova) na pasta especificada por último\n\nÉ possível especificar duas ou mais pastas-destino, favor separá-los com ; (ponto e vírgula). 
+Selecione ou especifique ao menos uma pasta de origem. 
+Especifique uma pasta de destino válida. 
+Editar
+Calcular a quantidade de dados a copiar 
+Verifique dados copiados
+Copie apenas arquivos novos ou atualizados  
+Limpe o de arquivamento nos arquivos copiados  
+Apagar arquivos de origem após cópia bem sucedida 
+Use a data atual como nome da pasta e mantenha a última 
+arquivamentos completos
+(Os arquivamentos prévios serão automáticamente apagados antes de iniciar a operação efetiva de salvamento) 
+Status:
+Arquivo:
+Quantidade de dados:
+Salvando Dados
+Calculando quantidade de dados
+Copiando arquivos
+Atualizando arquivos
+Apagando arquivamento prévio  
+Verificando arquivamento
+ MB/seg
+minutos faltando
+segundos faltando
+Pasta:
+Destino:
+Salvar sub-pastas
+Após término
+Envie/mostre relatório só se ocorreu problema  
+Envie/mostre relatório sempre
+Não envie ou mostre relatório  
+Certeza que quer apagar arquivos de origem após arquivamento?\n(Para maximizar segurança de dados recomenda-se o uso desta opção apenas se você arquivar os arquivos em duas ou mais cópias ou se a opção "verificar dados copiados" estiver habilitado.)   
+Apagando arquivos de origem
+Completado
+Projeto completado com sucesso  
+Status do Projeto
+Erro ocorreu durante a execução do projeto  
+Número de arquivos salvos: 
+Total tempo de relógio:
+Lista de erros 
+Quantidade total de dados salvos: 
+Não mostre a janela de status de salvamento 
+Tarefas completadas com sucesso 
+Cancelado
+Nada a salvar
+Incapaz de abrir lista de arquivos para verificar desta pasta:  
+Incapaz de apagar: 
+Configuração de E-mail incompleta
+Falha no envio do E-mail 
+Incapaz de abrir o arquivo:  
+Incapaz de criar o arquivo:  
+Incapaz de ler o arquivo:   
+Incapaz de gravar o arquivo(disco cheio ou não se pode gravar):
+Incapaz de verificar o arquivo:   
+Valor do checksum CRC está faltando:  
+Valor do checksum CRC incorreto: 
+Inicie Já
+Prioridade da Operação
+Inativo
+Normal
+Máximo
+Erro na abertura da pasta de destino 
+Após carga 1/dia  
+Repetitivo
+Após: 
+Automático
+ou suspenda neste dia  
+Qualquer disco rígido  
+O seguinte projeto não será executado pois há um outro projeto pendente desativado.
+Quer modificar os ajustes?  
+Processando relatório  
+Operação de salvamento de arquivo iniciado. Se você ver esta mensagem, a operação de salvamento foi abortada. 
+Esta versão do Hard Disk Sentinel PRO não é registrada.\nNa versão registrada é possível remover o diálogo de questões para permitir backup de projetos serem inciados automáticamente.\n\nViste nossa página\n\nhttp://www.hdsentinel.com\n\npara instruções sobre registramento.\n\nDeseja visitar a página agora?
+Alerta sonóro de problema
+Não inicie se a quantidade de dados for menor que  
+kbytes
+Envie alerta se não houver dados suficientes  
+Salve o nome da pasta de origem e seu conteúdo também  
+Queimar CD/DVD com NERO © 
+Comprimir arquivos usando RAR  
+Comprimir arquivos usando 7-Zip
+Selecione Aplicação
+Veja comando de linha 
+Dispositivo de destino: 
+Meio:
+Velocidade:
+Estouro de Buffer
+Parâmetros:
+Arquivo destino:
+Multiplos volumes, tamanho do volume: 
+O lugar onde se encontra Nerocmd.exe não especificada.
+O lugar onde se encontra RAR.exe não especificada.
+O lugar onde se encontra 7Z.exe não especificada.
+Quer configurar agora?  
+Configuração Parcial 
+(Tecle CTRL+C para copiar o conteúdo da janela para a prancheta).
+Alertar se houver erro(s)
+Alerta será gerado(baseado na configuração dos ajustes de mensagens) se a aplicação externa completar com código diferente de 0 (zero).
+Verificar gravação
+Erro na Aplicação Externa  
+O seguinte comando de linha foi completado com erro: 
+Código de erro da aplicação:  
+Opção Wake-on-LAN deve estar ativada no computador visado.  
+Esperar ate o computador estar pronto (responde aos PING)  
+Parar de tentar se a resposta não for:
+Computador visado:  
+Ação:
+Reiniciar
+À espera
+Hibernar
+Arquivo(s) de origem:
+Pasta(s) de origem:
+Múltiplos correios, um arquivo por correio  
+Servidor FTP: 
+Modo Passivo
+Exportar itens do registro  
+Ligar computador
+Desligar computador
+Enviar arquivos no e-mail  
+Arquivos de transferência FTP  
+Upload arquivos do servidor HDS
+Nó raiz:
+Chave:
+Favor especificar chave do registro a exportar.  
+Chave não especificada
+Pasta remota:
+Selecione nome do computador ou entre como \\nomedocomputador
+Exportando ítens do registro...  
+Iniciando computador(es)  
+Segundos faltando antes de cancelar:  
+&Cancele Já
+Esperando
+Resposta
+Desligando...
+Desligamento iniciado a partir de 
+Especifique computadores visados separados por ,\nEspecifique . para computador local\nNota: à espera e hibernação não disponiveis em computadores remotos
+Novas tentativas de transferência:
+Atraso entre novas tentativas (seg):
+Erro de Transfêrencia.
+Junte arquivos ate o tamanho total atingir
+Teste de disco(s) rígido(s)  
+Rodar teste em todos os discos rigidos disponíveis  
+Dispositivo(s) a testar Drive(s):
+Incapaz de testar disco rígido  
+Teste de disco rígido falhou 
+Resultados do teste do Disco rígido:  
+Auto-testes suportados:  
+Detalhes do teste de Disco rígido  
+Encontrado novo setor realocado
+Erros achados em nova tentativa na nova tentativa de rotação(spin) 
+Encontrados novos eventos de relocação   
+Novos setores pendentes encontrados  
+Setores pendentes consertados  
+Novos setores fora-de-linha incorrigíveis achados 
+Copiar arquivos da origem para o destino  
+Atualize os dados no destino e mantenha arquivos que foram removidos na origem  
+Sincronização de caminho único  
+Atualize os dados no destino e remova arquivos do destino que foram removidos na origem   
+Sincronização de caminho duplo
+Atualize dados na origem e no destino mantendo os arquivos mais recentes em ambas as localidades
+Controle de Backup
+Opções de Sincronização
+Total de arquivos removidos do destino:  
+Total de dados atualizados no destino:  
+Total de dados copiados da origem:
+Processar apenas Arquivos 
+Igual aos filtros especificados  
+Configurar Filtro de Arquivos 
+Entre datas  
+e   
+Não mais antigo que
+Com tamanho
+Com atributos
+Arquivamento
+Só leitura
+Ocultos
+Sistema
+Crie e use arquivos CRC para armazenar valores de CRC   
+Incluindo Arquivos que Combinam  
+Excluindo Arquivos que Combinam
+Máscara do Arquivo:
+semanas
+meses
+anos
+\1  contém a lista completa de erros. 
+Total número de erros achados: 
+Configurar Pastas para Backup  
+Use checkboxes para selecionar pastas de ORIGEM ou entre com as pastas separadas por ; debaixo da lista de pastas   
+Selecione pasta de DESTINO ou entre o caminho debaixo da lista  
+Todos os arquivos de origem de todas as pastas de origem serão arquivadas se esta opção estiver DESAATIVADA.\nIsto pode causar problemas por causa da perda da informação do caminho.
+Usando sincronização de caminho único ou duplo com esta opção pode causar arquivamento incompleto. 
+Tem certeza que quer continuar?  
+Pausa
+Continuar
+Pausado - Aperte o botão de Continuar  
+Ignorar arquivos em uso (não compartilháveis)  
+Desativar mensagem de notificação de alerta

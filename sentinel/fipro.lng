@@ -1,0 +1,249 @@
+Operaatiot
+Projektit
+Ajoitus
+Projektin nimi:
+Uusi
+Poista
+Projektin tyyppi:
+Aja ulkoinen sovellus tai eräajotiedosto
+Komentorivi:
+Käynnistä piilossa näyttämättä ikkunaa
+Käynnistyspäivä:
+Luo uusi projekti
+Projekti
+Projektin nimi ei kelpaa. Ei saa olla tyhjä eikä saa olla jo olemassa oleva nimi. 
+Tallenna
+Palauta oletusprojektit
+Käynnistä
+Aika
+Voidaan ajaa myö- hemmin
+Kysy ennen ajoa
+Kiinteä aika
+Latauksen jälkeen
+Poista
+Lisää uusi projekti listaan
+Projektin tallennusvirhe.
+Haluatko ajaa tämän projektin?
+Projektin käynnistys
+Projektin käynnistysvirhe.
+Kommentti:
+Selaa
+Suoritettavat|*.exe;*.bat;*.com|Kaikki tiedostot|*.*
+Aktivoitu
+Haluatko tallentaa muokatut asetukset?
+Haluatko varmasti poistaa tämän projektin?\nProjekti poistetaan myös ajoituksesta.\nAjoitusvalintojen määrä tälle projektille: 
+Haluatko varmasti poistaa tämän projektin?
+Tiedostojen ja kansioiden siirto
+Lähde
+Kohde
+Asetukset
+Lisää
+Poikkeukset
+Määritä tiedostot jotka sovellus poissulkee:
+Hard Disk Sentinel ei huomioi tässä määritettyjä tiedostoja. Niitä ei kopioida eivätkä niihin vaikuta mitkään asetukset.
+Yleisasetukset
+Projektioperaatiot
+Projektivalinnat
+Näiden kansioiden sisällöt tallennetaan määritettyihin kohdekansioihin.
+Lähdekansio
+Kohdekansio
+Tiedostomaski
+Kansioiden asetukset
+Kohdekansio luodaan automaattisesti (jos tarpeen). On mahdollista käyttää seuraavia muuttujia kansion määritykseen:\n\n%USER% - käyttäjän nimi\n\n%COMPUTER% - tietokoneen nimi\n\n%IP% - tietokoneen IP-osoite\n\n%LAST=folder% - viimeksi luodun/muokatun (uusimman) kansion nimi määritetyssä kansiossa\n\nOn mahdollista määrittää kaksi tai useampia kohdekansioita erottaen ne merkillä ; (puolipisteellä).
+Valitse tai määritä ainakin yksi lähdekansio.
+Määritä kelvollinen kohdekansio.
+Muokkaa
+Laske kopioitavan datan määrä
+Todenna kopioitu data
+Kopioi vain uudet ja päivitetyt tiedostot
+Tyhjää kopioitujen tiedostojen arkistobitti
+Poista lähdetiedostot onnistuneen kopioinnin jälkeen
+Käytä nykyistä päiväystä kansion nimenä ja säilytä viimeiset
+valmista arkistoa
+(Edelliset arkistot poistetaan automaattisesti ennen varsinaisen tallennusoperaation alkua)
+Tila:
+Tiedosto:
+Datan määrä:
+Tallennetaan dataa
+Lasketaan datan määrää
+Kopioidaan tiedostoja
+Päivitetään tiedostoja
+Poistetaan edellistä arkistoa
+Todennetaan arkistoa
+ MB/s
+minuuttia jäljellä
+sekuntia jäljellä
+Kansio:
+Kohde:
+Tallenna alikansiot
+Valmistumisen jälkeen
+Lähetä/näytä raportti vain, jos ilmenee ongelma
+Lähetä/näytä raportti kaikissa tapauksissa
+Älä lähetä tai näytä raporttia
+Haluatko varmasti poistaa lähdetiedostot arkistoinnin jälkeen?\n(Tietoturvallisuuden maksimoimiseksi on suositettavaa käyttää tätä valintaa vain, jos arkistoit tiedostot kahtena tai useampana kopiona tai jos "Todenna kopioitu data" -valinta on aktivoitu.)
+Poistetaan lähdetiedostoja
+Valmis
+Projektin loppuunvienti onnistui
+Projektin tila
+Projektia suoritettaessa tapahtui virhe
+Tallennettujen tiedostojen määrä:
+Kulunut kokonaisaika:
+Virhelista
+Tallennetun datan kokonaismäärä:
+Älä näytä tallennuksen etenemisikkunaa
+Tehtävien loppuunvienti onnistui
+Peruutettu
+Ei tallennettavaa dataa
+Ei voi avata todennettavaa tiedostolistaa tästä kansiosta: 
+Ei voi poistaa: 
+S-postin asetukset ovat valmiit
+S-postin lähetysvirhe
+Ei voi avata tiedostoa: 
+Ei voi luoda tiedostoa: 
+Ei voi lukea tiedostoa: 
+Ei voi kirjoittaa tiedostoa (levy täysi tai kirjoituskelvoton): 
+Ei voi todentaa tiedostoa: 
+Puuttuu CRC-tarkistesumman arvo: 
+Virheellinen CRC-tarkistesumman arvo: 
+Aloita nyt
+Operaation prioriteetti
+Toimeton
+Normaali
+Maksimi
+Kohdekansion avausvirhe
+Lat. jälkeen 1/p.
+Toistuva
+Jälkeen: 
+Automaattinen
+Peruuta seuraavan vastaavan päivän osalta
+Mikä tahansa kiintolevy
+Seuraavaa projektia ei suoriteta, koska eräs toinen odottava projekti on passivoitu.
+Haluatko muokata asetuksia?
+Käsitellään raporttia
+Tiedostojen tallennusoperaatio aloitettu. Jos näet tämän viestin, tallennusoperaatio on pysäytetty.
+Tämä Hard Disk Sentinel PRO -versio on rekisteröimätön.\nRekisteröidyssä versiossa on mahdollista poistaa tiedusteluikkuna, jolloin varmistusprojektien aloitus sallitaan automaattisesti.\n\nKäy websivullamme osoitteessa \n\nhttp://www.hdsentinel.com\n\nsaadaksesi ohjeita sovelluksen rekisteröintiin.\n\nHaluatko avata websivumme nyt?
+Äänihälytys ongelman ilmetessä
+Älä aloita jos datan määrä on alle
+ktavua
+Anna hälytys ellei tarpeeksi dataa
+Tallenna myös lähdekansion nimi ja sisältö
+Polta CD/DVD sovelluksella NERO
+Pakkaa tiedostoja sovelluksella RAR
+Pakkaa tiedostoja sovelluksella 7-Zip
+Valitse sovellus
+Näytä komentorivi
+Kohdeasema:
+Media:
+Nopeus:
+Burn-proof
+Parametrit:
+Kohdetiedosto:
+Useita taltioita, taltion koko: 
+Tiedoston Nerocmd.exe sijainti ei määritetty.
+Tiedoston RAR.exe sijainti ei määritetty.
+Tiedoston 7Z.exe sijainti ei määritetty.
+Haluatko tehdä sen asetukset nyt?
+Vajaat asetukset
+(Paina CTRL+C kopioidaksesi ikkunan sisällön leikepöydälle).
+Hälytä virheestä
+Hälytys annetaan (pohjautuen tehtyihin viestiasetuksiin) jos ulkoinen sovellus on saanut tehtävän päätökseen muulla lopetuskoodilla kuin 0.
+Todenna kirjoitus
+Ulkoisen sovelluksen virhe
+Seuraava komentorivi tehty loppuun virheellisesti: 
+Sovelluksen virhekoodi: 
+Wake-on-LAN (LAN-herätys) -valinta pitää olla aktivoitu kohdetietokoneessa.
+Odota kunnes tietokone on valmis (PING onnistunut)
+Lakkaa yrittämästä ellei vastausta ajassa
+Kohdetietokone:
+Toiminto:
+Uudelleenaloitus
+Valmiustila
+Lepotila
+Lähdetiedosto(t)):
+Lähdekansio(t):
+Useita s-posteja, yksi tiedosto per s-posti
+FTP-palvelin:
+Passiivimoodi
+Vie rekisterikohteita
+Virta PÄÄLLE tietokoneeseen
+Virta POIS tietokoneesta
+Lähetä tiedostoja s-postissa
+Tiedostojen siirto FTP:llä
+Lähetä tiedostoja HDS-palvelimeen
+Juurisolmu:
+Avain:
+Määritä vietävä rekisteriavain.
+Avainta ei määritetty
+Etäkansio:
+Valitse tietokone tai anna vaihtoehtona \\tietokoneen nimi
+Viedään rekisterikohteita ...
+Käynnistetään tietokone(et)
+Jäljellä sekunteja ennen peruutusta:
+Peruuta nyt
+Odotetaan
+Vastaus
+Sammutetaan ...
+Sammutuksen alustanut
+Määritä kohdetietokoneet erotemerkkinä , (pilkku)\nMääritä merkillä . (piste) paikallinen tietokone\nHuomaa: valmius- ja lepotila eivät ole käytettävissä etätietokoneilla
+Siirtoyrityksiä:
+Viive yritysten välillä (s):
+Siirtovirhe.
+Kokoa tiedostoja kunnes yhteiskoko on 
+Testaa kiintolevy(t)
+Aja testi kaikilla käytettävissä olevilla kiintolevyillä
+Testattava(t) asema(t):
+Ei voi testata kiintolevyä
+Kiintolevyn testaus epäonnistui
+Kiintolevyn testitulokset:
+Tuetut itsetestit:
+Kiintolevyn testiyksityiskohdat
+uutta uudelleenvarattua sektoria löytyi
+uutta pyörintäyritysvirhettä löytyi
+uutta uudelleenvaraustapahtahtumaa löytyi
+uutta epävakaata sektoria löytyi
+epävakaata sektoria korjattu
+uutta offline-korjauskelvotonta sektoria löytyi
+Kopioi tiedostoja lähteestä kohteeseen
+Päivitä data kohteessa ja säilytä siellä lähteestä poistetut tiedostot
+Yksisuuntainen synkronointi
+Päivitä data kohteessa ja poista sieltä lähteestä poistetut tiedostot
+Kaksisuuntainen synkronointi
+Päivitä data sekä lähteessä että kohteessa säilyttäen tuoreimmat tiedostot molemmissa sijainneissa
+Varmistuksen ohjaus
+Synkronointivalinnat
+Yhteensä tiedostoja poistettu kohteesta:
+Yhteensä dataa päivitetty kohteessa:
+Yhteensä dataa kopioitu lähteeseen:
+Käsittele vain nämä tiedostot
+Suotimiltaan yhteensopivat
+Säädä tiedostosuotimia
+Päiväysväliltä
+ja
+Ei vanhempia kuin
+Kooltaan
+Attribuuteiltaan
+Arkisto
+Vain luku
+Piilo
+Järjestelmä
+Luo ja käytä CRC-tiedostoja tallennettaessa tiedostojen CRC-arvoja
+Sisällytetään yhtenevät tiedostot
+Poissuljetaan yhtenevät tiedostot
+Tiedostomaski:
+viikkoa
+kuukautta
+vuotta
+\1  sisältää täydellisen virhelistan.
+Havaittujen virheiden yhteismäärä:
+Säädä varmistettavat kansiot
+Käytä valintaruutuja valitessasi LÄHDEkansioita tai lisää kansiot alla olevaan kansiolistaan erotemerkkinä tämä ; 
+Valitse KOHDEkansio tai anna sen polku alla olevaan listaan
+Kaikki lähdetiedostot kaikista lähdekansioista arkistoidaan samaan kohteeseen, jos tämä valinta POISTETTU.\nTämä voi aiheuttaa ongelmia johtuen polkutietojen häviämisestä.
+Yksi- tai kaksisuuntaisen synkronoinnin käyttö tällä valinnalla voi aiheuttaa epätäydellisen arkistoinnin.
+Haluatko varmasti jatkaa?
+Tauko
+Jatka
+Tauotettu - Paina nappia Jatka
+Älä huomioi käytössä olevia tiedostoja (eivät jaettavissa)
+Passivoi varoitusilmoitusviesti
+
